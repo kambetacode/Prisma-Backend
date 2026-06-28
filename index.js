@@ -216,6 +216,18 @@ async function main() {
         fs.writeFileSync(path.join(publicDir, fileName), JSON.stringify(feed, null, 2));
         console.log(`Success! Feed written to public/${fileName}`);
     }
+
+    // Dummy feed.json so cron.yml's hardcoded "git add public/feed.json" doesn't fail
+    fs.writeFileSync(path.join(publicDir, 'feed.json'), JSON.stringify({ note: "Legacy file" }));
+    
+    // Stage all newly generated JSON files so they are included in the upcoming commit
+    const { execSync } = require('child_process');
+    try {
+        execSync('git add public/*.json');
+        console.log("Staged all json files in public/");
+    } catch (e) {
+        console.error("Failed to stage files via execSync:", e.message);
+    }
 }
 
 main()
