@@ -4,11 +4,16 @@ const Parser = require('rss-parser');
 const { Groq } = require('groq-sdk');
 require('dotenv').config();
 
-const parser = new Parser();
+const parser = new Parser({
+    customFields: {
+        item: [
+            ['media:content', 'mediaContent'],
+            ['enclosure', 'enclosure']
+        ]
+    }
+});
 const API_KEY = process.env.GROQ_API_KEY;
 
-// ... (skipping feeds definition, we just replace the imports and makeApiCall)
-// Wait, I have to replace lines 4 to 94 exactly. Let me match it correctly.
 const groq = new Groq({ apiKey: API_KEY });
 
 const CATEGORY_FEEDS = {
@@ -36,13 +41,23 @@ async function fetchNews(category) {
     const fetchPromises = sources.map(async (source) => {
         try {
             const feed = await parser.parseURL(source.url);
-            return feed.items.slice(0, 3).map(item => ({
-                source: source.name,
-                title: item.title,
-                link: item.link,
-                pubDate: item.pubDate,
-                content: item.contentSnippet || item.content || ""
-            }));
+            return feed.items.slice(0, 3).map(item => {
+                let imageUrl = "";
+                if (item.mediaContent && item.mediaContent.$ && item.mediaContent.$.url) {
+                    imageUrl = item.mediaContent.$.url;
+                } else if (item.enclosure && item.enclosure.url) {
+                    imageUrl = item.enclosure.url;
+                }
+                
+                return {
+                    source: source.name,
+                    title: item.title,
+                    link: item.link,
+                    pubDate: item.pubDate,
+                    content: item.contentSnippet || item.content || "",
+                    imageUrl: imageUrl
+                };
+            });
         } catch (error) {
             console.error(`Error fetching from ${source.name}:`, error.message);
             return [];
@@ -125,14 +140,25 @@ Here are the articles:\n${context}`;
     }
 }
 
-async function deepAnalyze(topicText, allArticles, language) {
+async function deepAnalyze(topicText, allArticles, language, category) {
     const context = allArticles.map(a => `Source: ${a.source}\nTitle: ${a.title}`).join('\n');
+    
+    // Find a valid image from articles related to this topic (or just use the first available one)
+    const articleWithImage = allArticles.find(a => a.imageUrl && a.imageUrl.length > 5);
+    const imageUrl = articleWithImage ? articleWithImage.imageUrl : "";
+    
+    const fallbackImage = `../assets/fallback_${category}.jpg`;
+
     const prompt = `You are a professional, objective AI news analyst. A user selected the following topic to read about: "${topicText}".
 Based on these current articles related to this topic:
 \n${context}\n
 Provide a "Deep Dive" analysis in raw HTML format (no markdown wrappers) that fits a modern, clean, professional dashboard aesthetic.
 Write the ENTIRE analysis and all text strictly in ${language}.
 DO NOT wrap the output in a generic <div>. Use exactly this HTML structure:
+<div class="hero-container">
+  <img src="${imageUrl}" onerror="this.src='${fallbackImage}'" class="hero-image" />
+  <div class="hero-caption">Write a short, engaging caption (1 sentence) for this news topic here.</div>
+</div>
 <h2>Bias Deconstruction</h2>
 <div class="bias-container">
   <div class="bias-box bias-box-left">
@@ -200,7 +226,7 @@ async function main() {
             for (const item of neutralItems) {
                 if (!item.deepDiveHtml) {
                     console.log(`Deep Dive for: ${item.headline.substring(0, 30)}...`);
-                    item.deepDiveHtml = await deepAnalyze(item.headline, rawArticles, lang.name);
+                    item.deepDiveHtml = await deepAnalyze(item.headline, rawArticles, lang.name, category);
                     // Delay 1.5 seconds to respect Groq limits
                     await sleep(1500); 
                 }
