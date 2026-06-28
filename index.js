@@ -224,8 +224,9 @@ async function main() {
             // 3. Deep Analyze each item in specific language
             for (const item of neutralItems) {
                 if (!item.deepDiveHtml) {
-                    console.log(`Deep Dive for: ${item.headline.substring(0, 30)}...`);
-                    item.deepDiveHtml = await deepAnalyze(item.headline, rawArticles, lang.name, category);
+                    const safeHeadline = item.headline || item.title || "Untitled";
+                    console.log(`Deep Dive for: ${safeHeadline.substring(0, 30)}...`);
+                    item.deepDiveHtml = await deepAnalyze(safeHeadline, rawArticles, lang.name, category);
                     // Delay 1.5 seconds to respect Groq limits
                     await sleep(1500); 
                 }
