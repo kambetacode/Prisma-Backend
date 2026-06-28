@@ -141,22 +141,21 @@ Here are the articles:\n${context}`;
 }
 
 async function deepAnalyze(topicText, allArticles, language, category) {
-    const context = allArticles.map(a => `Source: ${a.source}\nTitle: ${a.title}`).join('\n');
+    const context = allArticles.map(a => `Source: ${a.source}\nTitle: ${a.title}\nContent: ${a.content}\nImage URL: ${a.imageUrl || ""}`).join('\n---\n');
     
-    // Find a valid image from articles related to this topic (or just use the first available one)
-    const articleWithImage = allArticles.find(a => a.imageUrl && a.imageUrl.length > 5);
-    const imageUrl = articleWithImage ? articleWithImage.imageUrl : "";
-    
-    const fallbackImage = `../assets/fallback_${category}.jpg`;
+    const fallbackImage = `./assets/fallback_${category}.jpg`;
 
     const prompt = `You are a professional, objective AI news analyst. A user selected the following topic to read about: "${topicText}".
 Based on these current articles related to this topic:
 \n${context}\n
 Provide a "Deep Dive" analysis in raw HTML format (no markdown wrappers) that fits a modern, clean, professional dashboard aesthetic.
 Write the ENTIRE analysis and all text strictly in ${language}.
+
+IMPORTANT: Choose the "Image URL" from the specific article above that is most relevant to this topic. Use that EXACT URL for the <img src="...">. If no image URL is provided in the relevant article, use an empty string.
+
 DO NOT wrap the output in a generic <div>. Use exactly this HTML structure:
 <div class="hero-container">
-  <img src="${imageUrl}" onerror="this.src='${fallbackImage}'" class="hero-image" />
+  <img src="YOUR_SELECTED_IMAGE_URL" onerror="this.src='${fallbackImage}'" class="hero-image" />
   <div class="hero-caption">Write a short, engaging caption (1 sentence) for this news topic here.</div>
 </div>
 <h2>Bias Deconstruction</h2>
