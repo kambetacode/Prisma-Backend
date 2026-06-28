@@ -55,27 +55,42 @@ async function makeApiCall(prompt, retries = 3) {
     if (!API_KEY) throw new Error("GOOGLE_API_KEY is missing");
     const ai = new GoogleGenAI({ apiKey: API_KEY });
 
-    // En el backend usamos 1.5-flash porque tiene una cuota de 1500 peticiones diarias gratuitas
-    const modelName = 'gemini-1.5-flash';
+    const modelFallbacks = [
+        'gemini-2.0-flash-lite',
+        'gemini-1.5-flash-8b',
+        'gemini-1.5-flash',
+        'gemini-2.0-flash'
+    ];
 
-    for (let attempt = 1; attempt <= retries; attempt++) {
-        try {
-            const response = await ai.models.generateContent({
-                model: modelName,
-                contents: prompt,
-            });
-            return response.text;
-        } catch (error) {
-            const msg = error.message || "";
-            if (msg.includes('429') || msg.includes('503') || msg.toLowerCase().includes('quota')) {
-                if (attempt < retries) {
-                    await sleep(4000); // 4 seconds before retry to respect RPM
-                    continue;
+    let lastError = null;
+
+    for (const modelName of modelFallbacks) {
+        for (let attempt = 1; attempt <= retries; attempt++) {
+            try {
+                console.log(`Trying model: ${modelName} (attempt ${attempt})...`);
+                const response = await ai.models.generateContent({
+                    model: modelName,
+                    contents: prompt,
+                });
+                return response.text;
+            } catch (error) {
+                lastError = error;
+                const msg = error.message || "";
+                
+                if (msg.includes('404')) break; // Model not found, try next model
+                
+                if (msg.includes('429') || msg.includes('503') || msg.toLowerCase().includes('quota')) {
+                    if (attempt < retries) {
+                        await sleep(4000); // 4 seconds before retry
+                        continue;
+                    }
                 }
+                break; // Unknown error or exhausted retries for this model, try next
             }
-            throw error;
         }
     }
+    
+    throw lastError || new Error("All models failed.");
 }
 
 async function neutralizeNews(articles) {
