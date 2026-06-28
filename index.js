@@ -119,7 +119,19 @@ Here are the articles:\n${context}`;
         return JSON.parse(response);
     } catch (error) {
         console.error("Error neutralizing news:", error);
-        return [];
+        // FALLBACK: If AI fails (e.g. quota limit 0), just return the raw articles so the app doesn't break
+        return articles.map((a, i) => ({
+            id: `raw-${i}`,
+            headline: `[${a.source}] ${a.title}`,
+            summary: a.content ? a.content.substring(0, 150) + "..." : "No summary available.",
+            tags: [a.source.split(' ')[0]], // just grab "Right", "Left", or "Neutral"
+            deepDiveHtml: `
+                <h2>AI Analysis Unavailable</h2>
+                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>
+                <p><strong>Original Link:</strong> <a href="${a.link}" target="_blank">${a.title}</a></p>
+                <p>${a.content}</p>
+            `
+        }));
     }
 }
 
@@ -168,10 +180,12 @@ async function main() {
         
         // 3. Deep Analyze each item
         for (const item of neutralItems) {
-            console.log(`Deep Dive for: ${item.headline.substring(0, 30)}...`);
-            item.deepDiveHtml = await deepAnalyze(item.headline, rawArticles);
-            // Delay to avoid hitting rate limits too quickly
-            await sleep(3000); 
+            if (!item.deepDiveHtml) {
+                console.log(`Deep Dive for: ${item.headline.substring(0, 30)}...`);
+                item.deepDiveHtml = await deepAnalyze(item.headline, rawArticles);
+                // Delay to avoid hitting rate limits too quickly
+                await sleep(3000); 
+            }
         }
 
         feed.categories[category] = {
