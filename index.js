@@ -100,9 +100,9 @@ async function makeApiCall(prompt, retries = 3) {
 async function neutralizeNews(articles, language) {
     if (!articles || articles.length === 0) return [];
     
-    const context = articles.map(a => `Source: ${a.source}\nTitle: ${a.title}\nContent: ${a.content}`).join('\n---\n');
+    const context = articles.map((a, i) => `[ID: ${i}] Source: ${a.source}\nTitle: ${a.title}\nContent: ${a.content}`).join('\n---\n');
     const prompt = `You are an AI designed to prevent doomscrolling and clickbait.
-I am giving you a list of raw news articles from different sources (left, right, neutral).
+I am giving you a list of raw news articles from different sources (left, right, neutral). Each article has an [ID: X].
 Group them by topic. For each major topic, create ONE perfectly neutral, factual, and non-sensationalist headline.
 Write the headline, summary, and tags entirely in ${language}.
 Return a JSON array of objects with this exact format (no markdown code blocks, just raw JSON array):
@@ -111,7 +111,8 @@ Return a JSON array of objects with this exact format (no markdown code blocks, 
     "id": "topic-1",
     "headline": "Neutral factual headline",
     "summary": "2-sentence factual summary of what happened.",
-    "tags": ["#tag1", "#tag2"]
+    "tags": ["#tag1", "#tag2"],
+    "source_ids": [0, 2] // List the integer IDs of the articles that cover this topic
   }
 ]
 Do not return more than 5 topics.
@@ -226,7 +227,17 @@ async function main() {
                 if (!item.deepDiveHtml) {
                     const safeHeadline = item.headline || item.title || "Untitled";
                     console.log(`Deep Dive for: ${safeHeadline.substring(0, 30)}...`);
-                    item.deepDiveHtml = await deepAnalyze(safeHeadline, rawArticles, lang.name, category);
+                    
+                    // The "Light Backpack": Only pass articles that the AI indicated belong to this topic
+                    let relevantArticles = rawArticles;
+                    if (item.source_ids && Array.isArray(item.source_ids) && item.source_ids.length > 0) {
+                        relevantArticles = item.source_ids
+                            .map(id => rawArticles[id])
+                            .filter(a => a !== undefined);
+                    }
+                    if (relevantArticles.length === 0) relevantArticles = rawArticles;
+
+                    item.deepDiveHtml = await deepAnalyze(safeHeadline, relevantArticles, lang.name, category);
                     // Delay 1.5 seconds to respect Groq limits
                     await sleep(1500); 
                 }
