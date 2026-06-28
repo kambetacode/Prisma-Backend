@@ -56,10 +56,10 @@ async function makeApiCall(prompt, retries = 3) {
     const ai = new GoogleGenAI({ apiKey: API_KEY });
 
     const modelFallbacks = [
-        'gemini-2.0-flash-lite',
-        'gemini-1.5-flash-8b',
-        'gemini-1.5-flash',
-        'gemini-2.0-flash'
+        'gemini-2.5-flash-lite',
+        'gemini-2.5-flash',
+        'gemini-3-flash',
+        'gemini-3.0-flash'
     ];
 
     let lastError = null;
@@ -81,7 +81,7 @@ async function makeApiCall(prompt, retries = 3) {
                 
                 if (msg.includes('429') || msg.includes('503') || msg.toLowerCase().includes('quota')) {
                     if (attempt < retries) {
-                        await sleep(4000); // 4 seconds before retry
+                        await sleep(15000); // 15 seconds to respect the 5 RPM limit
                         continue;
                     }
                 }
@@ -183,8 +183,8 @@ async function main() {
             if (!item.deepDiveHtml) {
                 console.log(`Deep Dive for: ${item.headline.substring(0, 30)}...`);
                 item.deepDiveHtml = await deepAnalyze(item.headline, rawArticles);
-                // Delay to avoid hitting rate limits too quickly
-                await sleep(3000); 
+                // Delay 15 seconds to avoid hitting the 5 RPM rate limit
+                await sleep(15000); 
             }
         }
 
