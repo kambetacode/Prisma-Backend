@@ -130,12 +130,25 @@ async function deepAnalyze(topicText, allArticles) {
 Based on these current articles related to this topic:
 \n${context}\n
 Provide a "Deep Dive" analysis in raw HTML format (no markdown wrappers) that fits a modern, clean, professional dashboard aesthetic.
-Include:
-1. <h2>Bias Deconstruction</h2>
-   Briefly explain how left-leaning media vs right-leaning media are framing this differently.
-2. <h2>Reflection</h2>
-   A thoughtful, philosophical reflection on the broader implications of this topic and why it matters (or doesn't).
-Use <div>, <p>, and <strong>. Do NOT include any CSS classes or inline styles. Return ONLY the HTML tags for the content.`;
+DO NOT wrap the output in a generic <div>. Use exactly this HTML structure:
+<h2>Bias Deconstruction</h2>
+<div class="bias-container">
+  <div class="bias-box bias-box-left">
+    <div class="bias-label">Left-Leaning Media</div>
+    <div class="bias-content">Explain how they are framing this.</div>
+  </div>
+  <div class="bias-box bias-box-neutral">
+    <div class="bias-label">Neutral Media</div>
+    <div class="bias-content">Explain how they are framing this.</div>
+  </div>
+  <div class="bias-box bias-box-right">
+    <div class="bias-label">Right-Leaning Media</div>
+    <div class="bias-content">Explain how they are framing this.</div>
+  </div>
+</div>
+<h2>Reflection</h2>
+<p>A thoughtful, philosophical reflection on the broader implications of this topic and why it matters.</p>
+Return ONLY the HTML tags for the content. Do not include markdown code blocks.`;
 
     try {
         let response = await makeApiCall(prompt);
