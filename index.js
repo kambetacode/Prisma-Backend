@@ -190,6 +190,9 @@ async function main() {
 
     fs.writeFileSync(path.join(publicDir, 'feed.json'), JSON.stringify(feed, null, 2));
     console.log("Success! Feed written to public/feed.json");
-}
-
-main().catch(console.error);
+main()
+    .then(() => process.exit(0))
+    .catch(error => {
+        console.error(error);
+        process.exit(1);
+    });
