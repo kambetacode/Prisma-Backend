@@ -58,7 +58,7 @@ async function fetchNews(category) {
 async function makeApiCall(prompt, retries = 3) {
     if (!API_KEY) throw new Error("GROQ_API_KEY is missing");
 
-    const modelName = 'llama3-8b-8192';
+    const modelName = 'llama-3.1-8b-instant';
 
     for (let attempt = 1; attempt <= retries; attempt++) {
         try {
