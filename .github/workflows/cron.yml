@@ -26,7 +26,7 @@ jobs:
       - name: Generate Feed
         run: node index.js
         env:
-          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
 
       - name: Commit and push if changed
         run: |
