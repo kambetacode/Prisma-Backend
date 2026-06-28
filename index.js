@@ -1,11 +1,15 @@
 const fs = require('fs');
 const path = require('path');
 const Parser = require('rss-parser');
-const { GoogleGenAI } = require('@google/genai');
+const { Groq } = require('groq-sdk');
 require('dotenv').config();
 
 const parser = new Parser();
-const API_KEY = process.env.GOOGLE_API_KEY;
+const API_KEY = process.env.GROQ_API_KEY;
+
+// ... (skipping feeds definition, we just replace the imports and makeApiCall)
+// Wait, I have to replace lines 4 to 94 exactly. Let me match it correctly.
+const groq = new Groq({ apiKey: API_KEY });
 
 const CATEGORY_FEEDS = {
     'GLOBAL_MACRO': [
@@ -52,45 +56,30 @@ async function fetchNews(category) {
 }
 
 async function makeApiCall(prompt, retries = 3) {
-    if (!API_KEY) throw new Error("GOOGLE_API_KEY is missing");
-    const ai = new GoogleGenAI({ apiKey: API_KEY });
+    if (!API_KEY) throw new Error("GROQ_API_KEY is missing");
 
-    const modelFallbacks = [
-        'gemini-2.5-flash-lite',
-        'gemini-2.5-flash',
-        'gemini-3-flash',
-        'gemini-3.0-flash'
-    ];
+    const modelName = 'llama3-8b-8192';
 
-    let lastError = null;
-
-    for (const modelName of modelFallbacks) {
-        for (let attempt = 1; attempt <= retries; attempt++) {
-            try {
-                console.log(`Trying model: ${modelName} (attempt ${attempt})...`);
-                const response = await ai.models.generateContent({
-                    model: modelName,
-                    contents: prompt,
-                });
-                return response.text;
-            } catch (error) {
-                lastError = error;
-                const msg = error.message || "";
-                
-                if (msg.includes('404')) break; // Model not found, try next model
-                
-                if (msg.includes('429') || msg.includes('503') || msg.toLowerCase().includes('quota')) {
-                    if (attempt < retries) {
-                        await sleep(15000); // 15 seconds to respect the 5 RPM limit
-                        continue;
-                    }
+    for (let attempt = 1; attempt <= retries; attempt++) {
+        try {
+            console.log(`Trying Groq model: ${modelName} (attempt ${attempt})...`);
+            const response = await groq.chat.completions.create({
+                messages: [{ role: 'user', content: prompt }],
+                model: modelName,
+            });
+            return response.choices[0].message.content;
+        } catch (error) {
+            const msg = error.message || "";
+            if (msg.includes('429') || msg.includes('503')) {
+                if (attempt < retries) {
+                    await sleep(3000); // 3 seconds before retry
+                    continue;
                 }
-                break; // Unknown error or exhausted retries for this model, try next
             }
+            throw error;
         }
     }
-    
-    throw lastError || new Error("All models failed.");
+    throw new Error("All Groq attempts failed.");
 }
 
 async function neutralizeNews(articles) {
@@ -183,8 +172,8 @@ async function main() {
             if (!item.deepDiveHtml) {
                 console.log(`Deep Dive for: ${item.headline.substring(0, 30)}...`);
                 item.deepDiveHtml = await deepAnalyze(item.headline, rawArticles);
-                // Delay 15 seconds to avoid hitting the 5 RPM rate limit
-                await sleep(15000); 
+                // Delay 1.5 seconds to respect Groq limits
+                await sleep(1500); 
             }
         }
 
