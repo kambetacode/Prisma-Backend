@@ -82,13 +82,14 @@ async function makeApiCall(prompt, retries = 3) {
     throw new Error("All Groq attempts failed.");
 }
 
-async function neutralizeNews(articles) {
+async function neutralizeNews(articles, language) {
     if (!articles || articles.length === 0) return [];
     
     const context = articles.map(a => `Source: ${a.source}\nTitle: ${a.title}\nContent: ${a.content}`).join('\n---\n');
     const prompt = `You are an AI designed to prevent doomscrolling and clickbait.
 I am giving you a list of raw news articles from different sources (left, right, neutral).
 Group them by topic. For each major topic, create ONE perfectly neutral, factual, and non-sensationalist headline.
+Write the headline, summary, and tags entirely in ${language}.
 Return a JSON array of objects with this exact format (no markdown code blocks, just raw JSON array):
 [
   {
@@ -124,12 +125,13 @@ Here are the articles:\n${context}`;
     }
 }
 
-async function deepAnalyze(topicText, allArticles) {
+async function deepAnalyze(topicText, allArticles, language) {
     const context = allArticles.map(a => `Source: ${a.source}\nTitle: ${a.title}`).join('\n');
     const prompt = `You are a professional, objective AI news analyst. A user selected the following topic to read about: "${topicText}".
 Based on these current articles related to this topic:
 \n${context}\n
 Provide a "Deep Dive" analysis in raw HTML format (no markdown wrappers) that fits a modern, clean, professional dashboard aesthetic.
+Write the ENTIRE analysis and all text strictly in ${language}.
 DO NOT wrap the output in a generic <div>. Use exactly this HTML structure:
 <h2>Bias Deconstruction</h2>
 <div class="bias-container">
@@ -166,43 +168,54 @@ Return ONLY the HTML tags for the content. Do not include markdown code blocks.`
 
 async function main() {
     console.log("Starting Prisma Backend Generation...");
-    const feed = {
-        last_updated: new Date().toISOString(),
-        categories: {}
-    };
-
-    for (const category of Object.keys(CATEGORY_FEEDS)) {
-        console.log(`Processing category: ${category}...`);
-        
-        // 1. Fetch News
-        const rawArticles = await fetchNews(category);
-        
-        // 2. Neutralize
-        const neutralItems = await neutralizeNews(rawArticles);
-        
-        // 3. Deep Analyze each item
-        for (const item of neutralItems) {
-            if (!item.deepDiveHtml) {
-                console.log(`Deep Dive for: ${item.headline.substring(0, 30)}...`);
-                item.deepDiveHtml = await deepAnalyze(item.headline, rawArticles);
-                // Delay 1.5 seconds to respect Groq limits
-                await sleep(1500); 
-            }
-        }
-
-        feed.categories[category] = {
-            items: neutralItems,
-            rawCount: rawArticles.length
-        };
-    }
+    
+    const languages = [
+        { code: 'en', name: 'English' },
+        { code: 'es', name: 'Spanish' }
+    ];
 
     const publicDir = path.join(__dirname, 'public');
     if (!fs.existsSync(publicDir)) {
         fs.mkdirSync(publicDir);
     }
 
-    fs.writeFileSync(path.join(publicDir, 'feed.json'), JSON.stringify(feed, null, 2));
-    console.log("Success! Feed written to public/feed.json");
+    for (const lang of languages) {
+        console.log(`\n=== Generating feed for: ${lang.name} ===\n`);
+        const feed = {
+            last_updated: new Date().toISOString(),
+            language: lang.code,
+            categories: {}
+        };
+
+        for (const category of Object.keys(CATEGORY_FEEDS)) {
+            console.log(`Processing category: ${category} (${lang.name})...`);
+            
+            // 1. Fetch News (same raw articles)
+            const rawArticles = await fetchNews(category);
+            
+            // 2. Neutralize in specific language
+            const neutralItems = await neutralizeNews(rawArticles, lang.name);
+            
+            // 3. Deep Analyze each item in specific language
+            for (const item of neutralItems) {
+                if (!item.deepDiveHtml) {
+                    console.log(`Deep Dive for: ${item.headline.substring(0, 30)}...`);
+                    item.deepDiveHtml = await deepAnalyze(item.headline, rawArticles, lang.name);
+                    // Delay 1.5 seconds to respect Groq limits
+                    await sleep(1500); 
+                }
+            }
+
+            feed.categories[category] = {
+                items: neutralItems,
+                rawCount: rawArticles.length
+            };
+        }
+
+        const fileName = `feed_${lang.code}.json`;
+        fs.writeFileSync(path.join(publicDir, fileName), JSON.stringify(feed, null, 2));
+        console.log(`Success! Feed written to public/${fileName}`);
+    }
 }
 
 main()
