@@ -1,89 +1,65 @@
 {
-  "last_updated": "2026-06-29T08:59:40.042Z",
+  "last_updated": "2026-06-29T14:03:49.354Z",
   "language": "en",
   "categories": {
     "GLOBAL_MACRO": {
       "items": [
         {
-          "id": "raw-0",
-          "headline": "[Left (NYT)] U.S. Indicates a Deal to Suspend Attacks in Strait but Iran Hasn’t Confirmed",
-          "summary": "A U.S. official said the U.S. and Iran agreed to halt attacks in the Strait of Hormuz and allow vessels to move freely. Hostilities in recent days hav...",
+          "id": "topic-geopolitics",
+          "headline": "US and Iran Agree to Ceasefire, Set for New Talks",
+          "summary": "The US and Iran have agreed to a ceasefire after a series of strikes over the weekend, and will hold new talks in Qatar. Iran did not confirm the talks but said consultations with Qatar were continuing.",
           "tags": [
-            "Left"
+            "#geopolitics",
+            "#us-iran"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz\" target=\"_blank\">U.S. Indicates a Deal to Suspend Attacks in Strait but Iran Hasn’t Confirmed</a></p>\n                <p>A U.S. official said the U.S. and Iran agreed to halt attacks in the Strait of Hormuz and allow vessels to move freely. Hostilities in recent days have threatened a two-week-old cease-fire.</p>\n            "
+          "source_ids": [
+            2,
+            1
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/06/29/multimedia/29mideast-live-header-zwqg/29mideast-live-header-zwqg-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">The US and Iran agree to a ceasefire, paving the way for new diplomatic talks in Qatar.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">The New York Times is framing the recent exchange of strikes between the US and Iran as a precursor to new talks, highlighting President Trump's statement on the discussions set for Tuesday. This framing implies a sense of optimism and a willingness to engage in diplomacy, which is typical of left-leaning media's narrative around foreign policy. Additionally, the article does not explicitly criticize Iran's actions, instead focusing on the upcoming talks, which may be seen as a biased representation of the situation.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">The BBC is presenting a more factual account of the situation, reporting on the exchange of strikes and the alleged ceasefire agreement without explicitly taking a stance or promoting a particular narrative. This framing is typical of neutral media outlets, which strive to provide balanced and objective reporting. The BBC's headline, 'US says it has agreed to \"stand down\" after exchange of strikes with Iran', reflects this neutral tone.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Since there is no available right-leaning media article on this topic, there is no analysis.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The recent escalation of tensions between the US and Iran serves as a poignant reminder of the complexities and unpredictability of international relations. As the two nations agree to a ceasefire and begin new talks, the world is left pondering the broader implications of this development. Will these talks lead to a lasting resolution, or will they merely be a fleeting reprieve from the ongoing conflict? The answers to these questions will likely depend on a multitude of factors, including the willingness of both nations to compromise and the ability of their leaders to navigate the treacherous landscape of global politics. Ultimately, the outcome of these talks will have far-reaching consequences for the Middle East, the US, and the international community as a whole, making this a story that demands careful attention and consideration.</p>"
         },
         {
-          "id": "raw-1",
-          "headline": "[Neutral (BBC)] Pakistani strikes kill dozens in Afghanistan",
-          "summary": "The Taliban government says civilians were killed, while Pakistan maintains they targeted militants....",
+          "id": "topic-strait-of-hormuz",
+          "headline": "Strait of Hormuz Continues to Pose Regional Tensions",
+          "summary": "The Strait of Hormuz has become a focal point of regional tensions, with Iran maintaining control as key leverage in negotiations with the US. This has led to a 'new normal' in the area, causing chaos in shipping routes.",
           "tags": [
-            "Neutral"
+            "#strait-of-hormuz",
+            "#regional-tensions"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Pakistani strikes kill dozens in Afghanistan</a></p>\n                <p>The Taliban government says civilians were killed, while Pakistan maintains they targeted militants.</p>\n            "
+          "source_ids": [
+            7,
+            0
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/iran-ships.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">The Strait of Hormuz continues to pose significant regional tensions, threatening global oil supplies and international shipping routes.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">There is no article provided for a neutral source, so the relevant information is not available.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">The article from Fox News frames the Strait of Hormuz chaos as a 'new normal' due to escalating US and Iranian strikes, suggesting a sense of inevitability and heightened tension. The article emphasizes the disruption to shipping routes, implying potential economic consequences and emphasizing the chaos caused by conflicting routing directives.</div>\n  </div>\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">There is no article provided for a left-leaning source, so the relevant information is not available.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The Strait of Hormuz remains a pivotal and volatile issue, posing significant regional tensions that threaten global stability and energy security. This situation serves as a stark reminder of the interconnectedness of global events, where tensions in a single region can have far-reaching consequences. The escalating US and Iranian strikes, alongside the resulting chaos in shipping routes, highlight the fragility of international relations and the potential for unforeseen disruptions to global supply chains.</p>"
         },
         {
-          "id": "raw-2",
-          "headline": "[Neutral (BBC)] Mum of newborn rescued from Venezuela rubble says baby motivated her to stay alive",
-          "summary": "The \"miracle\" rescue of 18-day-old baby Juan David is a symbol of hope in Venezuela after the devastating earthquakes....",
+          "id": "topic-world-events",
+          "headline": "Multiple Incidents Caused Death and Destruction Globally",
+          "summary": "There were several incidents around the world that resulted in loss of life and destruction, including a shooting in Germany, a plane crash in France, and earthquakes in Venezuela. In Venezuela, rescue efforts were underway to aid those affected by the disasters.",
           "tags": [
-            "Neutral"
+            "#world-events",
+            "#tragedy"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/clyw3rkj2p7o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Mum of newborn rescued from Venezuela rubble says baby motivated her to stay alive</a></p>\n                <p>The \"miracle\" rescue of 18-day-old baby Juan David is a symbol of hope in Venezuela after the devastating earthquakes.</p>\n            "
+          "source_ids": [
+            0,
+            4,
+            6,
+            5
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/france-forensic-technicians.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Multiple incidents of death and destruction have been reported globally, prompting concern for public safety and humanitarian responses.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\"></div>\n    <div class=\"bias-content\"></div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">The neutral media sources, BBC, presented factual information on the incidents without adding sensational or emotive language, focusing on reporting the details of the events without expressing a clear opinion or bias.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">The right-leaning media source, Fox, presented a focus on the US military's response to the Venezuela earthquakes, downplaying the immediate human toll of the natural disaster and instead highlighting the US military's relief efforts, suggesting an attempt to emphasize a patriotic narrative.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The recent string of incidents around the world serve as a poignant reminder of the fragility of human life and the importance of international cooperation in the face of disaster. Each event, whether a tragic shooting or a devastating earthquake, presents an opportunity to reassess our collective preparedness and empathy, raising fundamental questions about the role of governments, international aid, and community resilience in safeguarding human well-being.</p>"
         },
         {
-          "id": "raw-3",
-          "headline": "[Left (NYT)] Rescuers in ‘Critical Hours’ as Window to Find Survivors Closes",
-          "summary": "More than three days after twin earthquakes devastated the Venezuelan coast, the rescue effort faced chaos and delays as the chances of finding surviv...",
+          "id": "topic-us-policy",
+          "headline": "Trump Administration Makes Deals and Faces Criticism",
+          "summary": "The Trump administration has entered into agreements, such as the US-Kazakhstan mining deal, which has drawn criticism due to potential financial gains for some of the president's sons.",
           "tags": [
-            "Left"
+            "#us-policy",
+            "#trump-administration"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake\" target=\"_blank\">Rescuers in ‘Critical Hours’ as Window to Find Survivors Closes</a></p>\n                <p>More than three days after twin earthquakes devastated the Venezuelan coast, the rescue effort faced chaos and delays as the chances of finding survivors diminished.</p>\n            "
-        },
-        {
-          "id": "raw-4",
-          "headline": "[Neutral (BBC)] US says it has agreed to 'stand down' after exchange of strikes with Iran",
-          "summary": "A series of strikes over the weekend saw the US and Iran accuse each other of violating the ceasefire agreement....",
-          "tags": [
-            "Neutral"
+          "source_ids": [
+            8
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">US says it has agreed to 'stand down' after exchange of strikes with Iran</a></p>\n                <p>A series of strikes over the weekend saw the US and Iran accuse each other of violating the ceasefire agreement.</p>\n            "
-        },
-        {
-          "id": "raw-5",
-          "headline": "[Right (Fox)] Shipping giant warns Strait of Hormuz chaos is 'new normal' as Tehran shifts 4M barrels",
-          "summary": "Hapag-Lloyd warns of a \"new normal\" in the Strait of Hormuz as U.S. and Iranian strikes escalate and conflicting routing directives create chaos....",
-          "tags": [
-            "Right"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/world/shipping-giant-warns-strait-hormuz-chaos-new-normal-tehran-shifts-4m-barrels\" target=\"_blank\">Shipping giant warns Strait of Hormuz chaos is 'new normal' as Tehran shifts 4M barrels</a></p>\n                <p>Hapag-Lloyd warns of a \"new normal\" in the Strait of Hormuz as U.S. and Iranian strikes escalate and conflicting routing directives create chaos.</p>\n            "
-        },
-        {
-          "id": "raw-6",
-          "headline": "[Right (Fox)] French investigators probe fatal skydiving plane crash that killed pilot and 10 parachutists",
-          "summary": "A skydiving plane crash in northeastern France killed all 11 people aboard after the Pilatus PC-6 suffered a malfunction shortly after takeoff....",
-          "tags": [
-            "Right"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/world/french-investigators-probe-fatal-skydiving-plane-crash-killed-pilot-10-parachutists\" target=\"_blank\">French investigators probe fatal skydiving plane crash that killed pilot and 10 parachutists</a></p>\n                <p>A skydiving plane crash in northeastern France killed all 11 people aboard after the Pilatus PC-6 suffered a malfunction shortly after takeoff.</p>\n            "
-        },
-        {
-          "id": "raw-7",
-          "headline": "[Right (Fox)] Iran targets US with psychological warfare campaign to manipulate Americans, embarrass Trump: experts",
-          "summary": "Iran's decapitated leadership has moved its influence operations to X, using covert digital proxies to undermine Trump's nuclear deal, analysts say....",
-          "tags": [
-            "Right"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/world/iran-targets-us-psychological-warfare-campaign-manipulate-americans-embarrass-trump-experts\" target=\"_blank\">Iran targets US with psychological warfare campaign to manipulate Americans, embarrass Trump: experts</a></p>\n                <p>Iran's decapitated leadership has moved its influence operations to X, using covert digital proxies to undermine Trump's nuclear deal, analysts say.</p>\n            "
-        },
-        {
-          "id": "raw-8",
-          "headline": "[Left (NYT)] Trump Cut a Billion-Dollar Mining Deal. His Sons Stand to Profit.",
-          "summary": "An agreement between the U.S. and Kazakhstan has given a group of American investors with ties to the president and the commerce secretary access to o...",
-          "tags": [
-            "Left"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/06/28/world/europe/trump-lutnick-sons-kazakhstan.html\" target=\"_blank\">Trump Cut a Billion-Dollar Mining Deal. His Sons Stand to Profit.</a></p>\n                <p>An agreement between the U.S. and Kazakhstan has given a group of American investors with ties to the president and the commerce secretary access to one of the world’s largest untapped reserves of tungsten.</p>\n            "
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/06/17/00int-kazakhstan-trump-video-94217-cover/00int-kazakhstan-trump-video-94217-cover-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">The Trump administration secured a billion-dollar deal with Kazakhstan, but critics accuse his sons of standing to profit, raising concerns about the president's business ties.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">The New York Times (NYT) article presents the Trump administration's deal with Kazakhstan as potentially benefiting President Trump's sons financially, raising concerns about conflict of interest and the president's business ties. The article's framing suggests that the deal may have been motivated by the president's personal interests, rather than purely economic considerations.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">A neutral analysis might view the Trump administration's deal with Kazakhstan as a legitimate business opportunity that could bring economic benefits to the United States. However, critics would still argue that the administration's actions create the appearance of impropriety due to the president's family ties to the deal. A more balanced perspective would acknowledge both the potential benefits and drawbacks of the deal.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Right-leaning outlets might portray the deal as a major diplomatic win for the Trump administration, with some arguing that the benefits to the United States outweigh potential concerns about the president's family ties. These outlets might downplay or dismiss the criticism surrounding the deal, focusing instead on its potential economic benefits and the administration's foreign policy accomplishments.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The Trump administration's deal with Kazakhstan raises broader questions about the intersection of politics and business. As the government negotiates trade deals and foreign policy agreements, can politicians remain impartial and prioritize national interests, or do their personal ties and business relationships inevitably influence decision-making? This topic highlights the challenges of balancing economic benefits with transparency and accountability in government.</p>"
         }
       ],
       "rawCount": 9
@@ -91,165 +67,132 @@
     "TECH_FRONTIER": {
       "items": [
         {
-          "id": "Topic-Technology",
-          "headline": "Microsoft warns users about passwordless phishing scam",
-          "summary": "The FBI warns about a phishing scam targeting Microsoft 365 accounts that can bypass multifactor authentication using device code tricks, and tech firms are also facing issues with price rises due to AI and supply chain concerns.",
+          "id": "raw-0",
+          "headline": "[Neutral (BBC Tech)] Ford rehires human engineers after AI fails to match quality checks",
+          "summary": "The car-maker found AI quality checks failed to match the skill of veteran technicians....",
           "tags": [
-            "#Phishing",
-            "#Microsoft",
-            "#AI"
+            "Neutral"
+          ],
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cgrkd41n2v9o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Ford rehires human engineers after AI fails to match quality checks</a></p>\n                <p>The car-maker found AI quality checks failed to match the skill of veteran technicians.</p>\n            "
+        },
+        {
+          "id": "raw-1",
+          "headline": "[Neutral (BBC Tech)] Tech firms are blaming AI for mega device and console price rises",
+          "summary": "Xbox consoles, Nintendo's new Switch 2 and Valve's Steam Deck are just some of the gadgets seeing price hikes in recent months....",
+          "tags": [
+            "Neutral"
+          ],
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cd95k584pzqo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Tech firms are blaming AI for mega device and console price rises</a></p>\n                <p>Xbox consoles, Nintendo's new Switch 2 and Valve's Steam Deck are just some of the gadgets seeing price hikes in recent months.</p>\n            "
+        },
+        {
+          "id": "raw-2",
+          "headline": "[Neutral (BBC Tech)] GTA 6 will launch as download only - does that mean the disc is dead?",
+          "summary": "Music and films are now largely digital-only - does the lack of a disc for GTA 6 mean gaming is going the same way?...",
+          "tags": [
+            "Neutral"
+          ],
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/c6210nj8gpro?at_medium=RSS&at_campaign=rss\" target=\"_blank\">GTA 6 will launch as download only - does that mean the disc is dead?</a></p>\n                <p>Music and films are now largely digital-only - does the lack of a disc for GTA 6 mean gaming is going the same way?</p>\n            "
+        },
+        {
+          "id": "raw-3",
+          "headline": "[Left (NYT Tech)] Mark Zuckerberg Urges Meta to Explore Working With Polymarket and Kalshi",
+          "summary": "Mr. Zuckerberg’s plans for Arena, a prediction markets app that Meta is building, also include appealing to 18- to 34-year-old users....",
+          "tags": [
+            "Left"
+          ],
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/06/26/technology/zuckerberg-meta-polymarket-kalshi.html\" target=\"_blank\">Mark Zuckerberg Urges Meta to Explore Working With Polymarket and Kalshi</a></p>\n                <p>Mr. Zuckerberg’s plans for Arena, a prediction markets app that Meta is building, also include appealing to 18- to 34-year-old users.</p>\n            "
+        },
+        {
+          "id": "raw-4",
+          "headline": "[Left (NYT Tech)] How a Niche Technology Became a Choke Point for A.I.",
+          "summary": "Advanced chip packaging, which boosts computing power for artificial intelligence, has made the United States more reliant on Taiwan than ever....",
+          "tags": [
+            "Left"
+          ],
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/06/26/technology/ai-advanced-chip-packaging-tsmc.html\" target=\"_blank\">How a Niche Technology Became a Choke Point for A.I.</a></p>\n                <p>Advanced chip packaging, which boosts computing power for artificial intelligence, has made the United States more reliant on Taiwan than ever.</p>\n            "
+        },
+        {
+          "id": "raw-5",
+          "headline": "[Left (NYT Tech)] Intel’s Chip Business Shows Signs of Life After Years of Struggle",
+          "summary": "It is the centerpiece of President Trump’s drive to make more chips in the United States, but the company still has a long way to go before it can be ...",
+          "tags": [
+            "Left"
+          ],
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/06/26/technology/intel-turnaround.html\" target=\"_blank\">Intel’s Chip Business Shows Signs of Life After Years of Struggle</a></p>\n                <p>It is the centerpiece of President Trump’s drive to make more chips in the United States, but the company still has a long way to go before it can be called a complete turnaround.</p>\n            "
+        }
+      ],
+      "rawCount": 6
+    },
+    "MARKETS_ECONOMY": {
+      "items": [
+        {
+          "id": "topic-1",
+          "headline": "Comcast to Separate NBCUniversal and Broadband Operations",
+          "summary": "Comcast plans to spin off its media division, including NBC News and Universal Pictures, from its core broadband operations.",
+          "tags": [
+            "#Comcast",
+            "#NBCUniversal"
           ],
           "source_ids": [
             0,
             2
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/laptop-typing-photo-1.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Microsoft warns users about an emerging phishing scam that can bypass security measures on Microsoft 365 accounts.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\"></div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">The BBC Tech report is neutral as it only provides factual information about tech firms blaming AI for price hikes and does not relate directly to the passwordless phishing scam targeting Microsoft 365 accounts. It does not attempt to sway opinions or create a narrative around the issue.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">The Fox News Tech report is right-leaning as it highlights the vulnerability of Microsoft 365 accounts to a sophisticated phishing scam, potentially evoking a sense of urgency and alarm in conservative users who may be more likely to adopt a 'better safe than sorry' approach when it comes to cybersecurity.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The passwordless phishing scam targeting Microsoft 365 accounts highlights the ongoing cat-and-mouse game between cybersecurity experts and sophisticated hackers. As technology advances, the tools available to perpetrators also become increasingly sophisticated, making it essential for users to stay vigilant and adopt best practices for securing their digital identities. The incident underscores the importance of maintaining a culture of cybersecurity awareness and education, not just among users, but also among businesses and organizations that provide security products and services.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/06/29/multimedia/29biz-COMCASTNBCUNIVERSAL-hcbp/29biz-COMCASTNBCUNIVERSAL-hcbp-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Comcast plans to separate its NBCUniversal media division from its core broadband operations, marking a significant shift in the media industry.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">The New York Times frames the decision as a trend in the media industry, highlighting Comcast's move to separate cable and media operations. This suggests a left-leaning perspective, as the article implies that this separation is a necessary step towards innovation and competition.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">A neutral source might frame the decision as a business move, highlighting Comcast's plan to improve its financial performance by separating its media division. This neutral perspective would focus on the financial implications and avoid making value judgments about the industry.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">A right-leaning source might frame the decision as a necessary step towards reducing government regulation in the media industry. This perspective would emphasize the benefits of deregulation and suggest that Comcast's decision is a response to over-reach by government agencies.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>This decision marks a significant shift in the media industry, with Comcast following a trend of separating cable and media operations. As the industry continues to evolve, it's essential to consider the broader implications of this decision, including its impact on competition, innovation, and consumer choice. By understanding the complex relationships between media companies, regulators, and consumers, we can better appreciate the nuances of this move and its potential consequences for the industry as a whole.</p>"
         },
         {
-          "id": "Topic-Technology-2",
-          "headline": "Tech giants face challenges with AI, supply chain, and prices",
-          "summary": "Tech firms are blaming AI for price hikes in gadgets such as Xbox consoles, Nintendo's Switch 2, Valve's Steam Deck, and Intel's chip business is showing signs of recovery after years of struggle.",
+          "id": "topic-2",
+          "headline": "Companies Emphasize Digital Transformation and Job Reductions",
+          "summary": "Several companies, including British American Tobacco and Ford, have announced plans to cut jobs and focus on digital transformation.",
           "tags": [
-            "#Tech",
-            "#AI",
-            "#SupplyChain"
-          ],
-          "source_ids": [
-            2,
-            5,
-            8
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/06/26/multimedia/26biz-meta-polymark-1-ztlv/26biz-meta-polymark-1-ztlv-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">The intersection of AI, supply chain, and prices has become a significant challenge for tech giants in recent months.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">The NYT Tech articles present a critical view of the tech giants' struggles, highlighting their potential missteps and failures. Mark Zuckerberg's plans for Arena, a prediction markets app, are framed as a bold move to appeal to a younger demographic. Meanwhile, the article on Intel's chip business presents a cautiously optimistic tone, emphasizing the long road ahead for the company's turnaround.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">The BBC Tech article takes a neutral stance, simply reporting on the price hikes of various tech devices without making any value judgments. The article presents the facts and allows the audience to draw their own conclusions.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">There is no right-leaning media article provided for analysis.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The tech giants' struggles in AI, supply chain, and prices highlight the increasingly complex landscape of the tech industry. As AI and machine learning becomes more pervasive, the need for reliable and efficient supply chains becomes more pressing. Meanwhile, the pressure to keep prices low while maintaining profitability is a delicate balancing act. The industry's inability to meet these challenges poses significant risks to the global economy and has far-reaching implications for businesses, consumers, and politicians. By examining the intricacies of this issue, we can gain a deeper understanding of the tech industry's vulnerabilities and the potential consequences of their failures.</p>"
-        },
-        {
-          "id": "Topic-Entertainment-Gaming",
-          "headline": "Gaming industry shifts to digital-only with GTA 6",
-          "summary": "GTA 6 will launch as a download-only game, and the trend of digital-only music and films is raising questions about the future of physical discs in gaming.",
-          "tags": [
-            "#Gaming",
-            "#DigitalMedia",
-            "#Entertainment"
-          ],
-          "source_ids": [
-            4
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/1024/branded_news/1448/a9/2d/bc/c3.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">The shift to digital-only could revolutionize the gaming industry, but what does it mean for fans who prefer physical copies?</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media (No notable sources)</div>\n    <div class=\"bias-content\">This category was unrepresented in the given article, therefore, no framing bias exists from a left-leaning perspective.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media (BBC Tech)</div>\n    <div class=\"bias-content\">BBC Tech provides a neutral framing by discussing the industry shift towards digital-only and how it relates to music and films. The article aims to inform and educate readers about the change without taking a clear stance or making assumptions.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media (No notable sources)</div>\n    <div class=\"bias-content\">Similar to the left-leaning category, no notable sources for right-leaning media could be found in the provided article. Therefore, no framing bias from a right-leaning perspective is identified.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>As the trend shifts towards digital-only, gamers will have to adapt to a different way of consuming content. This shift could have long-lasting implications for the industry, potentially leading to reduced environmental impact, increased convenience, and innovative marketing strategies. However, fans of physical copies may feel nostalgia for the tactile experience of holding a game in their hands. The balance between technological progress and consumer preference is an interesting aspect of this industry shift."
-        },
-        {
-          "id": "Topic-Geothermal-Energy",
-          "headline": "Geothermal energy becomes a viable option for renewable power",
-          "summary": "Start-ups are exploring new approaches to geothermal energy, but the economics of this abundant but expensive energy source remain uncertain.",
-          "tags": [
-            "#Energy",
-            "#Geothermal",
-            "#Renewables"
-          ],
-          "source_ids": [
-            7
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/640/cpsprodpb/141F9/production/_122151444_gettyimages-1225334195.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Start-ups are exploring innovative approaches to harnessing geothermal energy, a potentially game-changing solution for the transition to renewable power.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">Left-leaning media outlets are unlikely to frame this topic in a negative light, instead emphasizing the potential for geothermal energy to accelerate the shift away from fossil fuels and towards a more sustainable future.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Neutral media outlets like BBC Tech are framing the story around the promising developments in geothermal energy, highlighting the economic challenges and opportunities for innovation.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Right-leaning media outlets may downplay or criticize the feasibility of geothermal energy, focusing on the high upfront costs and technical challenges, while questioning the impact on the fossil fuel industry.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The emergence of geothermal energy as a viable option highlights the critical need for diverse, clean, and reliable sources of power. As the world grapples with climate change, energy security, and economic growth, innovative solutions like geothermal power can help meet these challenges and create a more sustainable future for generations to come.</p>"
-        },
-        {
-          "id": "Topic-AI-Advancements",
-          "headline": "AI-driven technologies drive innovation in various industries",
-          "summary": "Midjourney's body scanner uses AI to create body composition maps in 60 seconds, and Arena, a prediction markets app, is being developed by Meta, but also relies on AI and Taiwan's advanced chip packaging.",
-          "tags": [
-            "#AI",
-            "#Innovation",
-            "#Advancements"
+            "#JobCuts",
+            "#DigitalTransformation"
           ],
           "source_ids": [
             1,
-            5,
-            6
+            4
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/06/27/multimedia/00biz-chip-package-Iyer-kfhp/00biz-chip-package-Iyer-kfhp-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">The rapid advancement of AI-driven technologies is transforming industries globally, revolutionizing the way we live and work.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">The New York Times' article \"How a Niche Technology Became a Choke Point for A.I.\" presents a nuanced and balanced view of the issue, highlighting the challenges posed by the US reliance on Taiwan for advanced chip packaging. The article does not display a clear bias towards any particular side of the issue.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">The New York Times has reported on various topics related to AI-driven technologies, consistently presenting a neutral and informative tone without expressing a direct opinion or bias.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Fox News' article featuring Midjourney's body scanner, while highlighting an innovative AI-driven technology, does not provide a clear perspective on the broader implications of AI on industries. However, the fact that the technology is being marketed at a planned spa could be seen as a reflection of a right-leaning media focus on consumerism and luxury.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The rapid advancement of AI-driven technologies is driving innovation in various industries, from healthcare to finance. However, the increasing reliance on Taiwan for advanced chip packaging poses a significant risk to global supply chains. This raises important questions about the need for diversification, regulation, and strategic planning to mitigate these risks. Ultimately, the future of AI-driven technologies will depend on our ability to balance innovation with responsibility and sustainability.</p>"
-        }
-      ],
-      "rawCount": 9
-    },
-    "MARKETS_ECONOMY": {
-      "items": [
-        {
-          "id": "raw-0",
-          "headline": "[Neutral (BBC Business)] South Korea unveils $880bn chip and AI investment plan",
-          "summary": "It comes as regional rivals like Taiwan, China and Japan are investing heavily in chip factories and other technology....",
-          "tags": [
-            "Neutral"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/c9q2pwzngjqo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">South Korea unveils $880bn chip and AI investment plan</a></p>\n                <p>It comes as regional rivals like Taiwan, China and Japan are investing heavily in chip factories and other technology.</p>\n            "
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/media/images/10934000/10934424/10934423c-0f41-42c5-9d3a-7a0e0a5d2f42.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Companies are prioritizing digital transformation, but layoffs are still a harsh reality.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Source: Neutral (BBC Business)</div>\n    <div class=\"bias-content\">Neutral media is framing this topic as a mixed bag, highlighting both the positive and negative aspects. On one hand, companies are embracing digital transformation to stay competitive and improve efficiency. On the other hand, this shift also leads to job losses and redefinitions of existing roles. Articles like the one about British American Tobacco cutting 9,000 jobs, but also planning to become more digital and AI-focused, demonstrate this balanced approach.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Source: Neutral (BBC Business)</div>\n    <div class=\"bias-content\">Similarly, another neutral article by BBC Business reports on Ford's decision to rehire human engineers after AI quality checks failed to match the skill of veteran technicians. This shows that even in the pursuit of digital transformation, there's a recognition that AI alone may not be the solution to every problem. By reevaluating their approach and reverting to human expertise, Ford is taking a more nuanced view of digital transformation.</div>\n  </div>\n  <div class=\"-\"Bias-box-empty\"bias-box-leftbias-box-empty\"></div>\n  <div class=\"-\"Bias-box-empty\"bias-box-rightbias-box-empty\"></div>\n</div>\n<h2>Reflection</h2>\n<p>As companies navigate the complexities of digital transformation, they must confront the harsh realities of job losses and the need to redefine traditional roles. This raises questions about the nature of work, the skills required to succeed in a rapidly changing job market, and the potential consequences for those who are displaced by automation. Ultimately, the pursuit of digital transformation must be balanced with a commitment to supporting workers and ensuring that the benefits of technological progress are shared equitably.</p>"
         },
         {
-          "id": "raw-1",
-          "headline": "[Left (NYT Business)] Oil Prices Rise on Possible Deal to Suspend Attacks in Gulf",
-          "summary": "Oil prices edged higher after an American official said the U.S. and Iran had agreed to halt attacks in a key shipping lane, raising hopes that hostil...",
+          "id": "topic-3",
+          "headline": "Regional Firms Invest in Chip Factories and AI",
+          "summary": "Countries such as Taiwan, China, Japan, and South Korea are investing heavily in chip factories and AI technology.",
           "tags": [
-            "Left"
+            "#ChipFactories",
+            "#AI"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/06/29/business/oil-gas-price-iran.html\" target=\"_blank\">Oil Prices Rise on Possible Deal to Suspend Attacks in Gulf</a></p>\n                <p>Oil prices edged higher after an American official said the U.S. and Iran had agreed to halt attacks in a key shipping lane, raising hopes that hostilities would not escalate.</p>\n            "
+          "source_ids": [
+            5
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/1024/bric/1246/production/_123123123.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">South Korea's massive investment in chip factories and AI raises questions about its plans to compete with regional rivals.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">Unfortunately, no relevant articles were reviewed to gauge left-leaning media response at this time.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Article from the BBC Business section presents this information without bias, mentioning that South Korea's plan comes in response to \"regional rivals like Taiwan, China and Japan\" investing heavily in chip factories and technology, implying the plan is a strategic move due to increased competition.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">No relevant articles were reviewed to gauge right-leaning media response at this time.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>This massive investment in chip factories and AI technology underscores the increasingly competitive nature of the tech industry in the Asia-Pacific region. As regional powers like South Korea, Taiwan, China, and Japan engage in an arms race for technological supremacy, it raises questions about the global implications of this competition. With the increasing reliance on technology in various aspects of life, it is crucial for nations and corporations to be adaptable and innovative to stay ahead in the game. However, this emphasis on competition may lead to a lack of cooperation and collaboration, hindering progress in the field. Ultimately, the outcome of this tech battle will have far-reaching effects on the global economy, politics, and society as a whole.</p>"
         },
         {
-          "id": "raw-2",
-          "headline": "[Neutral (BBC Business)] Rogue builder left our roof leaking and spent £30K we gave him in Lanzarote",
-          "summary": "Christian Williams benefitted to the tune of £160,000 from offending - but had just £1 to pay back....",
+          "id": "topic-4",
+          "headline": "Security Measures and Awareness are Key to Preventing Scams",
+          "summary": "The FBI reports significant internet crime losses, and experts emphasize the importance of awareness and security measures to prevent scams.",
           "tags": [
-            "Neutral"
+            "#Scams",
+            "#SecurityAwareness"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cze9wpny62go?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Rogue builder left our roof leaking and spent £30K we gave him in Lanzarote</a></p>\n                <p>Christian Williams benefitted to the tune of £160,000 from offending - but had just £1 to pay back.</p>\n            "
+          "source_ids": [
+            6,
+            7,
+            8
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/fathers-day-tech-privacy.jpeg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Families must stay vigilant and educated to protect themselves from sophisticated scammers.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">This news topic is currently not represented by any of the provided articles, so there is no left-leaning media framing to deconstruct.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">None of the provided articles exhibit neutrality, as they all come from Fox Business. For a neutral perspective, a more balanced source would be required.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">The articles from Fox Business frame the topic of security measures and awareness in a manner consistent with right-leaning media. They emphasize the threat of scammers and provide advice for staying safe, without exploring alternative views or criticizing current law enforcement efforts.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The pervasive presence of scammers in our digital lives necessitates a collective reckoning on the responsibility of institutions and individuals to implement robust safeguards against fraud. As technology advances and our reliance on digital systems grows, it becomes increasingly clear that awareness and proactive measures are the most potent tools in preventing the devastating consequences of scams.</p>"
         },
         {
-          "id": "raw-3",
-          "headline": "[Neutral (BBC Business)] Got the tennis bug? How to play sport without paying",
-          "summary": "As the world's best players begin play at Wimbledon, how can you get into sport on a budget....",
+          "id": "topic-5",
+          "headline": "Global Industry Trends and Changes in the Shipping Sector",
+          "summary": "The Strait of Hormuz has seen a sharp decline in vessel traffic due to heightened tensions between Iran and the US.",
           "tags": [
-            "Neutral"
+            "#Shipping",
+            "#GlobalIndustry"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/crlw2xw1yy2o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Got the tennis bug? How to play sport without paying</a></p>\n                <p>As the world's best players begin play at Wimbledon, how can you get into sport on a budget.</p>\n            "
-        },
-        {
-          "id": "raw-4",
-          "headline": "[Left (NYT Business)] Oil Markets Edge Higher After Days of Attacks in Persian Gulf",
-          "summary": "Oil prices inched up on Sunday evening, while the S&P 500 futures market was little changed....",
-          "tags": [
-            "Left"
+          "source_ids": [
+            3
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/06/28/business/oil-markets-edge-higher-after-days-of-attacks-in-persian-gulf.html\" target=\"_blank\">Oil Markets Edge Higher After Days of Attacks in Persian Gulf</a></p>\n                <p>Oil prices inched up on Sunday evening, while the S&P 500 futures market was little changed.</p>\n            "
-        },
-        {
-          "id": "raw-5",
-          "headline": "[Left (NYT Business)] Philippe Stern, Heir to the Patek Philippe Watch Brand, Dies at 88",
-          "summary": "In an era of electronic timepieces, he marketed $40,000 handmade watches as status symbols, breathing new life into a struggling industry....",
-          "tags": [
-            "Left"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/06/28/obituaries/phillipe-stern-dead.html\" target=\"_blank\">Philippe Stern, Heir to the Patek Philippe Watch Brand, Dies at 88</a></p>\n                <p>In an era of electronic timepieces, he marketed $40,000 handmade watches as status symbols, breathing new life into a struggling industry.</p>\n            "
-        },
-        {
-          "id": "raw-6",
-          "headline": "[Right (Fox Business)] Your family could be one phone call from a bank scam",
-          "summary": "FBI reports over $20 billion in internet crime losses. Learn how scammers coach victims before bank visits and what families can do to stop fraud....",
-          "tags": [
-            "Right"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/science/your-family-could-one-phone-call-from-bank-scam\" target=\"_blank\">Your family could be one phone call from a bank scam</a></p>\n                <p>FBI reports over $20 billion in internet crime losses. Learn how scammers coach victims before bank visits and what families can do to stop fraud.</p>\n            "
-        },
-        {
-          "id": "raw-7",
-          "headline": "[Right (Fox Business)] Waymo recalls robotaxis over construction-zone risk",
-          "summary": "Waymo recalls 3,871 robotaxi vehicles after its autonomous driving software failed to recognize freeway construction zones in Phoenix and San Francisc...",
-          "tags": [
-            "Right"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/science/waymo-recalls-robotaxis-construction-zone-risk\" target=\"_blank\">Waymo recalls robotaxis over construction-zone risk</a></p>\n                <p>Waymo recalls 3,871 robotaxi vehicles after its autonomous driving software failed to recognize freeway construction zones in Phoenix and San Francisco.</p>\n            "
-        },
-        {
-          "id": "raw-8",
-          "headline": "[Right (Fox Business)] What scammers do the week your spouse dies",
-          "summary": "Scammers exploit death certificates, data brokers and public records to target grieving families. Learn how bereavement fraud works and how to stop it...",
-          "tags": [
-            "Right"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/science/what-scammers-do-week-your-spouse-dies\" target=\"_blank\">What scammers do the week your spouse dies</a></p>\n                <p>Scammers exploit death certificates, data brokers and public records to target grieving families. Learn how bereavement fraud works and how to stop it.</p>\n            "
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2019/06/20/business/20SHIPSTRAIT/merlin_139142441_9d0a9d9f-c2a1-4ff7-bd5e-f5f8a5b7a4c7-articleLarge.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Heightened tensions between Iran and the US have led to a significant decline in vessels navigating through the Strait of Hormuz.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">The Left-leaning media would likely frame this situation as a result of the aggressive foreign policy of the US, highlighting the risks and costs of military interventions in the Middle East. They may also highlight the impact on civilians and the environment.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Neutral media outlets would likely focus on the facts of the situation, reporting on the decline in vessel traffic through the Strait of Hormuz due to the heightened tensions and potential risks. They would provide context and information on the key players and their motivations, without taking a clear stance.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Right-leaning media would likely frame this situation as a threat to global stability, emphasizing the need for strong leadership and a robust military presence to protect American interests. They may also highlight the potential economic consequences of a prolonged conflict, including rising oil prices and reduced trade.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The situation in the Strait of Hormuz highlights the complex interplay between geopolitics, economics, and global security. As the world becomes increasingly interconnected, the risk of conflict in sensitive regions like the Middle East has far-reaching implications for international trade, energy markets, and global stability. A deeper understanding of these dynamics is crucial for policymakers, business leaders, and citizens alike, as we navigate the challenges of a rapidly changing world.</p>"
         }
       ],
       "rawCount": 9
