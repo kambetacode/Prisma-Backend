@@ -146,6 +146,13 @@ async function deepAnalyze(topicText, allArticles, language, category) {
     
     const fallbackImage = `./assets/fallback_${category}.jpg`;
 
+    const isEs = language === 'Spanish' || language.toLowerCase().includes('es');
+    const labelLeft = isEs ? "Medios de Izquierda" : "Left-Leaning Media";
+    const labelNeutral = isEs ? "Medios Imparciales" : "Neutral Media";
+    const labelRight = isEs ? "Medios de Derecha" : "Right-Leaning Media";
+    const reflectionTitle = isEs ? "Reflexión" : "Reflection";
+    const deconstructionTitle = isEs ? "Desconstrucción del Sesgo" : "Bias Deconstruction";
+
     const prompt = `You are a professional, objective AI news analyst. A user selected the following topic to read about: "${topicText}".
 Based on these current articles related to this topic:
 \n${context}\n
@@ -154,27 +161,27 @@ Write the ENTIRE analysis and all text strictly in ${language}.
 
 IMPORTANT: Choose the "Image URL" from the specific article above that is most relevant to this topic. Use that EXACT URL for the <img src="...">. If no image URL is provided in the relevant article, use an empty string.
 
-DO NOT wrap the output in a generic <div>. Use exactly this HTML structure:
+DO NOT wrap the output in a generic <div>. Use exactly this HTML structure. DO NOT translate or change the text inside the <div class="bias-label"> tags or the <h2> tags, leave them EXACTLY as I provide them below:
 <div class="hero-container">
   <img src="YOUR_SELECTED_IMAGE_URL" onerror="this.src='${fallbackImage}'" class="hero-image" />
   <div class="hero-caption">Write a short, engaging caption (1 sentence) for this news topic here.</div>
 </div>
-<h2>Bias Deconstruction</h2>
+<h2>${deconstructionTitle}</h2>
 <div class="bias-container">
   <div class="bias-box bias-box-left">
-    <div class="bias-label">Left-Leaning Media</div>
+    <div class="bias-label">${labelLeft}</div>
     <div class="bias-content">Explain how they are framing this.</div>
   </div>
   <div class="bias-box bias-box-neutral">
-    <div class="bias-label">Neutral Media</div>
+    <div class="bias-label">${labelNeutral}</div>
     <div class="bias-content">Explain how they are framing this.</div>
   </div>
   <div class="bias-box bias-box-right">
-    <div class="bias-label">Right-Leaning Media</div>
+    <div class="bias-label">${labelRight}</div>
     <div class="bias-content">Explain how they are framing this.</div>
   </div>
 </div>
-<h2>Reflection</h2>
+<h2>${reflectionTitle}</h2>
 <p>A thoughtful, philosophical reflection on the broader implications of this topic and why it matters.</p>
 Return ONLY the HTML tags for the content. Do not include markdown code blocks.`;
 
