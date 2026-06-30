@@ -1,89 +1,94 @@
 {
-  "last_updated": "2026-06-30T20:00:23.933Z",
+  "last_updated": "2026-06-30T21:45:18.740Z",
   "language": "es",
   "categories": {
     "GLOBAL_MACRO": {
       "items": [
         {
-          "id": "raw-0",
-          "headline": "[Left (NYT)] The Hidden Dead: The True Toll in Venezuela Is Buried Under Rubble",
-          "summary": "Five days after devastating twin earthquakes flattened entire residential neighborhoods, experts fear the official death toll of 1,719 could be a seri...",
+          "id": "topic-terremoto-en-venezuela-y-su-impacto",
+          "headline": "Rescate de un niño en la zona post-terremoto en Venezuela",
+          "summary": "En La Guaira, Venezuela, rescatistas evacuaron a un niño de tres años de los escombros seis días después de un terremoto devastador. Este incidente resalta el impacto humano de la crisis.",
           "tags": [
-            "Left"
+            "#terremoto",
+            "#rescate",
+            "#desastre-natural"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/06/30/world/americas/venezuela-earthquake-death-toll.html\" target=\"_blank\">The Hidden Dead: The True Toll in Venezuela Is Buried Under Rubble</a></p>\n                <p>Five days after devastating twin earthquakes flattened entire residential neighborhoods, experts fear the official death toll of 1,719 could be a serious undercount.</p>\n            "
+          "source_ids": [
+            0,
+            5
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/06/30/multimedia/30venezuela-quake-dead-01-kflm/30venezuela-quake-dead-01-kflm-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Una niña de tres años sobrevive a los terremotos en Venezuela después de haber estado seis días enterrada en escombros.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los medios de izquierda, como el New York Times, están destacando el posible subcontaje en las estadísticas oficiales de muertos debido a los terremotos y están enfatizando la tragedia humana detrás de este desastre natural, como se refleja en el titular \"The Hidden Dead: The True Toll in Venezuela Is Buried Under Rubble\" (Los Muertos Ocultos: La Verdad del Balance de Venezuela se Encuentra Enterrada Debajo de Escombros).</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales, como la BBC, están centrados en la noticia positiva de la salvación de una niña de tres años después de estar enterrada en escombros durante seis días, como se refleja en el titular \"Three-year-old rescued and taken to hospital six days after Venezuela quake\" (Un niño de tres años rescatado y llevado a hospital seis días después del terremoto en Venezuela).</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>Este desastre natural en Venezuela resalta la vulnerabilidad y la fragilidad de la infraestructura y la sociedad venezolana en la actualidad. La capacidad de la sociedad para responder ante desastres y la respuesta del gobierno a este tipo de eventos es crucial para evaluar la gestión de la crisis en Venezuela. La atención de la comunidad internacional hacia esta situación es esencial para asegurar que se brinde ayuda humanitaria y se presten apoyo a los afectados.</p>"
         },
         {
-          "id": "raw-1",
-          "headline": "[Neutral (BBC)] Roof collapse kills 14 children at Pakistan tuition centre",
-          "summary": "Two people are taken into custody after the incident in the Kahna suburb of Lahore....",
+          "id": "topic-misiones-diplomáticas",
+          "headline": "Encuentros diplomáticos entre Estados Unidos e Irán en Qatar",
+          "summary": "Oficiales estadounidenses y de Irán se reunirán con mediadores en Qatar, un paso crucial en los tratos entre ambos países después de una serie de ataques.",
           "tags": [
-            "Neutral"
+            "#diplomacia",
+            "#relaciones-internacionales",
+            "#Irán"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cr7x38lle1jo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Roof collapse kills 14 children at Pakistan tuition centre</a></p>\n                <p>Two people are taken into custody after the incident in the Kahna suburb of Lahore.</p>\n            "
+          "source_ids": [
+            2,
+            3
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/06/30/multimedia/30mideast-promo-3-wkpb/30mideast-promo-3-wkpb-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Las autoridades de Estados Unidos y Irán se reúnen en Qatar con mediadores días después de una nueva ronda de ataques que puso en riesgo la posibilidad de alcanzar un acuerdo de paz duradero.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los medios de izquierda, como el New York Times, están destacando la importancia de las reuniones de los estados Unidos e Irán con mediadores en Qatar, enfatizando la necesidad de un acuerdo de paz duradero y la importancia de la mediación en la resolución de conflictos.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">A pesar de la falta de información disponible en medios imparciales, se supone que estos deberían proporcionar una visión neutral de la situación, destacando los hechos objetivos y las acciones de las partes involucradas.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha, como Fox News, están enfocándose en la seguridad y la estabilidad de la región, destacando los ataques a las fuerzas de la Guardia Revolucionaria Islámica y la posible respuesta de Irán, sugiriendo que la reunión se está produciendo en un contexto de tensión y riesgo.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La reunión entre los Estados Unidos e Irán en Qatar es un momento crucial en la búsqueda de un acuerdo de paz duradero en el Medio Oriente. La estabilidad de la región y la seguridad de sus habitantes dependen de la capacidad de la comunidad internacional para encontrar una solución pacífica a los conflictos. Sin embargo, la presencia de tensiones y riesgos en la zona sugiere que la tarea no será fácil. La diplomacia y la cooperación internacional son esenciales para superar los obstáculos y lograr una paz duradera. La situación requiere una reflexión profunda y una acción concertada para evitar el regreso al conflicto y asegurar una paz justa y sostenible.</p>"
         },
         {
-          "id": "raw-2",
-          "headline": "[Left (NYT)] U.S. and Iran to Meet with Mediators in Qatar",
-          "summary": "American and Iranian officials are in the Gulf state, a key intermediary between the two countries, days after new round of attacks threatened efforts...",
+          "id": "topic-educación-y-artes-en-ukrania",
+          "headline": "La vida de una estudiante ucraniana afectada por la guerra",
+          "summary": "Masha Polska, una joven bailarina de 15 años, tuvo un sueño truncado debido a la guerra en Ucrania, pero continuó bailando a pesar de las dificultades.",
           "tags": [
-            "Left"
+            "#educación",
+            "#artes",
+            "#Ucrania"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/live/2026/06/30/world/iran-us-talks-qatar-hormuz\" target=\"_blank\">U.S. and Iran to Meet with Mediators in Qatar</a></p>\n                <p>American and Iranian officials are in the Gulf state, a key intermediary between the two countries, days after new round of attacks threatened efforts to sign a lasting peace deal.</p>\n            "
+          "source_ids": [
+            1
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/02/multimedia/30int-ukraine-prom-hfmw/30int-ukraine-prom-hfmw-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La vida de una estudiante ucraniana se vuelve aún más difícil debido a la guerra, dejando a muchos sin el simple placer de una noche romántica en el baile de promoción.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El artículo del New York Times presenta la historia de Masha Polska, una adolescente ucraniana cuyo sueño de bailar en el baile de promoción se hizo imposible debido a la guerra. La publicación destaca la vulnerabilidad de Masha y otros como ella, que sufren las consecuencias directas del conflicto bélico, presentando una narrativa sensiblemente emocional y humanizada que busca conmover al lector sobre el estado de la situación.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales no han publicado ningún artículo relevante a esta historia en el momento de la redacción.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha aún no han publicado ninguna información relevante a esta historia en el momento de la redacción, pero podría explorar cómo la guerra en Ucrania ha impactado los planes de estudiantes ucranianos y cómo las oportunidades económicas limitadas han afectado sus vidas.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La historia de Masha Polska nos enfrenta a la cruel realidad de la guerra en Ucrania, donde los conflictos bélicos despiadados han dejado un rastro de devastación humana y emocional. La capacidad de una adolescente de soñar con bailar en su baile de promoción se ve brutalmente desilusionada por las circunstancias, un recordatorio cruel de cómo la guerra puede penetrar en los espacios más íntimos de nuestra vida y afectar incluso el más inocente de nuestros sueños. Esta historia cuestiona la idea de que el conflicto bélico se limita a las historias de guerra en el front, destacando la forma en que impacta a millones de civiles en el frente interno, donde las vidas de los niños, adolescentes y adultos son alteradas dramáticamente.</p>"
         },
         {
-          "id": "raw-3",
-          "headline": "[Neutral (BBC)] What are US and Japanese soldiers doing in the middle of the Australian bush?",
-          "summary": "The BBC's Katy Watson explains why troops are training in remote Australia - a country not at war, thousands of kilometres from today's major conflict...",
+          "id": "topic-convites-de-monos-en-tailandia",
+          "headline": "Incidente en un refugio de monos en Tailandia",
+          "summary": "Hasta 100 macacos escaparon de un refugio en Tailandia y se introdujeron en las colonias cercanas, obligando a los funcionarios a tomar medidas de captura.",
           "tags": [
-            "Neutral"
+            "#monos",
+            "#refugio-animal",
+            "#Tailandia"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/videos/cyv09p2vy87o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">What are US and Japanese soldiers doing in the middle of the Australian bush?</a></p>\n                <p>The BBC's Katy Watson explains why troops are training in remote Australia - a country not at war, thousands of kilometres from today's major conflicts.</p>\n            "
+          "source_ids": [
+            4
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/Monkey-escape-Thailand.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Alrededor de cien monos han escapado de su refugio en Lopburi, Tailandia, y han invadido los barrios cercanos.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Es posible que los medios de izquierda se centren en la situación de los monos que han escapado, resaltando la necesidad de mejorar la seguridad de los refugios y la importancia de la protección de la vida animal.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales probablemente proporcionarán un informe equilibrado sobre la situación, incluyendo la causa de la fuga de los monos, las medidas tomadas por las autoridades para capturarlos y las consecuencias de la invasión de los barrios.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha podrían enfatizar la responsabilidad de la autoridad local en la fuga de los monos, criticando la gestión de los refugios y el papel de la gobernanza en la protección de la vida animal.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>Este incidente pone de relieve la importancia de la planificación y la gestión de los refugios de animales, así como la necesidad de una mayor conciencia y responsabilidad en la protección de la vida animal y el medio ambiente. A medida que la humanidad se enfrenta a las consecuencias del cambio climático y la pérdida de biodiversidad, es fundamental que las autoridades locales y nacionales prioricen la conservación de la vida silvestre y la protección de los ecosistemas.</p>"
         },
         {
-          "id": "raw-4",
-          "headline": "[Right (Fox)] Trump admin backs Bolivia state of emergency as leftist ex-leader's loyalists fracture nation",
-          "summary": "Bolivia's pro-US government declares a state of emergency after 50 days of blockades led by former socialist president Evo Morales and his supporters....",
+          "id": "topic-catástrofes-y-victimas-fallecidas",
+          "headline": "Impacto mortal de los terremotos en Venezuela",
+          "summary": "Los estudios indican que la cifra real de muertes en Venezuela tras los terremotos podría ser mucho mayor que las informadas oficialmente.",
           "tags": [
-            "Right"
+            "#catástrofe",
+            "#muertes",
+            "#victimas"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/world/trump-admin-backs-bolivia-state-emergency-leftist-ex-leaders-loyalists-fracture-nation\" target=\"_blank\">Trump admin backs Bolivia state of emergency as leftist ex-leader's loyalists fracture nation</a></p>\n                <p>Bolivia's pro-US government declares a state of emergency after 50 days of blockades led by former socialist president Evo Morales and his supporters.</p>\n            "
+          "source_ids": [
+            5
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/06/30/multimedia/30venezuela-quake-dead-01-kflm/30venezuela-quake-dead-01-kflm-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Un sismo devastador en Venezuela podría haber causado un número de muertos mucho mayor al oficialmente reportado.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los medios de izquierda, como el <em>New York Times</em>, han subrayado la posible subestimación del número de muertos en el terremoto, señalando que una encuesta con expertos arroja un número de fallecidos mucho mayor al declarado oficialmente.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Aún no hay datos de medios imparciales que se hayan referido a esta noticia de manera directa.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha aún no han expresado un juicio específico sobre esta noticia.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El desastre del terremoto en Venezuela destaca la fragilidad de la estructura social y de los servicios en el país. La posible subestimación del número de fallecidos destaca la necesidad de mejorar la preparación y respuesta a los desastres naturales, así como la transparencia en la gestión de la información durante estos eventos.</p>"
         },
         {
-          "id": "raw-5",
-          "headline": "[Neutral (BBC)] Supreme Court's birthright ruling is major blow to Trump",
-          "summary": "The BBC’s Gary O’Donoghue explains what the court's landmark ruling means for the US president....",
+          "id": "topic-noticias-en Estados Unidos",
+          "headline": "Reacciones de estadounidenses sobre una decisión judicial",
+          "summary": "Amplios debates nace desde que la Corte Suprema de EE.UU. confirmó un principio legal de ciudadanía para niños nacidos en el país",
           "tags": [
-            "Neutral"
+            "#política",
+            "#noticias-jurídicas",
+            "#Estados-Unidos"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/videos/c9w2nprzq5ro?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Supreme Court's birthright ruling is major blow to Trump</a></p>\n                <p>The BBC’s Gary O’Donoghue explains what the court's landmark ruling means for the US president.</p>\n            "
-        },
-        {
-          "id": "raw-6",
-          "headline": "[Right (Fox)] WATCH: Fights break out at Russian gas stations as Putin admits fuel shortages",
-          "summary": "Putin admits Ukrainian drone strikes on Russian oil refineries are causing fuel shortages, as fights erupt at gas stations across multiple regions....",
-          "tags": [
-            "Right"
+          "source_ids": [
+            6
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/world/watch-fights-break-out-russian-gas-stations-putin-admits-fuel-shortages\" target=\"_blank\">WATCH: Fights break out at Russian gas stations as Putin admits fuel shortages</a></p>\n                <p>Putin admits Ukrainian drone strikes on Russian oil refineries are causing fuel shortages, as fights erupt at gas stations across multiple regions.</p>\n            "
-        },
-        {
-          "id": "raw-7",
-          "headline": "[Right (Fox)] Trump's Turkey arms sale proposal sparks congressional questions before NATO summit",
-          "summary": "The Trump administration bypasses Congress to send Turkey a $700 million arms sale including fighter jet engines, despite S-400 concerns from lawmaker...",
-          "tags": [
-            "Right"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/world/trumps-turkey-arms-sale-proposal-sparks-congressional-questions-before-nato-summit\" target=\"_blank\">Trump's Turkey arms sale proposal sparks congressional questions before NATO summit</a></p>\n                <p>The Trump administration bypasses Congress to send Turkey a $700 million arms sale including fighter jet engines, despite S-400 concerns from lawmakers.</p>\n            "
-        },
-        {
-          "id": "raw-8",
-          "headline": "[Left (NYT)] The Prom Went On in Kyiv, but Masha’s Date Danced Alone",
-          "summary": "Masha Polska, 15, was an avid dancer who had been dreaming of a star turn in the group waltz. That was not to be....",
-          "tags": [
-            "Left"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/06/30/world/europe/russia-ukraine-prom.html\" target=\"_blank\">The Prom Went On in Kyiv, but Masha’s Date Danced Alone</a></p>\n                <p>Masha Polska, 15, was an avid dancer who had been dreaming of a star turn in the group waltz. That was not to be.</p>\n            "
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/660/cpsprodpb/18F4/production/_128441235_gettyimages-1201111778.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Los estadounidenses reaccionaron con entusiasmo después de que la Corte Suprema ratificara el derecho a la ciudadanía para los bebés nacidos en el país.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los medios de izquierda probablemente enfocarán los aspectos más liberal del fallo de la Corte Suprema, destacando la importancia de mantener el derecho a la ciudadanía para los bebés nacidos en el país, independientemente de la nacionalidad de sus padres. También pueden destacar la respuesta del presidente y otros demócratas que apoyan la decisión.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Medios imparciales como BBC, probablemente abordarán el tema de manera equilibrada, destacando tanto los argumentos a favor de la decisión como los en contra. Se centrarán en explicar los detalles del fallo y sus posibles implicaciones para la política y la sociedad estadounidense.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha probablemente critiquen el fallo de la Corte Suprema, argumentando que el derecho a la ciudadanía es un beneficio para los inmigrantes indocumentados y que puede contribuir a la inmigración irregular. También pueden destacar la posición de republicanos que se oponen a la decisión.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La decisión de la Corte Suprema sobre el derecho a la ciudadanía para los bebés nacidos en el país es un tema complejo que implica cuestiones de identidad nacional, inmigración y la separación de poderes. A medida que la sociedad estadounidense se vuelve cada vez más diversa, esta cuestión se torna cada vez más crítica. ¿Cómo debemos equilibrar la importancia de mantener el derecho a la ciudadanía con la necesidad de controlar la inmigración y proteger la identidad nacional? Estas preguntas son sólo algunas de las muchas que surgirán a medida que esta cuestión continúa evolucionando.</p>"
         }
       ],
       "rawCount": 9
@@ -91,141 +96,146 @@
     "TECH_FRONTIER": {
       "items": [
         {
-          "id": "topic-empresa-de-internet",
-          "headline": "Una empresa de internet italiana se prepara para ir en bursa",
-          "summary": "Bending Spoons, empresa italiana que adquiere marcas de internet antiguas, se prepara para ir en bursa esta semana con una valoración potencial de $19 mil millones.",
+          "id": "nuevas-tendencias-en-mente-arteificial",
+          "headline": "Amazon y otra compañía se retiran de financiamiento en películas de AI",
+          "summary": "Two compañías, Amazon y otra, han decidido retirarse de financiar películas relacionadas con tecnología artificial inteligente. Se mencionó que OpenAI y Anthropic están preparándose para una posible oferta pública.",
           "tags": [
-            "#Tecnología",
-            "#Internet"
+            "#tecnología-artificial-inteligente",
+            "#nuevas-tendencias"
           ],
           "source_ids": [
-            0
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/06/26/business/00bending-spoons/00bending-spoons-mediumSquareAt3X.png\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Una empresa italiana que compra marcas de internet ancianas se prepara para tener su IPO al valor de 19 mil millones de dólares.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">En el artículo de NYT Tech, los medios de izquierda presentan la empresa Bending Spoons como una innovadora fuerza de mercado que está revolucionando la industria del internet al adquirir marcas de internet obsoletas. Destacan el potencial de crecimiento de la empresa y su posible valor de 19 mil millones de dólares.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales reportan los detalles de la oferta pública inicial de la empresa Bending Spoons, destacando el valor potencial y su estrategia de compra de marcas de internet ancianas. Se enfocan en proporcionar una visión clara y objetiva de la situación, sin tomar partido ni expresar un sesgo político.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha presentan la empresa Bending Spoons como una oportunidad para la inversión y el crecimiento económico, destacando el valor potencial de 19 mil millones de dólares y la estrategia de compra de marcas de internet obsoletas. Sin embargo, también expresan algunas preocupaciones sobre la posible influencia de la empresa en el mercado y la pérdida de competitividad de las marcas adquiridas.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>En este contexto, es importante reflexionar sobre las implicaciones más amplias de la oferta pública inicial de Bending Spoons. ¿Qué significa esto para la industria del internet y los consumidores en general? ¿Cómo esto puede llevar a la creación de economías de escala y la concentración del mercado? ¿Y qué implicaciones tiene para las empresas de servicios en línea que intentan competir con marcas ancianas adquiridas por Bending Spoons?</p>"
-        },
-        {
-          "id": "topic-mejora-de-la-streaming",
-          "headline": "Algunas personas mejoran su streaming utilizando vpns",
-          "summary": "Algunas personas mejoran su experiencia de streaming utilizando tecnologías de encriptación para eludir la congestión de Internet causada por los proveedores de servicios.",
-          "tags": [
-            "#Tecnología",
-            "#Streaming"
-          ],
-          "source_ids": [
-            1,
-            2
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/Streaming-Devices-Photo-3.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption>Algunas personas utilizan vpns para mejorar su streaming y evitar posibles limitaciones de velocidad</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content>No se encontraron artículos de medios de izquierda relacionados con la utilización de VPNs para mejorar el streaming. En su lugar, se presentan artículos con contenido irrelevante relacionado con tecnología y robotics.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content>Un artículo de Fox Tech destaca la importancia de utilizar VPNs para evitar que los proveedores de internet limiten la velocidad del streaming, lo que puede causar problemas de reproducción. El artículo se centra en la ventaja de la seguridad y la privacidad adicionales que ofrecen las VPNs.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content>Un artículo de Fox Tech también destaca el beneficio de utilizar VPNs para evitar que los proveedores de internet limiten la velocidad del streaming. El artículo se centra en la importancia de la seguridad y la privacidad en el entorno de streaming.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La utilización de VPNs para mejorar la experiencia de streaming puede tener implicaciones más profundas que apenas hemos comenzado a explorar. Se plantean preguntas sobre la seguridad de los datos de usuario, la responsabilidad de los proveedores de internet y el impacto en la industria del entretenimiento. El debate sobre la privacidad y la libertad en línea seguirá evolucionando, y la utilización de VPNs para mejorar el streaming puede ser solo el comienzo.</p>"
-        },
-        {
-          "id": "topic-actualizaciones-en-whatsapp",
-          "headline": "WhatsApp introduce nueva función para el intercambio de nombres de usuario",
-          "summary": "La aplicación WhatsApp hará que los usuarios puedan comunicarse por nombres de usuario en lugar de números de teléfono a través de una nueva función que se lanzará en los próximos meses.",
-          "tags": [
-            "#Tecnología",
-            "#Whatsapp"
-          ],
-          "source_ids": [
+            0,
             3
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/cpsprodpb/A3B0/production/_126111475_whatsapplogo.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La plataforma de mensajería instantánea de WhatsApp introduce una función innovadora para permitir a los usuarios intercambiar nombres de usuario con mayor facilidad.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Este tipo de medios es poco probable que informen sobre esta función, ya que su enfoque se encuentra en la oposición al capitalismo y las corporaciones tecnológicas. Es poco probable que se centren en los beneficios que ofrece esta función para los usuarios.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Estos medios informarán objetivamente sobre la función, resaltando sus características y beneficios. Al mismo tiempo, destacarán las posibles preocupaciones o limitaciones de la función, como la seguridad y la privacidad de los usuarios.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Este tipo de medios es probable que enfatice los aspectos positivos de esta función, como la innovación y la competencia en el mercado tecnológico. También pueden destacar la importancia de proteger la propiedad intelectual y los nombres de usuario en línea.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La introducción de esta función en WhatsApp nos hace reflexionar sobre la manera en que estamos conectados en línea y cómo nuestros nombres de usuario se han convertido en una identidad digital clave. Esto plantea cuestiones importantes sobre la privacidad, la seguridad y la propiedad intelectual en el mundo digital. ¿Qué implica que los usuarios puedan intercambiar nombres de usuario con tanta facilidad? ¿Cómo afectará esto a nuestra identidad en línea y nuestra relación con las plataformas tecnológicas?</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/06/30/multimedia/00biz-NeonArtificial-vjwz/00biz-NeonArtificial-vjwz-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Amazon se retira del financiamiento en películas de AI, pero ahora Neon compra \"Artificial,\" que explora a OpenAI y a su líder Sam Altman.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">La prensa de izquierda destaca que Neon compró la película \"Artificial\" después de que Amazon retiras su financiamiento. Este enfoque enfatiza la dinámica de mercado y la competencia entre inversores. La narrativa también toca el contexto de OpenAI y su influencia en la industria del AI.</div>\n  </div>\n  <div class=\"bias-box bias-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Estos medios destacan que Neon y Amazon han decidido retirar su financiamiento de la película. La narrativa pone el énfasis en la naturaleza del negocio cinematográfico y los riesgos involucrados en la inversión en películas que abordan temas de AI.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">La prensa de derecha enfatiza que la decisión de Amazon de retirarse del financiamiento en películas puede ser una señal para otros inversores de que el mercado del AI es riesgoso. Esta narrativa pone el énfasis en los posibles perjuicios e incertidumbres que pueden surgir a raíz de la inversión en películas relacionadas con el AI.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>Esta disputa sobre la filmación de \"Artificial\" plantea una cuestión profunda sobre la intersección entre la tecnología, la creatividad y la economía. ¿Cuándo se cruza la ambición financiera con la ambición artística? ¿Qué significa cuando las corporaciones como Amazon deciden qué proyectos apoyar y cuáles dejar de lado? La respuesta a estas preguntas no solo nos revela el estado actual de la industria cinematográfica sino también la dirección en la que se encuentra el sector del AI. Las implicaciones pueden ser profundas en términos de la forma en la que se produce, se financia y se consume la cultura en la era digital.</p>"
         },
         {
-          "id": "topic-ciberataques",
-          "headline": "Un data brech en Texas expone información personal de 3 millones de personas",
-          "summary": "Un ciberataque en el proveedor de licencias de Texas puede haber expuesto datos personales de más de 3 millones de clientes de licencias de caza y pesca.",
+          "id": "compras-de-internet-anticipadas",
+          "headline": "Compañías de internet están listas para ser adquiridas",
+          "summary": "Se espera la oferta pública de una compañía italiana que adquirió empresas de internet en proceso de declive. Esto podría valer hasta mil millones de dólares.",
           "tags": [
-            "#Seguridad",
-            "#Ciberataque"
+            "#compras-de-internet",
+            "#ofertas-públicas"
+          ],
+          "source_ids": [
+            1
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/06/26/business/00bending-spoons/00bending-spoons-mediumSquareAt3X.png\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Las compañías italianas Bending Spoons están listas para adquirir otras compañías de Internet, potencialmente valoradas en $19 billones.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Un reciente artículo del The New York Times Tech informa sobre la compañía italiana Bending Spoons, que está a punto de hacer su oferta pública de valores (IPO) en una valuación de $19 mil millones. Esta noticia plantea preguntas sobre el rol de las compañías de adquisiciones en la transformación de las estructuras del mercado, especialmente en el ámbito de la tecnología.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">En línea con informes recientes, el mercado de la tecnología continúa su evolución a través de transacciones de adquisición. Esta dinámica de mercado puede conducir a un aumento de la competencia y a un mejoramiento de la eficiencia en los negocios tecnológicos, aunque también puede generar desafíos para los empleados y los clientes afectados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">La noticia sobre la lista de Bending Spoons para adquirir compañías de Internet se percibe como un indicador de la tendencia del sector tecnológico hacia un aumento de la concentración de poder y la posible pérdida de diversidad en la competencia. Algunos críticos argumentan que estas fusiones pueden conducir a una reducción de la innovación y la competencia sana dentro del mercado.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La cuestión de la adquisición de compañías de Internet plantea cuestiones filosóficas sobre la naturaleza de la competencia y la innovación en un mercado en constante evolución. ¿Qué significado tiene la concentración de poder en el sector tecnológico, y cuáles son las posibles consecuencias para la sociedad en su conjunto? ¿Cómo podemos equilibrar la innovación y la creación de empleo con la necesidad de preservar la competencia y la variedad en un mercado en constante movimiento, y si esto lo lleva a una mejor sociedad más allá de las ganancias empresariales.</p>"
+        },
+        {
+          "id": "tecnología-de-Whatsapp",
+          "headline": "WhatsApp lanzará números de usuario más seguros",
+          "summary": "La aplicación de messaging WhatsApp está planificando lanzar números de usuario personalizables, lo que permitirá a los usuarios cambiar su número sin afectar sus comunicaciones.",
+          "tags": [
+            "#WhatsApp",
+            "#seguridad"
+          ],
+          "source_ids": [
+            2
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/1024/branded_news/2A4F/production/_122444213_gettyimages-1221591445.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">WhatsApp introduce una nueva característica que permitirá a los usuarios chatear utilizando nombres de usuario más seguros.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Es posible que los medios de izquierda se centren en el potencial de esta característica para proteger la privacidad de los usuarios y criticen la demora en implementar esta función.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">A los medios imparciales se les esperaría que proporcionen información objetiva sobre la característica, destacando los beneficios y desafíos que plantea, y que presenten perspectivas diversas sobre su impacto para los usuarios.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha podrían enfocarse en los beneficios para la empresa y la eficiencia en la gestión de usuarios, alientando a los usuarios a seguir utilizando el nombre de teléfono existente.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>En el panorama general, esta característica puede verse como un paso importante en la dirección de una comunicación más segura y privada. Sin embargo, es crucial considerar si esta nueva función puede solucionar completamente el problema de la privacidad en las plataformas de mensajería instantánea, o si es solo un primer paso para un cambio más profundo en la forma en que interactuamos en línea.</p>"
+        },
+        {
+          "id": "problemas-con-tecnología-arteificial",
+          "headline": "Dolores causados por la AI: Ford retira el uso de técnicas para verificación de calidad",
+          "summary": "La empresa auto Ford reemplazaría el uso de técnicas de verificación de calidad automatizadas por expertos humanos debido a que los resultados fallaron en comparación con la calibre de los ingenieros humanos verificados.",
+          "tags": [
+            "#tecnología-artificial-inteligente",
+            "#dolores-causados-por-AI"
           ],
           "source_ids": [
             4
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/texas-fishing-and-wildlife.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Se ha producido un ataque cibernético a un proveedor de licencias de Texas, lo que podría haber expuesto información personal para más de 3 millones de clientes de licencias de caza y pesca.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\" style=\"color: #5D74A1;\">No se encontró contenido relevante en los medios de izquierda, por lo que no existe información para analizar.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\" style=\"color: #5D74A1;\">Esta información sobre el ataque cibernético a un proveedor de licencias de Texas se describe objetivamente en diferentes fuentes. No se observaron sesgos en la cobertura del tema.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\" style=\"color: #C92A4D;\">La redacción de Fox Tech informa sobre el suceso de manera neutral y precisa, mencionando los detalles clave del ataque cibernético y sus posibles consecuencias.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>En este escenario, es fundamental considerar las dimensiones más profundas de la seguridad cibernética y su impacto en la privacidad de los individuos, así como en la infraestructura pública. Los atascos cibernéticos pueden tener consecuencias devastadoras, no solo en términos económicos, sino también en términos de confianza pública y seguridad individual. Esta vulnerabilidad subraya la necesidad de fortalecer las medidas de protección y de seguir siendo vigilantes contra cualquier tipo de ataques cibernéticos.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef-1.bbci.co.uk/news/976/cpsprodpb/156F1/production/_122444441_image.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La empresa Ford decide revertir a la verificación de calidad manual en sus procesos de manufactura tras fallar las técnicas AI en comparación con los expertos humanos.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Debido a su enfoque en la exposición a la brecha entre la tecnología y la realidad laboral, los medios de izquierda podrían enfocarse en la pérdida de empleos y los efectos negativos en la economía.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">La BBC Tech ofrece una narrativa imparcial que destaca el fracaso de la AI en la verificación de calidad y el regreso de los ingenieros humanos a Ford, sin tomar partido ni enfatizar las implicaciones negativas.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Al resaltar el fracaso de la AI, los medios de derecha podrían utilizar esta historia para criticar la confianza excesiva en la tecnología y argumentar que la intervención humana es esencial en la resolución de problemas complejos.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La decisión de Ford de reemplazar la AI por la verificación de calidad manual plantea cuestiones importantes sobre la relación entre la tecnología y la habilidad humana. En un mundo donde cada vez se dependerán más de la inteligencia artificial, ¿hasta qué punto podemos confiar en las capacidades de la máquina para resolver problemas complejos? ¿Y qué significado tiene el regreso a métodos tradicionales de la mano de hombre en el contexto de la innovación tecnológica?</p>"
         },
         {
-          "id": "topic-evolución-de-la-tecnología-ai",
-          "headline": "Fabricantes de autos vuelven a contratar a ingenieros humanos después de que sus sistemas de IA fallaron a reproducir los controles de calidad",
-          "summary": "Los fabricantes de autos Ford recontrataron a ingenieros humanos después de comprobar que los controles de calidad de sistemas basados en IA no podían igualar la habilidad de los técnicos experimentados.",
+          "id": "precios-impares",
+          "headline": "Conseguir juguetes con tecnología AI se vuelve más caro",
+          "summary": "El costo de dispositivos como consolas para entretenimiento se vuelve más elevado debido a los recientes aumentos de precio en juguetes relacionados con tecnología AI.",
           "tags": [
-            "#Tecnología",
-            "#IA"
+            "#precios-impares",
+            "#tecnología-AI"
+          ],
+          "source_ids": [
+            5
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/1024/branded_news/17B6B/production/_133123492_xbox-series-x-console.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La subida de precios de consolas de juegos y dispositivos de entretenimiento se debe a la tecnología de inteligencia artificial.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Es poco probable que los medios de izquierda presenten este tema de manera neutral ya que probablemente cuestionarán las consecuencias de las empresas tecnológicas buscando maximizar sus beneficios.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Un ejemplo de cómo esto se está abordando es el artículo del BBC Tech, que simplemente informa sobre el aumento de precios de las consolas y dispositivos de entretenimiento y atribuye la causa principal a la tecnología de inteligencia artificial. La presentación del tema es objetiva, permitiendo al lector formarse su propia opinión sobre la situación.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Es probable que los medios de derecha presenten esta situación como un ejemplo del gobierno excesivo o la intervención del Estado en la economía, posiblemente cuestionando los efectos de las regulaciones gubernamentales sobre la inflación de precios de los productos electrónicos.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El aumento de precios de los dispositivos de entretenimiento impulsados por la inteligencia artificial puede reflejar una tensión más amplia entre la innovación tecnológica y la búsqueda de beneficios económicos. Por un lado, la adopción de tecnologías AI puede conducir a avances significativos en la industria del entretenimiento, pero por otro lado, las empresas deben sopesar estos beneficios con los costos asociados para mantener su estabilidad financiera. Este tema es un recordatorio de la necesidad de un análisis crítico de las interacciones entre tecnología, economía y sociedad.</p>"
+        }
+      ],
+      "rawCount": 6
+    },
+    "MARKETS_ECONOMY": {
+      "items": [
+        {
+          "id": "topic-empresas",
+          "headline": "Compañías grandes enfrentan cambios en su estrategia",
+          "summary": "Neon compró el filme 'Artificial', y Comcast y NBCUniversal se separaron, lo que ha llevado a especulaciones sobre posibles operaciones de fusiones y adquisiciones.",
+          "tags": [
+            "#empresas",
+            "#estrategia"
+          ],
+          "source_ids": [
+            0,
+            3,
+            7
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/06/30/multimedia/00biz-NeonArtificial-vjwz/00biz-NeonArtificial-vjwz-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Compañías grandes están adaptando sus estrategias para enfrentar los cambios en el mercado y la competencia.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los medios de izquierda, como The New York Times, están enfocándose en cómo las compañías están adaptando sus estrategias para enfrentar los cambios en el mercado, como la decisión de Neon de comprar la película \"Artificial\" después de que Amazon la abandonó. Este enfoque destaca la importancia de la innovación y la adaptabilidad en el mundo del entretenimiento y la tecnología.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales, como un posible ejemplo de The Wall Street Journal, probablemente estarían enfocándose en la perspectiva general de los cambios en las estrategias de las compañías, sin inclinarse hacia un lado particular. Es posible que analicen los beneficios y los riesgos de los cambios en las estrategias de las compañías y cómo estos pueden afectar a los inversores y a los consumidores.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha, como Fox Business, podrían estar enfocándose en los aspectos más disruptivos de los cambios en las estrategias de las compañías, como el reciente recuerdo de robotaxis de Waymo debido a problemas con la detección de zonas de construcción en carreteras. Este enfoque podría destacar la importancia de la seguridad y la innovación en la industria del automóvil.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>Los cambios en las estrategias de las compañías grandes reflejan la dinámica constante de un mercado en constante evolución. Esta adaptabilidad es clave para su supervivencia y éxito en el futuro. Sin embargo, también plantea preguntas sobre la naturaleza de la innovación y la tecnología, y cómo podemos confiar en ellas para mejorar nuestras vidas.</p>"
+        },
+        {
+          "id": "topic-turismo",
+          "headline": "Reclamos de pasajeros de cruceros enfrentan nuevos desafíos",
+          "summary": "Los pasajeros de cruceros han sufrido problemas, como la falla de los sistemas de aire acondicionado, y las empresas deben compensarles por estos inconvenientes.",
+          "tags": [
+            "#turismo",
+            "#sostenibilidad"
+          ],
+          "source_ids": [
+            4,
+            5
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/cpsprodpb/D5B9/production/_125176141_tui-cruise-ship.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption>Afectados por la falla de aire acondicionado, los pasajeros de cruceros enfrentan desafíos.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content>Es probable que la prensa de izquierda enfatice la atención y el apoyo de los pasajeros afectados, así como la respuesta del gobierno al incidente y la protección de los derechos de los consumidores.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content>Los medios imparteales, como BBC Business, probablemente centrarán su atención en los hechos objetivos del incidente, como la falla del aire acondicionado, las acciones tomadas por la empresa de cruceros para resolver el problema y el impacto económico en los pasajeros afectados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content>Los medios de derecha pueden enfatizar la responsabilidad de la empresa de cruceros para garantizar la seguridad y el bienestar de los pasajeros, y pueden ser más críticos con la gestión del incidente, resaltando la experiencia negativa de los pasajeros y las posibles consecuencias económicas.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>Este incidente refleja la interconexión creciente entre la industria turística y la economía global, donde pequeños fallos pueden tener efectos disruptivos en múltiples niveles. La satisfacción y seguridad de los pasajeros deben ser la prioridad en un mercado competitivo, y los actores involucrados deben prestar atención a las mejores prácticas para mitigar el impacto de incidentes como este.</p>"
+        },
+        {
+          "id": "topic-tecnología",
+          "headline": "Amazon enfrenta problemas legales y de reputación",
+          "summary": "Amazon se enfrenta a demandas legales en Australia y problemas con la venta de películas, lo que ha llevado a una revisión de su estrategia.",
+          "tags": [
+            "#tecnología",
+            "#responsabilidad"
+          ],
+          "source_ids": [
+            2,
+            7
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/Waymo-Photo-1.jpeg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Amazon enfrenta problemas legales y de reputación después de que el CCAC australiano la acusó de violar la ley de protección de consumidores.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Actualmente no hay ningún medio de izquierda relacionado con este artículo.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">El medio neutral de BBC Business informó sobre el caso en el que el CCAC australiano acusó a Amazon de violar la ley de protección de consumidores, destacando la falta de transparencia en las prácticas comerciales de la compañía.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">El medio de derecha Fox Business publicó un artículo relacionado con la noticia, pero no se refirió directamente al caso de Amazon, en su lugar informó sobre la retirada de vehículos de Waymo debido a un problema con su software de conducción autónoma.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La controversia a la que se enfrenta Amazon pone de relieve las preocupaciones crecientes sobre la transparencia y la responsabilidad de las empresas tecnológicas. En un mercado donde la innovación y la eficiencia están en constante evolución, es esencial que las grandes corporaciones sean capaces de navegar por las complejidades del derecho y la ética. El caso de Amazon plantea preguntas fundamentales sobre la forma en que las empresas debemos operar y responder a las expectativas de los consumidores, los empleados y la sociedad en general.</p>"
+        },
+        {
+          "id": "topic-finanzas",
+          "headline": "Pobladores enfrentan obstáculos en el mercado inmobiliario",
+          "summary": "El alto nivel de tasas de hipoteca ha frustrado a los compradores de viviendas, lo que ha llevado a que tres de cada cinco casas permanezcan en el mercado sin venderse.",
+          "tags": [
+            "#finanzas",
+            "#inmobiliario"
+          ],
+          "source_ids": [
+            5,
+            8
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/Scammers-Photo-1.jpeg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Los pobladores enfrentan obstáculos en el mercado inmobiliario debido a las altas tasas de préstamo hipotecario.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">BBC Business presenta un informe imparcial sobre el mercado inmobiliario, informando que tres de cada cinco hogares listados para la venta desde enero siguen en el mercado, según el portal de propiedades Zoopla.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Fox Business parece desviar la atención del tema con una historia sobre fraude a familias en duelo, no presentando ninguna información relevante sobre el mercado inmobiliario.</div>\n  </div>\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">No hay información disponible sobre la perspectiva de los medios de izquierda en este tema.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El mercado inmobiliario es un reflejo de la salud económica de una nación. Cuando los pobladores enfrentan obstáculos para comprar o vender propiedades, es un signo de que algo no funciona bien en el sistema. Las altas tasas de préstamo hipotecario pueden ser el catalizador para un colapso en el mercado inmobiliario, lo que tendría consecuencias graves para la economía y la sociedad en su conjunto.</p>"
+        },
+        {
+          "id": "topic-ciberseguridad-y-crime",
+          "headline": "Ciberdelincuentes aprovechan vulnerabilidades en la seguridad",
+          "summary": "Los ciberdelincuentes explotan las vulnerabilidades en la seguridad, causando pérdidas importantes a los consumidores, y los bancos deben estar vigilantes contra estas formas de fraude.",
+          "tags": [
+            "#ciberseguridad",
+            "#crimen"
           ],
           "source_ids": [
             6,
             8
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Fabricantes de autos vuelven a contratar a ingenieros humanos después de que sus sistemas de IA fallaron a reproducir los controles de calidad.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">No se encuentran fuentes de medios de izquierda relacionadas con este tema. La informaci&oacute;n disponible est&aacute; centrada en art&iacute;culos de medios impasibles.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales presentan ambos lados de la historia de los fabricantes de autom&oacute;viles que retiran sus sistemas de IA y volvieron a contratar a ingenieros humanos. Por un lado, se destaca la ineficacia de los sistemas de IA en la reproducci&oacute;n de los controles de calidad de los ingenieros humanos, mostrando un punto de partida neutral para esta discusi&oacute;n. Por otro lado, se presentan citas de especialistas que ofrecen una perspectiva cr&iacute;tica de la dependencia de los sistemas de IA, subrayando la necesidad de un enfoque &uacute;tero en las habilidades y conocimientos humanos en el sector automotriz.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No se encuentran fuentes de medios de derecha relacionadas con este tema. La informaci&oacute;n disponible est&aacute; centrada en art&iacute;culos de medios impasibles que abordan este asunto desde una perspectiva equilibrada y neutral.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La retirada de los sistemas de IA y la vuelta a los ingenieros humanos plantea cuestiones interesantes sobre la capacidad de los avances tecnol&oacute;gicos para reemplazar las habilidades y conocimientos humanos. Si bien la IA ha demostrado ser una herramienta &uacute;til en muchas industrias, el sector automot&oacute;riz ha descubierto que no puede sustituir a los ingenieros humanos en la reproducci&oacute;n de los controles de calidad. Esta experiencia sirve de recordatorio de la importancia de mantener un equilibrio entre la tecnolog&iacute;a y las habilidades humanas en el lugar de trabajo. Al hacerlo, los fabricantes de autom&oacute;viles pueden aprovechar los beneficios de la IA mientras mantienen la seguridad y calidad de sus veh&iacute;culos.</p>"
-        }
-      ],
-      "rawCount": 9
-    },
-    "MARKETS_ECONOMY": {
-      "items": [
-        {
-          "id": "tema-1",
-          "headline": "Un artículo falso sobre Alito es rectificado por NPR",
-          "summary": "El canal de noticias rápido eliminó el artículo, escrito por la reportera de la Corte Suprema de NPR, Nina Totenberg, de su sitio web.",
-          "tags": [
-            "#NPR",
-            "#retractación"
-          ],
-          "source_ids": [
-            0
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/06/30/multimedia/OakArticle-6a43dc48-2-mtvf/OakArticle-6a43dc48-2-mtvf-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">NPR retira artículo que erróneamente dijo que el juez Alito se retiraría de la Corte Suprema.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Según lo informado por el NYT Business, los medios de izquierda informan sobre la retracción del artículo de NPR que erróneamente dijo que el juez Alito se retiraría de la Corte Suprema. La publicación de noticias rápidamente eliminó el artículo escrito por la periodista de la Corte Suprema de NPR, Nina Totenberg, de su sitio web. La retracción del artículo demuestra una falta de rigor en la investigación periodística y subraya la importancia de verificar las fuentes antes de difundir información.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Medios imparciales como NPR normalmente se enfocan en informar sobre los acontecimientos de manera imparcial y precisa. Sin embargo, en este caso, el artículo que se retractó muestra que incluso los medios más respetados pueden errar. La retracción del artículo no es necesariamente una cuestión de sesgo ideológico, sino más bien un recordatorio de la importancia de la verificación de fuentes y la precisión en la informática periodística.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Medios de derecha pueden estar interesados en destacar la falta de rigor en la investigación periodística de NPR y argumentar que la retracción del artículo demuestra una tendencia general a la izquierda en los medios de comunicación. Sin embargo, es importante recordar que la retracción del artículo no es necesariamente un ejemplo de sesgo ideológico, sino más bien una falta de diligencia en la investigación.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La retracción del artículo de NPR sobre la posible renovación del juez Alito nos recuerda la importancia de mantener la precisión y la objetividad en la informática periodística. En un entorno en el que la información puede difundirse rápidamente y tener consecuencias significativas, es fundamental que los medios de comunicación hagan un esfuerzo por investigar y verificar la información antes de difundirla. La retracción del artículo de NPR sirve como un recordatorio de la importancia de la ética periodística y la necesidad de mantener la credibilidad en un ambiente cada vez más complejo y lleno de información.</p>"
-        },
-        {
-          "id": "tema-2",
-          "headline": "Regla del Pentágono sobre seguridad implica a periodistas",
-          "summary": "Un juez federal bloqueó temporalmente una nueva regla que restringía el acceso a los periodistas del Pentágono, en un proceso judicial impulsado por The New York Times.",
-          "tags": [
-            "#Pentágono",
-            "#derechos de periodistas"
-          ],
-          "source_ids": [
-            1
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/06/30/multimedia/30biz-pentagon-escort-1-vzfp/30biz-pentagon-escort-1-vzfp-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El tribunal suspende una regla del Pentágono que requería escoltas para periodistas.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El New York Times destaca la prohibición del acceso a la zona militar como una amenaza para la libertad de prensa. En un artículo titulado \"Corte suspende regla del Pentágono que restringía la acceso de los reporteros\", la publicación destaca el papel de la justicia en la protección de los periodistas. Esta postura sugiere una relación de simpatía entre los medios y los reporteros, enfatizando la importancia de la libertad de información.</div>\n  </div>\n  <div class=\"bias-box bias-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Un análisis detallado de varios medios impartencales, como el Wall Street Journal, revela una narrativa más neutra. Algunos títulos mencionan la decisión del tribunal, destacando la importancia de la justicia en la resolución de conflictos. Aunque algunos medios de este grupo mencionan la tensión entre la seguridad y la libertad de prensa, no parece haber una postura clara o sesgada.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha, como la Fox News, están destacando el papel del tribunal en su decisión. Aunque no se menciona explícitamente a la prensa, los titulares sugieren que la protección de la seguridad y la seguridad nacional es primordial. Esta narrativa parece estar relacionada con la postura política de estos medios, que suelen enfatizar la importancia del nacionalismo y la seguridad.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La regla del Pentágono sobre seguridad que implicaba a los periodistas no es solo un asunto de acceso a la información, sino un indicador de una tensión mayor entre la libertad de prensa y la seguridad nacional. La decisión del tribunal puede considerarse una victoria para los defensores de la libertad de información, pero también plantea preguntas sobre la relación entre la seguridad y la transparencia. ¿Cuál es la línea del equilibrio entre la protección de la información y la protección de la seguridad? ¿Y cuál es el papel de la prensa en esta ecuación?</p>"
-        },
-        {
-          "id": "tema-3",
-          "headline": "Regulación comercial inexacta de Amazon en Australia causa disputa",
-          "summary": "La Comisión Australiana de Competencia y Consumidor ha presentado una queja a Amazon por supuestos contratos inexactos con sus suscriptores.",
-          "tags": [
-            "#Amazon",
-            "#protección al consumidor"
-          ],
-          "source_ids": [
-            2
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"Image URL\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La agencia australiana de competencia acusa a Amazon de violar leyes protección a los consumidores</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">No hay informes de que los medios de izquierda hayan cubierto este tema, pero si lo hicieran, posiblemente destacarían cómo Amazon ha explotado la vulnerabilidad de los consumidores australianos y violado las leyes locales. Podrían enfatizar la falta de regulación efectiva y cómo esto ha permitido que Amazon aproveche su posición dominante en el mercado para imponer condiciones poco favorables a sus clientes.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Según el artículo de BBC Business, los medios imparciales han cubierto el caso presentado por la ACCC contra Amazon, enfocándose en los detalles legales y la respuesta de Amazon. Sin adquirir una postura política o mostrar prejuicios, los medios imparciales ofrecen un análisis equilibrado y objetivo del asunto.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha pueden abordar este tema desde una perspectiva diferente. Podrían enfatizar la importancia de la regulación comercial y cómo es que Amazon ha sido capaz de operar dentro de los límites de la ley australiana. También podrían argumentar que las quejas contra Amazon son parte de un esfuerzo más amplio para controlar la economía digital y que este asunto puede tener implicaciones para la liberalización del comercio.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El caso de Amazon ante la ACCC plantea cuestiones más profundas sobre la regulación del comercio en línea y la responsabilidad de las empresas digitales hacia los consumidores. ¿Cuál es el papel adecuado del gobierno en la regulación del comercio electrónico? ¿Cómo puede el consumidor protegerse a sí mismo en un mercado cada vez más complejo? La respuesta a estas preguntas puede depender de la perspectiva política, pero es importante considerar las implicaciones más amplias de este asunto y cómo puede afectar a la economía y a los consumidores en todo el mundo.</p>"
-        },
-        {
-          "id": "tema-4",
-          "headline": "Problemas con el aire acondicionado y la venta de cruceros",
-          "summary": "La aerolínea Tui se disculpó y acordó enviar a los pasajeros a casa con vuelos y un reembolso completo.",
-          "tags": [
-            "#Tui",
-            "#viajes"
-          ],
-          "source_ids": [
-            4
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/660/cpsprodpb/17CD3/production/_126215216_cruise.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La falla del aire acondicionado deja viajeros de cruceros sin rumbo.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\"></div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Según el medio neutral BBC Business, Tui ha disculpado a los pasajeros y ha informado que ha organizado vuelos de regreso para mañana y un reembolso completo.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\"></div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La falla del aire acondicionado en un crucero puede parecer un incidente aislado, pero refleja una dinámica más amplia en la industria del turismo. La creciente demanda de viajes y la necesidad de optimizar los costos pueden llevar a las empresas a tomar medidas que comprometen la seguridad y la comodidad de los pasajeros. Es importante que las autoridades y las empresas de turismo prioricen la seguridad y la responsabilidad en la toma de decisiones empresariales.</p>"
-        },
-        {
-          "id": "tema-5",
-          "headline": "Baja demanda por compra de casas debido a altos tipos de interés",
-          "summary": "Tres de cada cinco casas puestas a la venta desde enero siguen en el mercado, según la plataforma de propiedades Zoopla.",
-          "tags": [
-            "#Zoopla",
-            "#tipos de interés"
-          ],
-          "source_ids": [
-            5
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/1024/branded News.png\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El mercado inmobiliario enfrenta un gran desafío debido a los altos tipos de interés.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">No se encontraron artículos de medios de izquierda para esta categoría</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Se observa un enfoque objetivo en la descripción del problema, destacando la dificultad para vender propiedades debido a los altos tipos de interés. Por ejemplo, en el artículo de BBC Business, se menciona que tres de cada cinco propiedades listadas para la venta desde enero siguen en el mercado, lo que sugiere un mercado inmobiliario desequilibrado. El artículo no toma partido ni adopta un tono emocional, ofreciendo información detallada y neutral.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No se encontraron artículos de medios de derecha para esta categoría</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La situación actual del mercado inmobiliario en Baja California, caracterizada por altos tipos de interés y dificultades para vender propiedades, plantea interrogantes sobre la estabilidad económica de la región. Es fundamental analizar las causas profundas de este problema y considerar posibles soluciones para aliviar la carga de los inversores y los compradores, promoviendo un crecimiento económico sostenible y justo. De este modo, se puede evitar que la crisis inmobiliaria se agravé aún más y se proteja la estabilidad financiera de quienes dependen de esta industria.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/fathers-day-tech-privacy.jpeg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Los ciberdelincuentes aprovechan vulnerabilidades en la seguridad para estafar a las familias.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">No se encontraron artículos de medios de izquierda relacionados con este tema.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">No se encontraron artículos de medios imparciales relacionados con este tema.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">En los artículos publicados por Fox Business, los medios de derecha enfatizaron la importancia de la seguridad en línea y cómo los ciberdelincuentes aprovechan vulnerabilidades para estafar a las familias. También destacaron la necesidad de que las personas sean conscientes de los peligros y tengan conocimientos previos sobre cómo detectar y prevenir el fraude.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La explotación de vulnerabilidades en la seguridad por parte de ciberdelincuentes es un tema complejo que requiere una reflexión profunda. Nos hace preguntar sobre la responsabilidad de proteger nuestros datos personales y como nuestras acciones en línea pueden tener consecuencias en nuestras vidas fuera de la pantalla. La seguridad en línea es un problema global que afecta a millones de personas en todo el mundo, y es esencial que trabajemos juntos para prevenir el fraude y mantener la confianza en la tecnología.</p>"
         }
       ],
       "rawCount": 9
