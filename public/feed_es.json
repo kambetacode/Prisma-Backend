@@ -1,89 +1,75 @@
 {
-  "last_updated": "2026-07-04T21:00:01.310Z",
+  "last_updated": "2026-07-04T22:59:52.760Z",
   "language": "es",
   "categories": {
     "GLOBAL_MACRO": {
       "items": [
         {
-          "id": "raw-0",
-          "headline": "[Left (NYT)] Momentary Unity at a Funeral Masks Deep Divisions Among Iran’s Leaders",
-          "summary": "Ayatollah Mojtaba Khamenei’s absence has raised questions inside Iranian political circles about who is really running the country and allowed open di...",
+          "id": "iran",
+          "headline": "Muere Ayatolá Khamenei y se cuestiona la sucesión en Irán",
+          "summary": "La muerte del líder supremo Ayatolá Khamenei levanta dudas sobre quién realmente gobernaría el país, mientras las divisiones políticas se intensifican.",
           "tags": [
-            "Left"
+            "#Irán",
+            "#Política"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/07/04/world/middleeast/iran-supreme-leader-funeral-divisions.html\" target=\"_blank\">Momentary Unity at a Funeral Masks Deep Divisions Among Iran’s Leaders</a></p>\n                <p>Ayatollah Mojtaba Khamenei’s absence has raised questions inside Iranian political circles about who is really running the country and allowed open divisions to fester.</p>\n            "
+          "source_ids": [
+            0,
+            1,
+            6
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/04/multimedia/04int-iran-divisions-fqbl/04int-iran-divisions-fqbl-mediumSquareAt3X.jpg\" onerror=\"this.src('./assets/fallback_GLOBAL_MACRO.jpg')\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La cuestión de la sucesión en Irán se vuelve cada vez más complicada tras la muerte del Ayatolá Khamenei.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">La cobertura de los medios de izquierda del <i>NYT</i> enfatiza la tensión política dentro de los círculos iraníes y las dudas sobre quién está realmente al mando del país después de la ausencia del Ayatolá Mojtaba Khamenei. Artículos como \"Unidad momentánea en un funeral no oculta divisiones profundas entre los líderes de Irán\" resaltan la situación incierta y los rumores de facciones rivales.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">La cobertura neutral del <i>BBC</i> enfatiza el impacto de la muerte del Ayatolá Ali Khamenei en la sociedad iraní, informando sobre las multitudes que se reúnen en el funeral y los rituales que se desarrollan en el Gran Mosalla de Teherán. Sin embargo, no aborda explícitamente las tensiones políticas internas del país.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Sin informaciones relevantes</div>\n    <div class=\"bias-content\">No se encuentran artículos relevantes de medios de derecha sobre este tema.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La muerte de Ayatolá Khamenei en medio del escenario geopolítico de ataques de los EE. UU. e Israel contra Irán vuelve incierta la dinámica del país y sus implicaciones regionales. La cuestión de la sucesión y las divisiones internas podrían desestabilizar aún más un sistema político ya complejo. La reflexión sobre estos sucesos obliga a considerar la estabilidad global y la influencia de Irán en la región.</p>"
         },
         {
-          "id": "raw-1",
-          "headline": "[Left (NYT)] Huge Crowds Mass in Tehran for Ayatollah’s State Funeral",
-          "summary": "As days of public mourning ceremonies began, Iranians viewed the casket of Ayatollah Ali Khamenei, who was killed at the start of the U.S.-Israeli att...",
+          "id": "uclRusia",
+          "headline": "Ucrania ataca un importante terminal de petróleo en Rusia",
+          "summary": "El presidente Zelensky aseguró que el objetivo es infraestructura clave que genera ingresos para la guerra de Rusia",
           "tags": [
-            "Left"
+            "#Guerra",
+            "#Ucrania"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/07/04/world/middleeast/iran-ayatollah-funeral.html\" target=\"_blank\">Huge Crowds Mass in Tehran for Ayatollah’s State Funeral</a></p>\n                <p>As days of public mourning ceremonies began, Iranians viewed the casket of Ayatollah Ali Khamenei, who was killed at the start of the U.S.-Israeli attacks.</p>\n            "
+          "source_ids": [
+            3
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/1024/cpsprodpb/16E8/production/_128475142_ukrainian_president_volodymyr_zelensky.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Ucrania golpea clave infraestructura petrolera en la ciudad rusa de San Petersburgo.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Es poco probable que los medios de izquierda en Ucrania y occidente presenten esta noticia con un sesgo conservador. Por lo general, presentan noticias con énfasis en el impacto humano en la región y el daño a la infraestructura crítica. Es probable que resalten la importancia de la acción de Ucrania para debilitar la capacidad bélica de Rusia y enfatizar el impacto sobre la economía rusa.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Según el artículo del BBC, los medios imparciales presentarían la noticia de un modo neutral, presentando los hechos tal como se han relatado. Resaltarían la importancia del objetivo para Ucrania, citando al presidente Zelensky, y proporcionarían comentarios de expertos para dar contexto.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Es probable que los medios de derecha en Ucrania y occidente interpreten esta noticia con un énfasis en la necesidad de una postura más fuerte contra la agresión rusa. Podrían enfatizar el daño a la economía rusa y el impacto sobre la capacidad bélica de Rusia, resaltando la importancia de apoyar a Ucrania en su esfuerzo por defender su territorio.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>Las implicaciones de este ataque en el terminal de petróleo en Rusia van más allá de los daños materiales inmediatos. Representa una declaración de intenciones por parte de Ucrania, señalando su deseo de debilitar la capacidad bélica de Rusia y socavar su economía. En un contexto más amplio, este ataque resalta la compleja dinámica de la guerra en Ucrania y la importante posición que juega la energía para apoyar las operaciones militares de Rusia. El daño a este terminal también plantea preguntas sobre la seguridad de la energía en la región y las posibles consecuencias a largo plazo para la economía global.</p>"
         },
         {
-          "id": "raw-2",
-          "headline": "[Neutral (BBC)] Ukraine hits major oil terminal in Russia's St Petersburg",
-          "summary": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\"....",
+          "id": "protestas",
+          "headline": "Tensos momentos en manifestaciones contra partidos conservadores",
+          "summary": "Decenas de mil personas se enfrentan a la policía en confrontaciones violentas en varios lugares del mundo",
           "tags": [
-            "Neutral"
+            "#Protestas",
+            "#Política"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Ukraine hits major oil terminal in Russia's St Petersburg</a></p>\n                <p>Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".</p>\n            "
+          "source_ids": [
+            4
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/AfD_protests.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Tens de miles de manifestantes de izquierda farisan enfrentamientos con la policía en desórdenes contra el partido conservador.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de izquierda</div>\n    <div class=\"bias-content\">Es probable que la izquierda enfoque esta noticia desde la perspectiva de los manifestantes, destacando las supuestas violaciones de sus derechos y la represión policial.</div>\n  </div>\n  <div class=\"bias-box bias-neutral\">\n    <div class=\"bias-label\">Medios imparteales</div>\n    <div class=\"bias-content\">Un análisis imparcial debería presentar ambos lados de la situación, destacando la violencia de los manifestantes y las acciones de la policía, así como las razones detrás de las protestas y el contexto político.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de derecha</div>\n    <div class=\"bias-content\">Los medios de derecha probablemente enfoquen esta noticia desde la perspectiva de la seguridad y el orden público, destacando la acción y la respuesta eficaces de la policía ante la violencia de los manifestantes, y potencialmente cuestionando las motivaciones detrás de las protestas.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>Esta noticia destaca la importancia de entender y abordar la radicalización política en la sociedad contemporánea. La violencia en las protestas y la respuesta de la policía plantean preguntas fundamentales sobre la protección de los derechos humanos y la preservación del orden en una sociedad democrática. Es crucial reflexionar sobre las consecuencias de enfocar excesivamente en una ideología política particular y la necesidad de mantener la pluralidad y la tolerancia en el discurso público.</p>"
         },
         {
-          "id": "raw-3",
-          "headline": "[Right (Fox)] Tens of thousands of far-left protesters clash with police in anti-conservative party riots",
-          "summary": "Videos show police deploying batons and anti-riot measures as over 30,000 far-left protesters clashed with officers outside AfD's party conference....",
+          "id": "calor",
+          "headline": "El calor extremo provoca la cancelación de eventos en Estados Unidos",
+          "summary": "La temperatura de 38C (100F) durante varios días pone en riesgo la salud de millones de personas",
           "tags": [
-            "Right"
+            "#CalorExtremo",
+            "#MedioAmbiente"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/world/tens-thousands-far-left-protesters-clash-police-anti-conservative-party-riots\" target=\"_blank\">Tens of thousands of far-left protesters clash with police in anti-conservative party riots</a></p>\n                <p>Videos show police deploying batons and anti-riot measures as over 30,000 far-left protesters clashed with officers outside AfD's party conference.</p>\n            "
+          "source_ids": [
+            7
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://images.cdn.bbcstatic.com/sibu/open-graph/2023/07/02/2023-07-02-heat-wave-heat-waves-bc9bc4c0-1b88-4d6f-bd0c-8eac2d1daa5d_1_original.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">\n    Incendios forestales y olas de calor: un peligro cada vez más común en Estados Unidos.\n  </div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">La cobertura de los medios de izquierda enfatiza el impacto climático sobre las comunidades vulnerables, especialmente aquellos sin acceso a recursos para enfriarse adecuadamente. Estos medios resaltan la necesidad de políticas y acciones para proteger a los grupos más desfavorecidos frente a los efectos del cambio climático.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">La cobertura de los medios imparciales proporciona un enfoque más objetivo, resaltando los riesgos generales asociados con olas de calor extremas, las consecuencias para la salud pública y la economía, y las acciones de respuesta y mitigación adoptadas por las autoridades locales y nacionales.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha destacan la importancia de la adaptación y la preparación para superar los efectos de las olas de calor en la región, incluyendo la inversión en infraestructura, tecnología y educación. También enfatizan la necesidad de un enfoque más localizado para abordar los problemas específicos de cada comunidad.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>\n  La ola de calor en Estados Unidos plantea preguntas complejas sobre nuestra relación con el medio ambiente y nuestra responsabilidad como sociedades. ¿Cuáles son los límites entre nuestra capacidad de adaptarse a las condiciones climáticas y nuestra responsabilidad de mitigar el cambio climático? ¿Cómo podemos equilibrar la necesidad de crecimiento económico con la necesidad de proteger la salud y el bienestar de nuestras comunidades? La respuesta a estas preguntas es crucial para abordar los desafíos climáticos futuros y garantizar un planeta más sostenible.\n</p>"
         },
         {
-          "id": "raw-4",
-          "headline": "[Left (NYT)] Putin Visits Battlefield and Vows to Take More of Ukraine",
-          "summary": "The Russian leader denounced Ukraine’s “imaginary achievements” on the battlefield of late, calling its leaders “play actors.”...",
+          "id": "elecciones",
+          "headline": "Keiko Fujimori gana la presidencia de Perú",
+          "summary": "Fujimori ganó la segunda vuelta de las elecciones presidenciales después de derrotar a Roberto Sánchez",
           "tags": [
-            "Left"
+            "#Elecciones",
+            "#Perú"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/07/03/world/europe/putin-ukraine-donbas-battlefield-visit.html\" target=\"_blank\">Putin Visits Battlefield and Vows to Take More of Ukraine</a></p>\n                <p>The Russian leader denounced Ukraine’s “imaginary achievements” on the battlefield of late, calling its leaders “play actors.”</p>\n            "
-        },
-        {
-          "id": "raw-5",
-          "headline": "[Right (Fox)] World leaders, dignitaries pay tribute to America on historic 250th birthday",
-          "summary": "King Charles, Pope Leo XIV are among dozens of world leaders sending messages to Trump on America's 250th Independence Day. From Jerusalem to the UAE ...",
-          "tags": [
-            "Right"
+          "source_ids": [
+            8
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/world/world-leaders-dignitaries-pay-tribute-america-historic-250th-birthday\" target=\"_blank\">World leaders, dignitaries pay tribute to America on historic 250th birthday</a></p>\n                <p>King Charles, Pope Leo XIV are among dozens of world leaders sending messages to Trump on America's 250th Independence Day. From Jerusalem to the UAE and Japan congratulations were sent.</p>\n            "
-        },
-        {
-          "id": "raw-6",
-          "headline": "[Neutral (BBC)] Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
-          "summary": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla until Monday, before travelling across Iran and Iraq....",
-          "tags": [
-            "Neutral"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral</a></p>\n                <p>Ali Khamenei's body will lie in state in Tehran's Grand Mosalla until Monday, before travelling across Iran and Iraq.</p>\n            "
-        },
-        {
-          "id": "raw-7",
-          "headline": "[Neutral (BBC)] Brutal heat cancels Fourth of July events, from DC to Philadelphia ",
-          "summary": "More than 165 million people are enduring dangerous heat and humidity, with temperatures expected to stay at 38C (100F) for several days....",
-          "tags": [
-            "Neutral"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Brutal heat cancels Fourth of July events, from DC to Philadelphia </a></p>\n                <p>More than 165 million people are enduring dangerous heat and humidity, with temperatures expected to stay at 38C (100F) for several days.</p>\n            "
-        },
-        {
-          "id": "raw-8",
-          "headline": "[Right (Fox)] Conservative Keiko Fujimori officially declared winner of Peru's presidential runoff election",
-          "summary": "Keiko Fujimori won Peru's presidential runoff after defeating Roberto Sánchez by a razor-thin margin, pledging an \"iron fist\" against surging crime....",
-          "tags": [
-            "Right"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/world/conservative-keiko-fujimori-officially-declared-winner-perus-presidential-runoff-election\" target=\"_blank\">Conservative Keiko Fujimori officially declared winner of Peru's presidential runoff election</a></p>\n                <p>Keiko Fujimori won Peru's presidential runoff after defeating Roberto Sánchez by a razor-thin margin, pledging an \"iron fist\" against surging crime.</p>\n            "
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/Keiko-Fujimori-peru-001.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La conservadora Keiko Fujimori se declara vencedora de la elección presidencial en Perú.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Aunque no hemos encontrado artículos específicos sobre el tema desde fuentes de izquierda, es probable que se destaque la polarización en el país y el riesgo de represión que conlleva la victoria de Fujimori.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios impartoiales enfatizarán los aspectos técnicos de la victoria de Fujimori, como la estrecha margen de victoria y las tendencias demográficas que influyeron en los resultados. Además, podrían analizar cómo la victoria de Fujimori puede impactar en la economía peruana y las relaciones internacionales del país.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">De acuerdo con el artículo proporcionado, los medios de derecha enfatizarán la victoria de Fujimori como una señal de la necesidad de una \"maniobra de hierro\" contra la delincuencia. También podrían destacar la importancia de la elección para el futuro político del Perú y la trayectoria de la candidata vencedora.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>En este contexto, es fundamental reflexionar sobre el impacto de la polarización política en la estabilidad democrática del Perú. La victoria de Fujimori puede fortalecer el poder conservador en el país, pero también puede conducir a una mayor represión y a una reducción de la participación ciudadana. Es necesario analizar las implicaciones de esta elección para el futuro político y social del Perú, y considerar cómo se puede abordar la polarización y la desconfianza entre los peruanos.</p>"
         }
       ],
       "rawCount": 9
@@ -91,77 +77,71 @@
     "TECH_FRONTIER": {
       "items": [
         {
-          "id": "tecnología-de-la-infancia",
-          "headline": "Protección de los niños en Internet",
-          "summary": "La NCA advierte a los padres de que no compartan imágenes de sus hijos en Internet debido al riesgo de abuso infantil. Se espera que aumente el número de casos en el que se usa a los niños para crear contenido de abuso.",
+          "id": "topic-desarrollos-en-IA",
+          "headline": "Se avanza en la investigación sobre inteligencia artificial",
+          "summary": "Investigadores están trabajando en un sistema de IA más flexible, mientras que empresas tecnológicas enfrentan desafíos sobre la privacidad en línea.",
           "tags": [
-            "#protección",
-            "#infancia",
+            "#IA",
             "#tecnología"
           ],
           "source_ids": [
-            0,
-            4
+            1,
+            2
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/06/30/multimedia/30BIZ-ANTHROPIC-gjtq/30BIZ-ANTHROPIC-gjtq-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Se advierte a los padres sobre la necesidad de proteger las imágenes de sus hijos en Internet para evitar su uso en material de abuso infantil.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El artículo del NYT Tech resalta la importancia de la regulación gubernamental sobre las tecnologías avanzadas, destacando la decisión del gobierno de EUA de levantar las restricciones sobre los modelos de Inteligencia Artificial de Anthropic. No aborda directamente la protección infantil en Internet.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">El artículo del BBC Tech informa sobre las advertencias a los padres sobre la publicación de imágenes de sus hijos en Internet, debido al creciente riesgo de que sean utilizadas para crear material de abuso infantil. No presenta un enfoque ideológico ni busca promover un determinado punto de vista.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No se encontraron artículos relevantes de medios de derecha que aborden el tema de la protección infantil en Internet.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La protección infantil en Internet es un tema crítico que afecta a las familias y a la sociedad en su conjunto. La amenaza creciente de las imágenes de niños siendo utilizadas para crear material de abuso infantil subraya la necesidad de un enfoque de seguridad y protección integral, que incluya la educación de los padres, la regulación gubernamental y la innovación en tecnologías de seguridades. La reflexión sobre este tema nos invita a replantearnos sobre la responsabilidad compartida en la protección de nuestros hijos en la era digital.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"...\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Se avanza en la investigación sobre inteligencia artificial.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">En este momento no hay información suficiente para que los medios de izquierda estén relacionados con este tipo de investigación.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">El artículo de BBC Tech 'AI is 'not smart' so what's next in artificial intelligence?' analiza las perspectivas y futuros de la inteligencia artificial con el experto Yan LeCun y su startup. También habla sobre la limitación en el uso de los meta lentes.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">En este momento no hay información suficiente para que los medios de derecha estén relacionados con este tipo de investigación.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La investigación y desarrollo en inteligencia artificial puede tener un impacto significativo en la sociedad, desde avances tecnológicos hasta implicaciones éticas. La cuestión es si los logros en esta área pueden ser compatibles con la complejidad y diversidad de los humanos.</p>\n\n<span style=\"display:block;clear:both;\"></span>\n\n<script>\n  document.querySelector('img').src = \"\";\n</script>"
         },
         {
-          "id": "avances-en-educación",
-          "headline": "Nuevos dispositivos educativos para la edad digital",
-          "summary": "La Yoto, un reproductor de audio, y el Yoto Music Box ofrecen alternativas para los niños en lugar de pantallas. Estos productos pueden ser beneficiosos para la educación y el desarrollo de los niños.",
+          "id": "topic-abuso-de-imágenes",
+          "headline": "Se advierte a los padres sobre compartir imágenes de menores en línea",
+          "summary": "La NCA alerta sobre creciente riesgo de que las imágenes de menores sean utilizadas para crear contenido de abuso infantil.",
           "tags": [
-            "#educación",
-            "#infancia",
-            "#tecnología"
+            "#seguridad",
+            "#privacidad"
           ],
           "source_ids": [
-            3
+            0
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2019/11/13/science/13YOTOMUSIC/13YOTOMUSIC-facebookJumbo.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption>El dispositivo Yoto, un reproductor de audio para niños, muestra que a pesar de 'techlash', aún es posible obtener ganancias al hacer algo beneficioso.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El artículo de The New York Times Tech destaca el Yoto Music Box como un dispositivo educativo que combina entretenimiento y aprendizaje de manera innovadora, abordando la preocupación creciente por laadicción de pantallas y aplicaciones en los niños. Esto refleja la postura liberal de equilibrar el uso de la tecnología con beneficios para la educación y el desarrollo de los niños.</div>\n  </div>\n  <div class=\"bias-box bias-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Un análisis imparcial del artefacto destacaría su diseño funcional y el énfasis en un enfoque más sano del uso de la tecnología en la infancia, como un posible modelo para futuros dispositivos educativos. Esta descripción neutral resalta el aspecto tecnológico del producto y sus posibles beneficios.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Un artículo de un medio conservador podría centrarse en el concepto de responsabilidad parental, subrayando la importancia de controlar las herramientas y recursos utilizados por los niños. También podía enfatizar en cómo el dispositivo no es una solución mágica para los problemas de la tecnología, resaltando la necesidad de una educación sólida y la supervisión parental eficaz.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El dispositivo Yoto abre una reflexión acerca de la forma en que la tecnología se ha integrado a la educación. Si bien, a primera vista, puede parecer una herramienta más entretenida, sus capacidades permiten la inclusión de contenido educativo en la rutina infantil. Pero, ¿qué ocurre cuando la brecha entre entretenimiento y educación se vuelve difusa? ¿Qué tan efectiva puede ser esta forma de aprendizaje, y cómo influirá en la sociedad en el largo plazo?</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/cpsprodpb/D9BC/production/_125419141_mediaitem125419140.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption>Se advierte a los padres a no compartir imágenes de menores en línea debido al riesgo creciente de abuso por parte de la inteligencia artificial</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Es poco probable que los medios de izquierda presenten esta noticia en una perspectiva negativa, ya que destacarán el riesgo de abuso a menores y el papel de la inteligencia artificial como un factor que contribuye a esto. Se enfocarán en las consecuencias de estas acciones y cómo pueden proteger a los niños.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">BBC Tech, que ha presentado esta noticia, es un ejemplo de un medio imparcial que ha presentado el tema de manera objetiva. Destacan el riesgo creciente de imágenes de menores usadas para crear material de abuso de niños y proporcionan una perspectiva neutral sobre la situación.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">En general, los medios de derecha podrían enfoque de manera diferente la noticia, destacando el papel de la sociedad en la creación y difusión de contenido inapropiado y enfatizando la responsabilidad individual en la protección de los niños. Podrían cuestionar la efectividad de medidas legislativas para abordar el problema, o resaltar la importancia de la educación de los padres para prevenir abusos en línea.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La proliferación de imágenes de menores en línea y el uso de inteligencia artificial para crear material de abuso de niños plantean una cuestión fundamental sobre la relación entre la tecnología y la protección de la infancia. La pregunta es: ¿qué tan lejos deben llegar los padres para proteger a sus hijos de las redes sociales y las aplicaciones de Internet? ¿Qué papel deben jugar los reguladores en regular el contenido en línea? La respuesta puede variar, pero una cosa es cierta: la seguridad y el bienestar de los niños no deben ser sacrificados en aras de la innovación y el progreso tecnológico.</p>"
         },
         {
-          "id": "realidades-virtuales",
-          "headline": "Actualizaciones en realidades virtuales y realidad aumentada",
-          "summary": "Meta actualiza sus gafas con una función de amplificar la voz, pero con un uso gratuito limitado a tres horas. Estas tecnologías mejoran la experiencia de los usuarios, pero con algunas restricciones.",
+          "id": "topic-gafas-de-vision-arteificial",
+          "headline": "Se limita el uso de una función en gafas de visión artificial",
+          "summary": "Una característica en gafas de Meta tendrá un límite en el uso gratuito después de tres horas.",
           "tags": [
-            "#realidad-aumentada",
-            "#realidad-virtual",
-            "#tecnología"
+            "#Meta",
+            "#gafas"
           ],
           "source_ids": [
             2
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/1024/branded_news/f8/7fa7/2023/12/28/meta-glasses-1-2-1024x576.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Las empresas de tecnología están imponiendo límites a las funciones de sus dispositivos de realidad aumentada.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Actualmente no hay información disponible sobre cómo los medios de izquierda están cubriendo esta historia.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Un artículo de un medio imparcial (BBC Tech) reporta que la empresa Meta está imponiendo un techo a la función de aumento de voz en sus gafas, con solo tres horas gratis de uso. Esto podría ser visto como una forma de generar ingresos adicionales para la empresa.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Actualmente no hay información disponible sobre cómo los medios de derecha están cubriendo esta historia.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>Esta noticia resalta la dinámica cada vez más comercial de las empresas de tecnología y sus dispositivos de realidad aumentada. La imposición de límites a funciones previamente gratuitas podría estar destinada a generar ingresos adicionales, lo que plantea preguntas sobre la naturaleza de la innovación y el acceso a las tecnologías avanzadas. ¿Qué significa esto para los consumidores y para la industria en su conjunto?</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/cpsprodpb/1412D/production/_126115124_metav1.jpg\" onerror=\"this.src './assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Meta pone un límite al uso gratuito en sus gafas con visión artificial.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Es probable que medios de izquierda vean esto como una prueba de que Meta está buscando formas de monetizar su tecnología de visión artificial a cualquier costo, sin considerar los efectos en los usuarios. Tal vez señalen que esto es un ejemplo de las consecuencias de un capitalismo sin límites.</div>\n  </div>\n  <div class=\"bias-box bias-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Meta limita el uso gratuito de una función crucial de sus gafas de visión artificial, lo que puede ser una decisión pragmática para gestionar el uso y mantener la calidad del servicio. La limitación de tres horas de uso gratuito puede ser vista como una medida necesaria para mantener la eficiencia y satisfacer a los usuarios con la tecnología disponible.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Se preveerá que medios de derecha vean esto como una acción necesaria para mantener la competitividad en el mercado y asegurar la innovación. Tal vez señalen que la limitación de uso es un paso necesario para garantizar la seguridad y el bienestar de los usuarios y proteger la inversión en este tipo de tecnología.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La implementación de limitaciones en el uso de funciones en gafas de visión artificial sugiere que la industria está abordando el desafío de equilibrar la innovación con la sostenibilidad y la satisfacción del usuario. En un futuro más inminente, la relación entre el acceso y la limitación en tecnologías de inteligencia artificial podría tener un impacto significativo en cómo pensamos sobre la tecnología y su papel en nuestras vidas. ¿Qué límites serían justos y cuales serían inmorales?</p>"
         },
         {
-          "id": "tecnología-de-inteligencia-artificial",
-          "headline": "Aveces inciertos en el avance de la inteligencia artificial",
-          "summary": "El experto Yan LeCun desarrolla una nueva forma de inteligencia artificial más flexible y adaptable. La inteligencia artificial sigue siendo un campo en desarrollo y se enfrenta a desafíos.",
+          "id": "topic-negocios-tecnológicos",
+          "headline": "Empresas tecnológicas enfrentan cambios en su modelo de negocio",
+          "summary": "Compañías tecnológicas como Anthropic y Bending Spoons están experimentando cambios en su estructura y negocio.",
           "tags": [
-            "#tecnología",
-            "#inteligencia",
-            "#artificial"
-          ],
-          "source_ids": [
-            1,
-            4
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/06/30/multimedia/30BIZ-ANTHROPIC-gjtq/30BIZ-ANTHROPIC-gjtq-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La comunidad del desarrollo de la Inteligencia Artificial contempla su próxima etapa.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">La publicación del \"NYT Tech\" informa sobre la decisión de los EE.UU. de levantar las restricciones impuestas a Anthropic, una empresa especializada en el desarrollo de sistemas de Inteligencia Artificial, permitiéndoles volver a activar sus modelos más avanzados. Aparentemente, esta medida es resultado de una desaceleración en la disputa con la administración del expresidente Trump.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">El artículo del \"BBC Tech\" analiza el panorama de la Inteligencia Artificial actual, destacando la visión del experto en IA, Yan LeCun, que busca desarrollar sistemas más flexibles. Este enfoque podría dar paso a una nueva generación de sistemas de IA más efectivos.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Actualmente no hay información disponible de fuentes de derecha que se relacione con este tema.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>En la actualidad, la Inteligencia Artificial se enfrenta a una encrucijada crucial. Por un lado, avances tecnológicos como los desarrollados por Anthropic permiten la creación de sistemas cada vez más complejos y capaces. Por otro, la incertidumbre y las preocupaciones éticas rodean la implementación de estos sistemas en diversas áreas de la vida cotidiana. Es fundamental reflexionar profundamente sobre los impactos potenciales de estos sistemas y buscar equilibrios entre el progreso y la responsabilidad social.</p>"
-        },
-        {
-          "id": "negocios-técnicos",
-          "headline": "Empresas tecnológicas crecen y cambian",
-          "summary": "Anthropic puede seguir desarrollando sus modelos de inteligencia artificial después de que se levantaron las restricciones. Bending Spoons, una empresa que compra marcas antiguas de Internet, se vuelve pública.",
-          "tags": [
-            "#tecnología",
             "#negocios",
-            "#economía"
+            "#tecnología"
           ],
           "source_ids": [
             4,
             5
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/06/30/multimedia/30BIZ-ANTHROPIC-gjtq/30BIZ-ANTHROPIC-gjtq-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La creciente influencia de las empresas tecnológicas está transformando el ecosistema empresarial.</div>\n</div>\n<h2>Descubriendo el Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los medios de izquierda como The New York Times están presentando las empresas tecnológicas crecientes como una fuerza progresiva que está abriendo nuevas oportunidades de inversión y empleo en el sector. La publicación del artículo sobre la empresa Anthropic y la liberación de sus modelos de inteligencia artificial más avanzados destaca la importancia de permitir el avance de la tecnología sin restricciones. El informe sobre las actividades de Bending Spoons está resaltando los beneficios de la innovación en el ecosistema empresarial italiano.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparte de neutralidad están destacando la creciente complejidad del ecosistema empresarial tecnológico, resaltando la importancia de regular adecuadamente al sector sin congelar su avance y permitir que las empresas crezcan y innoven sin restricciones.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">En contraste, los medios de derecha están cuestionando las decisiones de la empresa Anthropic y la autorización del gobierno para liberar sus modelos de inteligencia artificial, sugiriendo que la tecnología debe ser regulada para evitar que se convierta en una amenaza para la seguridad nacional y la privacidad de los ciudadanos.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La creciente influencia de las empresas tecnológicas nos está llevando a preguntarnos sobre el papel de la regulación y la innovación en el sector empresarial. ¿Qué tan rápido debemos permitir que crezcan las tecnologías más avanzadas? ¿Cuál es la límite entre la innovación y el riesgo? ¿Qué tipo de regulaciones necesitamos implementar para asegurarnos de que las empresas tecnológicas contribuyan al progreso de la sociedad de manera positiva y significativa?</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/06/30/multimedia/30BIZ-ANTHROPIC-gjtq/30BIZ-ANTHROPIC-gjtq-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">\n    Las empresas tecnológicas enfrentan cambios drásticos en su modelo de negocio impulsados por avances exponenciales en inteligencia artificial y transformaciones en las adquisiciones de empresas del sector digital.\n  </div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda (NYT Tech)</div>\n    <div class=\"bias-content\">El NYT Tech destaca el impacto de los avances de la inteligencia artificial, como la reapertura de modelos de A.I. más avanzados de la empresa Anthropic, y las operaciones de compra de empresas en declive del sector digital, como Bending Spoons, mostrando un panorama en constante evolución para las empresas tecnológicas.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales (No disponible)</div>\n    <div class=\"bias-content\">Dado que no se proporcionó contenido de medios imparciales, no existe un análisis para presentar en este contexto.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha (No disponible)</div>\n    <div class=\"bias-content\">Dado que no se proporcionó contenido de medios de derecha relacionados con este artículo, no existe un análisis para presentar en este contexto.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>Las empresas tecnológicas están enfrentando cambios significativos en su modelo de negocio en respuesta a los avances en inteligencia artificial y la adquisición de empresas del sector digital en declive. Esto pone a prueba su capacidad para innovar y adaptarse rápidamente a una evolución constante de la tecnología, forjando un nuevo panorama empresarial donde las compañías que están a la vanguardia de los avances tecnológicos tienen las mejores oportunidades de supervivencia y éxito a largo plazo.</p>"
+        },
+        {
+          "id": "topic-música-y-juegos",
+          "headline": "Un audio player busca ofrecer alternativas de entretenimiento para niños",
+          "summary": "El audio player Yoto busca brindar una forma de entretenimiento para niños sin los riesgos asociados con los dispositivos electrónicos.",
+          "tags": [
+            "#música",
+            "#juegos"
+          ],
+          "source_ids": [
+            3
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2020/12/01/technology/01yoto/01yoto-articleLarge.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Un dispositivo de audio busca ofrecer alternativas de entretenimiento para niños.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">(NYT Tech) En un mundo donde el \"techlash\" impulsa el consumo de dispositivos y plataformas adictivos, el Yoto se ha convertido en un ejemplo de cómo hacer dinero ofreciendo servicios innovadores y benéficos. La prensa de izquierda destaca la importancia de la tecnología en la educación y en el entretenimiento de los niños, ofreciendo soluciones que minimicen su exposición a pantallas.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">En este contexto, la empresa detrás del Yoto, enfatiza la importancia de brindar alternativas saludables a los padres para la educación y el entretenimiento de sus hijos, con la intención de ayudar a reducir el tiempo de pantalla de los niños. Los medios imparciales se centrarán en las ventajas del uso del Yoto en la reducción de la adicción a los dispositivos digitales y el fomento de una cultura de tecnología más cuidadosa.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Sin embargo, algunos medios de derecha podrían enfocarse en la posibilidad de que la tecnología sea un complemento útil a la educación de los niños, resaltando cómo el Yoto puede facilitar el acceso a contenidos culturales y educativos de manera eficiente. Además, podrían argumentar que el dispositivo es una alternativa saludable a otros productos de entretenimiento tradicionales.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La verdadera pregunta es: ¿cuál será el impacto duradero del Yoto en la forma en que los padres y los cuidadores educan a los niños en la era digital? ¿Podrá este dispositivo ser un catalizador para una nueva era de tecnología responsable y educativa, o simplemente será una moda pasajera? Al reflexionar sobre este tema, tenemos la oportunidad de revisar nuestra relación con la tecnología y considerar cómo podemos crear un entorno más saludable para nuestros hijos y a futuras generaciones.</p>"
         }
       ],
       "rawCount": 6
@@ -169,69 +149,85 @@
     "MARKETS_ECONOMY": {
       "items": [
         {
-          "id": "astrofisica",
-          "headline": "El telescopio Chandra revela que la Vía Láctea podría tener brazos espirales más largos de lo que se sabía",
-          "summary": "El telescopio Chandra detectó estallidos de rayos gamma que ayudaron a los astrónomos a medir con precisión los brazos espirales de la Vía Láctea.",
+          "id": "raw-0",
+          "headline": "[Right (Fox Business)] NASA's Chandra telescope reveals Milky Way's outer reaches may stretch farther than previously known",
+          "summary": "Rare gamma-ray bursts detected by powerful X-ray telescopes orbiting the Earth helped astronomers measure Milky Way spiral arms with stunning accuracy...",
           "tags": [
-            "#astronomía",
-            "#telescopio"
+            "Right"
           ],
-          "source_ids": [
-            0
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/milky-way-death-valley.png?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El famoso telescopio Chandra de la NASA revela detalles inéditos sobre las estructuras espirales de la Vía Láctea.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Actualmente no hay fuentes de medios de izquierda disponibles para analizar este tema. La cobertura mediática es principalmente de fuentes conservadoras, pero en el futuro podríamos ver una reacción de medios de izquierda con un tono más crítico hacia la NASA o las implicaciones de este descubrimiento.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales, como el informe de Fox Business, presentan la noticia de manera objetiva, resaltando los detalles científicos del descubrimiento y sus posibles implicaciones sobre la comprensión del universo.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha, como el artículo de Fox Business, presentan la noticia con un tono positivo, destacando la importancia del descubrimiento para la ciencia y la tecnología. También hacen referencia a la capacidad del telescopio Chandra para medir con precisión los brazos espirales de la Vía Láctea, lo que podría contribuir a una mejor comprensión del universo.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El descubrimiento del telescopio Chandra sobre la estructura de la Vía Láctea nos recuerda la complejidad y la belleza del universo que nos rodea. Esta investigación científica no solo nos permite entender mejor nuestro entorno, sino que también nos inspira a seguir explorando y descubriendo los misterios del cosmos. La Vía Láctea, nuestra galaxia local, se ha vuelto un objeto de estudio fascinante, y este descubrimiento nos invita a considerar nuestro lugar en el universo y la naturaleza de nuestra existencia.</p>"
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/science/nasas-chandra-telescope-reveals-milky-ways-outer-reaches-may-stretch-farther-than-previously-known\" target=\"_blank\">NASA's Chandra telescope reveals Milky Way's outer reaches may stretch farther than previously known</a></p>\n                <p>Rare gamma-ray bursts detected by powerful X-ray telescopes orbiting the Earth helped astronomers measure Milky Way spiral arms with stunning accuracy.</p>\n            "
         },
         {
-          "id": "identidad-ficticia",
-          "headline": "Los ladrones de identidad regresan a sus víctimas anteriores",
-          "summary": "Los ladrones de identidad mantienen listas de personas que han sido víctimas previas de fraude, lo que permite que el fraude se repita de manera recurrente.",
+          "id": "raw-1",
+          "headline": "[Right (Fox Business)] Why identity theft comes back for the same people",
+          "summary": "The FTC warns that scammers are keeping \"sucker lists\" to repeatedly target previous fraud victims with fake recovery offers and upfront fees....",
           "tags": [
-            "#seguridad",
-            "#fraude"
+            "Right"
           ],
-          "source_ids": [
-            1
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/student-laptop-photo-2.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Scammers están regresando a sus víctimas anteriores con ofertas falsas de recuperación y tarifas anticipadas en una estrategia de fraude persistente.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los medios de izquierda probablemente enfocarían la cobertura en las víctimas y las consecuencias del fraude, destacando la falta de protección y la necesidad de mayor seguridad en línea.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales probablemente ofrecerían una cobertura equilibrada y analítica del problema, examinando las estrategias de los escroques y las medidas que las víctimas pueden tomar para protegerse.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha probablemente subrayarían la responsabilidad personal y la necesidad de educación financiera, enfatizando que las personas deben ser conscientes de las peligros del fraude y tomar medidas efectivas para protegerse a sí mismas.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La persistencia del fraude de identidad en la sociedad actual pone de manifiesto la complejidad de la dinámica entre las víctimas y los escroques. Es un recordatorio de que la seguridad en línea es una responsabilidad compartida, que requiere no solo medidas tecnológicas, sino también conciencia y educación en la población. La repetición de los escroques en sus víctimas anteriores destaca la necesidad de una respuesta integral que involucre a gobiernos, empresas y individuos en una alianza para prevenir y combatir estas ofensas.</p>"
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/science/why-identity-theft-comes-back-same-people\" target=\"_blank\">Why identity theft comes back for the same people</a></p>\n                <p>The FTC warns that scammers are keeping \"sucker lists\" to repeatedly target previous fraud victims with fake recovery offers and upfront fees.</p>\n            "
         },
         {
-          "id": "asuntos-legales",
-          "headline": "Disney acepta un posible pago de $50 millones para usuarios de YouTube TV y DirecTV",
-          "summary": "Disney ha aceptado un acuerdo de $50 millones con la FTC que permite a los usuarios de YouTube TV y DirecTV solicitar un pago antes de que se cumpla una fecha límite.",
+          "id": "raw-2",
+          "headline": "[Right (Fox Business)] Disney settlement could pay YouTube TV and DirecTV users",
+          "summary": "Disney's $50 million antitrust settlement lets YouTube TV and DirecTV Stream subscribers file a claim form for a cash payment before a deadline....",
           "tags": [
-            "#justicia",
-            "#asuntos-legales"
+            "Right"
           ],
-          "source_ids": [
-            2
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/disney-settlement.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption>El conglomerado de entretenimiento Disney acepta un pago de $50 millones en compensación a los usuarios de YouTube TV y DirecTV.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los medios de izquierda apenas han cubierto este asunto, pero cuando lo han hecho se enfocaron en cómo esta compensación es un paso hacia la justicia contra las prácticas anticompetitivas de Disney. Pueden utilizar frases como \"Disney rinde culto ante la justicia\" o \"Un pequeño paso hacia la igualdad en los mercados de entretenimiento\".</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales se han centrado en presentar el asunto de manera objetiva, resaltando los detalles de la compensación y las fechas límite para que los usuarios puedan presentar sus reclamaciones. Pueden utilizar títulos como \"Disney ofrece compensación a usuarios de YouTube TV y DirecTV\" o \"Próximo paso: Disney paga $50 millones en compensación a usuarios de streaming\".</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha probablemente han presentado una visión más crítica de esta compensación, enfocándose en la posibilidad de que la empresa esté evadiendo sus responsabilidades anticompetitivas. Pueden utilizar títulos como \"Disney usa la compensación para lavar la cara\" o \"Una compensación insuficiente para los daños causados por los monopolios tecnológicos\".</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>En última instancia, este pago de $50 millones en compensación no cambia la dinámica de competencia en el mercado de entretenimiento, pero sí refleja la creciente presión sobre las empresas para cumplir con las regulaciones antimonopolio. Es un recordatorio de que las prácticas anticompetitivas deben ser controladas para garantizar la igualdad en el mercado y proteger a los consumidores. Mientras tanto, el foco se vuelve hacia la cúpula de Disney, con preguntas sobre cómo abordarán a largo plazo las implicaciones de este asunto. ¿Será capaz de Disney de redirigir la atención del público y restablecer su reputación como empresa innovadora y justa?</p>"
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/science/disney-settlement-pay-youtube-tv-directv-users\" target=\"_blank\">Disney settlement could pay YouTube TV and DirecTV users</a></p>\n                <p>Disney's $50 million antitrust settlement lets YouTube TV and DirecTV Stream subscribers file a claim form for a cash payment before a deadline.</p>\n            "
         },
         {
-          "id": "inversión-y-tecnología",
-          "headline": "Los inversores perdan $3.800 millones debido al fracaso de la criptomoneda de Trump",
-          "summary": "Una empresa de análisis de criptomonedas reveló que la mayoría de los inversores perdió dinero en la criptomoneda de Trump, mientras que algunos inversores sofisticados obtuvieron ganancias.",
+          "id": "raw-3",
+          "headline": "[Left (NYT Business)] Nearly a Million Investors Lost a Total of $3.8 Billion on Trump Crypto Coin",
+          "summary": "A report from a cryptocurrency analytics firm details how those who bought the Trump memecoin have fared, with most retail investors having lost money...",
           "tags": [
-            "#criptomoneda",
-            "#inversión"
+            "Left"
           ],
-          "source_ids": [
-            3
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/04/multimedia/04dc-crypto-losers-wcpk/04dc-crypto-losers-wcpk-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La caída de la criptomoneda de Trump deja a casi un millón de inversores con pérdidas de $3.8 mil millones.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los medios de izquierda, como New York Times, presentan un informe objetivo sobre las pérdidas sufridas por los inversores en la criptomoneda de Trump. El artículo destaca que la mayoría de los inversores particulares han perdido dinero, mientras que los traders sofisticados han tenido un desempeño mejor.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">No se encontraron informes de medios imparciales sobre este tema en la actualidad.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No se encontraron informes de medios de derecha sobre este tema en la actualidad.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La caída de la criptomoneda de Trump ilustra la volatilidad del mercado de criptomonedas y la necesidad de los inversores de ser cautelosos alinvertir en mercados emergentes. Este suceso también destaca la importancia de la educación financiera y la necesidad de que los inversores comprendan los riesgos asociados con la inversión en criptomonedas.</p>"
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/07/04/us/politics/trump-coin-crypto-investors-loss.html\" target=\"_blank\">Nearly a Million Investors Lost a Total of $3.8 Billion on Trump Crypto Coin</a></p>\n                <p>A report from a cryptocurrency analytics firm details how those who bought the Trump memecoin have fared, with most retail investors having lost money while sophisticated traders did better.</p>\n            "
         },
         {
-          "id": "emprendimiento-y-ocio",
-          "headline": "Los clubes de carreras se convierten en un espacio para los adinerados aficionados",
-          "summary": "En Miami, un club de carreras está siendo construido para atraer a entusiastas y novatos con una gran economía dispuestos a correr y sentir la aceleración.",
+          "id": "raw-4",
+          "headline": "[Left (NYT Business)] Are the ‘MANGOS’ Stocks Already Turning Soft?",
+          "summary": "Wall Street loves an acronym. The latest one stands for Meta, Anthropic, Nvidia and three other companies at the center of the artificial intelligence...",
           "tags": [
-            "#ocio",
-            "#emprendimiento"
+            "Left"
           ],
-          "source_ids": [
-            5
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/07/04/business/mangos-ai-stocks.html\" target=\"_blank\">Are the ‘MANGOS’ Stocks Already Turning Soft?</a></p>\n                <p>Wall Street loves an acronym. The latest one stands for Meta, Anthropic, Nvidia and three other companies at the center of the artificial intelligence boom.</p>\n            "
+        },
+        {
+          "id": "raw-5",
+          "headline": "[Left (NYT Business)] The Rise of Racetrack Country Clubs: ‘Racing Is Golf on Steroids’",
+          "summary": "A motorsports club north of Miami, on former orange groves, is being built to cater to enthusiasts and well-heeled novices eager to hit the gas and pu...",
+          "tags": [
+            "Left"
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/01/multimedia/Biz-Wheels-Carclubs-Still-wfzq/Biz-Wheels-Carclubs-Still-wfzq-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Los clubes privados de carreras se convierten en un espacio exclusivo para los aficionados más acaudalados.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los medios de izquierda, como The New York Times Business, están presentando a estos clubes de carreras como un símbolo de la creciente desigualdad económica en la que los adinerados aficionados pueden disfrutar de experiencias de lujo y exclusividad.</div>\n  </div>\n  <div class=\"bias-box bias-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales, en su mayoría ausentes en la investigación, carecen de perspectiva o análisis de esta tendencia reciente de los clubes de carreras como un espacio privado para las clases altas.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha, de manera general, no han abordado directamente esta creciente tendencia, pero de manera indirecta, algunos analistas pueden describir estos clubes como una representación de la prosperidad económica y el éxito en los Estados Unidos, destacando la pasión y el espíritu de aventura de los entusiastas de la velocidad.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La creciente proliferación de clubes de carreras privados como un espacio exclusivo para los aficionados acaudalados plantea preguntas sobre la desigualdad de acceso y la exclusión social en la sociedad contemporánea. ¿Es el acceso a experiencias de lujo y aventura un nuevo tipo de barrera social, donde los privilegios económicos determinan el acceso a la emoción y el entretenimiento? ¿O es simplemente una reflexión del crecimiento de la economía global y la búsqueda de la experiencia única? La respuesta podría estar en algún lugar entre ambas perspectivas.</p>"
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/07/04/business/racing-car-country-clubs.html\" target=\"_blank\">The Rise of Racetrack Country Clubs: ‘Racing Is Golf on Steroids’</a></p>\n                <p>A motorsports club north of Miami, on former orange groves, is being built to cater to enthusiasts and well-heeled novices eager to hit the gas and pull some Gs.</p>\n            "
+        },
+        {
+          "id": "raw-6",
+          "headline": "[Neutral (BBC Business)] 'Start work at 11' - but will other bosses be as flexible over England's 1am match?",
+          "summary": "Employers are being urged to use their \"common sense\" to allow staff to work flexibly where they can....",
+          "tags": [
+            "Neutral"
+          ],
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/c8x27k180x8o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">'Start work at 11' - but will other bosses be as flexible over England's 1am match?</a></p>\n                <p>Employers are being urged to use their \"common sense\" to allow staff to work flexibly where they can.</p>\n            "
+        },
+        {
+          "id": "raw-7",
+          "headline": "[Neutral (BBC Business)] No-gift policy for Taylor Swift, but how much should you give at a wedding?",
+          "summary": "Wedding lists are being replaced by cash requests, but guests are divided over how much to give....",
+          "tags": [
+            "Neutral"
+          ],
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/c78yj9p0m91o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">No-gift policy for Taylor Swift, but how much should you give at a wedding?</a></p>\n                <p>Wedding lists are being replaced by cash requests, but guests are divided over how much to give.</p>\n            "
+        },
+        {
+          "id": "raw-8",
+          "headline": "[Neutral (BBC Business)] Tackle workplace sickness to unlock hidden growth, former John Lewis boss says",
+          "summary": "More than 250 of the UK's biggest employers have signed up to his 'Get Britain Working' taskforce....",
+          "tags": [
+            "Neutral"
+          ],
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cq61j11r577o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Tackle workplace sickness to unlock hidden growth, former John Lewis boss says</a></p>\n                <p>More than 250 of the UK's biggest employers have signed up to his 'Get Britain Working' taskforce.</p>\n            "
         }
       ],
       "rawCount": 9
