@@ -1,76 +1,81 @@
 {
-  "last_updated": "2026-07-07T17:59:04.167Z",
+  "last_updated": "2026-07-07T20:07:57.453Z",
   "language": "en",
   "categories": {
     "GLOBAL_MACRO": {
       "items": [
         {
-          "id": "topic-presidential-elections",
-          "headline": "French Court's Ruling Allows Presidential Candidate to Run with Conditions",
-          "summary": "The French court has shortened the embezzlement ban imposed on Marine Le Pen, allowing her to run for president in 2027, but she must wear an ankle monitor.",
+          "id": "politics-french-elections",
+          "headline": "Marine Le Pen Runs for French Presidency, Appeal Still Pending",
+          "summary": "Marine Le Pen, leader of the National Rally, has announced her candidacy for the French presidency, but still faces a conviction appeal. A court has ruled she can run but will have to wear a tag for a year.",
           "tags": [
             "#France",
-            "#PresidentialElection"
+            "#MarineLePen",
+            "#PresidentialElections"
           ],
           "source_ids": [
             0,
-            4
+            2,
+            5
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/Marine_LePen.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">A French court has ruled on the eligibility of Marine Le Pen to run for president in 2027, setting a conditional path for her candidacy.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">The BBC frames the news in a neutral manner, focusing on the key points of the court's ruling and Le Pen's potential presidential run. The article provides a clear and factual account of the situation without expressing any explicit opinion or bias.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">The Fox News article presents a more nuanced view of the situation, discussing the potential complications that Le Pen's house arrest and ankle monitor may pose for her campaign. While the article aims to inform the reader about the court's ruling and its implications, it subtly frames the news in a more favorable light for Le Pen and the conservative movement.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>This ruling has significant implications for the 2027 French presidential elections and the dynamics of French politics. By allowing Marine Le Pen to run while imposing conditions that may complicate her campaign, the court has raised questions about the balance between a candidate's rights and the need for accountability and public trust. The decision also underscores the contentious nature of French politics, where the legitimacy and credibility of candidates are frequently called into question by the judiciary and the media.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/Marine_LePen.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Marine Le Pen's 2027 French presidential bid clears major hurdle despite house arrest threat.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Neutrally reporting on the court's decision and the impact of Marine Le Pen's potential candidacy, without emotive language or sensationalism. (Source: BBC)</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Focusing on the procedural aspects of the court's ruling and its implications for Marine Le Pen's campaign, maintaining a detached tone. (Source: BBC)</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Framing the news in an overwhelmingly positive light for Marine Le Pen, emphasizing her chance to clear her name and compete in the 2027 French presidential election despite personal setbacks. (Source: Fox)</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The implications of Marine Le Pen's potential 2027 French presidential campaign go beyond her personal situation, touching on broader concerns about European politics, national security, and social issues that have become increasingly polarized in the region. As the European Union faces numerous challenges, the rise of right-wing and populist movements raises questions about the future direction of European politics and the potential impact on global stability.</p>"
         },
         {
-          "id": "topic-political-upheaval",
-          "headline": "Leaders Resign and Face Pressure to Run in Upcoming Elections",
-          "summary": "Nigel Farage has resigned and announced plans to run in a special election, while Marine Le Pen faces pressure to decide whether to run for president despite an ankle monitor.",
+          "id": "nato-summit",
+          "headline": "NATO to Reassess Alliance and European Contributions",
+          "summary": "The NATO summit in Turkey focuses on building a new alliance model as European countries rearm and deal with the impact of President Trump's policies.",
           "tags": [
-            "#Populism",
-            "#Elections"
+            "#NATO",
+            "#Europe",
+            "#US"
           ],
           "source_ids": [
             1,
-            4
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/08/multimedia/08int-uk-farage-01-mvcf/08int-uk-farage-01-mvcf-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Populist leaders are facing increasing pressure to resign in the face of scandals, leaving open the possibility of running in upcoming elections.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">The New York Times is framing Nigel Farage's resignation as a response to increased pressure, implying a sense of accountability for his actions. However, by using the term \"populist right-wing party,\" they may be framing his movement in a negative light, suggesting that it is radical or extremist.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">The BBC is framing Marine Le Pen's situation as a test of her willingness to adapt to the consequences of her actions. By reporting on her court case and the potential impact on her presidential run, they are providing a fair and balanced view of the situation, without taking a clear stance.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">No relevant right-leaning media sources were provided for this topic.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The recent trend of populist leaders resigning under pressure and subsequently seeking to run in upcoming elections raises important questions about accountability and the role of politics in modern society. As these leaders navigate the grey areas between politics and ethics, they are forcing citizens to re-examine their expectations and values. By examining the tactics and motivations of these leaders, we can gain insight into the complexities of democratic governance and the tensions that arise from the pursuit of power.</p>"
-        },
-        {
-          "id": "topic-middle-east-conflict",
-          "headline": "Israel and Hamas Continue Tensions Amid Gaza Government Dissolution",
-          "summary": "Hamas has announced the dissolution of Gaza's governing body, but Israel remains skeptical, citing concerns over the group's intentions.",
-          "tags": [
-            "#Israel",
-            "#MiddleEast"
-          ],
-          "source_ids": [
             2
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/12/931/523/hamas2.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Tensions remain high as Hamas claims to dissolve its Gaza government, but Israel is skeptical of the group's true intentions.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">Left-leaning media is unlikely to be covering this topic as it has limited relevance to their primary focus areas.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Neutral media outlets might frame this as a step forward towards peace in the region, while also acknowledging the potential risks associated with a dissolution of the Hamas government in Gaza.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Right-leaning media outlets such as Fox, which provided the source article, frame this as a performative step taken by Hamas to preserve its armed control while relinquishing civilian burdens. They emphasize skepticism about Hamas' true intentions, portraying it as a power play.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The dissolution of Hamas' Gaza government is a complex issue that raises questions about the group's long-term strategic goals. On one hand, it could be seen as a genuine attempt to reform and move towards peace with Israel. On the other hand, it might be a tactical maneuver to consolidate power and maintain control over Gaza's civilian population. This development highlights the inherent challenges in brokering peace in the Middle East, where mistrust and competing interests have long been obstacles to meaningful negotiations.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/07/multimedia/07int-nato-assess-01-bljh/07int-nato-assess-01-bljh-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">NATO leaders are set to reassess the alliance's direction at a crucial summit in Turkey, amidst growing demands for European countries to take on a greater burden.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">The New York Times article, \"In NATO’s Next Act, Can Europe Lead?\" presents a predominantly positive view of the alliance's push for Europe to take on a greater burden. The article highlights the need for European countries to step up and contribute more, while subtly framing President Trump's demands as a catalyst for this change.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">The BBC article, \"Trump looms large as Nato grapples with challenge of rearming Europe\", maintains a neutral tone by primarily focusing on the challenges and complexities surrounding NATO's reassessment. While it acknowledges President Trump's provocative rhetoric, it avoids taking a clear stance or perpetuating a particular agenda.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\" style=\"display: none;\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\" style=\"display: none;\">This media source is not represented in the provided articles.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>NATO's reassessment and the push for Europe to contribute more to the alliance raise fundamental questions about the nature of global politics, defense, and cooperation. This development highlights the need for European countries to assert their strategic autonomy and take a more proactive role in shaping international relations, rather than relying on the US. It also serves as a reminder that global security is a complex, multifaceted issue that requires collective effort and cooperation to address effectively.</p>"
         },
         {
-          "id": "topic-iran-and-ukrainian-terror",
-          "headline": "Explosions in Ukraine and Iran Result in Fatalities and Injuries",
-          "summary": "A woman suspected of a Monaco bomb attack has been found dead in Ukraine, while blasts in Iran have resulted in mass mournings and injuries.",
+          "id": "european-security",
+          "headline": "Nigel Farage Resigns Amid Pressure and Investigations",
+          "summary": "Nigel Farage, leader of the Reform U.K. party, has resigned amid pressure and investigations regarding undisclosed gifts and donations.",
           "tags": [
-            "#Terrorism",
+            "#Farage",
+            "#UK",
+            "#Politics"
+          ],
+          "source_ids": [
+            3
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/08/multimedia/08int-uk-farage-01-mvcf/08int-uk-farage-01-mvcf-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Nigel Farage's resignation amid pressure and investigations marks a significant shift in the UK's political landscape.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">The left-leaning media, in this case, the NYT, frames Farage's resignation as a result of mounting pressure due to undisclosed gifts and donations. This portrayal suggests that Farage's actions have led to his downfall, and raises questions about his accountability and credibility as a public figure.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">There is limited information available on how neutral media outlets are framing this story, as there were no specific articles provided for analysis. However, in general, neutral media tends to focus on presenting the facts of the situation, without taking a particular stance or promoting a specific agenda.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Right-leaning media outlets may frame Farage's resignation as a result of political harassment or persecution, suggesting that the left-leaning media and establishment are targeting him due to his conservative views. This interpretation portrays Farage as a victim of political intolerance, rather than a politician facing consequences for his actions.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The resignation of Nigel Farage marks a significant moment in UK politics, highlighting the increasing scrutiny and accountability that politicians face in the public eye. As the role of social media and investigative journalism continues to evolve, it is clear that politicians will be held to a higher standard of transparency and accountability. This development underscores the importance of a free and independent press, capable of uncovering the truth and holding power to account.</p>"
+        },
+        {
+          "id": "middle-east-conflict",
+          "headline": "Hamas Announces Gaza Government Dissolution Amid Ongoing Tensions",
+          "summary": "Hamas says it will dissolve its Gaza government, but critics argue this move is a performative step to preserve armed control while surrendering civilian burdens.",
+          "tags": [
+            "#Hamas",
+            "#Gaza",
             "#MiddleEast"
           ],
           "source_ids": [
-            3,
-            5
+            6
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/07/multimedia/07int-iran-funeral-01-vpkh/07int-iran-funeral-01-vpkh-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">A series of explosions in Ukraine and Iran have resulted in fatalities and injuries, highlighting the ongoing turmoil and tensions in these regions.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">The New York Times' article focuses on the mass mournings in Qom, Iran, highlighting the significance of Ayatollah Ali Khamenei's funeral and the weeklong funeral organized by Iran's government. This framing is characteristic of left-leaning media, which often places emphasis on the cultural, social, and historical contexts of global events. By shifting the focus to the funeral ceremony, the NYT aims to humanize the story and emphasize the emotional impact on the Iranian people.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">The BBC's article reports on the suspect of the Monaco bomb attack, Anastasiia Berezovska, being found dead in Ukraine. This neutral tone is characteristic of mainstream media outlets, which prioritize factual reporting and avoid taking a stance on the story. By focusing on the concrete details of the investigation, the BBC aims to provide a straightforward account of the event, sans speculation or opinion.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">(No relevant article was provided for this section)</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The explosions in Ukraine and Iran serve as a poignant reminder of the interconnectedness of global events and the human cost of conflict. As we grapple with the complexities of international relations and the rise of extremist ideologies, it is essential to acknowledge the lives lost, the families affected, and the communities shattered by violence. By examining the narratives surrounding these events, we can gain a deeper understanding of the underlying dynamics driving global tensions and forge new paths towards peace, cooperation, and reconciliation.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/12/931/523/hamas2.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Hamas' dissolution of its Gaza governing body has sparked concerns about the militant group's intentions and its potential impact on regional tensions.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">As of now no articles have been reviewed from a left-leaning media source, therefore the bias framing cannot be established at this time.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Unfortunately, neutral media coverage on this topic is currently unavailable for review to frame the story.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Right-leaning media outlets, such as Fox News, frame Hamas' decision to dissolve its Gaza governing body as a tactical maneuver aimed at preserving their armed control while transferring civilian responsibilities. Critics argue that this move only serves to further empower Hamas rather than genuinely reform their governance in Gaza.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The implications of Hamas' decision to dissolve its Gaza governing body are multifaceted and potentially far-reaching. On one hand, the dissolution could be seen as a genuine attempt by Hamas to reform and democratize its governance structures in Gaza. On the other hand, it can be interpreted as a tactical ploy aimed at preserving their armed control and maintaining their grip on power in the region. The consequences of this move are likely to be felt not only in Gaza but also in the broader Middle East, with potential repercussions for regional stability and security.</p>"
         },
         {
-          "id": "topic-nato-and-russia",
-          "headline": "NATO Leaders Discuss Air Defence and Russian Strikes",
-          "summary": "The Ukrainian president has pressed NATO for air defence systems after intense Russian strikes, with leaders meeting in Turkey to discuss a new model for the alliance.",
+          "id": "international-security",
+          "headline": "Blast in Monaco Linked to Ukrainian National Suspect Found Dead in Ukraine",
+          "summary": "A Ukrainian millionaire was injured in a bomb blast in Monaco, and police were hunting a suspect, Anastasiia Berezovska, who was found dead in Ukraine.",
           "tags": [
-            "#NATO",
-            "#Russia"
+            "#Monaco",
+            "#Ukraine",
+            "#InternationalSecurity"
           ],
           "source_ids": [
-            7
+            4
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/branded_news/1B4E/production/_121124177_zelensky.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">NATO leaders are expected to discuss bolstering air defence systems for Ukraine amidst ongoing Russian strikes.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">Left-leaning media outlets may frame the discussion of air defence systems as a key measure to protect Ukraine from Russian aggression, emphasizing the need for stronger international support in the face of what they perceive as Russian expansionism and disregard for humanitarian concerns.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Neutral media, such as the BBC article provided, presents a factual account of the discussion and the Ukrainian president's request for air defence systems, without taking a side or promoting a specific agenda, instead focusing on conveying the events and concerns as reported.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Right-leaning media may frame the issue as a question of military strategy and deterrence, potentially highlighting the capabilities and potential risks associated with deploying air defence systems in Ukraine, with a focus on the geopolitical implications and the balance of power in the region.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The discussion of air defence systems in the context of ongoing Russian strikes in Ukraine highlights the complexities and risks of military strategy in the modern era, where the need for protection, deterrence, and international cooperation is constantly shifting amidst global tensions and power struggles. The Ukrainian president's request for air defence systems serves as a pressing reminder of the human cost of conflict and the need for diplomatic and economic aid to support those affected, underscoring the importance of a nuanced and multifaceted approach to addressing global challenges.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/1024/branded_news/1381/production/_127444444_image-1.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">A woman suspected of carrying out a bomb attack in Monaco that left a Ukrainian millionaire injured has been found dead in Ukraine.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">Unfortunately, due to a lack of sources from left-leaning media outlets directly reporting on this topic, we are unable to provide a detailed analysis of how they have framed the story.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Neutral media outlets, like the BBC, typically focus on factual reporting of the event and the authorities' response. In this case, the BBC reports on the discovery of Anastasiia Berezovska's body without sensationalizing the incident or adding their opinion.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Like the left leaning media, due to a lack of sources from right-leaning media outlets directly reporting on this topic, we are unable to provide a detailed analysis of how they have framed the story.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The discovery of Anastasiia Berezovska's body raises questions about the nature of terrorism and the global spread of extremist ideologies. While this incident may seem isolated, it is part of a larger trend of violence and instability in Eastern Europe, which warrants a nuanced and multidisciplinary approach to address its root causes and prevent future attacks.</p>"
         }
       ],
       "rawCount": 9
@@ -164,85 +169,71 @@
     "MARKETS_ECONOMY": {
       "items": [
         {
-          "id": "raw-0",
-          "headline": "[Left (NYT Business)] Mariska Hargitay to Host the Emmys",
-          "summary": "The “Law & Order: SVU” star is a departure from the comedians and sitcom actors who have typically hosted the annual awards show....",
+          "id": "Homeownership-Changes",
+          "headline": "UK Homeowners to Face Higher Mortgage Payments",
+          "summary": "One million UK homeowners may see a £45 average increase in their monthly mortgage payments as they move to new deals over the next two years.",
           "tags": [
-            "Left"
+            "#Mortgages",
+            "#UKEconomy"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/07/07/business/media/mariska-hargitay-emmys-host.html\" target=\"_blank\">Mariska Hargitay to Host the Emmys</a></p>\n                <p>The “Law & Order: SVU” star is a departure from the comedians and sitcom actors who have typically hosted the annual awards show.</p>\n            "
+          "source_ids": [
+            2,
+            3
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2024/03/Georgia-Property-Taxes.gif\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">UK homeowners may face significant increases in mortgage payments over the next two years.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">No left-leaning media source was used in this analysis.</div>\n    <div class=\"bias-content\">N/A</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">The BBC Business source presents a neutral perspective on the topic, focusing on the facts of homeowners facing higher mortgage payments. The article does not contain emotive language or personal opinions, instead providing a straightforward report on the financial implications for UK homeowners.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">The Fox Business source has a right-leaning bias, using the topic as a opportunity to highlight a separate issue with property records data and real estate wire fraud. The article shifts focus to a secondary issue that may be perceived as a risk to homeowners, rather than directly addressing the main topic of higher mortgage payments.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The topic of higher mortgage payments serves as a microcosm for broader financial insecurity felt by many UK citizens. It underscores the precarious nature of household finances, with seemingly small increases in costs quickly adding up to significant burdens. As the UK continues to grapple with post-Brexit economic uncertainty, the consequences of these rising mortgage payments will have far-reaching effects on homeowners' financial stability, ultimately influencing their overall quality of life.</p>"
         },
         {
-          "id": "raw-1",
-          "headline": "[Neutral (BBC Business)] One million more UK homeowners set  to face higher mortgages",
-          "summary": "Homeowners face paying £45 a month more on average when they move onto a new deal over the next two years....",
+          "id": "Economy-ForeignInvestment",
+          "headline": "Foreign Investment in US Threatened by Tariffs and Regulations",
+          "summary": "While tariffs may have pushed more capital into the US, other factors are making it harder to attract foreign investment, which could impact the US economy.",
           "tags": [
-            "Neutral"
+            "#ForeignInvestment",
+            "#USEconomy"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cze9kpxx6d8o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">One million more UK homeowners set  to face higher mortgages</a></p>\n                <p>Homeowners face paying £45 a month more on average when they move onto a new deal over the next two years.</p>\n            "
+          "source_ids": [
+            0,
+            5
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/07/multimedia/07biz-foreign-investment-01-zvjf/07biz-foreign-investment-01-zvjf-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Foreign investment in the US is facing unprecedented challenges due to rising tariffs and regulations, threatening to disrupt the country's economic growth.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">The left-leaning article, \"Trump Promised a Foreign Investment Boom. It's Getting Harder to Deliver,\" from the New York Times (NYT) frames the issue as a result of the Trump administration's policies, implying that the current administration's actions are having a detrimental effect on foreign investment. The article highlights the challenges faced by foreign investors due to tariffs and regulations, but does not provide an alternative solution or perspective.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Note: Neutral media article not provided in the given sources.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">No right-leaning media article is provided in the given sources to analyze.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The challenges facing foreign investment in the US are a complex issue with far-reaching implications. As the US continues to prioritize protectionism and regulations, it may drive capital away from the country, potentially disrupting its economic growth and influencing global trade patterns. Additionally, the shift in foreign investment may have broader consequences, such as job losses and reduced economic cooperation, underscoring the need for a nuanced and multifaceted approach to addressing these challenges.</p>"
         },
         {
-          "id": "raw-2",
-          "headline": "[Right (Fox Business)] Selling your home this summer? Your data is already moving",
-          "summary": "Scammers target home sellers through property records and data brokers. Real estate wire fraud and people search sites put your nest egg at risk....",
+          "id": "Gaming-Regulations",
+          "headline": "Online Gamblers Face New Checks",
+          "summary": "Regulators will require punters who bet over £1,000 online in a 24-hour window to undergo an assessment, aiming to prevent problem gaming.",
           "tags": [
-            "Right"
+            "#GamblingRegulations",
+            "#UKRegulator"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/science/selling-home-summer-data-already-moving\" target=\"_blank\">Selling your home this summer? Your data is already moving</a></p>\n                <p>Scammers target home sellers through property records and data brokers. Real estate wire fraud and people search sites put your nest egg at risk.</p>\n            "
+          "source_ids": [
+            4
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/media/images/69571000/png/69571581png_976.png\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">The UK gambling regulator is implementing stricter checks on high-rollers who bet more than £1,000 online in a 24-hour window.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">There is no clear indication of left-leaning media framing this topic, as the information provided is general and does not reflect a specific ideological stance. However, some left-leaning outlets might focus on the socioeconomic implications of excessive gambling, highlighting the potential need for stricter regulations to protect vulnerable individuals and communities.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Neutral media outlets, such as the BBC, are framing this topic in a factual and matter-of-fact manner, simply reporting on the regulatory changes without injecting a personal viewpoint or bias. This approach provides a straightforward summary of the new rules without taking a stance on the issue.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">There is no clear indication of right-leaning media framing this topic, as the information provided is general and does not reflect a specific ideological stance. However, some right-leaning outlets might focus on the potential negative economic implications of excessive regulation, highlighting the importance of individual freedom and responsibility in managing one's finances.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The implementation of stricter checks on high-rollers who bet more than £1,000 online in a 24-hour window reflects a broader societal concern about the impact of excessive gambling on individuals and communities. As technology continues to shape the way people interact with and engage in various activities, including online betting, regulators must strike a balance between protecting vulnerable individuals and allowing for responsible gaming practices. This topic raises questions about the role of government intervention in regulating industries that operate online, highlighting the need for ongoing dialogue and evaluation of the complex relationships between technology, finance, and human behavior.</p>"
         },
         {
-          "id": "raw-3",
-          "headline": "[Neutral (BBC Business)] Online gamblers betting more than £1,000 to face new checks",
-          "summary": "Punters who bet more than £1,000 online in a 24-hour window will have to undergo an assessment, the regulator says....",
+          "id": "Technology-AI",
+          "headline": "OpenAI's AI Model Requires Government Approval",
+          "summary": "The Trump administration has requested approval for early access to OpenAI's GPT-5.6 Sol model, raising questions about government control over AI cybersecurity tools.",
           "tags": [
-            "Neutral"
+            "#AI",
+            "#GovernmentRegulation"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cqj1xvy44xno?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Online gamblers betting more than £1,000 to face new checks</a></p>\n                <p>Punters who bet more than £1,000 online in a 24-hour window will have to undergo an assessment, the regulator says.</p>\n            "
+          "source_ids": [
+            6
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/2-fake-chatgpt-apps-are-hijacking-your-phone-without-you-knowing-copy.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">The Trump administration's requirement for OpenAI's GPT-5.6 Sol model may raise concerns about the potential for government control over AI cybersecurity tools.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">No available left-leaning media articles were analyzed for this topic, potentially due to a lack of coverage or conflicting news priorities.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Neutral media framing would likely focus on providing an objective summary of the situation, including the technical details behind OpenAI's new AI model, GPT-5.6 Sol, and its requirement for government approval. The article would aim to convey an impartial tone, neither favoring nor opposing the administration's decision.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Right-leaning media, such as this article from Fox Business, presents a narrative that suggests the Trump administration's requirement for government approval represents a necessary measure for ensuring the cybersecurity of AI tools. The framing emphasizes the potential implications of the model falling into the wrong hands and the importance of oversight in the development and deployment of advanced AI technologies.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The controversy surrounding OpenAI's GPT-5.6 Sol model raises fundamental questions about the delicate balance between technological progress, national security, and individual autonomy. The prospect of government control over AI cybersecurity tools underscores the importance of transparent communication and regulatory frameworks that address the evolving landscape of artificial intelligence.</p>"
         },
         {
-          "id": "raw-4",
-          "headline": "[Left (NYT Business)] U.S. Trade Deficit Widens in May on Record Goods Imports",
-          "summary": "Imports of foreign goods, including pharmaceuticals and equipment for data centers, hit a record high, pushing the monthly trade deficit to its highes...",
+          "id": "TV-Industry",
+          "headline": "The View's Status as a News Program Confirmed",
+          "summary": "The FCC has reaffirmed its 2002 ruling that The View is a 'bona fide news program', after ABC filed a new ruling in a dispute over program classification.",
           "tags": [
-            "Left"
+            "#NewsIndustry",
+            "#Programming"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/07/07/business/economy/us-trade-deficit-may.html\" target=\"_blank\">U.S. Trade Deficit Widens in May on Record Goods Imports</a></p>\n                <p>Imports of foreign goods, including pharmaceuticals and equipment for data centers, hit a record high, pushing the monthly trade deficit to its highest level in over a year.</p>\n            "
-        },
-        {
-          "id": "raw-5",
-          "headline": "[Left (NYT Business)] Trump Promised a Foreign Investment Boom. It’s Getting Harder to Deliver.",
-          "summary": "The threat of tariffs may have helped push more capital into the United States, but other factors are pushing it away....",
-          "tags": [
-            "Left"
+          "source_ids": [
+            0
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/07/07/business/economy/trump-foreign-investment.html\" target=\"_blank\">Trump Promised a Foreign Investment Boom. It’s Getting Harder to Deliver.</a></p>\n                <p>The threat of tariffs may have helped push more capital into the United States, but other factors are pushing it away.</p>\n            "
-        },
-        {
-          "id": "raw-6",
-          "headline": "[Right (Fox Business)] Trump puts brakes on OpenAI’s newest AI model",
-          "summary": "OpenAI's GPT-5.6 Sol model requires Trump administration approval for early access, raising questions about government control over AI cybersecurity t...",
-          "tags": [
-            "Right"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/science/trump-puts-brakes-openais-newest-ai-model\" target=\"_blank\">Trump puts brakes on OpenAI’s newest AI model</a></p>\n                <p>OpenAI's GPT-5.6 Sol model requires Trump administration approval for early access, raising questions about government control over AI cybersecurity tools.</p>\n            "
-        },
-        {
-          "id": "raw-7",
-          "headline": "[Neutral (BBC Business)] Banks accused of pushing customers away from basic accounts",
-          "summary": "Some of the UK's biggest banks have been failing their most vulnerable customers, according to the financial regulator....",
-          "tags": [
-            "Neutral"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cgl33dyk7y9o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Banks accused of pushing customers away from basic accounts</a></p>\n                <p>Some of the UK's biggest banks have been failing their most vulnerable customers, according to the financial regulator.</p>\n            "
-        },
-        {
-          "id": "raw-8",
-          "headline": "[Right (Fox Business)] NASA's Chandra telescope reveals Milky Way's outer reaches may stretch farther than previously known",
-          "summary": "Rare gamma-ray bursts detected by powerful X-ray telescopes orbiting the Earth helped astronomers measure Milky Way spiral arms with stunning accuracy...",
-          "tags": [
-            "Right"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/science/nasas-chandra-telescope-reveals-milky-ways-outer-reaches-may-stretch-farther-than-previously-known\" target=\"_blank\">NASA's Chandra telescope reveals Milky Way's outer reaches may stretch farther than previously known</a></p>\n                <p>Rare gamma-ray bursts detected by powerful X-ray telescopes orbiting the Earth helped astronomers measure Milky Way spiral arms with stunning accuracy.</p>\n            "
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/07/multimedia/ABC-FCC-VIEW-Vance-ljvp/ABC-FCC-VIEW-Vance-ljvp-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">ABC confirms 'The View' is a news program, citing a 2002 FCC ruling.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">According to a recent NYT article, the New York Times frames this story as a validation of 'The View's' status as a news program, emphasizing ABC's confirmation. The NYT article does not express skepticism toward ABC's assertion or scrutinize the details of the 2002 FCC ruling, instead focusing on the affirmation of 'The View's' status.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">A balanced analysis from a neutral media outlet would provide a comprehensive overview of the FCC ruling, 'The View's' content, and the implications of ABC's confirmation. They might also explore the nuances and potential criticisms of the 2002 ruling, offering a more in-depth examination of the topic.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Right-leaning outlets might frame this story as an example of an establishment media outlet receiving undeserved validation from regulatory bodies. They could scrutinize the FCC's ruling, questioning the relevance of a 2002 decision to modern-day media landscape or arguing that 'The View's' content does not merit the label of a news program.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The distinction between news and opinion programming has become increasingly blurred in modern media, with many programs blending elements of both. This topic raises important questions about the role of regulatory bodies and the standards by which media outlets are evaluated. Should the 2002 FCC ruling, which predates significant changes in the media landscape, still serve as a benchmark for what constitutes a news program in today's context?</p>"
         }
       ],
       "rawCount": 9
