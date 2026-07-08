@@ -1,20 +1,11 @@
 {
-  "last_updated": "2026-07-08T21:10:07.296Z",
+  "last_updated": "2026-07-08T23:08:45.887Z",
   "language": "es",
   "categories": {
     "GLOBAL_MACRO": {
       "items": [
         {
           "id": "raw-0",
-          "headline": "[Neutral (BBC)] US launches new wave of strikes against Iran after promising to 'hit them hard'",
-          "summary": "Explosions have been reported by Iranian state media in parts of the country's south....",
-          "tags": [
-            "Neutral"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">US launches new wave of strikes against Iran after promising to 'hit them hard'</a></p>\n                <p>Explosions have been reported by Iranian state media in parts of the country's south.</p>\n            "
-        },
-        {
-          "id": "raw-1",
           "headline": "[Left (NYT)] Iran War Live Updates: U.S. Launches New Strikes on Iran, Military Says",
           "summary": "U.S. Central Command said on social media that it was protecting shipping in the Strait of Hormuz. President Trump said earlier that he thought a thre...",
           "tags": [
@@ -23,13 +14,22 @@
           "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump\" target=\"_blank\">Iran War Live Updates: U.S. Launches New Strikes on Iran, Military Says</a></p>\n                <p>U.S. Central Command said on social media that it was protecting shipping in the Strait of Hormuz. President Trump said earlier that he thought a three-week-old cease-fire was “over.”</p>\n            "
         },
         {
-          "id": "raw-2",
+          "id": "raw-1",
           "headline": "[Left (NYT)] Trump Praises NATO’s ‘Unity’ After Lashing Out at Allies",
           "summary": "Though President Trump assailed partners for not joining the war in Iran, he said he would grant Ukraine long-sought authority to make the Patriot def...",
           "tags": [
             "Left"
           ],
           "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/live/2026/07/08/world/nato-summit-turkey-trump-ukraine\" target=\"_blank\">Trump Praises NATO’s ‘Unity’ After Lashing Out at Allies</a></p>\n                <p>Though President Trump assailed partners for not joining the war in Iran, he said he would grant Ukraine long-sought authority to make the Patriot defense system.</p>\n            "
+        },
+        {
+          "id": "raw-2",
+          "headline": "[Neutral (BBC)] US launches more strikes on Iran with blasts reported in south of country",
+          "summary": "Trump says the attacks are \"retribution for yesterday's bombing of ships by Iran\". Iran earlier promised strong retaliation....",
+          "tags": [
+            "Neutral"
+          ],
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">US launches more strikes on Iran with blasts reported in south of country</a></p>\n                <p>Trump says the attacks are \"retribution for yesterday's bombing of ships by Iran\". Iran earlier promised strong retaliation.</p>\n            "
         },
         {
           "id": "raw-3",
@@ -91,71 +91,76 @@
     "TECH_FRONTIER": {
       "items": [
         {
-          "id": "temas-1",
-          "headline": "Evolución de la tecnología de IA",
-          "summary": "La tecnología de inteligencia artificial se está convirtiendo en un tema cada vez más importante en la industria tecnológica, con empresas como OpenAI, Anthropic y Meta trabajando en proyectos de generación de imágenes y otros avances.",
+          "id": "ciencia-de-la-computación",
+          "headline": "Tecnologías de procesamiento de lenguaje artificial avanzan a pasos acelerados",
+          "summary": "Compañías como OpenAI y Anthropic están desempeñando un papel importante en el desenvolvimiento de la inteligencia artificial, que ahora se está aplicando en campos como la creación de imágenes a imagen de los usuarios de Instagram.",
           "tags": [
-            "#tecnologia",
-            "#ia"
+            "#lenguaje_artificial",
+            "#inteligencia_artificial"
           ],
           "source_ids": [
             0,
             1,
-            3
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/05/multimedia/HOUSING-IPO-1-01-qjgw/HOUSING-IPO-1-01-qjgw-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La tecnología de IA alcanza cotizaciones en Wall Street y cambia la realidad de las ventas residenciales.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El New York Times tech presenta a la tecnología de IA OpenAI y Anthropic como la fuente de problemas en la industria de las ventas residenciales en San Francisco, destacando cómo los vendedores están utilizando acciones en lugar de efectivo.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">La BBC tech informa sobre los problemas de privacidad relacionados con la creación de imágenes a través de la tecnología de IA en Instagram, destacando la preocupación de los campañistas de privacidad por la utilización de perfiles públicos.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">No está disponible ningún artículo relevante de medios de derecha para esta análisis.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>En la era de la tecnología de IA, la cuestión de quién obtiene acceso a la información generada por la automatización de procesos es fundamental. La evolución de la tecnología de IA no solo está cambiando la forma en que hacemos las cosas, sino que también está redefiniendo qué significa el dinero y la propiedad. Es hora de reflexionar sobre la responsabilidad y el control del desarrollo de la tecnología de IA, asegurando que los beneficios de la innovación se distribuyan de manera equitativa y que el progreso no venga a expensas de la privacidad y la seguridad de los individuos y las comunidades.</p>"
-        },
-        {
-          "id": "temas-2",
-          "headline": "Movimientos de la Esports World Cup",
-          "summary": "La Esports World Cup cambió su ubicación a último minuto de Riyadh a París, en 8 semanas, debido presión política y críticas.",
-          "tags": [
-            "# deportes",
-            "# esports"
-          ],
-          "source_ids": [
-            2
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/media/images/853w/tv/production/_126115551_126115535.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La Esports World Cup cambia repentinamente de dirección con un último momento desde Arabia Saudita hasta París.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Es de esperar que los medios de izquierda, como Al Jazeera, se concentren en la controversia que rodeó la decisión inicial de que la Esports World Cup se celebrara en Arabia Saudita. Pueden enfatizar los reclamos de derechos humanos y las críticas a la presencia de Arabia Saudita en los escenarios deportivos internacionales.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">BBC Tech, como el medio de este análisis, probablemente abordará el tema con un enfoque neutral. Podrían destacar la celeridad con la que se reubicó la competencia de París y analizar los posibles motivos detrás de la decisión. También pueden mencionar las implicaciones de la reubicación para la comunidad esports.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha, como Fox Sports, pueden enfocarse en la reubicación de la Esports World Cup como una oportunidad para promover el deporte y la economía en París. Pueden destacar los beneficios económicos y la visibilidad global que obtiene la ciudad, sin mencionar las implicaciones políticas o de derechos humanos de la decisión original.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El movimiento repentino de la Esports World Cup desde Arabia Saudita hasta París plantea cuestiones más profundas sobre la globalización, la diplomacia y los derechos humanos en el deporte. ¿Qué mensajes envían las organizaciones deportivas cuando cambian repentinamente de dirección? ¿Cómo afectan estos cambios a la percepción y el acceso a los eventos deportivos a nivel internacional?</p>"
-        },
-        {
-          "id": "temas-3",
-          "headline": "Tendencias de la robótica",
-          "summary": "La tecnología de robots está evolucionando rápidamente, lo que lleva a la posibilidad de alquilar robots para diversas tareas.",
-          "tags": [
-            "#robotica",
-            "#innovacion"
-          ],
-          "source_ids": [
             4
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/cpspro/en/1237/production/_118242511_b1bc7f7b-f6da-44cd-b2f3-eb9fe1b3f5f1.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La robótica está cambiando a paso acelerado, por lo que rentar un robot podría ser la mejor opción para muchos.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">En los medios de izquierda, la noticia sobre la disponibilidad de robots para alquilar podría ser enmarcada criticando el creciente poder de la tecnología y la posible pérdida de empleos en industrias tradicionales. Podrían sostener que las empresas que ofrecen robots para alquilar están priorizando beneficios a corto plazo sobre la seguridad laboral a largo plazo.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">En los medios imparciales, la noticia sería presentada de una manera objetiva, destacando los beneficios de rentar un robot, como la capacidad de adaptarse rápidamente a los cambios en la demanda de recursos y la posibilidad de ahorrar costos sin comprometer la productividad.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">En los medios de derecha, la noticia podría ser enmarcada enfatizando la innovación y la competencia que la renta de robots aporta al mercado. Podrían argumentar que la disponibilidad de robots para alquilar es un síntoma del enfoque empresarial en la eficiencia y la creatividad, lo que beneficia a la economía en su conjunto.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La disponibilidad de robots para alquilar plantea preguntas filosóficas sobre la relación entre humanos y máquinas en el trabajo. ¿Estamos al inicio de un cambio fundamental en la configuración del empleo, donde la tecnología y la automatización se conviertan en compañeros laborales clave? La respuesta no está clara, pero un tema que parece evidente es que los humanos debemos adaptarnos a un mundo cada vez más interconectado entre tecnología y personas.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/05/multimedia/HOUSING-IPO-1-01-qjgw/HOUSING-IPO-1-01-qjgw-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La tecnología de procesamiento de lenguaje artificial avanza a pasos acelerados, impactando diversas áreas de la vida cotidiana.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El artículo de NYT Tech destaca cómo la tecnología de procesamiento de lenguaje artificial está distorsionando las ventas de viviendas en la zona de San Francisco, ya que algunos vendedores ahora solicitan acciones de OpenAI o Anthropic en lugar de efectivo, lo que genera una nueva dinámica en el mercado inmobiliario.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">\n    Los medios imparciales BBC Tech presentan dos enfoques diferentes al avance de la tecnología de procesamiento de lenguaje artificial. Por un lado, el artículo sobre robots a la renta destaca la flexibilidad y eficiencia que esta tecnología aporta en la industria de la robótica, mientras que el artículo sobre la creación de imágenes AI de perfiles de Instagram presenta una perspectiva más crítica sobre la privacidad y los riesgos asociados con esta tecnología.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No hay artículos de medios de derecha disponibles para analizar en este tema.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El avance de la tecnología de procesamiento de lenguaje artificial plantea preguntas fundamentales sobre la naturaleza de la realidad y su impacto en la sociedad. ¿Qué implicaciones tiene que las máquinas puedan procesar y generar contenido más rápido y de mejor manera que los humanos? ¿Cómo podemos asegurarnos de que esta tecnología se desarrolla de manera responsable y con el bienestar de todos en mente? Estas son solo algunos de los muchos interrogantes que se plantean con la aparición de esta tecnología innovadora.</p>"
         },
         {
-          "id": "temas-4",
-          "headline": "Competencia global de inteligencia artificial",
-          "summary": "Las empresas estadounidenses en la industria de la inteligencia artificial expresan preocupaciones sobre la copia de sus sistemas por parte de competidores chinos, lo que lleva a estrategias de distilación de IA.",
+          "id": "mercado-de-tecnología",
+          "headline": "Los cambios en el mercado tecnológico atrapan a los inversores",
+          "summary": "La tecnología está volviéndose cada vez más competitiva, lo que lleva a que los inversores busquen formas de participar en ella mediante la venta de acciones o la renta de robots.",
           "tags": [
-            "#ia",
-            "#competencia"
+            "#tecnología",
+            "#mercado"
           ],
           "source_ids": [
+            2,
+            3,
             5
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/03/business/00ai-distillation/00ai-distillation-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La competencia global en inteligencia artificial ha cobrado un nuevo significado con las acusaciones de copia de sistemas A.I. en China.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">La Noticia del New York Times (NYT) enfatiza los problemas que enfrentan las empresas estadounidenses debido a la copia de sus sistemas A.I. en China, resaltando el tema de la competencia desleal.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Un análisis neutral de este tema revela que la competencia global en inteligencia artificial está siendo impulsada por la innovación y la inversión en tecnología, mientras que la copia desleal puede socavar la confianza de los inversionistas.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Las acusaciones de copia de sistemas A.I. en China son señales de la amenaza creciente que representa China sobre el liderazgo tecnológico de los Estados Unidos, y se necesitan medidas más fuertes para proteger la competitividad nacional.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La competencia global en inteligencia artificial no es solo un tema de negocios o tecnología, sino también un reflejo de las prioridades y valores de las naciones en términos de innovación, competitividad y seguridad nacional. La tensión creciente entre China y los Estados Unidos en este ámbito plantea preguntas sobre el futuro de la tecnología y la cooperación internacional.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/07/business/META-AI-vacation-selfie/META-AI-vacation-selfie-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Los cambios en el mercado tecnológico atraen a los inversores mientras se debaten los desafíos de la competencia en inteligencia artificial.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los artículos publicados en el NYT Tech destacan la competencia en inteligencia artificial, enfatizando la superioridad de las compañías estadounidenses frente a sus contrapartes chinas. El artículo sobre el generador de imágenes Muse Image de Meta resalta su intento por mantenerse a la vanguardia en la carrera por la inteligencia artificial, lo que puede verse como una forma de demostrar la capacidad de los EE. UU. para liderar en la industria.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">La BBC Tech proporciona información objetiva sobre el cambio en la ubicación del Esports World Cup, lo que ilustra la complejidad de los cambios en el mercado tecnológico. No aborda directamente la competencia en inteligencia artificial, pero su cobertura neutral proporciona contexto a los acontecimientos.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">No hay medios de derecha relacionados con este tema.</div>\n    <div class=\"bias-content\"></div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>Los cambios en el mercado tecnológico reflejan una dinámica de competencia global, donde las compañías deben adaptarse rápidamente para mantener su posición. La competencia en inteligencia artificial, en particular, ha despertado preocupaciones sobre la copia injusta de sistemas de inteligencia artificial, lo que pone de relieve la necesidad de establecer reglas claras para la competencia en esta área. A medida que avanza la tecnología, es crucial que las empresas y los gobiernos trabajen juntos para crear un entorno favorable a la innovación y la competencia justa.</p>"
         },
         {
-          "id": "temas-5",
-          "headline": "Privacidad en las redes sociales",
-          "summary": "Meta permite a los usuarios crear imágenes a partir de fotos de perfil de Instagram con IA, lo que ha generado reacciones negativas entre las campañas de privacidad.",
+          "id": "privacidad-en-red",
+          "headline": "Las preocupaciones por la privacidad en las redes sociales siguen en aumento",
+          "summary": "La publicación de imágenes generadas por inteligencia artificial basadas en perfiles de Instagram ha generado inquietud, lo que destaca la necesidad de que los usuarios controlen su contenido en línea.",
           "tags": [
-            "#privacidad",
-            "#redes-sociales"
+            "#redes_sociales",
+            "#privacidad"
           ],
           "source_ids": [
-            1
+            1,
+            5
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/1024/branded_news/8A4A/production/_128475444_image-1.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La empresa Meta permite a los usuarios crear imágenes generadas mediante inteligencia artificial a partir de fotos de perfil en Instagram, lo que genera un debate sobre privacidad en línea.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los medios de izquierda, al igual que los periodistas que abogan por la privacidad, podrían enfocarse en la capacidad de Meta para generar imágenes basadas en fotos de perfil en Instagram. Podrían destacar cómo esta función viola los límites de privacidad y cómo podría ser utilizada para fines malintencionados, como la fabricación de contenido falso o la vigilancia.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales podrían presentar un panorama más equilibrado sobre la capacidad de Meta para generar imágenes basadas en fotos de perfil en Instagram. Podrían explicar cómo funcionaría la función, cómo los usuarios pueden optar por no participar y las implicaciones éticas de crear conteo automático basado en imágenes.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha podrían enfocarse en la perspectiva optimista de la función de Meta y cómo podría ser utilizada para crear contenidos más dinámicos y atractivos en las redes sociales. Podrían destacar las ventajas de la función, como la posibilidad de crear imágenes sin necesidad de contar con un equipo de creativos profesionales.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>Más allá de la capacidad de Meta para generar imágenes basadas en fotos de perfil en Instagram, este debate sobre privacidad en línea plantea preguntas fundamentales sobre la forma en que usamos las redes sociales y qué significan la privacidad y la identidad en el mundo digital. ¿Estamos dispuestos a comprometer nuestra privacidad a cambio de un mayor control y personalización en línea? ¿Qué límites estamos dispuestos a aceptar para mantener la seguridad y la estabilidad en línea?</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/03/business/00ai-distillation/00ai-distillation-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La cuestión de la privacidad en las redes sociales sigue siendo un tema relevante con la adición de nuevas tecnologías.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El artículo de The New York Times destaca los beneficios potenciales de la distilación de A.I. en la carrera con China, sin mencionar preocupaciones sobre la privacidad. Sin embargo, el título no tiene relación directa con la pregunta original.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">El artículo de BBC Tech destaca las preocupaciones de los activistas de la privacidad sobre la función de Meta que permite a los usuarios crear imágenes generadas por A.I. a partir de fotos de perfil de Instagram. Aunque existe la opción de salir, se considera un riesgo para la privacidad.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No hay información disponible sobre medios de derecha en este análisis.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La adición de tecnologías como la A.I. distilación y la creación de imágenes generadas por A.I. plantea una pregunta fundamental sobre la privacidad en las redes sociales. ¿Estamos dispuestos a sacrificar nuestra privacidad a cambio de beneficios potenciales en términos de rendimiento y eficiencia? Es importante considerar el impacto a largo plazo de estas tecnologías en nuestra vida privada y tomar medidas para proteger nuestros datos.</p>"
+        },
+        {
+          "id": "robotica",
+          "headline": "La robótica avanza a pasos acelerados",
+          "summary": "La tecnología de robots está evolucionando rápidamente, lo que permite a los usuarios rentar robots para ayudar en diversas tareas.",
+          "tags": [
+            "#robotica",
+            "#tecnología"
+          ],
+          "source_ids": [
+            2,
+            4
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/1024/cpsprodpb/11F6F/production/_129123211_robot_rent.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La robótica avanza a pasos acelerados, pero ¿qué cambios trae esto para la sociedad en general?</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Es probable que los medios de izquierda no tengan contenido relacionado con este tema en el momento, dado que su enfoque es la controversia del Mundial de Esports en París. Si hubieran publicado algo, podrían estar enfatizando cómo la innovación en la robótica podría estar beneficiando a grupos marginados y cómo la renta de robots puede ser un paso hacia una sociedad más justa.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales de la BBC han publicado dos artículos relevantes: uno sobre el Mundial de Esports en París y otro sobre la renta de robots. El segundo artículo menciona cómo la tecnología de la robótica está evolucionando rápidamente y cómo la renta de robots puede ser una opción atractiva para muchas personas. No hay un enfoque específico en términos de controversia o sesgo, lo que sugiere que buscan presentar una visión neutra y factual de los desarrollos en la robótica.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Es poco probable que los medios de derecha tengan contenido directamente relacionado con la renta de robots, pero podrían estar enfocándose en la eficiencia económica del uso de robots y cómo esta tecnología puede ayudar a mejorar la productividad empresarial. Algunos podrían cuestionar el papel de los robots en la sociedad, argumentando que pueden desplazar empleos humanos e instituir cambios que socavaran la identidad cultural.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La avance de la robótica y la renta de robots plantea interrogantes sobre qué significa trabajar, cómo cambian las relaciones sociales y qué tipo de habilidades son valoradas en una sociedad cada vez más dependiente de tecnología. ¿El aumento de la eficiencia y la productividad son suficientes para justificar las preocupaciones sobre empleo y desigualdad? ¿O esta avance representa una oportunidad para replantear los fundamentos de la sociedad moderna y cómo nos relacionamos con la tecnología y entre nosotros.</p>"
+        },
+        {
+          "id": "competencia-tecnológica",
+          "headline": "La competencia tecnológica global sigue en aumento",
+          "summary": "Las empresas de todo el mundo están buscando formas de mantenerse a la vanguardia en la tecnología, lo que lleva a un aumento en la competencia.",
+          "tags": [
+            "#competencia",
+            "#tecnología"
+          ],
+          "source_ids": [
+            0,
+            3
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/07/business/META-AI-vacation-selfie/META-AI-vacation-selfie-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La competencia tecnológica global sigue en aumento, y las empresas están invirtiendo en sus proyectos de inteligencia artificial.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los medios de izquierda, como el New York Times, están destacando la competencia tecnológica global y la inversión en inteligencia artificial como una oportunidad para las empresas y un desafío para las regulaciones. Los artículos \"In San Francisco, Some Home Sellers Now Ask for OpenAI or Anthropic Stock\" y \"Meta Unveils an A.I. Image Generator\" ilustran este enfoque, resaltando la innovación y la competencia en el ámbito tecnológico. </div>\n  </div>\n  <div class=\"bias-box bias-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">En este análisis objetivo, observamos que la competencia tecnológica se ha convertido en un elemento clave en la economía global. Nuestro análisis no tiene un sesgo de izquierda o derecha, y nos centramos en entender el impacto de esta competencia en la sociedad y la economía. </div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Es importante destacar que los medios de derecha suelen enfatizar el lado económico de la competencia tecnológica, resaltando las ventajas competitivas y los beneficios para las empresas que invierten en inteligencia artificial. Sin embargo, también se centran en la preocupación por la regulación y el control estatal en este ámbito, destacando el riesgo de \"carrera armamentista\" en la competencia tecnológica.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La competencia tecnológica global supone un cambio fundamental en la forma en que vivimos, trabajamos y nos relacionamos entre nosotros. La inversión en inteligencia artificial y su aplicación en áreas como la generación de imágenes y el comercio de viviendas plantea interrogantes sobre la propiedad, la regulación y la seguridad. Resulta esencial abordar estas preocupaciones con un enfoque matizado y basado en evidencia, reconociendo la complejidad de este fenómeno y sus múltiples implicaciones económicas, sociales y políticas.</p>"
         }
       ],
       "rawCount": 6
@@ -163,85 +168,73 @@
     "MARKETS_ECONOMY": {
       "items": [
         {
-          "id": "raw-0",
-          "headline": "[Left (NYT Business)] William D. Zabel, High-Flying Lawyer and Civil Rights Champion, Dies at 89",
-          "summary": "He brokered celebrity divorces and recovered billions for victims of Bernie Madoff’s Ponzi scheme. But he was proudest of helping to legalize interrac...",
+          "id": "topic-economia",
+          "headline": "El Banco Federal de Estados Unidos mantiene su postura sobre las tasas de interés",
+          "summary": "El Banco Federal ha expresado preocupación sobre la inflación, lo que podría tener implicaciones para las tasas de interés.",
           "tags": [
-            "Left"
+            "#economía",
+            "#federalreserve"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/07/08/business/william-zabel-dead.html\" target=\"_blank\">William D. Zabel, High-Flying Lawyer and Civil Rights Champion, Dies at 89</a></p>\n                <p>He brokered celebrity divorces and recovered billions for victims of Bernie Madoff’s Ponzi scheme. But he was proudest of helping to legalize interracial marriage.</p>\n            "
+          "source_ids": [
+            1,
+            2
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/08/multimedia/08dc-fed-kzfb/08dc-fed-kzfb-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El Banco Federal de Estados Unidos se prepara para tomar una decisión crucial sobre las tasas de interés</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El artículo del NYT Business reporta que el Banco Federal de Estados Unidos mantiene su postura sobre las tasas de interés, destacando que algunos funcionarios expresaron preocupación por la inflación, que se encuentra en un nivel máximo de tres años.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">El artículo de BBC Business no presenta información sobre las tasas de interés, en cambio, informa sobre los productos para bebés inseguros que se pueden encontrar en plataformas como Amazon y TikTok.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No se encontraron artículos relevantes en este momento.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>Las decisiones del Banco Federal de Estados Unidos sobre las tasas de interés tienen un impacto significativo en la economía global. Una decisión incorrecta puede desencadenar una serie de consecuencias negativas, como la inflación o la recesión. Por lo tanto, es crucial que el banco considere cuidadosamente las implicaciones de su decisión y tome la medida correcta para mantener la estabilidad económica.</p>"
         },
         {
-          "id": "raw-1",
-          "headline": "[Left (NYT Business)] At Warsh’s First Fed Meeting, Some Officials Signaled Support for Raising Interest Rates",
-          "summary": "Minutes from Kevin M. Warsh’s first meeting as chairman showed heightened unease about inflation, which is running at a three-year high....",
+          "id": "topic-mercados-seguros",
+          "headline": "Comerciantes en línea venden productos infantiles peligrosos",
+          "summary": "Un informe encontró que plataformas como Amazon y TikTok venden productos para bebés con advertencias de seguridad.",
           "tags": [
-            "Left"
+            "#seguridad",
+            "#comercioelectrónico"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/07/08/business/fed-meeting-minutes-warsh-interest-rates.html\" target=\"_blank\">At Warsh’s First Fed Meeting, Some Officials Signaled Support for Raising Interest Rates</a></p>\n                <p>Minutes from Kevin M. Warsh’s first meeting as chairman showed heightened unease about inflation, which is running at a three-year high.</p>\n            "
+          "source_ids": [
+            2,
+            4
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/cpsprodpb/15F6/production/_129142144_gettyimages-1205111447-1.jpg?v=1\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption>Los mercados en línea siguen vendiendo productos infantiles peligrosos a pesar de las advertencias de seguridad.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content>No hay medios de izquierda relevantes asociados a este artículo, pero si lo fueran, es probable que enfocaran la atención en la negligencia de los fabricantes y en la necesidad de más regulaciones para proteger a los niños.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content>El artículo original encontrado en la BBC Business destaca las numerosas advertencias de seguridad para productos infantiles peligrosos que aún están disponibles en plataformas como Amazon y TikTok. La BBC Business da a entender que se necesita una acción inmediata por parte de los proveedores de servicios digitales y las autoridades reguladoras para garantizar la seguridad de los niños.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content>No hay medios de derecha relevantes asociados a este artículo, pero si lo fueran, es probable que enfocaran la atención en la importancia de la libre empresa y la responsabilidad individual de los consumidores para protegerse a sí mismos y a sus hijos.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La venta de productos infantiles peligrosos en los mercados en línea no solo compromete la seguridad de los niños, sino que también cuestiona la responsabilidad y transparencia de las plataformas de comercio electrónico. En un mundo cada vez más digital, es fundamental que las autoridades reguladoras e los proveedores de servicios digital garanticen la seguridad y el bienestar de los usuarios, especialmente los más vulnerables como los niños.</p>"
         },
         {
-          "id": "raw-2",
-          "headline": "[Neutral (BBC Business)] Online marketplaces still selling dozens of unsafe baby products, Which? finds",
-          "summary": "Pillows, sleeping bags and feeders subject to safety notices were found on sites including Amazon and TikTok....",
+          "id": "topic-energía",
+          "headline": "El conflicto entre EE. UU. e Irán afecta los precios del petróleo",
+          "summary": "La inestabilidad política en la región podría influir en los precios del petróleo.",
           "tags": [
-            "Neutral"
+            "#petróleo",
+            "#politicainternacional"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/c1dy11vvwk1o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Online marketplaces still selling dozens of unsafe baby products, Which? finds</a></p>\n                <p>Pillows, sleeping bags and feeders subject to safety notices were found on sites including Amazon and TikTok.</p>\n            "
+          "source_ids": [
+            3,
+            6
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/08/multimedia/2026-july-biz-promos-july-8-oil/2026-july-biz-promos-july-8-oil-mediumSquareAt3X.png\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El precio del petróleo continúa volátil debido a las tensiones entre los Estados Unidos e Irán.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El artículo del New York Times Business destaca que las hostilidades entre EE. UU. e Irán han roto la calma en el mercado del petróleo, lo que probablemente mantendrá los precios volátiles mientras ambas naciones no resuelvan la situación de la Estrecho de Hormuz.</div>\n  </div>\n  <div class=\"bias-box bias-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Sin acceso a una fuente imparcial que se refiera directamente a esta información, en este análisis se considerará la información presentada en los medios de izquierda y de derecha para una interpretación matizada.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No se encontró ningún artículo relevante en los medios de derecha que se refiriera directamente a esta información, por lo que se omitirá esta sección en esta desconstrucción del sesgo.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La tensa situación entre los Estados Unidos e Irán resalta las complejidades de las relaciones internacionales y el impacto en la economía global, evidenciando una vez más que las acciones de un país pueden tener consecuencias lejanas y multifacéticas, destacando la importancia de la cooperación internacional y la resolución pacífica de conflictos.</p>"
         },
         {
-          "id": "raw-3",
-          "headline": "[Left (NYT Business)] Oil Market Calm Shattered by Fresh Hostilities Between US and Iran",
-          "summary": "Oil prices are likely to remain volatile as long as the United States and Iran are unable to resolve the status of the Strait of Hormuz....",
+          "id": "topic-derechos-clientes",
+          "headline": "Virgin Media sancionado por colgar a clientes que trataban de cancelar sus contratos",
+          "summary": "Un regulador encontró que el proveedor de servicios había 'probablemente mal maneado' millones de llamadas de clientes.",
           "tags": [
-            "Left"
+            "#derechosclientes",
+            "#telecomunicaciones"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/07/08/business/energy-environment/iran-war-oil-prices.html\" target=\"_blank\">Oil Market Calm Shattered by Fresh Hostilities Between US and Iran</a></p>\n                <p>Oil prices are likely to remain volatile as long as the United States and Iran are unable to resolve the status of the Strait of Hormuz.</p>\n            "
+          "source_ids": [
+            4,
+            5
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/cpsprodpb/19B3D/production/_121177179_london2.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Virgin Media se enfrenta a consecuencias legales después de que se descubriera que sus representantes habían colgado el teléfono a clientes intentando cancelar sus contratos.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los medios de izquierda tienden a ser críticos con la empresa Virgin Media, presentando el incidente como un ejemplo de maltrato a los consumidores y falta de transparencia en la política de cancelación de contratos. Se espera que se realicen auditorías y que los responsables sean castigados con duras sanciones.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales reportan el incidente de manera objetiva, enfocándose en los hechos y la decisión de la reguladora de sancionar a Virgin Media. Se detallan las acciones de la empresa y la respuesta de la reguladora, sin tomar partido ni expresar una opinión personal.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha suelen defender a las empresas y critican a la reguladora por ser demasiado rigurosa. Argumentan que el incidente es un error de una unidad específica y que no refleja la política general de Virgin Media. Se especula que la reguladora está siendo demasiado estricta y que la sanción es excesiva.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>Este incidente plantea preguntas sobre la capacidad de las empresas para manejar procesos de cancelación de contratos y la necesidad de mayor transparencia en la política de servicio al cliente. ¿Qué medidas deben tomarse para prevenir este tipo de incidentes en el futuro? ¿Cómo pueden las empresas equilibrar la necesidad de proteger sus intereses con la obligación de tratar adecuadamente a los clientes.</p>"
         },
         {
-          "id": "raw-4",
-          "headline": "[Neutral (BBC Business)] Virgin Media fined after hanging up on customers trying to cancel contracts",
-          "summary": "Millions of phone calls from customers were \"likely mishandled\" over nearly a three-year period, the regulator says....",
+          "id": "topic-ciencia-y-tecnología",
+          "headline": "Un modelo de IA de OpenAI requiere autorización del gobierno estadounidense",
+          "summary": "El modelo GPT-5.6 Sol de OpenAI necesita aprobación gubernamental para obtener acceso temprano, lo que plantea cuestiones sobre el control gubernamental de herramientas de seguridad de la infoseguridad",
           "tags": [
-            "Neutral"
+            "#IA",
+            "#seguridadinformática"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/c982vm2jzl1o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Virgin Media fined after hanging up on customers trying to cancel contracts</a></p>\n                <p>Millions of phone calls from customers were \"likely mishandled\" over nearly a three-year period, the regulator says.</p>\n            "
-        },
-        {
-          "id": "raw-5",
-          "headline": "[Neutral (BBC Business)] From mouthwash to hair dye: How weight-loss jabs are changing shopping habits",
-          "summary": "The BBC looks at how spending habits have shifted as users report feeling less hungry....",
-          "tags": [
-            "Neutral"
+          "source_ids": [
+            7
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cy49w2knlrdo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">From mouthwash to hair dye: How weight-loss jabs are changing shopping habits</a></p>\n                <p>The BBC looks at how spending habits have shifted as users report feeling less hungry.</p>\n            "
-        },
-        {
-          "id": "raw-6",
-          "headline": "[Right (Fox Business)] Selling your home this summer? Your data is already moving",
-          "summary": "Scammers target home sellers through property records and data brokers. Real estate wire fraud and people search sites put your nest egg at risk....",
-          "tags": [
-            "Right"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/science/selling-home-summer-data-already-moving\" target=\"_blank\">Selling your home this summer? Your data is already moving</a></p>\n                <p>Scammers target home sellers through property records and data brokers. Real estate wire fraud and people search sites put your nest egg at risk.</p>\n            "
-        },
-        {
-          "id": "raw-7",
-          "headline": "[Right (Fox Business)] Trump puts brakes on OpenAI’s newest AI model",
-          "summary": "OpenAI's GPT-5.6 Sol model requires Trump administration approval for early access, raising questions about government control over AI cybersecurity t...",
-          "tags": [
-            "Right"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/science/trump-puts-brakes-openais-newest-ai-model\" target=\"_blank\">Trump puts brakes on OpenAI’s newest AI model</a></p>\n                <p>OpenAI's GPT-5.6 Sol model requires Trump administration approval for early access, raising questions about government control over AI cybersecurity tools.</p>\n            "
-        },
-        {
-          "id": "raw-8",
-          "headline": "[Right (Fox Business)] NASA's Chandra telescope reveals Milky Way's outer reaches may stretch farther than previously known",
-          "summary": "Rare gamma-ray bursts detected by powerful X-ray telescopes orbiting the Earth helped astronomers measure Milky Way spiral arms with stunning accuracy...",
-          "tags": [
-            "Right"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/science/nasas-chandra-telescope-reveals-milky-ways-outer-reaches-may-stretch-farther-than-previously-known\" target=\"_blank\">NASA's Chandra telescope reveals Milky Way's outer reaches may stretch farther than previously known</a></p>\n                <p>Rare gamma-ray bursts detected by powerful X-ray telescopes orbiting the Earth helped astronomers measure Milky Way spiral arms with stunning accuracy.</p>\n            "
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/2-fake-chatgpt-apps-are-hijacking-your-phone-without-you-knowing-copy.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Un modelo de inteligencia artificial de OpenAI requiere autorización del gobierno estadounidense, lo que plantea preguntas sobre el control gubernamental de herramientas de seguridad de la información en el ámbito del ciberespacio.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">No se han encontrado articulos de medios de izquierda relacionados con este tema. Sin embargo, es probable que en una cobertura de izquierda puedan criticar fuertemente el control gubernamental sobre herramientas de seguridad de la información en el ámbito del ciberespacio, destacando las preocupaciones sobre la privacidad y la seguridad individuales.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Deberíamos estar preocupados por el control gubernamental sobre herramientas de seguridad de la información en el ámbito del ciberespacio. El hecho de que OpenAI requiera autorización del gobierno estadounidense para el acceso temprano a un modelo de inteligencia artificial plantea preguntas sobre la equilibrio entre la seguridad nacional y la libertad de innovación en el sector tecnológico.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">En un artículo de Fox Business, se informa que la administración de Trump pone frenos a OpenAI's Sol 5.6 GPT, un modelo de inteligencia artificial que requiere autorización del gobierno estadounidense para el acceso temprano. Esta acción sugiere que el gobierno está tomándose las cosas en serio en términos de controlar las herramientas de seguridad de la información en el ámbito del ciberespacio, y que se están priorizando las preocupaciones de seguridad nacional frente a la libre innovación en el sector tecnológico.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El hecho de que un modelo de inteligencia artificial de OpenAI requiera autorización del gobierno estadounidense pone de relieve la compleja relación entre la seguridad nacional y la libertad de innovación en el sector tecnológico. Es una cuestión de equilibrio entre la necesidad de proteger la seguridad nacional y permitir que la innovación y el progreso avancen. La respuesta correcta a este desafío es encontrar un equilibrio que permita a la tecnología progresar sin comprometer la seguridad del país.</p>"
         }
       ],
       "rawCount": 9
