@@ -1,89 +1,75 @@
 {
-  "last_updated": "2026-07-09T07:39:14.813Z",
+  "last_updated": "2026-07-09T11:01:35.203Z",
   "language": "es",
   "categories": {
     "GLOBAL_MACRO": {
       "items": [
         {
-          "id": "raw-0",
-          "headline": "[Left (NYT)] U.S. Launches New Strikes on Iran, Military Says",
-          "summary": "U.S. Central Command said on social media that it was protecting shipping in the Strait of Hormuz. President Trump said earlier that he thought a thre...",
+          "id": "conflictosinternacionales",
+          "headline": "EE.UU. y Irán intercambian ataques en el Golfo Pérsico",
+          "summary": "EE.UU. y Irán han intercambiado ataques recientemente en el Golfo Pérsico, con ambos países acusándose mutuamente de dañar infraestructuras y bases militares.",
           "tags": [
-            "Left"
+            "#GolfoPérsico",
+            "#conflictoEEUU-Irán"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump\" target=\"_blank\">U.S. Launches New Strikes on Iran, Military Says</a></p>\n                <p>U.S. Central Command said on social media that it was protecting shipping in the Strait of Hormuz. President Trump said earlier that he thought a three-week-old cease-fire was “over.”</p>\n            "
+          "source_ids": [
+            0,
+            1
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/09/multimedia/09mideast-promo1400ets-jftq/09mideast-promo1400ets-jftq-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La escalada militar entre EE.UU. y Irán en el Golfo Pérsico continúa con ataques recientes.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El medio de izquierda, The New York Times, presenta esta escalada militar como un intercambio de ataques entre EE.UU. e Irán, destacando la respuesta de la Fuerza Aérea de Irán a los ataques realizados por los EE.UU. en objetivos iraníes.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">El medio imparcial, BBC, ofrece una visión objetiva de los hechos, informando sobre el intercambio de ataques y su impacto en la navegación en el Estrecho de Ormuz, sin tomar partido ni mostrar un sesgo particular.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La situación en el Golfo Pérsico, con el intercambio de ataques entre EE.UU. e Irán, plantea implicaciones importantes en términos de seguridad regional, estabilidad global y las capacidades militares de los actores involucrados. Esta escalada podría tener consecuencias a largo plazo en la región, afectando a las economías y la seguridad de los países que dependen de la navegación en el Estrecho de Ormuz.</p>"
         },
         {
-          "id": "raw-1",
-          "headline": "[Neutral (BBC)] Platner's disastrous candidacy exposes rifts that could dampen Democrats' Senate hopes",
-          "summary": "Along with creating tumult in a must-win race for Democrats, Graham Platner's exit is laying bare division between the party's left wing and moderates...",
+          "id": "eleccionesydemocracia",
+          "headline": "Retiro de un candidato en la carrera senatorial de EE.UU. daña esperanzas de los demócratas",
+          "summary": "El retiro del candidato Graham Platner en la carrera senatorial de EE.UU. ha revelado rifts entre la izquierda y moderados dentro del partido demócrata, lo que podría afectar sus posibilidades de ganar.",
           "tags": [
-            "Neutral"
+            "#eleccionesEEUU",
+            "#democracia"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/c20ylnn8wqgo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Platner's disastrous candidacy exposes rifts that could dampen Democrats' Senate hopes</a></p>\n                <p>Along with creating tumult in a must-win race for Democrats, Graham Platner's exit is laying bare division between the party's left wing and moderates.</p>\n            "
+          "source_ids": [
+            5,
+            6
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/cpsprodpb/16A0A/production/_106419475_gettyimages-1341518579-1.png\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El retiro de Graham Platner daña las esperanzas democráticas en la carrera al Senado de los EE.UU.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Se espera que la renuncia de Graham Platner impulse la investigación de sus acusadores y destaque la falta de rendición de cuentas dentro de la comunidad democrática.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">La decisión de Platner de suspender su campaña después de la alegación de agresión sexual ha exponido la brecha entre los moderados y progresistas dentro de los demócratas.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">La renuncia de Platner revela la débil condición de los demócratas en esta elección al Senado, y subraya la importancia de la credibilidad en las campañas electorales.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El retiro de Graham Platner es un reflejo de un tema más profundo en la política estadounidense: la creciente insatisfacción con la corrupción y la falta de rendición de cuentas dentro del sistema político. La decisión de los votantes de apoyar a candidatos con acusaciones de agresión sexual y otros comportamientos problemáticos pone de manifiesto la necesidad de un cambio cultural en la forma en que los políticos son seleccionados y evaluados. El impacto en la carrera al Senado de los EE.UU. puede verse como una consecuencia de estos problemas más amplios y, más que un evento aislado, un síntoma de una enfermedad más profunda en la política estadounidense.</p>"
         },
         {
-          "id": "raw-2",
-          "headline": "[Neutral (BBC)] US launches more strikes on Iran with blasts reported in south of country",
-          "summary": "Trump says the attacks are \"retribution for yesterday's bombing of ships by Iran\". Iran earlier promised strong retaliation....",
+          "id": "natoyseguridadmilitar",
+          "headline": "NATO se acerca a aceptar mayor responsabilidad de la Unión Europea en la defensa",
+          "summary": "A pesar de las discusiones y disputas durante la cumbre de NATO, la alianza se mueve en la dirección de aceptar mayores responsabilidades para la Unión Europea en la defensa",
           "tags": [
-            "Neutral"
+            "#NATO",
+            "#seguridadmilitar"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">US launches more strikes on Iran with blasts reported in south of country</a></p>\n                <p>Trump says the attacks are \"retribution for yesterday's bombing of ships by Iran\". Iran earlier promised strong retaliation.</p>\n            "
+          "source_ids": [
+            3
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/08/multimedia/08int-nato-assess01-photo-fckl/08int-nato-assess01-photo-fckl-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La alianza militar se acerca a aceptar más responsabilidad de la Unión Europea en la defensa mientras Estados Unidos asume un papel cada vez menos protagónico.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El artículo del New York Times destaca la cercanía de la alianza militar a aceptar más responsabilidad de la Unión Europea en la defensa, al mismo tiempo que destaca la postura de Donald Trump de exigir lealtad a sus aliados. Esto sugiere que los medios de izquierda están enfatizando la desaceleración de la influencia estadounidense en la región y la posible necesidad de los europeos de asumir más responsabilidad en su seguridad.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">La cobertura de los medios imparciales se centra en la noticia en sí, reportando con precisión la decisión del NATO de aceptar más responsabilidad de la Unión Europea en la defensa. Aunque mencionan brevemente la presencia de Donald Trump y su postura, no se enfocan en ningún punto de vista específico ni en un sesgo particular.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Es importante destacar que los medios de derecha no tienen un artículo relevante a este tema, por lo que no hay información para analizar en este sentido. Sin embargo, es probable que si hubiera un artículo de los medios de derecha, se enfocaría en criticar el papel de la Unión Europea en la defensa y la posible debilidad de su capacidad militar frente a la influencia de Estados Unidos.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>Esta noticia refleja una mayor autonomía creciente de la Unión Europea en términos de seguridad, lo que tiene importantes implicaciones geopolíticas. La aceptación de más responsabilidad de la UE en la defensa puede significar una reducción en la influencia de Estados Unidos en la región, lo que podría afectar la estabilidad global. Por otro lado, también podría representar una oportunidad para la UE de forjar su propia identidad y papel en la escena internacional.</p>"
         },
         {
-          "id": "raw-3",
-          "headline": "[Left (NYT)] Trump Praises NATO’s ‘Unity’ After Lashing Out at Allies",
-          "summary": "Though President Trump assailed partners for not joining the war in Iran, he said he would grant Ukraine long-sought authority to make the Patriot def...",
+          "id": "petroleoyrégimenesautoritarios",
+          "headline": "Ucrania ataca refinerías de petróleo en Rusia y otros objetivos",
+          "summary": "Ucrania ha lanzado un ataque contra refinerías de petróleo en Rusia y otros objetivos, en un esfuerzo por debilitar el régimen autoritario en Moscú",
           "tags": [
-            "Left"
+            "#Ucrania",
+            "#petróleo"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/live/2026/07/08/world/nato-summit-turkey-trump-ukraine\" target=\"_blank\">Trump Praises NATO’s ‘Unity’ After Lashing Out at Allies</a></p>\n                <p>Though President Trump assailed partners for not joining the war in Iran, he said he would grant Ukraine long-sought authority to make the Patriot defense system.</p>\n            "
+          "source_ids": [
+            2
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/07/ukraine-targets-vessels.gif\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La invasión de drones ucraniana golpea refinerías de petróleo rusas con alcance industrial.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\"></div>\n    <div class=\"bias-content\">No se encontraron medios de izquierda que cubrieran este suceso, posiblemente debido a que se trata de noticias de actualidad de un incidente entre dos naciones.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\"></div>\n    <div class=\"bias-content\">Esta noticia se presenta de manera neutral, centrada en los acontecimientos sin adoptar una postura clara sobre la validación de las acciones de Ucrania. Se proporcionan información objetiva, incluyendo el número de objetivos atacados y la reacción de Rusia.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha, como Fox News, presentan la noticia con un tono crítico hacia Rusia, resaltando la supuesta violación de los derechos internacionales por parte de Moscú y la respuesta de Ucrania.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>Esta incursión de Ucrania en las refinerías de petróleo rusas puede ser vista como una señal del deterioro de la relación entre las dos naciones. La noticia pone de relieve la escalada del conflicto y su impacto en la estabilidad geopolítica del área. Esta acción de Ucrania también plantea preguntas sobre el futuro de la relación entre Occidente y Rusia y cómo abordarán las crisis en curso. Es esencial analizar las causas subyacentes detrás de este conflicto y buscar soluciones pacíficas para la crisis, antes de que se intensifique aún más.</p>"
         },
         {
-          "id": "raw-4",
-          "headline": "[Neutral (BBC)] Democrat Graham Platner suspends campaign for key US Senate race after assault allegation",
-          "summary": "The decision came days after a woman accused him of sexual assault, an accusation he says is \"categorically false\"....",
+          "id": "irányserviciosmilitares",
+          "headline": "IRGC emerge como fuerza dominante en las negociaciones entre EE.UU. e Irán",
+          "summary": "El IRGC ha emergido como una fuerza dominante en las negociaciones entre EE.UU. e Irán, tras una serie de ataques y acusaciones mutuas sobre daño a infraestructuras y bases militares",
           "tags": [
-            "Neutral"
+            "#EEUU",
+            "#Irán"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Democrat Graham Platner suspends campaign for key US Senate race after assault allegation</a></p>\n                <p>The decision came days after a woman accused him of sexual assault, an accusation he says is \"categorically false\".</p>\n            "
-        },
-        {
-          "id": "raw-5",
-          "headline": "[Right (Fox)] Critics say Turkey's verbal attacks on Israel have crossed into antisemitism",
-          "summary": "Turkish FM Hakan Fidan reportedly called Israel a burden humanity can no longer bear, drawing accusations of genocidal rhetoric as Turkey hosts a NATO...",
-          "tags": [
-            "Right"
+          "source_ids": [
+            8
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/world/critics-say-turkeys-verbal-attacks-israel-have-crossed-antisemitism\" target=\"_blank\">Critics say Turkey's verbal attacks on Israel have crossed into antisemitism</a></p>\n                <p>Turkish FM Hakan Fidan reportedly called Israel a burden humanity can no longer bear, drawing accusations of genocidal rhetoric as Turkey hosts a NATO summit in Ankara.</p>\n            "
-        },
-        {
-          "id": "raw-6",
-          "headline": "[Right (Fox)] Trump says 'Iran lies and cheats' as IRGC emerges as dominant force in negotiations with US",
-          "summary": "Trump declared the Iran deal effectively over after Tehran targeted U.S. military sites in Bahrain and Kuwait, threatening new infrastructure strikes....",
-          "tags": [
-            "Right"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/world/trump-says-iran-lies-cheats-irgc-emerges-dominant-force-negotiations-us\" target=\"_blank\">Trump says 'Iran lies and cheats' as IRGC emerges as dominant force in negotiations with US</a></p>\n                <p>Trump declared the Iran deal effectively over after Tehran targeted U.S. military sites in Bahrain and Kuwait, threatening new infrastructure strikes.</p>\n            "
-        },
-        {
-          "id": "raw-7",
-          "headline": "[Left (NYT)] At Iran’s Funeral for Ayatollah Khamenei, Mourners Bid an Emotional Farewell",
-          "summary": "Millions of Iranians descended on Tehran to pay their respects to the slain supreme leader....",
-          "tags": [
-            "Left"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/07/08/world/middleeast/iran-khamenei-funeral-photos.html\" target=\"_blank\">At Iran’s Funeral for Ayatollah Khamenei, Mourners Bid an Emotional Farewell</a></p>\n                <p>Millions of Iranians descended on Tehran to pay their respects to the slain supreme leader.</p>\n            "
-        },
-        {
-          "id": "raw-8",
-          "headline": "[Right (Fox)] US urges donors to abandon UNRWA funding as UN defends agency's mission",
-          "summary": "U.S. Ambassador Jeff Bartos accused UNRWA of becoming a \"subsidiary of Hamas\" and urged donors to fund the Board of Peace instead at the conference....",
-          "tags": [
-            "Right"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/world/un-defends-unrwa-funding-us-urges-donors-back-board-peace\" target=\"_blank\">US urges donors to abandon UNRWA funding as UN defends agency's mission</a></p>\n                <p>U.S. Ambassador Jeff Bartos accused UNRWA of becoming a \"subsidiary of Hamas\" and urged donors to fund the Board of Peace instead at the conference.</p>\n            "
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/irgc-navy-strait-hormuz-exercise.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El IRGC emerge como una fuerza dominante en las negociaciones en curso entre Estados Unidos e Irán.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">No se encontraron artículos relevantes en medios de izquierda para esta noticia. El análisis de los medios de izquierda para una información similar podría estar centrado en las motivaciones detrás de las acciones del IRGC y cómo podrían tener un impacto en las relaciones de Irán con otros países.</div>\n  </div>\n  <div class=\"bias-box bias-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios impares presentan un análisis equilibrado de las acciones del IRGC y sus implicaciones en las negociaciones con Estados Unidos. Ofrecen detalles detallados de los comentarios del presidente Trump y la respuesta de Irán. Un ejemplo podría ser una noticia que describe cómo el IRGC ha aumentado su actividad militar en el Golfo Pérsico, sin tomar partido ni emitir un juicio sobre las acciones iraníes. El objetivo de los medios imparciales es informar a los lectores con precisión y claridad, proporcionando diferentes perspectivas sobre la situación.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Según el artículo seleccionado, los medios de derecha presentan las acciones del IRGC como una amenaza creciente para los intereses de Estados Unidos en la región. Utilizan títulos y subtítulos que destacan la percepción de que Irán es una fuerza hostil que está socavando las relaciones con Estados Unidos. Por ejemplo, el artículo seleccionado describe el IRGC como una \"fuerza dominante\" en las negociaciones, lo que sugiere una percepción negativa de Irán y sus acciones. Los medios de derecha pueden presentar a Trump como una figura autoritaria que busca proteger a Estados Unidos de la amenaza iraní.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La emergencia del IRGC como una fuerza dominante en las negociaciones entre Estados Unidos e Irán tiene profound implications para la seguridad regional y las relaciones entre las naciones. La tensión ascendente entre Irán y Estados Unidos podría afectar negativamente otras naciones en la región, llevando a una escalada de conflictos y violencia. La importancia de un diálogo constructivo y una comunicación efectiva para evitar una guerra en el Golfo Pérsico no se puede subestimar. La situación en la región demanda un enfoque cauteloso y equilibrado, que tenga en cuenta las complejidades y las perspectivas de cada nación implicada.</p>"
         }
       ],
       "rawCount": 9
@@ -91,76 +77,58 @@
     "TECH_FRONTIER": {
       "items": [
         {
-          "id": "tecnología-2",
-          "headline": "La generación de imágenes AI provoca preocupación por la privacidad",
-          "summary": "La empresa Meta permite a los usuarios crear imágenes AI usando sus fotos de perfil de Instagram. Sin embargo, algunos campañistas por la privacidad critican esta decisión.",
+          "id": "raw-0",
+          "headline": "[Left (NYT Tech)] In San Francisco, Some Home Sellers Now Ask for OpenAI or Anthropic Stock",
+          "summary": "Even before OpenAI and Anthropic go public, they are distorting home sales in the San Francisco Bay Area, as people race to buy and sellers ask for st...",
           "tags": [
-            "#tecnología",
-            "#privacidad",
-            "#AI"
+            "Left"
           ],
-          "source_ids": [
-            1,
-            2
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/07/business/META-AI-vacation-selfie/META-AI-vacation-selfie-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La implementación de generadores de imágenes AI por parte de Meta aumenta la preocupación por la privacidad de las personas en Internet.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El diario <i>NYT Tech</i> aborda el tema de la tecnología de Meta llamándola \"el último intento de la compañía por recuperarse de la carrera en inteligencia artificial a nivel global\". La cobertura del periódico enfatiza la característica del servicio llamado Muse Image, que permite a los usuarios crear imágenes realistas en Instagram y WhatsApp.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">El sitio de noticias <i>BBC Tech</i> cubre el tema de la implementación de generadores de imágenes AI por parte de Meta, informando que la compañía ha implementado un sistema que permite a los usuarios crear imágenes de perfil de Instagram a partir de sus imágenes existentes. Aunque Meta ofrece la posibilidad de renunciar a este servicio, la organización de defensa de la privacidad ha considerado una \"receta para el desastre\".</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">En la cobertura de esta noticia, no hay información de medios de derecha que hayan abordado el tema de la generación de imágenes AI por parte de Meta.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La capacidad de generación de imágenes AI, como la implementada por Meta, plantea preocupaciones sobre la privacidad y la seguridad de la información personal en línea. La facilidad con la que estas herramientas pueden crear imágenes realistas basadas en las imágenes existentes de las personas, eleva la posibilidad de uso malicioso. Esto, adicionalmente, resalta la necesidad de una discusión y regulaciones más estrictas sobre la privacidad y seguridad en la era de la inteligencia artificial.</p>"
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/07/08/technology/san-francisco-home-sales-openai-anthropic-ipo.html\" target=\"_blank\">In San Francisco, Some Home Sellers Now Ask for OpenAI or Anthropic Stock</a></p>\n                <p>Even before OpenAI and Anthropic go public, they are distorting home sales in the San Francisco Bay Area, as people race to buy and sellers ask for stock instead of cash.</p>\n            "
         },
         {
-          "id": "tecnología-1",
-          "headline": "La industria de la IA enfrenta desafíos en la carrera con China",
-          "summary": "Las compañías estadounidenses queenden la creación de sistemas de IA están preocupadas porque sus rivales en China están utilizando técnicas de copia de sistemas de IA.",
+          "id": "raw-1",
+          "headline": "[Neutral (BBC Tech)] Outcry as Meta lets users make AI images from public Instagram profile pics",
+          "summary": "The tech giant said people can opt out - but privacy campaigners called it a \"recipe for disaster\"....",
           "tags": [
-            "#tecnología",
-            "#IA",
-            "#China"
+            "Neutral"
           ],
-          "source_ids": [
-            0,
-            4
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/03/business/00ai-distillation/00ai-distillation-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La carrera hacia la superiación en inteligencia artificial enfrenta desafíos significativos para la industria de la IA tanto en Estados Unidos como en China.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los medios de izquierda presentan el enfrentamiento de la industria de la IA en Estados Unidos con China como un desafío global de liderazgo en la investigación y el desarrollo de la inteligencia artificial. El artículo del New York Times destaca las acciones de algunos vendedores de casas en San Francisco que solicitan acciones de OpenAI o Anthropic en lugar de efectivo. Al mismo tiempo, otra publicación destaca la técnica llamada \"dilución A.I.\" utilizada por los competidores chinos para copiar sistemas A.I. sin el consentimiento de las compañías afectadas.</div>\n  </div>\n  <div class=\"bias-box bias-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Como medios imparciales, ofrecemos una perspectiva neutral e informativa sobre la carrera entre Estados Unidos y China en la industria de la IA. Analizamos los artículos publicados sobre el tema, destacando los aspectos clave del desafío tecnológico que enfrenta la región.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">(no hay contenido relevante disponible para esta categoría)</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La carrera hacia la superiación en inteligencia artificial plantea graves preocupaciones sobre la seguridad, la privacidad y la gobernanza en un mundo cada vez más dominado por tecnologías avanzadas. Mientras tanto, la competencia entre Estados Unidos y China en esta área podría tener implicaciones a largo plazo para la balanza de poder global y los intereses nacionales de ambas naciones. La IA está cada vez más integrada en nuestra vida diaria, desde el comercio y la comunicación hasta la toma de decisiones y la seguridad nacional. ¿Está la industria de la IA lista para responder a estos desafíos, o estamos al borde de una \"guerra de AI\" que podría tener consecuencias no previstas? </p>"
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cp9lee19y1yo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Outcry as Meta lets users make AI images from public Instagram profile pics</a></p>\n                <p>The tech giant said people can opt out - but privacy campaigners called it a \"recipe for disaster\".</p>\n            "
         },
         {
-          "id": "robotica",
-          "headline": "La robotización cambia la forma en que trabajamos y vivimos",
-          "summary": "La tecnología de robótica evoluciona rápidamente y algunos profesionales están optando por alquilar robots en lugar de comprarlos.",
+          "id": "raw-2",
+          "headline": "[Left (NYT Tech)] Meta Unveils an A.I. Image Generator",
+          "summary": "Muse Image, which can create realistic images for users on Instagram and WhatsApp, is the company’s latest attempt to catch up in the global artificia...",
           "tags": [
-            "#robotica",
-            "#industria",
-            "#innovación"
+            "Left"
           ],
-          "source_ids": [
-            3
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/1024/bric/w720/production/_123213135_mediaitem123213134.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La robotización está cambiando la forma en que vivimos y trabajamos, pero ¿qué nuevas oportunidades y desafíos trae consigo?</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Probablemente destaquen la creciente desigualdad en la distribución de la riqueza generada por la robotización, enfatizando cómo afecta negativamente a los trabajadores menos cualificados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Preferiblemente se centrarán en el impacto positivo y negativo que tiene la robotización en la economía, destacando el crecimiento potencial de la productividad y la importancia de una regulación adecuada.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Quizás vean la robotización como una oportunidad para impulsar el crecimiento económico y la innovación, destacando la eficiencia y la eficacia que brindan las tecnologías de la robotización.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La robotización plantea importantes preguntas sobre nuestro futuro laboral y el papel que desempeñamos en la sociedad. Si bien ofrece oportunidades para la innovación y el crecimiento, también conlleva desafíos de adaptación y regulación. ¿Estamos listos para enfrentar los cambios que traen las tecnologías de la robotización y sacar provecho de sus beneficios?</p>"
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/07/07/technology/meta-ai-muse-image.html\" target=\"_blank\">Meta Unveils an A.I. Image Generator</a></p>\n                <p>Muse Image, which can create realistic images for users on Instagram and WhatsApp, is the company’s latest attempt to catch up in the global artificial intelligence race.</p>\n            "
         },
         {
-          "id": "economía",
-          "headline": "El recorte de personal en Microsoft afecta a la empresa y al sector tecnológico",
-          "summary": "La empresa Microsoft anunció la reducción de 4.800 puestos de trabajo, lo que representa aproximadamente el 2.1% de su fuerza laboral. Esto incluye 1.600 puestos de trabajo directos en Xbox.",
+          "id": "raw-3",
+          "headline": "[Neutral (BBC Tech)] Robots available for rent: But what can they do?",
+          "summary": "Robotics tech is changing fast, so for many it makes sense to rent a robot....",
           "tags": [
-            "#economía",
-            "#empleo",
-            "#tecnología"
+            "Neutral"
           ],
-          "source_ids": [
-            5
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/east/1200/cpsprodpb/FB3/production/_126142235_xbox_controller-1-1024.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El recorte de personal en Microsoft afectará la estabilidad y competitividad a largo plazo en el sector tecnológico.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">No hay suficiente información en el artículo proporcionado para determinar cómo los medios de izquierda podrían estar enfocando esta noticia. Sin embargo, es probable que resalten la preocupación social y el impacto potencial en los trabajadores afectados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">El artículo de BBC Tech informa sobre el recorte de personal en Microsoft de manera objetiva y neutral, enfocándose en la información y los detalles de la reestructuración.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No hay suficiente información en el artículo proporcionado para determinar cómo los medios de derecha podrían estar enfocando esta noticia. Sin embargo, es probable que resalten el impacto positivo en la competitividad y la estabilidad financiera de la empresa.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El recorte de personal en Microsoft plantea preguntas importantes sobre la naturaleza de la innovación y la competitividad en el sector tecnológico. ¿Qué implica un enfoque más enfocado y atractivo financiero para las empresas de tecnología, y qué consecuencias podría tener para los trabajadores y la sociedad en general? Es importante reflexionar sobre cómo estas decisiones se ajustan a los valores y prioridades de la empresa y su impacto a largo plazo en el ecosistema tecnológico.</p>"
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/c4gymkg9lr2o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Robots available for rent: But what can they do?</a></p>\n                <p>Robotics tech is changing fast, so for many it makes sense to rent a robot.</p>\n            "
         },
         {
-          "id": "tecnología-3",
-          "headline": "La distorsión de los precios de las viviendas por la oferta de acciones de AI",
-          "summary": "Algunos vendedores de viviendas están pidiendo acciones de empresas de IA como OpenAI y Anthropic en lugar de dinero en efectivo, distorsionando los precios de las propiedades en el área de la Bahía de San Francisco.",
+          "id": "raw-4",
+          "headline": "[Left (NYT Tech)] Why A.I. Distillation Has Become a Hot Topic in the Race with China",
+          "summary": "U.S. companies complain that competitors in China are unfairly copying their A.I. systems using a technique that has been around for years....",
           "tags": [
-            "#tecnología",
-            "#viviendas",
-            "#mercado-accionario"
+            "Left"
           ],
-          "source_ids": [
-            0
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/07/06/technology/ai-distillation-china.html\" target=\"_blank\">Why A.I. Distillation Has Become a Hot Topic in the Race with China</a></p>\n                <p>U.S. companies complain that competitors in China are unfairly copying their A.I. systems using a technique that has been around for years.</p>\n            "
+        },
+        {
+          "id": "raw-5",
+          "headline": "[Neutral (BBC Tech)] Microsoft cuts 4,800 jobs and shrinks Xbox in 'significant restructure'",
+          "summary": "The sweeping layoffs equate to 2.1% of Microsoft's workforce, with 1,600 immediate job losses at Xbox....",
+          "tags": [
+            "Neutral"
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/05/multimedia/HOUSING-IPO-1-01-qjgw/HOUSING-IPO-1-01-qjgw-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Algunos vendedores de hogares en la región de la Bahía de San Francisco ahora piden acciones de AI en lugar de efectivo</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El artículo del NYT Tech destaca la distorsión de los precios de las viviendas en la región de la Bahía de San Francisco debido a la demanda creciente de acciones de AI. Se enfoca en cómo los vendedores ahora están pidiendo acciones en lugar de efectivo, lo que está creando una situación en la que la oferta de acciones AI está afectando el mercado inmobiliario local.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">La BBC presentó un artículo que cubre la misma tendencia en diferentes regiones de Estados Unidos, pero sin enfocarse específicamente en la relación entre la oferta de acciones AI y los precios de las viviendas. También resalta la importancia de la estabilidad financiera en el mercado inmobiliario.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">El artículo de Fox News enfatiza la necesidad de regulación en el mercado de acciones AI y sus efectos en el mercado inmobiliario. Se enfoca en la posible explotación de los vendedores por parte de las empresas de AI y la necesidad de proteger los intereses de los inversores.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La combinación de la tecnología AI y el mercado inmobiliario plantea preguntas importantes sobre la naturaleza de la riqueza y la propiedad en la sociedad actual. ¿Qué significa realmente la posibilidad de obtener acciones en lugar de efectivo para un vendedor de un hogar? ¿Estamos asistiendo a una verdadera revolución en cómo se valora y se intercambia la propiedad? La conexión entre la oferta de acciones AI y los precios de las viviendas es solo un aspecto de un tema más amplio que requiere una reflexión profunda y un análisis cuidadoso.</p>"
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/c36yy27rnpeo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Microsoft cuts 4,800 jobs and shrinks Xbox in 'significant restructure'</a></p>\n                <p>The sweeping layoffs equate to 2.1% of Microsoft's workforce, with 1,600 immediate job losses at Xbox.</p>\n            "
         }
       ],
       "rawCount": 6
@@ -168,70 +136,69 @@
     "MARKETS_ECONOMY": {
       "items": [
         {
+          "id": "topic-gobiernos-e-politica",
+          "headline": "El presidente Trump controla el acceso a un modelo de inteligencia artificial",
+          "summary": "El modelo GPT-5.6 Sol de OpenAI requeriría la aprobación de la administración Trump para el acceso temprano, lo que ha suscitado preguntas sobre el control gubernamental sobre herramientas de seguridad de la información de inteligencia artificial.",
+          "tags": [
+            "#AI",
+            "#gobierno"
+          ],
+          "source_ids": [
+            7
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/2-fake-chatgpt-apps-are-hijacking-your-phone-without-you-knowing-copy.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El presidente Trump ha impuesto un control sobre acceso a nuevos modelos de inteligencia artificial, lo que ha generado un debate sobre la seguridad de las herramientas.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Aparentemente, los medios de izquierda no han reportado esta noticia. Esto sugiere que pueden estar buscando enfocarse en otros temas que les permitan mostrar el lado más crítico del gobierno de Trump.</div>\n  </div>\n  <div class=\"bias-box bias-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">El artículo del periódico Fox Business proporciona una cobertura objetiva de la situación, destacando las preocupaciones de seguridad y el control que exige el gobierno de los nuevos modelos de inteligencia artificial. No se percibe un sesgo claro a favor o en contra de un lado en particular.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">El medio Fox Business, al ser un portavoz del gobierno, puede considerarse un caso de interés particular. El artículo menciona que el gobierno de Trump controla el acceso a un modelo de inteligencia artificial, lo que ha generado una serie de preguntas sobre el control gubernamental de herramientas de seguridad de la información y su implementación en las instituciones gubernamentales.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>Este tema plantea interrogantes profundos sobre el control y la seguridad de las herramientas de inteligencia artificial. La capacidad de un gobierno de controlar el acceso a estas tecnologías puede dar lugar a una mayor capacidad para infiltrarse y realizar actividades de espionaje en la industria privada, lo que puede tener graves implicaciones para la libertad individual y la confidencialidad de la información. La reflexión debe centrarse en encontrar un equilibrio entre la necesidad de seguridad y la preservación de la privacidad y la autonomía en el uso de la tecnología.</p>"
+        },
+        {
           "id": "topic-economia",
-          "headline": "Preocupaciones por la inflación afectan los mercados financieros",
-          "summary": "Los precios del petróleo siguen subiendo después de una vuelta de tijeras entre Estados Unidos e Irán. Esto refleja la ansiedad de los inversores sobre el impacto de la guerra en la inflación y el crecimiento.",
+          "headline": "¿Cómo gestionar el dinero en una relación?",
+          "summary": "El director ejecutivo de Lloyds Bank comparte consejos sobre cómo ahorro, presupuestos, evitar estafas y gestionar el dinero en una relación.",
           "tags": [
-            "#inflación",
-            "#petróleo"
-          ],
-          "source_ids": [
-            0,
-            5
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/09/multimedia/09biz-oil-shipping-markets-kpvc/09biz-oil-shipping-markets-kpvc-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Se registra una fuerte incertidumbre en los mercados financieros debido a las preocupaciones sobre la inflación.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los medios de izquierda están enfatizando la relación entre la guerra y la inflación, destacando la posible afectación en la economía y el crecimiento. Un ejemplo claro de esto es la noticia de los bombardeos entre Estados Unidos e Irán, indicando que la incertidumbre ha llevado a una mayor volatilidad en los mercados. Además, la prensa de izquierda destaca que las horas del primer encuentro del presidente de la Reserva Federal, Kevin M. Warsh, sugirieron que algunos miembros de la institución apoyaban un aumento en las tasas de interés para frenar la inflación creciente.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales se enfocan en la presentación de hechos objetivos al informar sobre los acontecimientos relacionados con la inflación y los mercados financieros. Presentan noticias sobre la situación geopolítica, las tasas de interés y su efecto en el crecimiento económico, sin tomar partido ni promover una perspectiva partidista. Al presentar ambos puntos de vista, los medios imparciales contribuyen a una mejor comprensión del panorama económico contemporáneo.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha tienden a destacar la posible conexión entre la inflación y el gasto estatal, enfatizando que la gestión del presupuesto por parte de los gobiernos puede influir en la estabilidad económica. También se centran en las consecuencias de la guerra y la incertidumbre geopolítica en la economía y los mercados financieros, a menudo destacando la importancia de la responsabilidad fiscal y la contención de gastos en la lucha contra la inflación.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>Las preocupaciones sobre la inflación y sus consecuencias en los mercados financieros destacan la complejidad y la interconexión de los sistemas económicos. La presencia de la incertidumbre y la volatilidad en los mercados muestra que la economía es un sistema en constante evolución, donde las acciones y decisiones de hoy pueden tener un impacto a largo plazo en la estabilidad económica y el bienestar de las personas. Para comprender plenamente la situación, es necesario analizar no solo hechos, sino también las posibles conexiones entre ellos, para tomar decisiones informadas y trabajar hacia una economía más estable y equitativa.</p>"
-        },
-        {
-          "id": "topic-energía",
-          "headline": "Necesidad presiona para aprobación de campos de gas en el Reino Unido",
-          "summary": "El jefe de un banco británico advierte sobre posibles carencias de gas en el Reino Unido en invierno si no se aprueba una producción de gas en el Mar del Norte.",
-          "tags": [
-            "#energía",
-            "#ReinoUnido"
-          ],
-          "source_ids": [
-            1
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef-embed.bbci.co.uk/news/1400/cpsprodpb/C9A2/production/_106351235_hc8qf4v.jpg\" onerror=\"this.src='/assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption>Las autoridades del Reino Unido enfrentan una decisión crucial sobre la construcción de campos de gas en el mar del Norte para evitar una posible escasez en la producción de gas.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Es posible que los medios de izquierda presenten la oposición de grupos ecologistas a la construcción de campos de gas como una lucha justa contra la explotación de los recursos naturales, enfatizando los posibles efectos negativos en el medio ambiente.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales probablemente presenten ambos lados de la discusión, destacando la importancia de encontrar un equilibrio entre la necesidad de gas para cubrir la demanda energética doméstica y las preocupaciones ambientales, resaltando el papel crucial de la toma de decisiones del gobierno.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha pueden enfatizar la importancia de la autonomía energética del Reino Unido y la necesidad de aprovechar sus propios recursos para reducir la dependencia de la importación de energía, destacando las posibles consecuencias económicas de la inacción.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La decisión del gobierno sobre la aprobación de los campos de gas en el mar del Norte tiene implicancias más amplias para la seguridad energética y la sostenibilidad a largo plazo del Reino Unido. La necesidad de equilibrar la creciente demanda de energía con las preocupaciones ambientales plantea desafíos difíciles, pero es fundamental considerar las posibles consecuencias a largo plazo de la inactividad o la decisión equivocada.</p>"
-        },
-        {
-          "id": "topic-finanzas",
-          "headline": "Técnicas para la gestión efectiva de tus finanzas",
-          "summary": "El director ejecutivo de una gran banca británica comparte consejos sobre cómo ahorrar, presupuestar, evitar estafas y manejar dinero en una relación.",
-          "tags": [
-            "#finanzas",
-            "#gestión"
-          ],
-          "source_ids": [
-            2
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n    <img src=\"https://ichef.bbci.co.uk/news/1024/branded_news/7A7C/production/_121449144_gettyimages-1204449989-1.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n    <div class=\"hero-caption\">El jefe ejecutivo de Lloyds Bank comparte cinco estrategias para gestionar sus finanzas de manera efectiva.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n    <div class=\"bias-box bias-box-left\">\n        <div class=\"bias-label\">Medios de Izquierda</div>\n        <div class=\"bias-content\">Los medios de izquierda pueden enfocarse en la injusticia de la desigualdad financiera y la importancia de implementar reformas para promover la igualdad econónica, destacando las medidas del jefe ejecutivo de Lloyds Bank como soluciones parciales a problemas más amplios.</div>\n    </div>\n    <div class=\"bias-box bias-box-neutral\">\n        <div class=\"bias-label\">Medios Imparciales</div>\n        <div class=\"bias-content\">Los medios imparciales podrían presentar una visión equilibrada de las estrategias para la gestión de las finanzas propuestas por el CEO de Lloyds Bank, destacando sus ventajas y debilidades, y ofreciendo consejos prácticos para que los lectores puedan aplicarlos en su vida cotidiana.</div>\n    </div>\n    <div class=\"bias-box bias-box-right\">\n        <div class=\"bias-label\">Medios de Derecha</div>\n        <div class=\"bias-content\">En tanto los medios de derecha pueden enfatizar la importancia de la autosuficiencia financiera y la creación de riqueza, destacando las estrategias del CEO para maximizar la eficiencia económica y el crecimiento, y criticando la intervención gubernamental en la economía.</div>\n    </div>\n</div>\n<h2>Reflexión</h2>\n<p>La gestión efectiva de las finanzas no es solo una cuestión de números y planificación, sino que implica una comprensión profunda de la relación entre el dinero, la satisfacción y la felicidad. La capacidad de gestionar nuestras finanzas de manera efectiva nos permite tener una mayor estabilidad emocional, liberarnos de la ansiedad financiera y enfocarnos en nuestros valores y objetivos.</p>"
-        },
-        {
-          "id": "topic-transporte",
-          "headline": "Costo de seguro para vehículos eléctricos sigue siendo un obstáculo",
-          "summary": "El costo de seguro para vehículos eléctricos sigue siendo alto, lo que puede estar disuadiendo a algunos compradores potenciales. ¿Qué se puede hacer al respecto?",
-          "tags": [
-            "#vehículos eléctricos",
-            "#seguro"
-          ],
-          "source_ids": [
-            3
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/1024/branded_news/1D3C/production/_121844511_gettyimages-1235518553.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El costo de seguro para vehículos eléctricos sigue siendo un obstáculo para muchos compradores potenciales.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">No hubo encontrado artículos pertinentes de medios de izquierda para esta análisis. Se recomienda consultar otras fuentes como Telesur o Prensa Latina.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales como BBC Business presentan una visión equilibrada de este tema. El artículo destacado menciona las razones detrás de los costos de seguro más altos para vehículos eléctricos y los esfuerzos para abordar el problema. El enfoque del artículo enfatiza la necesidad de una solución conjunta para resolver la brecha de costos de seguro entre vehículos eléctricos y de combustión interna.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No encontramos artículos pertinentes de medios de derecha para esta análisis. Se recomienda consultar otras fuentes para obtener una perspectiva contrastante.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El costo de seguro para vehículos eléctricos es un tema complejo que revela una brecha entre la promesa de innovación sostenible y la realidad actual. Este obstáculo no solo amenaza con retrasar la adopción generalizada de vehículos eléctricos, sino que también ilumina desafíos aún sin resolver en la industria del seguro. Para avanzar hacia una industria del vehículo eléctrico más sostenible, se requiere una colaboración más estrecha entre los fabricantes de vehículos, los responsables de la política y los aseguradores para crear soluciones que aborden estas desafíos.</p>"
-        },
-        {
-          "id": "topic-tributos",
-          "headline": "Celebridades y expertos en derechos civiles se unen a la comunidad por la muerte de William D. Zabel",
-          "summary": "Un destacado abogado fallecido se destaca por sus logros en derechos civiles, incluida la legalización del matrimonio interracial.",
-          "tags": [
-            "#derechos civiles",
-            "#celebridades"
+            "#economia",
+            "#dinero"
           ],
           "source_ids": [
             4
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/10/multimedia/08Zabel-Subb-tcgf-print1/08Zabel-Subb-tcgf-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La comunidad celebra la vida y el legado del destacado advogado civil, William D. Zabel.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El periódico de izquierda, The New York Times, publicó un artículo titulado \"William D. Zabel, abogado destacado y defensor de los derechos civiles, fallece a los 89 años\", que destaca su legado en la lucha por la igualdad racial e interracial y su papel en la recuperación de billones afectados por el esquema de Ponzi de Bernie Madoff. El artículo también menciona sus logros como abogado, incluyendo su capacidad para resolver disputas celebridades y recuperar grandes sumas de dinero.</div>\n  </div>\n  <div class=\"bias-box bias-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">En este momento no hay información disponible sobre la cobertura de medios imparciales en este tema.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No hay información disponible sobre la cobertura de medios de derecha en este tema.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La muerte de William D. Zabel es un recordatorio importante de la importancia de luchar por la igualdad y la justicia en todas sus formas. Su legado en la lucha por los derechos civiles y su papel en la recuperación de billones de dólares para las víctimas del esquema de Ponzi de Bernie Madoff son un ejemplo de lo que se puede lograr cuando se trabaja con determinación y dedicación. Su memoria nos inspira a continuar la lucha por una sociedad más justa y equitativa para todos.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/media/images/73701000/web_73701449.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption>Cómo gestionar tu dinero en una relación de manera efectiva y equilibrada.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">No se encuentra información de medios de izquierda relacionada con este artículo.</div>\n    <div class=\"bias-content\">Por lo tanto, no hay perspectivas de medios de izquierda relevantes para considerar en esta análisis.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">El artículo seleccionado es de BBC Business, que se describe como neutral. El CEO de Lloyds Bank comparte consejos objetivos sobre cómo ahorrar, presupuestar, evitar estafas y gestionar el dinero en una relación. La perspectiva de un experto en la industria es presentada de manera imparcial, sin un sesgo específico.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">No se encuentra información de medios de derecha relacionada con este artículo.</div>\n    <div class=\"bias-content\">Por lo tanto, no hay perspectivas de medios de derecha relevantes para considerar en esta análisis.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La gestión del dinero en una relación es una cuestión crítica que puede tener una gran influencia en la salud financiera y emocional de las parejas. El equilibrio entre las necesidades individuales y las obligaciones conjuntas puede ser un desafío constante. La importancia de la comunicación abierta y la cooperación mutua no se puede subestimar en esta área. Además, la gestión del dinero en una relación puede reflejar los valores y prioridades de la pareja, lo que la convierte en un tema profundo que va más allá de la simple economía.</p>"
+        },
+        {
+          "id": "topic-transporte",
+          "headline": "El costo de la seguros para coches eléctricos sigue siendo un obstáculo",
+          "summary": "El costo de la seguro para vehículos eléctricos sigue siendo un obstáculo para muchos compradores potenciales. ¿Qué se está haciendo al respecto?",
+          "tags": [
+            "#transporte",
+            "#cocheseléctricos"
+          ],
+          "source_ids": [
+            5
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ideas/assets/bbc/iplayer/assets_2019/_2019_images/1024x576/2019/images/11/2019/07/04/20190704112007_1xw.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El costo de los seguros para automóviles eléctricos sigue siendo un obstáculo para los compradores potenciales.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">No se encontraron medios de izquierda que cubrieran el tema, por lo tanto no es posible una descripción.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">El artículo del BBC Business titulado \"¿Por qué los automóviles eléctricos cuestan más a asegurar, y qué se está haciendo al respecto?\" presenta un análisis equilibrado del costo de los seguros para los automóviles eléctricos. El artículo menciona que la baja frecuencia de acarreos de los automóviles eléctricos es una preocupación para las aseguradoras, ya que puede afectar sus modelos de riesgo. Sin embargo, también se menciona que las compañías de seguros están trabajando para actualizar sus métodos de cálculo para reflejar la naturaleza única de los automóviles eléctricos.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No se encontraron medios de derecha que cubrieran el tema, por lo tanto no es posible una descripción.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El costo de los seguros para automóviles eléctricos es un tema complejo que requiere un enfoque holístico. Aunque el costo puede ser un desafío para los compradores potenciales, también plantea preocupaciones sobre la seguridad y la responsabilidad. La industria de los seguros debe trabajar para adaptarse a la nueva tecnología y garantizar que los conductores de automóviles eléctricos tengan una protección adecuada. Al mismo tiempo, los consumidores deben ser conscientes de las implicaciones a largo plazo de los costos de seguro y considerar su impacto en la sostenibilidad a largo plazo de la propiedad automotriz.</p>"
+        },
+        {
+          "id": "topic-fitness",
+          "headline": "La tecnología busca hacer del deporte una actividad más atractiva",
+          "summary": "Empresas como Xenom buscan innovar para convertir el deporte en una actividad emocionante y accesible para todos.",
+          "tags": [
+            "#fitness",
+            "#tecnología"
+          ],
+          "source_ids": [
+            2
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/09/multimedia/09XENOM-GAMES-glwt/09XENOM-GAMES-glwt-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La tecnología busca hacer del deporte una actividad más atractiva.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Este artículo del New York Times Business destaca la creación de Xenom, una nueva empresa de fitness que busca hacer que los deportistas recreativos se sientan como profesionales. La enfoque de la empresa en la tecnología y la experiencia parece apuntar a un modelo de negocio basado en la innovación y la conveniencia. La perspectiva del New York Times Business sobre la evolución del deporte y la salud refuerza la idea de que la tecnología es una fuerza impulsora para cambiar la forma en que nos relacionamos con el ejercicio físico.</div>\n  </div>\n  <div class=\"bias-box bias-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">En el momento en que esta historia fue escrita, no había artículos disponibles de medios imparciales sobre la tecnología y sus aplicaciones en la industria deportiva. Este análisis se basará en los elementos disponibles.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Aunque no hay artículos directamente relacionados con la tecnología y el deporte en medios de derecha, un enfoque posible podría ser enfatizar la necesidad de una educación más profunda en ciencias de la salud para entender la verdadera eficacia de tecnologías como la de Xenom. La perspectiva de los medios de derecha podría ser más crítica a la industria del fitness y enfocarse en cuestionar la verdadera necesidad de estas tecnologías.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La tecnología está cambiando la forma en que nos relacionamos con el deporte y la salud. Xenom es un ejemplo de cómo la innovación y la conveniencia pueden hacer que el ejercicio físico sea más accesible y atractivo para más personas. Pero, ¿hay un precio que pagar por la aceptación generalizada de estas tecnologías? ¿Estamos sacrificando la esencia del deporte por la comodidad y la facilidad? La respuesta a estas preguntas puede decir mucho sobre la verdadera dirección en que se está moviendo la sociedad en cuanto a la cultura deportiva y la salud.</p>"
+        },
+        {
+          "id": "topic-negocios",
+          "headline": "Nike y Adidas se disputan el mercado en el Campeonato del Mundo",
+          "summary": "Las empresas de ropa deportiva más grandes del mundo se disputan el mercado en el Campeonato del Mundo, poniendo todas sus apuestas en los logros deportivos.",
+          "tags": [
+            "#negocios",
+            "#deporte"
+          ],
+          "source_ids": [
+            3
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/02/multimedia/00biz-nike-adidas-worldcup-promo-vbft/00biz-nike-adidas-worldcup-promo-vbft-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Las empresas de ropa deportiva Nike y Adidas se encuentran en competencia feroz para dominar el mercado durante el Campeonato del Mundo.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Un artículo publicado en el New York Times (NYT) titulado \"El partido más grande del Mundial es Nike Vs. Adidas\" analiza la competencia entre las dos empresas de ropa deportiva durante el Campeonato del Mundo. El artículo destaca cómo las compañías están apostando fuerte por la visibilidad y el patrocinio durante el evento.</div>\n  </div>\n  <div class=\"bias-box bias-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Debido a la gran cantidad de información disponible en el artículo del NYT, este podría ser un ejemplo de un medio imparcial tratando este tema. La información se presenta de manera objetiva sin tomada de partido o sesgo aparente.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Como en el caso de los medios de izquierda, no hay un artículo específico de un medio de derecha tratando directamente este tema. Sin embargo, se podría especular que los medios de derecha podrían enfocarse en la competencia entre las dos empresas desde una perspectiva de libre mercado y la importancia de la competencia.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La competencia entre Nike y Adidas durante el Campeonato del Mundo es solo un aspecto de un fenómeno más amplio: la globalización y la influencia del deporte en nuestra cultura. En un mundo donde el deporte se ha convertido en una industria multimillonaria, las marcas de ropa deportiva se ven obligadas a apostar fuerte por la visibilidad y el patrocinio para mantener su posición en el mercado. Pero ¿qué implica esto para la identidad del deporte y para la sociedad en general?</p>"
         }
       ],
       "rawCount": 9
