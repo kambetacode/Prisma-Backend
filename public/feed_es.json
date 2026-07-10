@@ -1,89 +1,77 @@
 {
-  "last_updated": "2026-07-10T14:27:46.552Z",
+  "last_updated": "2026-07-10T17:48:45.030Z",
   "language": "es",
   "categories": {
     "GLOBAL_MACRO": {
       "items": [
         {
-          "id": "raw-0",
-          "headline": "[Neutral (BBC)] East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
-          "summary": "Heading for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades....",
+          "id": "desastres-naturales",
+          "headline": "Tifones e incendios forestales causan daños en varias partes del mundo",
+          "summary": "Un tifón se acerca a Taiwán y China, mientras que un incendio forestal en España deja a al menos 12 personas muertas y varias desaparecidas.",
           "tags": [
-            "Neutral"
+            "#tifon",
+            "#incendioforestal"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">East Asia braces for destructive typhoon as landslides kill 15 in Philippines</a></p>\n                <p>Heading for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades.</p>\n            "
+          "source_ids": [
+            3,
+            8
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/07/centcom-iran-strikes-july-9.gif\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El aumento de incendios forestales y tifones ha causado un impacto catastrófico en varias partes del mundo.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">No se encontró referencia específica en la fuente de izquierda (BBC) sobre la temática de tifones y incendios forestales, por lo que se concluye que no están relacionados directamente con este tipo de contenido.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">La fuente neutral (BBC) presentó un Informe sobre los tifones en Asia, destacando la amenaza de tormentas y derrumbes. Esta información se enfoca en los efectos del clima y su impacto en la región, demostrando un tratamiento equilibrado de la temática.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">La fuente de derecha (Fox) no está directamente relacionada con la temática de tifones e incendios forestales. Sin embargo, se observa una tendencia a presentar contenidos sobre conflictos geopolíticos, lo que sugiere una orientación más política y menos enfocada en temas ambientales.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La creciente frecuencia y gravedad de tifones e incendios forestales deberían ser un llamado de atención global. Estos eventos están estrechamente relacionados con el cambio climático, cuya consecuencia son las condiciones meteorológicas cada vez más extremas. Es fundamental abordar este tema con la seriedad que merece, priorizando estrategias de mitigación y adaptación para proteger el medio ambiente y las comunidades vulnerables.</p>"
         },
         {
-          "id": "raw-1",
-          "headline": "[Left (NYT)] At Least 12 People Die in Southern Spain Wildfire",
-          "summary": "More than 20 people were still missing after the blaze in Andalusia, one of the deadliest on record in the country. Many of the victims were foreign t...",
+          "id": "conflicto-iran-estados-unidos",
+          "headline": "Tensión entre Irán y Estados Unidos aumenta con amenazas de ambos lados",
+          "summary": "Oficiales iraníes han emitido amenazas después de ataques estadounidenses contra Irán, mientras que la mujer arrestada Ghazal Marzban comienza una huelga de hambre.",
           "tags": [
-            "Left"
+            "#iran",
+            "#estadosunidos"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/07/10/world/europe/spain-wildfire-deaths.html\" target=\"_blank\">At Least 12 People Die in Southern Spain Wildfire</a></p>\n                <p>More than 20 people were still missing after the blaze in Andalusia, one of the deadliest on record in the country. Many of the victims were foreign tourists, the Spanish authorities said.</p>\n            "
+          "source_ids": [
+            7,
+            8
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/07/centcom-iran-strikes-july-9.gif\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La tensión entre Irán y Estados Unidos continúa aumentando, con ambas partes intercambiando amenazas y acciones militares.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios Imparciales (no disponible)</div>\n    <div class=\"bias-content\">Falta la disponibilidad de información de medios imparciales para analizar su perspectiva</div>\n  </div>\n  <div class=\"bias-box bias-neutral\">\n    <div class=\"bias-label\">No se tienen</div>\n    <div class=\"bias-content\">No se tienen medios imparesentes para comparte.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha (Fox)</div>\n    <div class=\"bias-content\">Los medios de derecha como Fox News están destacando la tensión entre Estados Unidos e Irán, enfatizando la persecución religiosa en Irán, como evidente por la huelga de hambre de la mujer católica Ghazal Marzban en la prisión de Evin, y la respuesta militar de Estados Unidos contra Irán, como mencionado en el artículo \"Con Estados Unidos desatando ataques, un oficial iraní amenaza con que la República Islámica impartirá un 'golpe duro'\".</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La tensión entre Irán y Estados Unidos no es un tema nuevo, pero su enfoque hacia la persecución religiosa y la respuesta militar ha sido un aspecto cada vez más prominente en la relación entre ambos países. La situación se ha vuelto cada vez más compleja y peligrosa, y es importante que las partes involucradas tomen medidas para encontrar una solución pacífica para evitar un enfrentamiento mayor. La situación también plantea preguntas importantes sobre la libertad religiosa y la seguridad humana en la región.</p>"
         },
         {
-          "id": "raw-2",
-          "headline": "[Left (NYT)] After Venezuela Earthquakes, a Youth Baseball League Counts the Dead",
-          "summary": "Children who played for Venezuela’s youth baseball league, a symbol of national pride, have been left injured, orphaned or dead....",
+          "id": "crímenes-y-acusaciones",
+          "headline": "Monarca zulú y instructor de vuelo son acusados de maltrato",
+          "summary": "El rey Misuzulu y un instructor de vuelo han sido acusados de maltrato después de una grabación muestra su comportamiento agresivo.",
           "tags": [
-            "Left"
+            "#maltrato",
+            "#comportamientoagresivo"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/07/10/world/americas/venezuela-earthquake-death-baseball-los-criollitos.html\" target=\"_blank\">After Venezuela Earthquakes, a Youth Baseball League Counts the Dead</a></p>\n                <p>Children who played for Venezuela’s youth baseball league, a symbol of national pride, have been left injured, orphaned or dead.</p>\n            "
+          "source_ids": [
+            0,
+            6
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/leobertazzo_preview.png?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Se ha filtrado un video en el que el rey zulú Misuzulu amenza a su esposa e insinúa que la ha traicionado.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">En este caso, ninguno de los medios de izquierda considerados ha publicado una noticia relacionada con el tema. De no haber, el contenido correspondería simplemente en esta sección. Sin embargo, se puede especular que, si existiera contenido de izquierda, podría estar enfocado en la denuncia por parte de algunos sectores acerca de las supuestas conductas irresponsables del rey zulú, poniendo énfasis en el maltrato como un tema importante y urgente que requiere ser abordado.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Por otro lado, un medio neutral ha publicado una noticia en la que el rey Misuzulu expresa arrepentimiento por su comportamiento hacia su esposa, en respuesta a una grabación que circula en Internet. En este contexto, el medio neutral se ha centrado en la noticia en sí, presentando los hechos sin tomar partido. Esta es una buena práctica periodística, ya que permite a los lectores formarse una opinión informada sobre los acontecimientos.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">El medio de derecha ha publicado una noticia sobre un instructor de vuelo argentino que saltó de un avión en vuelo con un estudiante de 22 años. Aunque no está directamente relacionado con el rey zulú, se puede inferir que el medio de derecha está enfatizando la irresponsabilidad de las acciones del instructor como una especie de paralelo moral para el comportamiento del rey, aunque no es un tema directamente relacionado. En este sentido, se podría interpretar que está utilizando un sesgo hacia la creencia de que los individuos en posiciones de poder deben comportarse de manera responsable.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El tema de las conductas irresponsables y el maltrato está ampliamente presente en la sociedad. La filtración de un video que muestra al rey zulú Misuzulu amenza a su esposa e insinúa que la ha traicionado plantea una pregunta fundamental: ¿qué papel debemos asignar a las figuras de autoridad en nuestra sociedad? ¿Deben ser sujetos a una cierta tolerancia o deben ser responsabilizados por sus actos? La respuesta a estas preguntas es compleja y depende de muchos factores, incluyendo la cultura, la tradición y la moralidad individual. Sin embargo, no hay duda de que el comportamiento del rey zulú es inaceptable y que debemos reflexionar sobre las implicaciones de nuestras acciones y sus impactos en los demás.</p>"
         },
         {
-          "id": "raw-3",
-          "headline": "[Left (NYT)] Iran’s Supreme Leader Remains Absent, a Void at the Top of the Regime",
-          "summary": "Ayatollah Mojtaba Khamenei did not appear at his father’s funeral this week, fueling speculation about his physical condition and leaving a power vacu...",
+          "id": "desastres-naturales-en-américa-latina",
+          "headline": "Sismos en Venezuela dejan muertos e heridos entre la juventud",
+          "summary": "Llamados a la juventud para jugar al béisbol han resultado en muertos e heridos después de los sismos en Venezuela.",
           "tags": [
-            "Left"
+            "#sismo",
+            "#béisbol"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/07/10/world/middleeast/iran-supreme-leader-mojtaba-khamenei.html\" target=\"_blank\">Iran’s Supreme Leader Remains Absent, a Void at the Top of the Regime</a></p>\n                <p>Ayatollah Mojtaba Khamenei did not appear at his father’s funeral this week, fueling speculation about his physical condition and leaving a power vacuum in a divided country.</p>\n            "
+          "source_ids": [
+            5
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2023/03/19/world/19venezuela-earthquake-7/19venezuela-earthquake-7-superJumbo.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption>Los recientes sismos en Venezuela han dejado un rastro de muerte y dolor entre la juventud del país.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\" style=\"color: blue\"><u>Medios de Izquierda</u></div>\n    <div class=\"bias-content\">El New York Times, como medio de izquierda, está destacando la dramática afectación de los jóvenes venezolanos en el terreno del deporte, específicamente con la Liga Venezolana de Béisbol Infantil, como un símbolo de la identidad nacional afectada por estos eventos naturales. La narrativa enfatiza el sufrimiento y las víctimas de la tragedia.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\" style=\"color: gray\"><u>Medios Imparciales</u></div>\n    <div class=\"bias-content\">Aunque no hay información disponible sobre medios impartienciales en este momento, podemos inferir que estos pueden dar a conocer la crisis humanitaria sin tomar partido, presentando información objetiva de los estragos de los sismos en Venezuela.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\" style=\"color: red\"><u>Medios de Derecha</u></div>\n    <div class=\"bias-content\">Hasta el momento no se tienen reportes de medios de derecha tomando una postura en este tema, pero si se conocieran, posiblemente enfatizarían la respuesta del gobierno venezolano a la emergencia y la falta de preparación para estos eventos naturales en un país que afronta varios desafíos, incluida la crisis económica y política.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La pérdida de vidas jóvenes como resultado de los sismos en Venezuela resalta la vulnerabilidad de la infancia y la juventud en situaciones de desastre natural. Esta situación cuestiona la capacidad de los gobiernos para priorizar la seguridad y el bienestar de sus ciudadanos, sobre todo en momentos de extrema inestabilidad nacional, como lo ha experimentado Venezuela en los últimos años. La humanidad perdida, el sufrimiento y las burlas del destino se manifiestan en la tragedia, dejándonos a reflexionar sobre la importancia de las políticas de emergencia y las acciones a largo plazo para abordar estos fenómenos, así como la obligación moral de los líderes de atender las necesidades de sus ciudadanos más vulnerables.</p>"
         },
         {
-          "id": "raw-4",
-          "headline": "[Neutral (BBC)] Huge crowds in Mashhad as Iran's late supreme leader is buried",
-          "summary": "Ali Khamenei was buried at the Imam Reza shrine, Iran's holiest Shia Muslim site, ending six days of public mourning ceremonies....",
+          "id": "poder-y-política-en-el-irán",
+          "headline": "Falta de liderazgo en el régimen iraní causa incertidumbre en el país",
+          "summary": "El líder supremo Ayatollah Mojtaba Khamenei no ha aparecido en público, lo que genera especulaciones sobre su condición física y su futuro.",
           "tags": [
-            "Neutral"
+            "#liderazgo",
+            "#iran"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Huge crowds in Mashhad as Iran's late supreme leader is buried</a></p>\n                <p>Ali Khamenei was buried at the Imam Reza shrine, Iran's holiest Shia Muslim site, ending six days of public mourning ceremonies.</p>\n            "
-        },
-        {
-          "id": "raw-5",
-          "headline": "[Neutral (BBC)] Ukrainian agent accused of murdering Monaco bomb suspect changes story",
-          "summary": "Two men with links to Ukraine's security services are accused of killing Anastasiia Berezovska and dumping her body in woods....",
-          "tags": [
-            "Neutral"
+          "source_ids": [
+            1,
+            4
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Ukrainian agent accused of murdering Monaco bomb suspect changes story</a></p>\n                <p>Two men with links to Ukraine's security services are accused of killing Anastasiia Berezovska and dumping her body in woods.</p>\n            "
-        },
-        {
-          "id": "raw-6",
-          "headline": "[Right (Fox)] Argentinian flight instructor jumps to death from plane, 22-year-old student forced to land alone",
-          "summary": "A 22-year-old student pilot was forced to land a Cessna 150 alone after her flight instructor jumped from the aircraft mid-flight over Córdoba, Argent...",
-          "tags": [
-            "Right"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/world/argentinian-flight-instructor-jumps-death-from-plane-22-year-old-student-forced-land-alone\" target=\"_blank\">Argentinian flight instructor jumps to death from plane, 22-year-old student forced to land alone</a></p>\n                <p>A 22-year-old student pilot was forced to land a Cessna 150 alone after her flight instructor jumped from the aircraft mid-flight over Córdoba, Argentina.</p>\n            "
-        },
-        {
-          "id": "raw-7",
-          "headline": "[Right (Fox)] Jailed Catholic woman's hunger strike highlights Iran religious persecution — US demands action",
-          "summary": "Ghazal Marzban, a Catholic woman, is on hunger strike in Evin prison in Tehran as arrests of Christians jumped from 139 in 2024 to 254 in 2025....",
-          "tags": [
-            "Right"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/world/jailed-catholic-womans-hunger-strike-highlights-iran-religious-persecution-us-demands-action\" target=\"_blank\">Jailed Catholic woman's hunger strike highlights Iran religious persecution — US demands action</a></p>\n                <p>Ghazal Marzban, a Catholic woman, is on hunger strike in Evin prison in Tehran as arrests of Christians jumped from 139 in 2024 to 254 in 2025.</p>\n            "
-        },
-        {
-          "id": "raw-8",
-          "headline": "[Right (Fox)] With US unleashing attacks, Iranian official threatens that the Islamic Republic will deliver a 'hard slap'",
-          "summary": "Iranian officials issued threats as the United States military has been conducting more attacks against the Islamic Republic this week....",
-          "tags": [
-            "Right"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/world/us-unleashing-attacks-iranian-official-threatens-islamic-republic-deliver-hard-slap\" target=\"_blank\">With US unleashing attacks, Iranian official threatens that the Islamic Republic will deliver a 'hard slap'</a></p>\n                <p>Iranian officials issued threats as the United States military has been conducting more attacks against the Islamic Republic this week.</p>\n            "
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/10/multimedia/10int-Iran-Supreme-Leader-lpbq/10int-Iran-Supreme-Leader-lpbq-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La ausencia del líder supremo iraní, AyatolÁ Mojtaba Khamenei, ha creado una importante vacante de poder en el régimen.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Según el artículo del New York Times, los medios de izquierda están enfocándose en la salud del líder supremo iraní, AyatolÁ Mojtaba Khamenei, y cómo su ausencia ha creado una importante vacante de poder en el régimen, lo que ha generado gran incertidumbre en el país. Este enfoque sugiere un profundo interés en la dinámica política iraní y en la posible influencia de la figura de Khamenei en el país.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">En ausencia de información en los medios imparciales relacionados con este artículo, no es posible analizar su enfoque.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No se encontraron artículos de medios de derecha relacionados con el tema de la ausencia del líder supremo iraní y su impacto en el régimen.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La figura del Líder Supremo de Irán es un elemento clave en la dinámica política del país, y su ausencia ha creado una importante vacante de poder. Esto plantea preguntas sobre la estabilidad del régimen y su capacidad para mantener su influencia en la región. La ausencia de un líder fuerte y claro puede generar incertidumbre y conflictos, lo que puede tener consecuencias importantes para el país y la región. Es necesario analizar la situación y considerar las posibles implicaciones para la estabilidad regional y la seguridad global.</p>"
         }
       ],
       "rawCount": 9
@@ -91,71 +79,43 @@
     "TECH_FRONTIER": {
       "items": [
         {
-          "id": "topic-1",
-          "headline": "La UE presiona a Meta por diseñar plataformas adictivas",
-          "summary": "La Unión Europea ha advertido a Meta sobre la posible violación de una ley de seguridad digital por el uso de diseños de platofrmas adictivas en Facebook e Instagram.",
+          "id": "addictive_design",
+          "headline": "La UE obliga a meta a cambiar el diseño adictivo de Instagram y Facebook",
+          "summary": "La Unión Europea exige a meta alterar sus plataformas sociales para evitar hábitos poco saludables en los usuarios.",
           "tags": [
-            "#Meta",
-            "#UE"
+            "#socialmedia",
+            "#adicción"
           ],
           "source_ids": [
             0,
             2
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/10/multimedia/10biz-eu-meta-jzgc/10biz-eu-meta-jzgc-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La Unión Europea está presionando a Meta para que mejore la experiencia de sus usuarios y reduzca los efectos perjudiciales de las redes sociales.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Según el New York Times, la Unión Europea ordenó a Meta que modifique el 'diseño adictivo' de Instagram y Facebook, destacando la violación de una ley de seguridad digital por la empresa.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">BBC Tech informa que los reguladores acusan a Meta de diseñar plataformas adictivas, citando características como el desplazamiento infinito que contribuyen al \"uso compulsivo\" y \"habitos poco saludables\" de sus usuarios.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\"></div>\n</div>\n<h2>Reflexión</h2>\n<p>La presión de la Unión Europea sobre Meta subraya la importancia de la responsabilidad social de las empresas de tecnología. En un mundo donde las redes sociales tienen un impacto profundo en la salud mental y la interacción humana, es crucial que las plataformas digitalizadas garanticen un ambiente saludable y seguro para sus usuarios. La modificación del 'diseño adictivo' de Instagram y Facebook es un paso significativo en la dirección correcta, pero también plantea preguntas sobre la capacidad de las regulaciones para adaptarse a la evolución constante de la tecnología y la sociedad.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/10/multimedia/10biz-eu-meta-jzgc/10biz-eu-meta-jzgc-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La Unión Europea impone cambios a Instagram y Facebook para limitar el uso adictivo.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El New York Times describe la medida como un \"orden\" de la Unión Europea, lo que sugiere una autoridad más directa y coercitiva. El uso del adjetivo \"adictivo\" en la presentación de Facebook y Instagram resalta la preocupación por el daño potencial de estas plataformas para la salud mental. Esta actitud resalta la crítica a la influencia negativa de las redes sociales.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">BBC Tech informa que los reguladores consideran que características como el scroll infinito contribuyen al \"uso compulsivo\" y \"hábitos no saludables\". Esta actitud mantiene un tono neutral, enfocado en el impacto y las características del diseño, sin juzgar el contenido de Facebook o Instagram. El uso de este lenguaje técnico enfatiza la perspectiva de los reguladores como expertos técnicos.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No hay información disponible en la fuente proporcionada que sugiera un enfoque de derecha en este artículo sobre la Unión Europea y Meta. Sin embargo, si consideramos a los medios de derecha generalmente críticos con la regulación del gobierno y los controles sobre Internet, podrían haberse resistido a la idea de la intervención del Estado en las prácticas de Meta. Esta reflexión no puede basarse en los hechos presentados, pero ofrece una posible perspectiva alternativa.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La tensión entre el desarrollo de tecnología avanzada y la respuesta social responsable al mismo ha sido un tema recurrente. Las redes sociales se han vuelto una forma integral de nuestra vida, ofreciendo plataformas globales para conectar, compartir y participar. Sin embargo, el uso excesivo de estas mismas plataformas ha llevado a preocupaciones sobre el impacto en la salud mental y la privacidad. La Unión Europea, en esta ocasión, se alinea con los esfuerzos internacionales para proteger a los usuarios de las prácticas que pueden ser perjudiciales. La adopción de estas regulaciones y el seguimiento de las prácticas responsables de los proveedores de servicios de Internet pueden tener implicaciones más allá de la propia tecnología que utilizamos, ya que sentarían precedentes sobre la forma en que regulamos las tecnologías emergentes y protegemos a las generaciones futuras. La cuestión de si el progreso de la tecnología tiene más importancia que la protección de los usuarios es una discusión compleja que requiere pensamiento profundo y reflexión crítica.</p>"
         },
         {
-          "id": "topic-2",
-          "headline": "La manipulación en línea: Anuncios fraudulentos engañan a los consumidores",
-          "summary": "La Ofcom ha alertado sobre la existencia de anuncios fraudulentos en línea, afectando a más de la mitad de los adultos británicos.",
+          "id": "compras_inseguras",
+          "headline": "El 50% de los adultos británicos encuentra anuncios inverosímiles en internet",
+          "summary": "Ofcom informa que más de la mitad de los adultos del Reino Unido han encontrado anuncios potencialmente fraudulentos en línea.",
           "tags": [
-            "#anuncios",
-            "#fraude"
+            "#seguridad_en_linea"
           ],
           "source_ids": [
             3
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/1024/branded_news/1360/production/_121141492_mediaitem121135551.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La Ofcom alerta acerca de la creciente presencia de anuncios fraudulentos en la web y en el mobile.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Por lo general, los medios de izquierda tienden a centrarse en cómo las corporaciones multinacionales y las grandes tecnologías explotan a los consumidores a través de anuncios engañosos y el marketing despiadado, resaltando la necesidad de un gobierno más fuerte para regular la industria y proteger a los consumidores vulnerables.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales tienden a reportar el tema de manera objetiva, presentando los pros y los contras de la situación, e informando sobre las propuestas de regulación de la Ofcom para abordar el problema de los anuncios fraudulentos en línea y en el móvil, enfatizando la necesidad de una regulación efectiva para proteger a los consumidores de la explotación.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Por lo general, los medios de derecha enfatizan la importancia de la libre empresa y la competencia en la industria de los anuncios en línea, sugiriendo que los esfuerzos de regulación pueden tener consecuencias negativas, como la supresión de la innovación y la limitación del derecho a la libertad de expresión. Sin embargo, también pueden señalar la necesidad de proteger a los consumidores de la explotación y promover la transparencia y la rendición de cuentas en la industria.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La emergencia de anuncios fraudulentos en línea y en el móvil plantea serias preguntas sobre las responsabilidades de las empresas tecnológicas y las regulaciones gubernamentales. ¿Hasta qué punto deben las empresas privadas ser sujetas a regulación, y cómo pueden equilibrar la protección de los consumidores con la promoción de la innovación y la competencia en la industria? ¿Cómo pueden los gobiernos abordar este problema de manera efectiva, sin sobrecargar a las empresas con regulaciones excesivas? Este es un dilema complejo que requiere una reflexión cuidadosa y una solución equilibrada.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/1024/bric/mediumaute/120/production/_122475341_btcscam_624x350-nc_624x350.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La creciente cantidad de anuncios inverosímiles en internet es un problema que los grandes jugadores de la tecnología deben afrontar, según las propuestas de Ofcom.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">En general, los medios de izquierda tienden a enfatizar la responsabilidad de los grandes jugadores de la tecnología en la proliferación de anuncios fraudulentos. Por ejemplo, pueden destacar cómo las plataformas de publicidad permiten a los anunciantes engañar a los usuarios, o cómo las técnicas de aprendizaje automático pueden ser utilizadas para crear anuncios engañosos.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales tienden a presentar la cuestión de los anuncios inverosímiles de manera objetiva y analítica. Destacan los riesgos para los consumidores, los daños potenciales para la reputación de las marcas y las implicaciones para las redes sociales y plataformas de publicidad. También pueden citar estudios e investigaciones para respaldar su análisis.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha pueden enfatizar la responsabilidad del Estado en la regulación de la publicidad en internet, y cómo la ausencia de regulaciones adecuadas permite la proliferación de anuncios fraudulentos. Algunos pueden también argumentar que la responsabilidad también recae en los consumidores, por no ser lo suficientemente cautelosos al interactuar con anuncios en línea.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La prevalencia de anuncios inverosímiles en internet plantea preguntas filosóficas sobre la naturaleza de la verdad y la autenticidad en el mundo digital. ¿Qué significa ser real en un entorno donde la realidad se puede crear y manipular con facilidad? ¿Cómo puede la gente confiar en la información presentada en línea, cuando la propaganda y el engaño están tan profundamente arraigados en la cultura digital? A medida que nos sumergimos cada vez más en el mundo virtual, es esencial abordar estos temas con seriedad y emprender acciones para proteger la integridad de la información y la seguridad de los usuarios en línea.</p>"
         },
         {
-          "id": "topic-3",
-          "headline": "Desafío tecnológico: la regulación de las plataformas en línea",
-          "summary": "La Unión Europea ha ordenado a Meta alterar el diseño de sus plataformas para reducir el riesgo de hábitos poco saludables en los usuarios.",
+          "id": "noticias_falsas",
+          "headline": "Anuncios portátiles de aire acondicionado engañan a internet",
+          "summary": "La ASA dice que anuncios que reclaman dispositivos pequeños pueden enfriar veloces las habitaciones son exagerados.",
           "tags": [
-            "#privacidad",
-            "#seguridad"
-          ],
-          "source_ids": [
-            2,
-            1
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/10/multimedia/10biz-eu-meta-jzgc/10biz-eu-meta-jzgc-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La Unión Europea exige que Meta modifique el diseño \"adictivo\" de Instagram y Facebook, violando una ley de seguridad digital.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los medios de izquierda, como el NYT, destacan cómo la Unión Europea ha ordenado a Meta que cambie su diseño de \"diseño adictivo\" en Instagram y Facebook, citando una ley de seguridad digital. El enfoque es en la violación de la ley y la importancia de proteger la privacidad de los usuarios.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">No se encontraron medios imparciales relevantes para este análisis.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No se encontraron medios de derecha relevantes para este análisis.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La regulación de las plataformas en línea es una cuestión compleja que implica la protección de la privacidad y la seguridad de los usuarios. La demanda de la Unión Europea a Meta es un paso importante en la dirección de establecer estándares más estrictos para las políticas de privacidad y seguridad en línea. Esto tiene implicaciones más amplias para la forma en que interactuamos con las tecnologías y cómo protegemos nuestra información personal. Es fundamental que las regulaciones sean efectivas y equilibradas, sin reprimir la innovación ni comprometer la privacidad de los usuarios.</p>"
-        },
-        {
-          "id": "topic-4",
-          "headline": "Alerta por productos no seguros: pequeños dispositivos que prometen soluciones rápidas",
-          "summary": "Los anuncios de dispositivos portátiles para enfriar habitaciones rápidamente han sido calificados como exagerados por la Asociación de la Publicidad.",
-          "tags": [
-            "#seguridad",
-            "#consumo"
+            "#miseria_comercial",
+            "#falsedad"
           ],
           "source_ids": [
             4
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/cpsprodpb/E3E3/production/_123142444_mediaitem123142443.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Se están divulgando pequeños dispositivos que prometen refrescar rápidamente las habitaciones.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Aunque no encontramos contenido de medios de izquierda que traten sobre esta noticia específica, podríamos esperar que cualquier cobertura de izquierda enfatice el impacto potencial en la salud de los consumidores de los productos no seguros, como la contaminación del aire y los efectos a largo plazo en la salud.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">El contenido del BBC Tech, de donde proviene la noticia, ha presentado con objetividad la alerta del ASA en cuanto a los anuncios que reivindican pequeños dispositivos que rapidamente enfrían las habitaciones. La cobertura de medios imparciales como este se centrará probablemente en brindar información objetiva sobre la alerta, evitando hacer declaraciones emotivas o tomando partido.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">De manera similar a los medios de izquierda, también es probable que los medios de derecha resalten el potencial de fraude y las pérdidas económicas que los consumidores podrían sufrir comprando productos no seguros. Sin embargo, es posible que los medios de derecha tengan más enfoque en la economía del mercado y cómo los productores de estos dispositivos están manipulando el mercado con sus falsas afirmaciones.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La alerta del ASA en cuanto a los pequeños dispositivos no seguros es un recordatorio importante sobre la importancia de buscar evidencia y hacer preguntas sobre los productos que compramos. En un mundo donde la información y las tecnologías están avanzando a una velocidad vertiginosa, es fundamental mantenernos informados y no dejarnos engañar por promesas de \"soluciones rápidas\" que pueden ser demasiado buenas para ser verdad. Esta cobertura destaca la necesidad de una cobertura responsable de los medios y la importancia de la vigilancia en el consumidor a la hora de tomar decisiones informadas sobre los productos que adquirimos.</p>"
-        },
-        {
-          "id": "topic-5",
-          "headline": " Cambios en la dirección de OpenAI",
-          "summary": "La ejecutiva Fidji Simo, expresidente de OpenAI, ha dejado su cargo para convertirse en consejera de la empresa a tiempo parcial.",
-          "tags": [
-            "#OpenAI",
-            "#personalidades"
-          ],
-          "source_ids": [
-            5
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/09/business/09biz-openai-simo/09biz-openai-simo-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Fidji Simo, ejecutiva clave de OpenAI, dimitirá de su cargo.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El artículo del NYT Tech destaca la dimisión de Fidji Simo, subordinada directa de Sam Altman antes de su licencia médica en abril. Al señalar que Simo se convertirá en una asesora a tiempo parcial de la empresa, los medios de izquierda enfatizan la transición de Simo hacia un papel menos protagonista en la dirigencia de OpenAI.</div>\n  </div>\n  <div class=\"bias-box bias-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">La cobertura de los medios imparciales sobre la dimisión de Fidji Simo describe el cambio en la dirección de OpenAI sin tomar una postura partidaria. Se menciona la experiencia de Simo y sus posibles motivaciones para dejar su cargo, pero también se señalan las implicaciones del cambio en la estructura de dirección de la empresa sin un tono particularmente emotivo.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha no han cubierto la dimisión de Fidji Simo en artículos relevantes al momento de la escritura. Sin embargo, es posible que se utilicen para criticar o cuestionar las políticas laborales o las decisiones de la empresa con respecto a la gestión y el liderazgo.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La dimisión de Fidji Simo y su transición hacia un papel de asesora a tiempo parcial de OpenAI plantea preguntas sobre la estabilidad y la dirección a corto plazo de la empresa, así como sobre las implicaciones futuras en el campo de la inteligencia artificial. ¿Cómo afectará este cambio a la visión de la empresa hacia el desempeño técnico y la responsabilidad social? ¿Qué oportunidades y desafíos surgirán para la tecnología de inteligencia artificial a medida que evolucione la estructura de la empresa?</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/cpsprodpb/17E7C/production/_114141141_portables.png\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Una serie de anuncios engañosos de aire acondicionado portátil han llenado las redes sociales y ahora la Autoridad de la Comunicación Oficial (ASA) ha intervenido.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Es probable que los medios de izquierda informen sobre la manipulación de anuncios y la falta de transparencia en las compañías, enfatizando la necesidad de proteger a los consumidores y promover la honestidad en el marketing.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparten una descripción objetiva de la situación, presentando el reporte de la ASA y los anuncios en cuestión, con un énfasis en la necesidad de verificación de la información antes de tomar decisiones en cuanto al consumo de productos.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha pueden enfatizar la naturaleza de los anuncios engañosos como una cuestión de individualismo y responsabilidad personal, señalando la necesidad de que los consumidores sean más críticos con la información que reciben y que tomen decisiones informadas.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La propagación de anuncios engañosos sobre productos como los aerotermos portátiles es sintomática de una sociedad en la que la información a veces parece más importante que la verdad. Esta cuestión nos obliga a reflexionar sobre la naturaleza del conocimiento y la forma en que podemos acceder a la información. ¿Cómo podemos ser más críticos con la información que recibimos en línea y cómo podemos mantener la confianza en las instituciones y las empresas que nos suministran bienes y servicios?</p>"
         }
       ],
       "rawCount": 6
@@ -163,85 +123,76 @@
     "MARKETS_ECONOMY": {
       "items": [
         {
-          "id": "raw-0",
-          "headline": "[Neutral (BBC Business)] EasyJet agrees to surprise takeover bid as rival US firm swoops in",
-          "summary": "The airline says a bid from US firm Apollo has trumped a recent takeover offer from Castlelake....",
+          "id": "topic-estrangulamiento-del-transporte",
+          "headline": "Riesgos crecen para las empresas que operan en el Estrecho de Hormuz",
+          "summary": "Las empresas enfrentan aumentados riesgos en el transporte marítimo a través del Estrecho de Hormuz, debido a la disputa entre los EE.UU. e Irán.",
           "tags": [
-            "Neutral"
+            "#estrategia-diplomatica",
+            "#transporte-maritimo"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">EasyJet agrees to surprise takeover bid as rival US firm swoops in</a></p>\n                <p>The airline says a bid from US firm Apollo has trumped a recent takeover offer from Castlelake.</p>\n            "
+          "source_ids": [
+            0,
+            8
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/10/multimedia/Biz-Hormuz-Shipping-vtwl/Biz-Hormuz-Shipping-vtwl-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption>Las empresas enfrentan crecientes riesgos en el Estrecho de Hormuz</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El artículo del New York Times (NYT) presenta una situación crítica para las empresas que operan en el Estrecho de Hormuz, donde se enfrentan riesgos crecientes debido a la carrera por el control del Golfo entre Estados Unidos e Irán. Los ejecutivos expresan su inquietud y frustración ante la situación.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">(No se encontraron artículos imparciales relacionados con este tema)</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No se encontraron artículos relevantes de medios de derecha para analizar.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El Estrecho de Hormuz es el camino obligado para el 30% de las exportaciones mundiales de petróleo, lo que convierte a las empresas que operan en la región en blanco fácil para los conflictos geopolíticos. La creciente inestabilidad en la zona plantea preguntas importantes sobre la seguridad y la confiabilidad de las rutas comerciales marítimas, así como sobre la capacidad de las naciones para gestionar sus intereses ecológicos y económicos. En un mundo cada vez más conectado y dependiente del comercio internacional, el riesgo para las empresas que operan en el Estrecho de Hormuz es un recordatorio de la complejidad y la interconexión de las relaciones internacionales.</p>"
         },
         {
-          "id": "raw-1",
-          "headline": "[Left (NYT Business)] The Work of Helping A.I. Destroy Work",
-          "summary": "Start-ups are paying white-collar professionals to teach their jobs to artificial intelligence models. It’s a bonanza. It’s bleak. Where will it end?...",
+          "id": "topic-emisiones-industriales",
+          "headline": "Fabricantes de vehículos no instalaban dispositivos para engañar la prueba de emisiones",
+          "summary": "Un juez ha determinado que ciertos fabricantes de vehículos no habían instalado dispositivos para engañar las pruebas de emisiones, como se había sospechado.",
           "tags": [
-            "Left"
+            "#emisiones-industriales",
+            "#sostenibilidad"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/07/10/business/ai-white-collar-jobs.html\" target=\"_blank\">The Work of Helping A.I. Destroy Work</a></p>\n                <p>Start-ups are paying white-collar professionals to teach their jobs to artificial intelligence models. It’s a bonanza. It’s bleak. Where will it end?</p>\n            "
+          "source_ids": [
+            2,
+            3
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Fabricantes de vehículos han sido encontrados no instalar dispositivos para engañar la prueba de emisiones.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\" style=\"justify-content: flex-start;\">Se espera que los medios de izquierda, como El País o El Mundo, den gran relevancia a esta noticia, enfatizando las consecuencias negativas de la no instalación de dispositivos anticontaminantes en los vehículos y el impacto que esto tiene en la salud pública y el medio ambiente.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\" style=\"justify-content: center;\">Medios imparciales, como BBC Business, se centran en la noticia en sí misma, informando objetivamente sobre el fallo de la High Court y las acciones de los fabricantes de vehículos, sin tomar partido alguna.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\" style=\"justify-content: flex-end;\">Es probable que los medios de derecha, como El Economista o Expansión, aborden la noticia desde una perspectiva más crítica hacia la regulación gubernamental y la industria automotriz, enfatizando el papel de la competencia y la innovación en la resolución de las preocupaciones ambientales.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>Este caso destaca la importancia de la transparencia y la responsabilidad en la industria automotriz, y llama la atención sobre la necesidad de medidas efectivas para mitigar los impactos ambientales de la producción y el uso de vehículos. También sugiere que la falta de regulación o la inacción gubernamental puede tener consecuencias severas para la salud pública y el medio ambiente, y que es fundamental establecer estándares éticos y regulatorios para asegurar que las empresas operen de manera sostenible y respetuosa con la comunidad.</p>"
         },
         {
-          "id": "raw-2",
-          "headline": "[Neutral (BBC Business)] Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
-          "summary": "Ryanair confirm a passenger was given medical treatment after an incident on a Malta Air flight, which is owned by Ryanair....",
+          "id": "topic-takeover-e-industria",
+          "headline": "Empresas de aviación y transporte enfrentan fusiones y adquisiciones",
+          "summary": "Varias empresas de la industria de la aviación y el transporte enfrentan cambios en sus estructuras de propiedad debido a fusiones y adquisiciones.",
           "tags": [
-            "Neutral"
+            "#aviacion",
+            "#transporte"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Man nearly sucked out of window mid-air on Ryanair plane, passengers say</a></p>\n                <p>Ryanair confirm a passenger was given medical treatment after an incident on a Malta Air flight, which is owned by Ryanair.</p>\n            "
+          "source_ids": [
+            3,
+            4,
+            6
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/12/business/12strategies-illo/12strategies-illo-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Las empresas de aviación y transporte enfrentan fusiones y adquisiciones debido a la creciente concentración de la economía global y la competencia entre compañías.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El artículo del NYTimes Business destaca la concentración del mercado global y los riesgos que plantea para los inversionistas, pero sin mencionar explícitamente la relación con las fusiones y adquisiciones en la industria del transporte aéreo.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">El artículo del BBC Business informa sobre la sorprendente oferta de compra por parte de la empresa estadounidense Apollo a EasyJet, superando a otra ofrecida recientemente por Castlelake. No muestra ningún sesgo explícito en su redacción.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No se encontró ningún artículo de Fox Business relacionado con este tema específico, por lo que no se puede analizar el sesgo en este medio.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>Las fusiones y adquisiciones en la industria del transporte aéreo pueden ser el resultado de una economía global cada vez más concentrada, donde las empresas buscan escalar y consolidar sus posiciones. Sin embargo, también plantean riesgos de concentración de poder y dependencia, que pueden afectar a los consumidores y a la competencia en general. Es importante analizar estos cambios en el panorama empresarial y considerar sus implicaciones a largo plazo para el bienestar de la sociedad.</p>"
         },
         {
-          "id": "raw-3",
-          "headline": "[Left (NYT Business)] Wall St. Sets Limits on Prediction Market Trading",
-          "summary": "Goldman Sachs is the latest firm to restrict how employees use the popular betting platforms....",
+          "id": "topic-tesis-de-derecho-de-trabajo",
+          "headline": "La sentencia judicial pone fin a la disputa laboral de Atlassian",
+          "summary": "Un juez de derecho laboral ha determinado que la empresa Atlassian había incurrido en una práctica ilegal al despedir a un empleado que cuestionó cambios en la política de la empresa.",
           "tags": [
-            "Left"
+            "#derecho-del-trabajo",
+            "#empleo"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/07/10/business/dealbook/goldman-prediction-markets-wall-street.html\" target=\"_blank\">Wall St. Sets Limits on Prediction Market Trading</a></p>\n                <p>Goldman Sachs is the latest firm to restrict how employees use the popular betting platforms.</p>\n            "
+          "source_ids": [
+            1,
+            4
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/10/business/10biz-wrongful/10biz-wrongful-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Una sentencia judicial reciente pone fin a una disputa laboral de Atlassian, lo que puede tener implicaciones financieras duraderas para la empresa.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El NYT Business destaca la victoria legal rara para los empleados de tecnología, destacando que Atlassian fue responsable de un despido injusto. La noticia destaca la importancia de la protección laboral y la necesidad de que las empresas cumplan con las leyes laborales.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">En ausencia de información disponible sobre medios imparciales que hayan cubierto este tema, la sección permanece vacía en espera de actualizaciones.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Dado que no hay referencias a medios de derecha que hayan cubierto este tema, la sección permanece vacía en espera de actualizaciones.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>Esta sentencia judicial puede ser un precedente importante para la protección laboral en la industria de la tecnología. Puede que Atlassian deba enfrentar costos significativos y que esto tenga un impacto en sus operaciones financieras a largo plazo. Es importante considerar las implicaciones de esta sentencia y cómo puede cambiar la forma en que las empresas interactúan con sus empleados.</p>"
         },
         {
-          "id": "raw-4",
-          "headline": "[Left (NYT Business)] Meta Ordered by E.U. to Alter ‘Addictive Design’ of Instagram and Facebook",
-          "summary": "European Union authorities said the company’s use of “addictive design” violated a digital safety law....",
+          "id": "topic-ai-e-inteligencia-artificial",
+          "headline": "La IA representa tantoportunidades como riesgos para los inversores",
+          "summary": "Los inversores deben estar conscientes de que la IA puede representar tanto oportunidades como riesgos para sus inversiones.",
           "tags": [
-            "Left"
+            "#IA",
+            "#inversiones"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html\" target=\"_blank\">Meta Ordered by E.U. to Alter ‘Addictive Design’ of Instagram and Facebook</a></p>\n                <p>European Union authorities said the company’s use of “addictive design” violated a digital safety law.</p>\n            "
-        },
-        {
-          "id": "raw-5",
-          "headline": "[Neutral (BBC Business)] 'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
-          "summary": "The ASA says adverts claiming small devices can rapidly cool rooms were too good to be true....",
-          "tags": [
-            "Neutral"
+          "source_ids": [
+            0,
+            4,
+            7
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet</a></p>\n                <p>The ASA says adverts claiming small devices can rapidly cool rooms were too good to be true.</p>\n            "
-        },
-        {
-          "id": "raw-6",
-          "headline": "[Right (Fox Business)] Selling your home this summer? Your data is already moving",
-          "summary": "Scammers target home sellers through property records and data brokers. Real estate wire fraud and people search sites put your nest egg at risk....",
-          "tags": [
-            "Right"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/science/selling-home-summer-data-already-moving\" target=\"_blank\">Selling your home this summer? Your data is already moving</a></p>\n                <p>Scammers target home sellers through property records and data brokers. Real estate wire fraud and people search sites put your nest egg at risk.</p>\n            "
-        },
-        {
-          "id": "raw-7",
-          "headline": "[Right (Fox Business)] Trump puts brakes on OpenAI’s newest AI model",
-          "summary": "OpenAI's GPT-5.6 Sol model requires Trump administration approval for early access, raising questions about government control over AI cybersecurity t...",
-          "tags": [
-            "Right"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/science/trump-puts-brakes-openais-newest-ai-model\" target=\"_blank\">Trump puts brakes on OpenAI’s newest AI model</a></p>\n                <p>OpenAI's GPT-5.6 Sol model requires Trump administration approval for early access, raising questions about government control over AI cybersecurity tools.</p>\n            "
-        },
-        {
-          "id": "raw-8",
-          "headline": "[Right (Fox Business)] NASA's Chandra telescope reveals Milky Way's outer reaches may stretch farther than previously known",
-          "summary": "Rare gamma-ray bursts detected by powerful X-ray telescopes orbiting the Earth helped astronomers measure Milky Way spiral arms with stunning accuracy...",
-          "tags": [
-            "Right"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/science/nasas-chandra-telescope-reveals-milky-ways-outer-reaches-may-stretch-farther-than-previously-known\" target=\"_blank\">NASA's Chandra telescope reveals Milky Way's outer reaches may stretch farther than previously known</a></p>\n                <p>Rare gamma-ray bursts detected by powerful X-ray telescopes orbiting the Earth helped astronomers measure Milky Way spiral arms with stunning accuracy.</p>\n            "
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/12/business/12strategies-illo/12strategies-illo-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La inteligencia artificial representa tanto oportunidades como riesgos para los inversores en el mercado actual.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Según un artículo en el New York Times, la concentración del mercado de valores global y el impacto potencial de la inteligencia artificial en la inversión son causas de preocupación para los inversores. El artículo enfatiza la necesidad de estar informado sobre los riesgos inherentes a la inversión en la inteligencia artificial.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Si bien no hemos encontrado ningún artículo neutral en la base de datos proporcionada, podemos especular sobre el tipo de cobertura que se podría esperar de un medio imparcial. Es probable que analicen la cuestión desde una perspectiva más objetiva, destacando tanto los pros como los contras de la inversión en inteligencia artificial y proporcionando datos e información para que los inversores puedan tomar decisiones informadas.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Un artículo en Fox Business indica que la administración Trump ha aplicado limitaciones al acceso a un modelo de inteligencia artificial de OpenAI, lo que sugiere que los medios de derecha pueden estar interesados en cuestionar la intervención gubernamental en la industria de la inteligencia artificial. El artículo puede enfocarse en la importancia de la privacidad y la libertad de empresa en la regulación de la inteligencia artificial.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La inversión en inteligencia artificial es un tema complejo que requiere una cuidadosa consideración de los riesgos y beneficios potenciales. En un mercado global cada vez más interconectado, los inversores deben estar preparados para adaptarse a cambios rápidos y tomar decisiones informadas en un entorno en constante evolución. La clave para éxito en esta nueva era es la capacidad de navegar por los riesgos y oportunidades de la inteligencia artificial, manteniendo una postura equilibrada entre la prudencia y la innovación.</p>"
         }
       ],
       "rawCount": 9
