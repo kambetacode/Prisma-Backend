@@ -1,217 +1,228 @@
 {
-  "last_updated": "2026-07-14T11:37:33.890Z",
+  "last_updated": "2026-07-14T13:42:21.911Z",
   "language": "en",
   "categories": {
     "GLOBAL_MACRO": {
       "items": [
-        [
-          {
-            "id": "topic-1",
-            "headline": "Houthis Launch Missiles at Saudi Arabia, Sparking Tensions in Region",
-            "summary": "The Iran-backed Houthis launched missiles at Saudi Arabia in response to strikes on Sanaa airport, escalating tensions in the region.",
-            "tags": [
-              "#SaudiArabia",
-              "#Houthis"
-            ],
-            "source_ids": [
-              0,
-              4
-            ]
-          },
-          {
-            "id": "topic-2",
-            "headline": "Plane Diverted After Window Damaged by Strong Inflight Turbulence",
-            "summary": "A Ryanair flight was diverted after strong in-flight turbulence caused a window to crack, injuring a passenger.",
-            "tags": [
-              "#Ryanair",
-              "#Aviation"
-            ],
-            "source_ids": [
-              1
-            ]
-          },
-          {
-            "id": "topic-3",
-            "headline": "Fatal Bangkok Fire Raises Concerns Over Building Codes and Emergency Preparations",
-            "summary": "A devastating fire in Bangkok killed at least 30 people and highlighted concerns over building codes and emergency Preparedness.",
-            "tags": [
-              "#Bangkok",
-              "#FireSafety"
-            ],
-            "source_ids": [
-              3
-            ]
-          },
-          {
-            "id": "topic-4",
-            "headline": "UK Announces Plan to Change Law for Deportation of Convicted Offenders",
-            "summary": "The UK government has announced a plan to change the law allowing for the deportation of convicted offenders, including the leader of a 'grooming gang'.",
-            "tags": [
-              "#UKLaw",
-              "#Deportation"
-            ],
-            "source_ids": [
-              5
-            ]
-          },
-          {
-            "id": "topic-5",
-            "headline": "International Community Raises Concerns Over Israeli-Palestinian Conflict",
-            "summary": "The ongoing Israeli-Palestinian conflict has raised concerns among the international community, including the situation in southern Lebanon and the role of Iran-backed groups.",
-            "tags": [
-              "#Israel",
-              "#Palestine"
-            ],
-            "source_ids": [
-              8,
-              7,
-              6
-            ]
-          }
-        ]
+        {
+          "id": "conflict-in-middle-east",
+          "headline": "Iran and Israel Tensions Escalate in the Middle East",
+          "summary": "The United States and Iran have reignited their conflict over the Strait of Hormuz, while Iran-backed Houthis have launched missiles at Saudi Arabia in response to strikes on Yemen's capital.",
+          "tags": [
+            "#MiddleEast",
+            "#Conflict"
+          ],
+          "source_ids": [
+            1,
+            3,
+            7
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/14/multimedia/14live-mideast-header-hbwm-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Iran and Israel tensions escalate in the Middle East, reigniting a regional conflict.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media <span style=\"color: red\">(NYT)</span></div>\n    <div class=\"bias-content\">The Left-Leaning NYT frames this story as a direct result of aggressive actions by the U.S. and Iran, using phrases like \"slid back to open war\" and implying that the U.S. has acted unilaterally against Iran's interests.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media <span style=\"color: blue\">(BBC)</span></div>\n    <div class=\"bias-content\">The Neutral BBC provides a factual overview of the situation, reporting on the Houthis' response to the strikes in Yemen without taking a clear stance on the actions of either side.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media <span style=\"color: red\">(Fox)</span></div>\n    <div class=\"bias-content\">The Right-Leaning Fox frames the Houthis as a \"terror proxy\" backed by Iran, using phrases like \"threaten fresh attacks\" to create a sense of fear and danger, and implying that Iran is responsible for the escalation of violence.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The escalation of tensions between Iran and Israel has far-reaching implications for regional stability and global security. It highlights the complexities of the Middle East conflict and the difficulties of achieving diplomatic solutions in a region with multiple stakeholders and competing interests. The conflict also raises questions about the role of external powers, such as the U.S., in shaping the regional balance of power and the impact of their actions on the ground. As the situation continues to unfold, it is essential to consider the perspectives of all parties involved and the potential consequences of different courses of action.</p>"
+        },
+        {
+          "id": "global-security",
+          "headline": "Global Security Risks Rise Amidst Rising Tensions and Conflicts",
+          "summary": "Countries are facing various global security risks, including Iran's attack on US military sites and India's deportation of Bangladeshi immigrants, causing tension along their border with Bangladesh.",
+          "tags": [
+            "#GlobalSecurity",
+            "#Politics"
+          ],
+          "source_ids": [
+            1,
+            5,
+            8
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/14/multimedia/14live-mideast-header-hbwm-alert-copy/14live-mideast-header-hbwm-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Global security risks escalate amidst rising tensions and conflicts between nations, threatening stability worldwide.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media (The New York Times)</div>\n    <div class=\"bias-content\">The New York Times presents a critical and alarmist view of the escalating conflicts, with a focus on the humanitarian consequences and diplomatic efforts to calm tensions. This framing highlights the perceived threat to international security and stability.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Unfortunately, no relevant articles from neutral media sources were provided to analyze in this scenario.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media (Fox News)</div>\n    <div class=\"bias-content\">Fox News presents a more sensationalized and accusatory view, focusing on the alleged involvement of terrorists in a UN organization, with an emphasis on the perceived threat to national security. This framing highlights the perceived risk of terrorism and instability.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The escalating global security risks and conflicts between nations underscore the complexities and challenges of maintaining international stability in an increasingly interconnected world. As we navigate this complex landscape, it is essential to prioritize diplomacy, dialogue, and collaborative solutions to prevent the escalation of tensions and minimize the humanitarian consequences. The consequences of failure to address these issues could lead to long-lasting, far-reaching instability, affecting millions of people worldwide.</p>"
+        },
+        {
+          "id": "terrorism-and-insurgency",
+          "headline": "Terrorism and Insurgency Threats Continue Worldwide",
+          "summary": "There have been various instances of terrorism and insurgency threats, including Iran-backed Houthis threat of fresh attacks after Yemen airport strike and Israel's civilian terror attack drill near the Gaza border.",
+          "tags": [
+            "#Terrorism",
+            "#Insurgency"
+          ],
+          "source_ids": [
+            0,
+            3,
+            7
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/magen48-israel.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">As global tensions persist, various nations and groups continue to face emerging threats from terrorism and insurgency.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">The BBC article 'Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport' presents a factual account of the incident, focusing on the events and actions taken by the parties involved, without expressing any apparent bias or opinion.</div>\n  </div>\n  <div class=\"bias-box bias-box-left bias-none\">\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Both Fox News articles focus on highlighting the threats posed by Iranian-backed proxies, particularly the Houthis, using terms such as 'Iran-backed terror proxy.' They imply that Iran is directly responsible for the actions of its allies, framing the conflict as a proxy war.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The ongoing threat of terrorism and insurgency underscores the need for effective international cooperation and strategic planning to prevent and respond to such incidents. The increasing use of asymmetric tactics by non-state actors highlights the importance of adaptability and vigilance in global security efforts.</p>"
+        },
+        {
+          "id": "corruption-and-crime",
+          "headline": "High-Ranking Officials Face Corruption Charges and Scandals",
+          "summary": "Chinese Politburo member Ma Xingrui is the latest high-ranking official to be purged due to corruption charges, and there are other instances of corruption and crime worldwide.",
+          "tags": [
+            "#Corruption",
+            "#Crime"
+          ],
+          "source_ids": [
+            2,
+            6
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/14/multimedia/14int-china-politburo-mcvh/14int-china-politburo-mcvh-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">High-ranking officials worldwide face scrutiny as charges and scandals emerge.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">The New York Times, a left-leaning news source, is framing this story as a significant purge of corruption within China's government, focusing on the removal of Ma Xingrui, a high-ranking official, amidst allegations of corruption and sex charges. This framing suggests a critical perspective on China's governance.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">The BBC, a neutral news source, is approaching this story cautiously, highlighting a separate incident in Bangkok where a fire investigation found locked doors and flammable decor, resulting in 30 deaths. This framing maintains a neutral stance and avoids direct correlation with the China corruption story.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\"></div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The widespread corruption allegations and scandals surrounding high-ranking officials raise questions about the accountability and integrity within institutions, particularly in authoritarian regimes. This trend suggests a growing demand for transparency and good governance worldwide, underscoring the importance of effective oversight mechanisms and a free press in promoting accountability and social responsibility.</p>"
+        },
+        {
+          "id": "air-travel-and-safety",
+          "headline": "Air Travel Safety Concerns Raised After Plane Incident and Fire",
+          "summary": "A Ryanair plane incident has left one man seriously injured, and a Bangkok fire investigation has found locked doors and flammable decor as deaths climb to 30.",
+          "tags": [
+            "#AirTravel",
+            "#Safety"
+          ],
+          "source_ids": [
+            4,
+            6
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/cpsprodpb/8A77/production/_128123475_gettyImages-1281134756.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Concerns over air travel safety have been raised following a series of incidents and a plane fire.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">Unfortunately, left-leaning media outlets have not reported on this story yet, so there is no specific framing to analyze.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Neutral media, such as the BBC, have approached this story with a neutral tone, focusing on factual reporting of the incidents and the investigations that have been launched. The BBC has not drawn partisan conclusions or made value judgments about the safety of air travel.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Right-leaning media outlets have not reported on this story yet, so there is no specific framing to analyze.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The recent plane incidents and fire have highlighted the importance of air travel safety and the need for ongoing vigilance and improvement in this area. While air travel remains one of the safest modes of transportation, these incidents serve as a sobering reminder of the risks and potential consequences involved. As the investigations and reviews of these incidents unfold, it will be essential to consider the broader implications and identify key areas for improvement, ensuring that air travel remains safe and reliable for all passengers.</p>"
+        }
       ],
       "rawCount": 9
     },
     "TECH_FRONTIER": {
       "items": [
         {
-          "id": "social-media-regulation",
-          "headline": "European Commission Considers Potential Regulations on Social Media for Children",
-          "summary": "The European Commission is exploring new rules to restrict social media access for minors, following a recent report. These proposed changes aim to protect children's online safety and well-being.",
+          "id": "technology-regulation",
+          "headline": "Regulators Consider New Rules for Social Media and Online Platforms",
+          "summary": "The European Commission is considering changing the rules for social media platforms, while Tesla's Robotaxi service has limitations in its Miami launch.",
           "tags": [
             "#socialmedia",
-            "#regulation"
+            "#techregulation"
+          ],
+          "source_ids": [
+            2,
+            1
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/13/business/13biz-eu-social-ban/13biz-eu-social-ban-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Regulators consider tightening the reins on social media and online platforms, sparking conversations about user safety and censorship.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">The New York Times' article from the left-leaning perspective focuses on the European Commission's potential ban on social media for children, highlighting concerns about user safety and the need for stricter regulations. This framing emphasizes the importance of protecting minors online and raises questions about social media's impact on children.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">There is no neutral media article provided to analyze in this prompt.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">The Fox News article from the right-leaning perspective takes a more subtle approach, focusing on the launch of Tesla's Robotaxi service in Miami and mentioning its limited geofence. This framing avoids direct discussion of social media regulations, instead highlighting the technical and operational aspects of the Robotaxi service. It does not address the main topic of regulators considering new rules for social media and online platforms.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The proposed regulations and changes to social media policies raise important questions about the balance between user safety, free speech, and the role of technology in modern society. As regulators consider new rules, it is crucial to engage in a nuanced and multifaceted discussion about the implications of these changes, taking into account both the potential benefits and drawbacks of stricter regulations. Ultimately, the goal of these policies should be to promote a safer, more responsible online environment while respecting the principles of freedom of expression and innovation.</p>"
+        },
+        {
+          "id": "smart-device-security",
+          "headline": "Security Concerns for Smart TV and Device Users",
+          "summary": "Smart TVs come with tracking features enabled by default, and privacy settings for devices can be complex to manage.",
+          "tags": [
+            "#smartdevices",
+            "#security"
           ],
           "source_ids": [
             0,
-            4
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/13/business/13biz-eu-social-ban/13biz-eu-social-ban-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">European regulators are exploring potential new rules to limit social media use among minors.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">The NYT Tech article positions the European Commission's consideration of social media regulations for children as a proactive and potentially impactful step towards protecting young users. The framing emphasizes the potential benefits of such regulations, highlighting concerns about children's online vulnerability.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">The BBC Tech article takes a neutral stance, focusing on the recent controversy surrounding Meta's AI feature as a separate issue. This frame does not connect the two topics directly, choosing instead to report on the Meta feature as a standalone news item.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Since no article with a clear right-leaning bias was provided for this topic, the bias-box for right-leaning media will be left blank.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The increasing concern over social media's impact on children highlights a broader societal shift. As technology advances and becomes more deeply ingrained in daily life, there is growing recognition of the need for regulations that balance innovation with the protection of vulnerable populations. By considering potential regulations on social media use among minors, the European Commission is signaling its commitment to finding this balance and addressing the complex challenges posed by modern technology.</p>"
-        },
-        {
-          "id": "apple-openai-suit",
-          "headline": "Apple Sues OpenAI Over Alleged Intellectual Property Theft",
-          "summary": "Apple has initiated a lawsuit against OpenAI, accusing the company of stealing company secrets. This development comes after a 2024 partnership between the two companies was strained.",
-          "tags": [
-            "#apple",
-            "#openai"
-          ],
-          "source_ids": [
-            2
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/10/multimedia/10biz-apple-openai2-tlmg/10biz-apple-openai2-tlmg-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Tech giants Apple and OpenAI have ended their partnership in a dispute over alleged intellectual property theft.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">The New York Times, representing left-leaning media, likely frames Apple's lawsuit as a clash between corporate interests and AI innovation, sympathizing with OpenAI's role in advancing AI technology. This framing is consistent with the publication's tendency to portray tech companies as powerful forces in need of regulation, rather than simply as competitors.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Neutral media outlets such as Bloomberg or Reuters might frame Apple's lawsuit as a business dispute between two major players in the tech industry, highlighting the potential fallout on the market and the impact on users. They would maintain a neutral tone, avoiding emotive language or sensationalism that could be seen as taking sides.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Right-leaning publications such as Fox News might frame Apple's lawsuit as an attack on innovation and entrepreneurship by one of the world's largest companies, questioning OpenAI's commitment to intellectual property rights and implying that Apple's actions are an attempt to stifle competition. This framing is consistent with the publication's general skepticism of large corporations and government regulations.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The alleged intellectual property theft at the core of Apple's lawsuit raises fundamental questions about ownership, innovation, and responsibility in the rapidly evolving tech landscape. As AI technology continues to permeate everyday lives, companies and regulators must navigate complex issues of intellectual property and ensure that innovation is encouraged while protecting vulnerable parties from exploitation. This case serves as a poignant reminder of the need for a nuanced understanding of the intersection of technology and the law, and the delicate balance required to maintain a fair and open tech ecosystem.</p>"
-        },
-        {
-          "id": "meta-image-feature",
-          "headline": "Meta Removes AI-Generated Image Tool from Instagram Amidst Concerns",
-          "summary": "Meta has pulled an AI-powered image editing feature from Instagram following widespread criticism from users and industry experts regarding privacy and copyright issues.",
-          "tags": [
-            "#meta",
-            "#instagram",
-            "#ai"
-          ],
-          "source_ids": [
-            3,
-            4
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2024/03/07/business/07instagram-1/07instagram-1-superJumbo.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Meta has pulled the plug on its highly contentious Muse Image feature.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">The NYT Tech article frames the story with a sense of immediate action, using phrases like \"After Days of Backlash\" to emphasize the rapid response. This portrayal creates a sense of swift crisis management and suggests that Meta is taking user concerns seriously.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">The BBC Tech article provides a concise summary of events, stating that Meta's release \"drew swift blowback.\" This neutral framing focuses on the facts without taking a clear stance or using emotive language to describe the situation.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">This section is not applicable as there are no right-leaning media sources provided in the given articles.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The controversy surrounding Meta's Muse Image feature highlights the evolving power dynamics between social media platforms, their users, and the content creators they host. This incident serves as a reminder that the ever-expanding capabilities of AI-driven tools can create unintended consequences, such as compromising user privacy and copyright protections. As technology continues to advance at an unprecedented pace, it's essential for Meta and other tech giants to prioritize open communication and proactive risk assessment to mitigate the potential negative impacts on their ecosystems and society at large.</p>"
-        },
-        {
-          "id": "pokemon-go-anniversary",
-          "headline": "Pokémon Go Celebrates Ten Years of Popularity and Engagement",
-          "summary": "The popular mobile game Pokémon Go has reached a significant milestone, celebrating ten years of bringing people together and encouraging social interaction.",
-          "tags": [
-            "#pokemong",
-            "#gaming"
-          ],
-          "source_ids": [
-            1
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/1024/branded_news/bbc_news_1_large/2023/07/11/pokemon-go-10-years-1.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">The mobile game Pokémon Go continues to captivate global audiences a decade after its release.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">While there are numerous left-leaning media outlets covering the story, there is no discernible trend or framing bias in this specific topic. The story appears to be neutral in nature, focusing on the game's longevity and community engagement without any clear socio-political undertones.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">The BBC Tech article from which this information is sourced presents a neutral tone, focusing primarily on the game's technical achievements and the statements from Michael Steranka, a representative of the game's developer, without injecting any opinion or agenda.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Similar to left-leaning media, there is little to no coverage from right-leaning outlets on this specific topic, and what does exist is largely neutral or focused on the game's commercial success. Therefore, no framing bias or trend can be identified in this context.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>Pokémon Go's enduring popularity serves as a testament to the human drive for community and shared experience. Beneath its surface-level appeal as a mobile game, it taps into fundamental psychological and social needs, fostering connections and a sense of belonging in an increasingly fragmented world. As we navigate the complexities of modern life, understanding the underlying forces that drive our engagement with media and technology can provide valuable insights into the nature of human interaction and its implications for our collective well-being.</p>"
-        },
-        {
-          "id": "assassins-creed-review",
-          "headline": "Critics Evaluate the Worth of the Assassin's Creed Black Flag Remake",
-          "summary": "The highly anticipated remake of Assassin's Creed Black Flag has received attention from gamers and critics, with opinions divided on its value and quality.",
-          "tags": [
-            "#assassinscreed",
-            "#gaming"
-          ],
-          "source_ids": [
-            5
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/1024/branded_news/2DC9/production/_126444142_gettyimages-1226671114.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Gamers eagerly await the Assassin's Creed Black Flag remake 13 years in the making.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">There is no notable left-leaning media coverage of the Assassin's Creed Black Flag remake, likely due to the topic's gaming focus.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">The BBC's review is neutral, evaluating the game on its technical and narrative merits, without a clear bias towards its success or criticisms.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">There is also a lack of notable right-leaning media coverage of the Assassin's Creed Black Flag remake, with most reviews focusing on the game's quality rather than ideological undertones.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The Assassin's Creed Black Flag remake serves as a testament to the enduring popularity of gaming franchises and the dedication of game developers to revisiting and refining classic titles. As the gaming industry continues to evolve, it's essential to consider the social and cultural contexts that shape our experiences with these digital realms. The remake's release prompts questions about the balance between nostalgic appeal and innovation, as well as the role of gaming in modern entertainment and culture.</p>"
-        }
-      ],
-      "rawCount": 6
-    },
-    "MARKETS_ECONOMY": {
-      "items": [
-        {
-          "id": "corruption-and-purges",
-          "headline": "Higher Ranking Officials Removed from China's Politburo Amid Allegations",
-          "summary": "Ma Xingrui, a top Chinese official, was purged over corruption and sex charges, marking the third Politburo member to be removed since 2022.",
-          "tags": [
-            "#China",
-            "#Politburo"
-          ],
-          "source_ids": [
             1,
-            0
+            3
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/14/multimedia/14int-china-politburo-mcvh/14int-china-politburo-mcvh-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Chinese authorities continue to face allegations of corruption, resulting in the removal of high-ranking officials.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">The left-leaning publication approaches the topic by focusing on the corruption and human rights allegations surrounding the removal of Ma Xingrui and other Politburo members, potentially implying criticism of China's government. It may also emphasize the consequences for those involved and possible repercussions for the Chinese economy.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">The neutral media outlet is unlikely to take a direct stance or show bias in the report. Instead, it may present Ma Xingrui's removal as a factual event, delving into the background of the Politburo and the responsibilities of its members. They may also touch on the importance of a transparent and accountable system within China.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">The right-leaning publication could focus on the broader implications and potential threats of China's alleged corruption, possibly framing the removal of Ma Xingrui as an example of a \"weak\" or ineffective government. They may also use the story as an opportunity to reinforce anti-Chinese narratives or highlight alleged shortcomings of the Chinese Communist Party.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The recent removal of high-ranking officials from China's Politburo highlights the complexities and challenges associated with maintaining a balanced and corruption-free system of governance. This trend raises questions about the accountability of China's leaders and the need for transparency in decision-making processes. As Chinese authorities navigate these issues, the broader international community may be forced to reevaluate China's role in global affairs and assess the potential consequences of its actions.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/4-stop-your-smart-tv-from-listening-to-you.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Smart TV and device users must prioritize security to prevent unwanted tracking and potential data breaches.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">There is no left-leaning article provided in this analysis, so no bias deconstruction can be performed.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">No neutral media articles are provided for this analysis. Typically, neutral media sources cover these topics with a straightforward, objective tone.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">According to two right-leaning media sources (Fox Tech), the framing of this topic emphasizes caution and security measures, as seen in the headlines \"Before you connect another smart TV, tablet or phone, lock it down\" and \"Tesla Robotaxi Miami launch comes with limits\". These sources focus on potential vulnerabilities, tracking, and data collection related to smart devices and robots, highlighting the importance of security and caution.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The security concerns surrounding smart TVs and devices underscore a broader issue of data collection and surveillance in modern technology. As increasingly connected devices become more prevalent, it is essential for users to understand the potential risks and take steps to protect their personal data. This topic raises questions about the trade-offs between convenience, innovation, and security, emphasizing the need for informed decision-making and critical thinking in the digital age.</p>"
         },
         {
-          "id": "water-company-fines",
-          "headline": "South East Water Faces Multi-Million Pound Penalty for Supply Failures",
-          "summary": "Regulator Ofwat confirmed a penalty of £30.5 million for South East Water after investigating supply failures, following three separate investigations.",
+          "id": "artificial-intelligence",
+          "headline": "Tech Giants Clash Over Artificial Intelligence and Data Privacy",
+          "summary": "Apple and OpenAI are at odds over company secrets, while Meta removed an AI feature from Instagram after backlash from users and copyright holders.",
           "tags": [
-            "#WaterCompany",
-            "#RegulatoryPenalties"
+            "#AI",
+            "#privacy"
           ],
           "source_ids": [
-            2
+            5,
+            7,
+            6
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/imagesic/976xn/p0b9q9q0.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">South East Water is facing a £30.5m penalty for multiple supply failures, as the company struggles to provide reliable services to its customers.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">There is a low likelihood of left-leaning media covering this topic, as they tend to focus on more socially critical or progressive issues. However, if they do, they may frame the story as a failure of regulatory bodies to hold corporations accountable for their actions, emphasizing the need for stricter regulations to protect consumers.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">The neutral media outlet, as seen in this BBC Business article, provides a factual and straightforward coverage of the news. They focus on the regulatory body's decision, the amount of the penalty, and the background information on the investigations. Neutral media aims to inform readers without taking a stance or promoting a specific agenda.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Right-leaning media may approach this story by questioning the regulatory body's decision, arguing that the penalty is too severe and will drive up consumer costs. They might also emphasize the company's efforts to improve its supply services and suggest that the regulatory body is overstepping its authority.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The South East Water penalty serves as a reminder of the ongoing challenges in the UK's water supply system. This event highlights the delicate balance between corporate accountability and regulatory oversight. While some may view the penalty as a necessary step to ensure consumer protection, others may see it as an excessive measure that could have unintended consequences, such as driving up costs or hindering innovation. The complexities surrounding this issue underscore the need for a more nuanced discussion on the relationship between regulatory bodies, corporations, and consumers.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/10/multimedia/10biz-apple-openai2-tlmg/10biz-apple-openai2-tlmg-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Tech giants struggle with tensions over artificial intelligence and data privacy, leading to a series of public disputes.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">The two left-leaning articles from The New York Times (NYT Tech) frame the conflict between Apple and OpenAI as a clear-cut case of corporate theft and data exploitation, with Apple accusing OpenAI of stealing company secrets. This narrative reinforces a left-leaning narrative of corporate power and the need for greater regulation in the tech industry.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">The BBC Tech article is neutral in its approach, highlighting the controversy surrounding Meta's release of the AI feature Muse Image, but not taking a clear stance on the issue. This approach reflects a more impartial tone, allowing readers to form their own opinions.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">(No right-leaning article provided for analysis)</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The recent disputes between tech giants over artificial intelligence and data privacy highlight the increasing complexity of the digital landscape. As AI technology advances and becomes more ubiquitous, concerns about data ownership and privacy are likely to intensify. This conflict also underscores the need for greater transparency and accountability in the tech industry, particularly among companies that collect vast amounts of personal data. Ultimately, the ongoing struggles between tech giants over data control and AI regulation will have far-reaching implications for individuals, businesses, and governments, and will continue to shape the contours of the digital world.</p>"
         },
         {
-          "id": "productivity-and-ai",
-          "headline": "U.S. Worker Productivity Increases, Despite the Growing Use of AI",
-          "summary": "U.S. workers have become more productive over the years, driven by factors such as tight labor markets, digitization, and remote work, which has offset the impact of AI adoption.",
+          "id": "online-privacy",
+          "headline": "Public Records and Data Broker Sites Pose Risks to User Privacy",
+          "summary": "Data brokers collect personal information from public records and online sources, exposing users to potential scams and identity theft.",
           "tags": [
-            "#Productivity",
-            "#AI"
+            "#privacy",
+            "#online-safety"
           ],
           "source_ids": [
             3
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/13/multimedia/2026-july-biz-promos-productivity/2026-july-biz-promos-productivity-mediumSquareAt3X.png\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">US worker productivity increases despite AI's growing presence in the workplace.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">The New York Times (source: NYT Business) presents the information in a straightforward and factual manner. It highlights the reasons for the increase in worker productivity without referencing AI. This approach can be seen as subtly downplaying AI's contribution to productivity, framing it as a separate issue rather than a potential factor in the growth. The left-leaning media frames US worker productivity as an achievement that stands on its own, suggesting that AI is not the primary driver of the increase in productivity.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Neutral media, if they exist, would likely highlight both perspectives on the topic, discussing how worker productivity is increasing despite AI's growing presence. They would provide a balanced view on AI's contribution to increased productivity and the various factors that are driving improvements. No clear examples from neutral media were provided, but this is what they might report: The recent increase in US worker productivity is a multi-faceted phenomenon that cannot be attributed solely to AI. Other factors such as the labor market and remote work also contribute significantly to the uptick.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Conservative media, such as Fox News or Wall Street Journal, might emphasize the success of the US economy despite the growing use of AI. They could argue that worker productivity is increasing because of the effective use of technology in the workplace, including AI, rather than despite it. Right-leaning media frames the growth in productivity as a testament to American business acumen and technological innovation.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The rising worker productivity in the US may appear to be a victory for human ingenuity and determination. However, the subtle presence or absence of AI in framing this topic suggests that the impact of technology on our work is multifaceted and far-reaching. This highlights the complexities involved in evaluating productivity and whether technological advancements are indeed augmenting or undermining our work. As the role of AI continues to evolve, it's essential to engage in a nuanced dialogue that considers multiple perspectives on productivity, the economy, and the workforce of the future.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/Data-Brokers-Photo-1.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Public records and data broker sites pose significant risks to user privacy, exposing individuals to scams and potential security breaches.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Neutral sources may frame this topic as a straightforward issue of data collection and sharing, highlighting the potential benefits of aggregated information while also acknowledging the risks.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Right-leaning sources like Fox Tech may frame this topic in a way that emphasizes the potential for individual freedom and responsibility to be compromised, highlighting the role of data brokers in facilitating access to sensitive information.</div>\n  </div>\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">Left-leaning sources may frame this topic in a way that focuses on the issue of income inequality and corporate power, arguing that data brokers exploit vulnerable individuals by monetizing sensitive information.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The increasing reliance on data broker sites and public records exposes a fundamental tension between the desire for efficiency and convenience and the need for individual privacy and security. As our lives become increasingly digitized, it is essential to reconsider the value we place on our personal information and to adopt more nuanced approaches to data collection and sharing, one that balances the needs of individuals with the demands of business and innovation.</p>"
         },
         {
-          "id": "commerce-secretary-and-epstein-links",
-          "headline": "US Commerce Secretary's Ties to Jeffrey Epstein Uncovered by Whistleblower",
-          "summary": "Simon Andriesz, a British whistleblower, discovered links between US commerce secretary Howard Lutnick and Jeffrey Epstein through publicly released Epstein files.",
+          "id": "gaming-and-culture",
+          "headline": "Pokémon Go and Gaming Trends Over the Past Decade",
+          "summary": "Pokémon Go's mobile game continues to attract millions of players, and its impact on gaming culture is still felt today.",
           "tags": [
-            "#Epstein",
-            "#USCommerce"
+            "#gaming",
+            "#popculture"
+          ],
+          "source_ids": [
+            4,
+            8
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef-1.bbci.co.uk/news/976/cpsprodpb/18FF0/production/_121444441_pokemon-go-1-1.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">The Pokémon Go phenomenon has continued to captivate players worldwide over the past decade, with its innovative blend of game design and social interaction.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">In a left-leaning analysis, the Pokémon Go phenomenon would likely be framed as an example of how technology can be used to promote social cohesion and community building, often overlooked in discussions around its addictive nature. They might emphasize the positive effects of the game on public spaces, highlighting collaborations between the game developers and local organizations to promote social interaction.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Neutral media would provide an objective overview of the Pokémon Go phenomenon, highlighting its enduring popularity, key design elements, and player engagement. They might discuss the commercial success of the game and Scopely's efforts to evolve it into a sustainable franchise, without taking a stance on its benefits or drawbacks.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">In a right-leaning analysis, the focus might be on the economic and cultural implications of Pokémon Go, such as its impact on local businesses or the role of the game in shaping modern entertainment. They might praise the game's developers for creating a profitable franchise while highlighting potential issues such as player addiction or concerns about data collection.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The Pokémon Go phenomenon has revealed the power of mobile gaming to transcend demographics and capture the imagination of people worldwide. As technology continues to evolve, it will be interesting to see how game developers and policymakers balance the benefits and potential drawbacks of immersive gaming experiences like Pokémon Go. Ultimately, the lasting relevance of Pokémon Go serves as a testament to the human desire for connection, adventure, and escapism.</p>"
+        }
+      ],
+      "rawCount": 9
+    },
+    "MARKETS_ECONOMY": {
+      "items": [
+        {
+          "id": "topic-economy",
+          "headline": "US Inflation Rate Eases Amid Falling Gasoline Prices",
+          "summary": "The US inflation rate decreased to 3.5% in June due to a decline in gasoline prices, but concerns remain about potential price rises.",
+          "tags": [
+            "#economy",
+            "#inflation"
+          ],
+          "source_ids": [
+            0,
+            2
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/14/multimedia/14dc-Warsh-01-gcvk/14dc-Warsh-01-gcvk-mediumSquareAt3X.jpg\" onerror=\"this.src('./assets/fallback_MARKETS_ECONOMY.jpg')\" class=\"hero-image\" />\n  <div class=\"hero-caption\">US inflation rate eases to 3.5% as gasoline prices fall, but concerns remain over potential spikes due to conflicts in the Middle East.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">The New York Times article frames the easing of inflation rates as a reason for the Federal Reserve to remain committed to lowering inflation, without directly stating a preference for policy action. This subtle suggestion reinforces the notion that higher interest rates might be necessary to combat price pressures, a stance that aligns with progressive economic policies aimed at reducing income inequality.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">The BBC article reports on the decline in US inflation rates, attributing it to the fall in gasoline prices. It highlights the ongoing concerns over potential price increases due to conflicts in the Middle East, providing a factual account of the economic situation without taking a clear stance on policy implications.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\"></div>\n</div>\n<h2>Reflection</h2>\n<p>The recent easing of US inflation rates serves as a reminder of the delicate balance between economic growth and price stability. As global events continue to impact energy markets, policymakers face a challenging task in navigating the complexities of monetary policy to maintain stable prices and support economic activity. Ultimately, the ability to balance these competing demands will have far-reaching implications for consumers, businesses, and the broader economy, underscoring the importance of careful consideration and nuanced decision-making in this area.</p>"
+        },
+        {
+          "id": "topic-tech",
+          "headline": "AI Company Raises $400 Million in Funding",
+          "summary": "Chai Discovery, a startup using artificial intelligence for drug discovery, has raised $400 million, valuing the company at $3.8 billion.",
+          "tags": [
+            "#tech",
+            "#funding"
+          ],
+          "source_ids": [
+            1
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/14/business/14db-chai-discovery/14db-chai-discovery-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Chai Discovery, an emerging leader in artificial intelligence, has secured a substantial $400 million in funding, highlighting the growing interest in using AI to tackle pressing global challenges.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">The New York Times (Left) frames this news positively, emphasizing investor interest in using AI to address complex problems like drug discovery, which aligns with a left-leaning perspective on the potential of technology to drive social progress.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">There is no corresponding neutral article to analyze in this case, so no neutral media framing is applicable.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">No right-leaning media article is available for analysis, so no right-leaning media framing is applicable.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The influx of investment into companies like Chai Discovery underscores the growing recognition of artificial intelligence as a critical tool for solving some of the world's most pressing challenges. As AI technologies continue to advance, they have the potential to revolutionize fields like healthcare, environmental sustainability, and education, ultimately benefiting society as a whole.</p>"
+        },
+        {
+          "id": "topic-antitrust-regulation",
+          "headline": "States Take a More Active Role in Antitrust Regulation",
+          "summary": "An effort to block Paramount's takeover of Warner Bros. Discovery highlights states' increasing involvement in antitrust regulation.",
+          "tags": [
+            "#antitrust",
+            "#regulation"
+          ],
+          "source_ids": [
+            3
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/14/multimedia/14db-para-bkwg/14db-para-bkwg-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">States are increasingly taking a more active role in antitrust regulation, challenging the dominance of large corporations in various industries.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">The New York Times article \"Paramount vs. the States\" highlights the efforts of states to block media giant Paramount's planned takeover of Warner Bros. Discovery, framing this as a victory for states as they take a more active role in antitrust regulation, suggesting that this may be a significant shift towards greater accountability and competition in the marketplace.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">A neutral media outlet would report on this story with a focus on the facts, including the efforts of the involved states and the outcome of the takeover attempts, without framing it as a victory or a shift towards greater accountability and competition, and providing context on the broader implications for the industry and the economy.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Right-leaning media outlets may frame this story as an attack on large corporations and the free market, suggesting that state intervention is an overreach of government power and may harm economic growth and job creation, highlighting the potential unintended consequences of state-led antitrust regulation.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The increasing role of states in antitrust regulation marks a significant shift in the balance of power between large corporations and the government, raising important questions about the role of regulation in promoting competition and accountability in the marketplace. As the economy continues to evolve, with technological advancements and changing consumer behaviors, it is essential for governments to adapt and find new ways to promote innovation and competition, ensuring that the needs of consumers and small businesses are protected.</p>"
+        },
+        {
+          "id": "topic-water-supply",
+          "headline": "Water Company Faces $30.5 Million Penalty for Supply Failures",
+          "summary": "The regulatory body Ofwat has confirmed a £30.5 million penalty for South East Water following investigations into supply failures.",
+          "tags": [
+            "#water",
+            "#regulation"
           ],
           "source_ids": [
             4
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/1024/custom/imagepbf/frontpage/production/_123813441_gettyimages-1234548469.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">US Commerce Secretary's connections to late financier Jeffrey Epstein have been exposed by a whistleblower, potentially sparking scrutiny over their influence within the government.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">This topic is likely framed as a serious issue of conflict of interest and abuse of power. Right-leaning media might argue that the connections are innocuous or a result of a coincidence, but left-leaning outlets are expected to strongly emphasize the risks of a public official's ties to a known sex offender and the potential damage to their reputation and credibility. </div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Similar to the article in question, neutral media will provide a factual report of the discovery and potential implications without adding extra commentary on the subject. They may offer some background information but aim to maintain a neutral tone throughout their reporting. This might include an interview with the whistleblower, details about Epstein's background, and an analysis of the discovery's potential consequences for Howard Lutnick.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">This topic could be framed as overhyped or a deliberate distraction from more critical issues. Right-leaning outlets might downplay the significance of the connections, dismissing the accusations as unfounded or a form of witch-hunt. They could emphasize the lack of concrete evidence and highlight potential flaws in the whistleblower's claims to discredit the story.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The uncovering of Howard Lutnick's ties to Jeffrey Epstein raises essential questions about accountability within the US government and the potential influence of private interests on public officials. It is crucial to examine these connections in the context of broader themes, such as power dynamics, corruption, and the need for transparency in government institutions. The whistleblower's discovery may serve as a catalyst for a deeper exploration of these complex issues, shedding light on the intricate web of relationships that underlies modern politics.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/live-extras/news/672/cpsprodpb/17BF6/production/_123115215_stockphoto_water_leak.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">South East Water faces a significant penalty for supply failures, highlighting concerns over the reliability of the UK's water infrastructure.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">A left-leaning media outlet might frame this story as an example of corporate greed and negligence, emphasizing the need for stricter regulations and government oversight to prevent such supply failures.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Neutral sources like the BBC Business would frame this story in a more factual and objective manner, providing details on the penalty and the investigations into South East Water, while maintaining a balanced tone.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">A right-leaning media outlet might frame this story as an isolated incident of a single company's failure, arguing that such instances are rare and that the market should be allowed to self-regulate without excessive government intervention.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>South East Water's $30.5 million penalty for supply failures serves as a warning signal about the vulnerabilities in the UK's aging water infrastructure. As the global population grows and urbanization increases, securing reliable and sustainable water sources becomes increasingly important. This incident highlights the need for proactive management and investment in water infrastructure, not just within the UK, but globally.</p>"
         },
         {
-          "id": "space-exploration-and-ai",
-          "headline": "NASA Discovers Galactic Extent of the Milky Way using Advanced Telescopes",
-          "summary": "Astronomers using NASA's Chandra telescope detected rare gamma-ray bursts, allowing them to measure the Milky Way's spiral arms with increased accuracy, revealing its extent may be greater than previously thought.",
+          "id": "topic-space-exploration",
+          "headline": "Astronomers Reveal New Clues About the Milky Way's Size",
+          "summary": "Rare gamma-ray bursts detected by the Chandra telescope have helped astronomers measure the length of the Milky Way's spiral arms with increased accuracy.",
           "tags": [
-            "#SpaceExploration",
-            "#MilkyWay"
+            "#space",
+            "#astronomy"
           ],
           "source_ids": [
             8
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/milky-way-death-valley.png?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">NASA's advanced telescopes have helped astronomers reveal new insights into the Milky Way, further expanding humanity's understanding of the galaxy.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">Assuming there is no left-leaning media coverage available for this topic, this section would remain blank.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Neutral media sources would likely present the facts about NASA's discovery, highlighting the scientific method and the role of advanced telescopes in expanding our understanding of the galaxy. Any speculation or bias would be minimized or avoided, focusing on verifiable information from credible sources.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Right-leaning media sources might frame the discovery in a more nationalistic or patriotic light, emphasizing the United States' leading role in space exploration and scientific advancements. This perspective could also include commentary on the economic benefits or strategic implications of the discovery, potentially highlighting American interests or global power dynamics.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The revelation of the Milky Way's galactic extent serves as a poignant reminder of humanity's infinitesimal place within the vast expanse of the universe. In the face of such unfathomable scales and mysteries, the scientific pursuit of knowledge takes on a profound significance, illuminating our understanding of the cosmos and inspiring future generations to continue exploring the unknown.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/milky-way-death-valley.png?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">A recent discovery by NASA's Chandra telescope has revealed that the Milky Way's outer reaches may stretch farther than previously known.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">This topic does not seem to have any relevance to left-leaning media's typical framing of issues, such as politics, social justice, or economic inequality.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Neutral media sources, like scientific journals and news outlets, would frame this topic by highlighting the discovery made by NASA's Chandra telescope, the method used to measure the Milky Way's size, and the implications of this new information for our understanding of the galaxy.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Right-leaning media might frame this topic by emphasizing the scientific accomplishment of the discovery, the potential applications of this knowledge in future space exploration, and the prestige it brings to the United States as a leader in space research.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>As we continue to explore and learn more about the universe, discoveries like this reveal the vast complexity and mystery of the cosmos, inviting us to contemplate our place within the grand scheme of existence. This new information about the Milky Way's size expands our understanding of the universe and challenges us to reassess our perspectives on the vastness and beauty of creation.</p>"
         }
       ],
       "rawCount": 9
