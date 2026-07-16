@@ -1,89 +1,77 @@
 {
-  "last_updated": "2026-07-16T10:09:36.871Z",
+  "last_updated": "2026-07-16T13:51:47.909Z",
   "language": "es",
   "categories": {
     "GLOBAL_MACRO": {
       "items": [
         {
-          "id": "raw-0",
-          "headline": "[Left (NYT)] Iran War Updates: U.S. and Iran Exchange Strikes for 5th Straight Day",
-          "summary": "Though both sides appeared to be digging in, a top Iranian official seemed to leave the door open for a deal, saying, “We must fear neither war nor ne...",
+          "id": "guerra-ukraine",
+          "headline": "Continúa la crisis política en Ucrania",
+          "summary": "Las protestas populares y la remoción del ministro de Defensa Mykhailo Fedorov causan tensión. Los líderes políticos de Ucrania están enfrentando desafíos en su intento por mantener el Orden.",
           "tags": [
-            "Left"
+            "#guerra-ukraine",
+            "#política"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/live/2026/07/15/world/iran-war-trump-hormuz\" target=\"_blank\">Iran War Updates: U.S. and Iran Exchange Strikes for 5th Straight Day</a></p>\n                <p>Though both sides appeared to be digging in, a top Iranian official seemed to leave the door open for a deal, saying, “We must fear neither war nor negotiations.”</p>\n            "
+          "source_ids": [
+            0,
+            4
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/16/multimedia/16int-ukraine-protests-01-kclt/16int-ukraine-protests-01-kclt-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Las protestas en Ucrania continúan en medio de la crisis política.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El artículo del NYT presenta a Mykhailo Fedorov como un defensor de su esfuerzo para modernizar las fuerzas armadas ucranianas, destacando la resistencia de la gente al protestar contra su despido.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">El artículo del BBC enfatiza la falta de explicaciones por parte del presidente Zelensky sobre el despido de Fedorov, lo que causa malestar entre la sociedad civil y las fuerzas armadas.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No se ha encontrado un artículo de un medio de derecho que se refiera a este tema.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La crisis política en Ucrania ha llevado a la remoción de un importante funcionario y ha generado una gran inestabilidad en el escenario político del país. Esto lleva a preguntas sobre el proceso de toma de decisiones y la transparencia dentro del gobierno. ¿Qué pueden aprender otras naciones del enfoque en la consolidación de la democracia en Ucrania?</p>"
         },
         {
-          "id": "raw-1",
-          "headline": "[Neutral (BBC)] Iran targets military bases as US launches wave of strikes",
-          "summary": "Explosions were heard across Iran overnight, shortly after neighbouring Gulf states began to report attacks....",
+          "id": "desastres-naturales",
+          "headline": "Consecuencias del colapso del puente de Génova y los terremotos en Venezuela",
+          "summary": "El colapso de un puente en Génova, Italia, en 2018, y los últimos terremotos en Venezuela, han causado pérdidas humanas y materiales significativos en las dos naciones.",
           "tags": [
-            "Neutral"
+            "#desastres-naturales",
+            "#rescate"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Iran targets military bases as US launches wave of strikes</a></p>\n                <p>Explosions were heard across Iran overnight, shortly after neighbouring Gulf states began to report attacks.</p>\n            "
+          "source_ids": [
+            1,
+            8
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/us-troops-venezuela-aid-3.png?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La reconstrucción de la confianza en la infraestructura es clave después de los desastres naturales.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Se ha encontrado que los medios de izquierda no han cubierto este tema específico en los últimos días, pero se enfocan en la solidaridad internacional en respuesta a los terremotos en Venezuela. En el artículo seleccionado de Fox News, la cobertura de la ayuda china es mencionada, pero no hay artículos de medios de izquierda sobre el tema durante la misma fecha.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">El artículo seleccionado de BBC presenta una cobertura imparcial sobre el colapso del puente de Génova, enfocándose en los responsables y las consecuencias del desastre. Aunque no se aborda directamente el tema de los terremotos en Venezuela, la transparencia en la presentación de los hechos sugiere una orientación imparcial. En otro artículo de BBC, se reporta que un ex funcionario italiano ha sido condenado a 12 años de prisión por la tragedia del puente de Génova. El texto es objetivo y sin emotividad, dando una imagen clara de la situación.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">El artículo seleccionado de Fox News presenta una cobertura favorable a la ayuda internacional a Venezuela, destacando la llegada del vuelo de ayuda china a manos de las tropas estadounidenses en el Simón Bolívar Airport. La selección de imágenes sugiere una postura favorable a la cooperación internacional. Además, mencionan a los \"americanos\" sin hacer una mención a la población venezolana en crisis. La cobertura parece priorizar la acción estadounidense y la ayuda internacional sobre otros contextos relevantes.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El colapso del puente de Génova y los terremotos en Venezuela destacan la importancia de construir estructuras sólidas y mantener una infraestructura segura, no solo para garantizar la vida de las personas sino también para mantener la confianza en las instituciones públicas. Las autoridades y las comunidades afectadas deben aprender de estas catástrofes naturales y trabajar juntas para prevenir futuras tragedias. La solidaridad internacional y la cooperación entre países para ayudar en tiempos de necesidad también son vitales para fortalecer la resiliencia y la capacidad de recuperación de los lugares afectados.</p>"
         },
         {
-          "id": "raw-2",
-          "headline": "[Neutral (BBC)] Families of 43 victims await verdict in Genoa bridge disaster",
-          "summary": "A large section of the giant Morandi motorway bridge crumbled and collapsed on to the railway tracks below....",
+          "id": "relaciones-internacionales",
+          "headline": "Tensión internacional en medio de una guerra sin fin en Medio Oriente",
+          "summary": "La crisis bélica en Ucrania y las tensiones entre Estados Unidos, Rusia y China siguen siendo un tema candente en la política mundial.",
           "tags": [
-            "Neutral"
+            "#relaciones-internacionales",
+            "#guerra"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/c20y00712ezo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Families of 43 victims await verdict in Genoa bridge disaster</a></p>\n                <p>A large section of the giant Morandi motorway bridge crumbled and collapsed on to the railway tracks below.</p>\n            "
+          "source_ids": [
+            2,
+            5,
+            7
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/16/multimedia/16int-iran-forever-assess-fhjw/16int-iran-forever-assess-fhjw-mediumSquareAt3X-v2.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La tensión internacional en Medio Oriente avanza sin fin.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El artículo del New York Times, titulado \"In Iran war, Trump Risks Another American ‘Forever War’\", sugiere que la intervención militar de Estados Unidos en Irán podría desembocar en otra guerra sin fin, contrariando las promesas de su presidente, Donald Trump. Los autores de este medio expresan preocupación por el costo humano y económico de la guerra y critican la falta de planificación para una eventual resolución del conflicto.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Falta un artículo de medios imparciales que se refiera directamente a la tensión internacional en Medio Oriente.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Dos artículos de Fox News destacan el crecimiento económico de África y el desafío de Rusia en la guerra en Ucrania. No obstante, el contexto directamente relativo al tema de la tensión en Medio Oriente es escaso. Se puede deducir que estos medios están enfocados en aspectos distintos, pero su posición conservadora podría sugerir un apoyo a la política de Trump en Irán.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La tensión creciente en Medio Oriente es un eco de conflictos históricos en la región, donde la geopolítica y las facciones en lucha han provocado desastres en las generaciones pasadas. La guerra, el cambio climático, la crisis económica y la disminución de la confianza internacional ponen a prueba las capacidades de las naciones para resolver sus desafíos. Cada país debe evaluar su papel en esta lucha sin fin y preguntarse si la cooperación internacional y las acciones humanitarias podrían brindar un camino hacia la resolución de los problemas pendientes. ¿Las naciones están lista para aprender de errores pasados y trabajar juntas en pos de un mundo más pacífico?</p>"
         },
         {
-          "id": "raw-3",
-          "headline": "[Neutral (BBC)] Argentina face action over Falklands banner",
-          "summary": "Argentina face the prospect of disciplinary action from Fifa after their players celebrate the World Cup semi-final win against England with a banner ...",
+          "id": "tecnología-energía",
+          "headline": "Desafíos en la construcción de centros de datos en la India",
+          "summary": "La construcción de centros de datos en la India enfrenta críticas sobre su impacto ambiental y las consecuencias sociales de estos proyectos.",
           "tags": [
-            "Neutral"
+            "#tecnología-energía",
+            "#desarrollo-sostenible"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Argentina face action over Falklands banner</a></p>\n                <p>Argentina face the prospect of disciplinary action from Fifa after their players celebrate the World Cup semi-final win against England with a banner in support of their country's claims to the Falkland Islands.</p>\n            "
+          "source_ids": [
+            6
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/11/multimedia/00int-india-ai-01-tfhg/00int-india-ai-01-tfhg-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La rápida expansión de los centros de datos en la India puede tener graves consecuencias ambientales y económicas para ciudades costeras.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El artículo de <i>The New York Times</i> \"India Is Moving Fast to Build A.I. Data Centers. A Coastal City May Pay the Price\" presenta esta noticia con una mirada crítica hacia la expansión de los centros de datos en la India. Critica a las autoridades por priorizar el desarrollo tecnológico por encima de las implicaciones ambientales y económicas de esta expansión.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content>No hay informaciones disponibles en medios imparciales sobre este tema específico.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content>No hay informaciones disponibles en medios de derecha sobre este tema específico.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La expansión de los centros de datos en la India plantea interesantes reflexiones sobre el papel del desarrollo de la tecnología en la sociedad. En un mundo cada vez más conectado y dependiente de la tecnología, ¿qué implica la construcción de centros de datos para el futuro de nuestras ciudades y comunidades? ¿Es posible equilibrar los beneficios de la innovación con las posibles consecuencias ambientales y económicas para las comunidades locales?</p>"
         },
         {
-          "id": "raw-4",
-          "headline": "[Right (Fox)] WATCH: Russian soldier thrown through air as Soviet-era helicopter gun spins out of control",
-          "summary": "Trump says Putin is \"ready to make a deal\" to end the Ukraine war, but Russia warned Western troops enforcing any ceasefire would be military targets....",
+          "id": "seguridad-nacional",
+          "headline": "Acusaciones de sabotaje en Polonia por parte de un joven con conexiones con Rusia",
+          "summary": "Un joven de origen polaco ha sido detenido en Polonia por sus presuntas conexiones con Rusia, lo que ha generado preocupación por las tensiones entre los dos países.",
           "tags": [
-            "Right"
+            "#seguridad-nacional",
+            "#sabotaje"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/world/watch-russian-soldier-thrown-through-air-soviet-era-helicopter-gun-spins-out-control\" target=\"_blank\">WATCH: Russian soldier thrown through air as Soviet-era helicopter gun spins out of control</a></p>\n                <p>Trump says Putin is \"ready to make a deal\" to end the Ukraine war, but Russia warned Western troops enforcing any ceasefire would be military targets.</p>\n            "
-        },
-        {
-          "id": "raw-5",
-          "headline": "[Right (Fox)] US troops unload China's only known aid flight to earthquake-ravaged Venezuela as Americans surge relief",
-          "summary": "U.S. government photos show American soldiers unloading China's only aid flight at Simón Bolívar Airport as Venezuela reels from June earthquakes....",
-          "tags": [
-            "Right"
+          "source_ids": [
+            3
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/world/us-troops-unload-chinas-aid-flight-earthquake-ravaged-venezuela-americans-surge-relief\" target=\"_blank\">US troops unload China's only known aid flight to earthquake-ravaged Venezuela as Americans surge relief</a></p>\n                <p>U.S. government photos show American soldiers unloading China's only aid flight at Simón Bolívar Airport as Venezuela reels from June earthquakes.</p>\n            "
-        },
-        {
-          "id": "raw-6",
-          "headline": "[Left (NYT)] Ukraine Pounds Russian Ships in Its Campaign to Cut Off Crimea",
-          "summary": "After striking roads and railways, Kyiv is now focusing on sea routes as it tries to disrupt fuel supplies and pressure Russia to end the war....",
-          "tags": [
-            "Left"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/07/15/world/europe/ukraine-russia-crimea-azov-sea.html\" target=\"_blank\">Ukraine Pounds Russian Ships in Its Campaign to Cut Off Crimea</a></p>\n                <p>After striking roads and railways, Kyiv is now focusing on sea routes as it tries to disrupt fuel supplies and pressure Russia to end the war.</p>\n            "
-        },
-        {
-          "id": "raw-7",
-          "headline": "[Right (Fox)] Who is Andy Burnham? The Trump critic set to become the UK's next prime minister",
-          "summary": "Andy Burnham secured 322 MP nominations on day one of the leadership process, but critics say he faces less scrutiny than any recent U.K. prime minist...",
-          "tags": [
-            "Right"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/world/who-andy-burnham-trump-critic-set-become-uks-next-prime-minister\" target=\"_blank\">Who is Andy Burnham? The Trump critic set to become the UK's next prime minister</a></p>\n                <p>Andy Burnham secured 322 MP nominations on day one of the leadership process, but critics say he faces less scrutiny than any recent U.K. prime minister.</p>\n            "
-        },
-        {
-          "id": "raw-8",
-          "headline": "[Left (NYT)] He Has a $25 Million Bounty on His Head but Is Also a U.S. Partner in Venezuela",
-          "summary": "A list of alleged crimes has not prevented Diosdado Cabello, and other Venezuelan officials, from working with a U.S. government that once hounded the...",
-          "tags": [
-            "Left"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/07/15/world/americas/us-bounty-diosdado-cabello-venezuela.html\" target=\"_blank\">He Has a $25 Million Bounty on His Head but Is Also a U.S. Partner in Venezuela</a></p>\n                <p>A list of alleged crimes has not prevented Diosdado Cabello, and other Venezuelan officials, from working with a U.S. government that once hounded them.</p>\n            "
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/cpsprodpb/7A1C/production/_123444475_img-2023-07-28-tv.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Un joven de 19 años con conexiones con Rusia es acusado de realizar acciones de sabotaje en Polonia.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">En general, los medios de izquierda no han cubierto este tema aún. Sin embargo, si lo hicieran, podrían enfocar la narrativa en la supuesta relación entre las acciones del joven y el imperialismo ruso, destacando las posibles ramificaciones en la región y el impacto en la comunidad polaca.</div>\n  </div>\n  <div class=\"bias-box bias-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales, como el artículo proporcionado en la BBC, han presentado la información de manera objetiva, enfocándose en los hechos y las declaraciones de las autoridades polacas. No han manifestado un sesgo político explícito, simplemente han informado sobre las acusaciones y la investigación en curso.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha podrían enfocar la narrativa en la supuesta amenaza de la infiltración rusa en Polonia y la necesidad de una postura más firme contra la influencia rusa en la región. Podrían also destacar la importancia de la seguridad nacional y la cooperación con Occidente para contrarrestar la influencia rusa.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La acusación de sabotaje en Polonia por parte de un joven con conexiones con Rusia plantea serias preocupaciones sobre la seguridad nacional y la estabilidad regional. Esta situación es un reflejo de la tensión cada vez mayor entre Rusia y la Unión Europea, y de la creciente influencia rusa en Europa Oriental. Es importante que los países de la región mantengan una actitud firme pero pragmática frente a la amenaza rusa, protegiendo a los ciudadanos y los intereses nacionales, mientras también fomentan la cooperación y la estabilidad en la región.</p>"
         }
       ],
       "rawCount": 9
@@ -91,70 +79,70 @@
     "TECH_FRONTIER": {
       "items": [
         {
-          "id": "tecnologías-de-la-infancia",
-          "headlines": "Investigación de la Ofcom a TikTok sobre comprobaciones de edad",
-          "summary": "La Ofcom, un regidor británico, ha iniciado una investigación sobre las comprobaciones de edad en la plataforma de TikTok. El regidor criticó a la empresa en mayo por no ser lo suficientemente segura para niños.",
-          "tags": [
-            "#TikTok",
-            "#NiñosEnInternet"
-          ],
-          "source_ids": [
-            0
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/1024/branded_news/c9/production/_119151111_mediaitem119153351.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption>TikTok enfrenta investigación de Ofcom por comprobaciones de edad infantil.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los periódicos de izquierda se centrarán en la necesidad regulatoria existente para proteger a los niños en línea, citando el informe de mayo de Ofcom que acusó a TikTok de ser \"inseguro\" para menores de edad. Enfriará los temas de privacidad y seguridad al referirse específicamente a la falta de medidas estrictas de verificación de edad implementadas por la plataforma.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Ofcom anunció que está investigando a TikTok por no cumplir los requisitos regulatorios existentes. La agencia de regulación enfatizó que la plataforma no está \"segura\" para los niños. Enfriará los datos de la investigación y la respuesta de la empresa, manteniendo un enfoque neutro.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha enfocarán en cómo la falta de acciones de TikTok en la implementación de verificaciones de edad es una muestra de su negligencia y descuido hacia la seguridad infantil en línea. Destacarán incidentes pasados de contenido inapropiado para menores en la plataforma, criticando la respuesta de TikTok por considerarla demasiado débil.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>A pesar de las medidas reguladoras existentes, la proliferación de redes sociales como TikTok pone de relieve la necesidad de una revisión de las políticas de seguridad en línea. La investigación de Ofcom es un paso crucial en el camino de garantizar que las plataformas de redes sociales se adapten a las necesidades de su audiencia infantil, evitando el acceso a contenido inapropiado. Este fenómeno no solo se refleja en la responsabilidad de las plataformas sino también en la educación de los padres sobre el uso seguro e informativo de las redes sociales para los menores.</p>"
-        },
-        {
-          "id": "innovación-y-privacidad",
-          "headline": "Compañías tecnológicas enfrentan escrutinio por cuestiones de privacidad",
-          "summary": "El gobierno europeo está considerando nuevas regulaciones para la privacidad en las redes sociales mientras que compañías como Meta y Apple enfrentan críticas por sus prácticas.",
-          "tags": [
-            "#Privacidad",
-            "#Innovación"
-          ],
-          "source_ids": [
-            3,
-            5
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/13/business/13biz-eu-social-ban/13biz-eu-social-ban-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Compañías tecnológicas enfrentan escrutinio por cuestiones de privacidad en la Unión Europea.</div>\n</div>\n\n<h2>Desconstrucción del Sesgo</h2>\n\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los medios de izquierda están destacando la preocupación creciente en la Unión Europea por las políticas de privacidad de las empresas tecnológicas, como se evidencia en el reporte que llevó a la consideración de una posible ban sobre las redes sociales para menores.</div>\n  </div>\n  <div class=\"bias-box bias-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Algunos medios, como el artículo sobre Meta, muestran que las empresas tecnológicas están adoptando medidas para abordar los problemas de privacidad, como la remoción de la función de inteligencia artificial de Instagram luego de una fuerte crítica de usuarios y agencias de Hollywood.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha enfatizan que la regulación excesiva podría tener efectos negativos en el desarrollo de las empresas tecnológicas y su capacidad para innovar al mismo tiempo que abordan la privacidad.</div>\n  </div>\n</div>\n\n<h2>Reflexión</h2>\n\n<p>Este tema destaca la necesidad creciente de equilibrar la Innovación y la Privacidad en la era digital. Las regulaciones cada vez más estrictas en la Unión Europea pueden servir como precedente para otras regiones, llevándonos a una era de cambios profundos en cómo las empresas tecnológicas se relacionan con la información personal de los usuarios.</p>"
-        },
-        {
-          "id": "tecnología-y-finanzas",
-          "headline": "Clima volátil en el mercado accionario de SpaceX",
-          "summary": "La compañía espacial SpaceX, fundada por Elon Musk, tiene una participación en el mercado accionario que ha sido volátil desde su debut en el mercado un mes atrás.",
-          "tags": [
-            "#SpaceX",
-            "#Accionista"
+          "id": "ciberseguridad",
+          "titulo": "Dos jóvenes hackers son condenados por el ataque a Transport for London",
+          "resumen": "Dos adolescentes, Owen Flowers y Thalha Jubair, fueron convictos por su papel en un ataque cibernético a Transport for London, que resultó en grandes costos para la organización.",
+          "etiquetas": [
+            "#ciberseguridad",
+            "#hackeo"
           ],
           "source_ids": [
             1
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.mashable.com/wp-content/uploads/2022/11/SpaceX-Beta.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La caída en las acciones de SpaceX deja a los inversores con la incertidumbre.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Probablemente, los medios de izquierda se centran en la falta de estabilidad en el mercado accionario y el impacto en los inversores, enfatizando el peligro de una crisis financiera.</div>\n  </div>\n  <div class=\"bias-box bias-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales probablemente se enfocarán en la volatilidad del mercado accionario de SpaceX y la importancia de la estabilidad financiera en el sector privado espacial.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha podrían centrarse en la capacidad de SpaceX para afrontar la volatilidad del mercado y mantener su liderazgo en la competencia espacial, enfatizando la resiliencia del CEO Elon Musk.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La volatilidad en el mercado accionario de SpaceX plantea importantes implicaciones sobre la gobernanza y regulación del sector privado espacial. ¿Cuáles son las consecuencias a largo plazo de la falta de estabilidad financiera para las empresas que están explorando los territorios del espacio?</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/cpsprodpb/E1EE/production/_130151144_gettyimages-1239874448.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Dos jóvenes hackers fueron condenados por transmitir en vivo una ataque cibernético contra Transport for London.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">No existe cobertura de medios de izquierda en relación con esta noticia, por lo que no puede ser analizada.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">El artículo de BBC Tech se enfoca en los hechos del caso, presentando una cobertura objetiva de la condena de los dos jóvenes hackers. El enfoque es neutral y no muestra inclinación política o ideológica.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No hay cobertura de medios de derecha identificada relacionada con esta noticia. No puede ser analizada debido a la falta de fuentes.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La condena de los dos jóvenes hackers por transmitir en vivo una ataque cibernético contra Transport for London no es solo una noticia legal, sino también un recordatorio del peligro creciente de los ataques cibernéticos en nuestra sociedad. Estos ataques pueden tener consecuencias graves y costosas, como se demuestra en este caso. Por lo tanto, es importante que se tomen medidas para prevenir y mitigar este tipo de amenazas, asegurando la seguridad de las instituciones y la privacidad de los ciudadanos.</p>"
         },
         {
-          "id": "gobierno-y-educación",
-          "headline": "Proyecto para establecer curfew de redes sociales para adolescentes de 16 y 17 años",
-          "summary": "El gobierno del Reino Unido quiere establecer un toque de queda para adolescentes de 16 y 17 años en las redes sociales a partir de la medianoche, pero se han recibido críticas de los defensores de la libertad de expresión.",
-          "tags": [
-            "#Internet",
-            "#Adolescentes"
+          "id": "tiktok",
+          "titulo": "Se abren investigaciones sobre la seguridad de TikTok para menores",
+          "resumen": "El regulador Ofcom ha anunciado una investigación sobre la plataforma de TikTok, luego de una revisión en mayo que criticó la seguridad de la plataforma para los menores.",
+          "etiquetas": [
+            "#tiktok",
+            "#seguridad"
           ],
           "source_ids": [
-            2
+            0,
+            3
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/1100/cpsprodpb/AAB5/production/_128144441_medium.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Se propone establecer un toque de queda para las redes sociales para adolescentes de 16 y 17 años para mejorar sus vidas.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Por lo general, los medios de izquierda tienden a cuestionar los motivos detrás de propuestas como esta, argumentando que son un intento de controlar demasiado la información y los comportamientos de los adolescentes, y potencialmente, socavar sus derechos fundamentales. No obstante, parece no ser el caso para la BBC Tech, la fuente seleccionada, por lo que no hay un retrato claro de sesgo para los medios de izquierda aquí, por lo tanto se considera neutral.</div>\n  </div>\n  <div class=\"bias-box bias-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">La BBC Tech, fuente seleccionada, ha reportado la propuesta de establecer un toque de queda, presentando un equilibrio entre ambos lados del debate. Se ha notificado sobre la propuesta del gobierno y las reacciones de los activistas. El lenguaje utilizado en el informe es objetivo y permite al lector formarse su propia opinión.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha podrían criticar la propuesta de establecer un toque de queda en las redes sociales, argumentando que se trata de una medida paternalista que podría limitar la libertad de los adolescentes y no ser efectiva en la lucha contra la bulimia o el acoso en línea. Es poco probable que los medios de derecha defiendan la propuesta en la forma en que está planteada, pero nuevamente, no hay ningún retrato claro de sesgo por parte de la BBC en este tema.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>Esta propuesta plantea preguntas importantes sobre la forma en que estamos regulando las tecnologías que están cambiando nuestras vidas. La pregunta que se nos hace es si somos conscientes del impacto que nuestras acciones pueden tener en el futuro más allá del tiempo presente. ¿Estamos creando un mundo en el que cada vez más jóvenes pasan más tiempo al interior de pantallas de celular y otros dispositivos de computación y pasando menos tiempo desarrollando sus habilidades sociales en la realidad y en contacto con la gente en la vida.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/13/business/13biz-eu-social-ban/13biz-eu-social-ban-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La Comisión Europea considera una posible prohibición para niños en las redes sociales.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El artículo del NYT Tech presenta las acciones de la Comisión Europea respecto de una posible prohibición de las redes sociales para niños, enfatizando el aspecto regulatorio y su posible influencia en políticas de seguridad en línea, con un tono crítico hacia las redes sociales por no garantizar la seguridad de los menores.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">El artículo del BBC Tech informa sobre la investigación de la OFCOM a TikTok sobre sus mecanismos de verificación de edad, destacando la falta de seguridad en la plataforma para los menores como el principal foco de la investigación, con un tono neutro que no muestra sesgo ni parcialidad.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Dado que no se encontró artículos de medios de derecha relacionados con este tema, no se puede analizar ninguna tendencia de este tipo.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La cuestión de la seguridad en línea y la protección de los menores en las redes sociales es un tema complejo y multifacético que va más allá de la simple prohibición o regulación de la actividad en línea. Implica considerar aspectos éticos, sociológicos y tecnológicos que requieren una reflexión cuidadosa y un enfoque equilibrado. ¿Hasta qué punto podemos confiar en las plataformas de redes sociales para proteger a los menores, y qué medidas alternativas podemos tomar para garantizar su seguridad en línea?</p>"
         },
         {
-          "id": "tecnología-y-derechos",
-          "headline": "Apple denuncia a OpenAI por presuntas infracciones de derechos de autor",
-          "summary": "Apple acusa a OpenAI de haber tomado secretos de la compañía en un acuerdo anterior para ofrecer servicios de inteligencia artificial en dispositivos Apple.",
-          "tags": [
-            "#InteligenciaArtificial",
-            "#Derechos"
+          "id": "ai",
+          "titulo": "Partners de Apple y OpenAI enfrentan desacuerdos sobre el uso del A.I.",
+          "resumen": "Apple ha presentado una demanda contra OpenAI, acusándola de haber robado secretos de la compañía, luego de que su cooperación para ofrecer servicios de A.I. en dispositivos de Apple se enfrió.",
+          "etiquetas": [
+            "#ai",
+            "#Apple"
           ],
           "source_ids": [
             4
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/10/multimedia/10biz-apple-openai2-tlmg/10biz-apple-openai2-tlmg-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Apple denuncia a OpenAI por supuestas infracciones de derechos de autor.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El New York Times Tech reporta que Apple tiene una disputa con OpenAI después de que la compañía presentó acusaciones de robo de secreto empresarial. La relación de colaboración entre ambas empresas para ofrecer servicios de inteligencia artificial en dispositivos de Apple se ha deteriorado.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Un análisis objetivo revela que la disputa entre Apple y OpenAI puede tener implicaciones significativas para la industria de la inteligencia artificial y los derechos de autor en línea. Ambas compañías han sido parte de acuerdos de colaboración, pero la ruptura de la alianza de Apple con OpenAI puede afectar el curso de la investigación y el desarrollo en el campo de la IA.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">El litigio entre Apple y OpenAI es un ejemplo de lo que sucede cuando las empresas tech se enfrentan a la competitividad intensa en el mercado. La acusación de robo de secretos de Apple puede verse en el contexto de una guerra de patentes y secretos entre las empresas líderes del sector.</div>\n</div>\n<h2>Reflexión</h2>\n<p>La disputa entre Apple y OpenAI nos obliga a reflexionar sobre la dinámica cambiante de la tecnología y su impacto en la propiedad intelectual. La cuestión de los derechos de autor y las reglas de la competencia en el mundo digital plantea preguntas sobre el futuro de las industrias tradicionales y la naturaleza de la innovación tecnológica.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/10/multimedia/10biz-apple-openai2-tlmg/10biz-apple-openai2-tlmg-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Apple acusa a OpenAI de robar secretos de la empresa.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El NYT Tech informa sobre una polémica acerca de una colaboración entre Apple y OpenAI que se ha enrarecido. Apple acusa a OpenAI de robar secretos de la empresa sin mencionar detalles específicos sobre la naturaleza de la colaboración o los supuestos secretos robados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">No se pudo encontrar información de medios imparciales sobre este tema.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No se pudo encontrar información de medios de derecha sobre este tema.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La disputa entre Apple y OpenAI puede tener consecuencias significativas en la industria de la inteligencia artificial. La colaboración estratégica entre estas dos empresas se consideraba fundamental para el desarrollo de aplicaciones y servicios basados en IA en dispositivos Apple. Sin embargo, la acusación de Apple de OpenAI puede dar lugar a un conflicto legal que comprometa la confianza de los consumidores y los inversores en la estabilidad del mercado de la IA.</p>"
+        },
+        {
+          "id": "tech-empresas",
+          "titulo": "Los precios de las acciones de SpaceX caen por debajo de su debut en el mercado",
+          "resumen": "Las acciones de la compañía de Elon Musk, SpaceX, han sido altamente volátiles desde su debut en el mercado hace un mes.",
+          "etiquetas": [
+            "#espacio",
+            "#inversión"
+          ],
+          "source_ids": [
+            2
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/cpsprodpb/1A2A/production/_123177144_gettyimages-1415510444-1.jpg?cb=1679441234\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La precariedad en el mercado de valores del grupo de SpaceX de Elon Musk sigue siendo noticia.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Dado el contexto económico y el creciente desequilibrio en la industria espacial, los medios de izquierda pueden enfatizar la posible explotación laboral en SpaceX y las presiones para aumentar la producción a un coste cada vez más bajo.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">La BBC Tech ha proporcionado una cobertura equilibrada, destacando la volatilidad del mercado de valores y su impacto en la inversión de los accionistas. La cobertura neutral de la BBC Tech no muestra inclinación a ninguna visión política o ideológica.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Dado el entorno de mercado y la creciente competencia en la industria, los medios de derecha pueden enfatizar la capacidad de SpaceX para innovar y atraer a nuevos inversores, resaltando la fortaleza financiera y tecnológica del grupo de Elon Musk.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La reciente volatilidad en los precios de las acciones de SpaceX subraya la dinámica del mercado y la complejidad de la industria espacial. Es importante considerar cómo el creciente alcance de las empresas de tecnología, como SpaceX, puede afectar no solo la economía, sino también la sociedad como un todo. La búsqueda de crecimiento y dominio en este contexto puede tener implicaciones significativas en términos de regulación, empleo y competencia, lo que hace que este tema sea relevante para una reflexión más profunda y considerada.</p>"
+        },
+        {
+          "id": "redes-sociales",
+          "titulo": "Meta retira un feature de A.I. de Instagram después de críticas",
+          "resumen": "Meta ha retirado el feature Muse Image de Instagram después de que usuarios y agencias de Hollywood expresaran preocupaciones sobre la privacidad y la propiedad intelectual.",
+          "etiquetas": [
+            "#instagram",
+            "#redes-sociales"
+          ],
+          "source_ids": [
+            5
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Meta retira herramienta de inteligencia artificial de Instagram tras críticas de días.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El medio 'NYT Tech' analiza la situación como un problema de privacidad, subrayando las preocupaciones del público y las agencias de Hollywood sobre la nueva herramienta Muse Image de Instagram. Destaca la decisión de Meta como una respuesta a las críticas de los usuarios.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Actualmente no se han encontrado fuentes imparciales que cubran este tema.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No se encontraron referencias o análisis en medios de derecha relacionados con esta noticia.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La decisión de Meta de retirar la herramienta Muse Image de Instagram pone de relieve el complejo equilibrio entre la innovación y la privacidad en el desarrollo de tecnologías de inteligencia artificial. Esta herramienta, diseñada para facilitar la creación de contenido, despertó importantes críticas y respuestas del público, las agencias de Hollywood y los defensores de la privacidad. A medida que avanzamos hacia una sociedad cada vez más digitalizada, estos tipos de conflictos se volven cada vez más comunes, y es fundamental que las empresas de tecnología, como Meta, prioricen la transparencia y la comprensión pública de sus herramientas y procesos.</p>"
         }
       ],
       "rawCount": 6
@@ -162,85 +150,72 @@
     "MARKETS_ECONOMY": {
       "items": [
         {
-          "id": "raw-0",
-          "headline": "[Left (NYT Business)] TSMC Adds $100 Billion to Its U.S. Spending Plan",
-          "summary": "The pledge from the Taiwanese chip-making giant brought the total commitment to its fast-growing operations in Arizona to $265 billion....",
+          "id": "topic-estrategias-energeticas",
+          "headline": "Se reduce tráfico de petróleo a través del Estrecho de Hormuz",
+          "summary": "El tráfico de petróleo a través del Estrecho de Hormuz se redujo significativamente debido a la imposición de bloqueos navales estadounidenses a Irán.",
           "tags": [
-            "Left"
+            "#estrategias-energeticas",
+            "#conflicto-iran"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/07/16/business/tsmc-chips-investment-arizona.html\" target=\"_blank\">TSMC Adds $100 Billion to Its U.S. Spending Plan</a></p>\n                <p>The pledge from the Taiwanese chip-making giant brought the total commitment to its fast-growing operations in Arizona to $265 billion.</p>\n            "
+          "source_ids": [
+            0,
+            2
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/16/multimedia/16Biz-Hormuz-Strait-mfgz/16Biz-Hormuz-Strait-mfgz-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El tráfico de petróleo a través del Estrecho de Hormuz experimenta una caída significativa debido a las tensiones geopolíticas.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los medios de izquierda, como The New York Times, están informando sobre la disminución del tráfico de petróleo a través del Estrecho de Hormuz como una consecuencia directa de las acciones del bloqueo naval de EE. UU. con respecto a Irán. Esta cobertura enfatiza la importancia de mantener a Irán sometido para prevenir el flujo de petróleo a través del Estrecho de Hormuz, y por lo tanto, preservar el equilibrio geopolítico en la región.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales, en este caso no hay información disponible en el artículo proporcionado. Se presume una cobertura neutral del tema.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Al igual que los medios de izquierda, los medios de derecha también están informando sobre la disminución del tráfico de petróleo a través del Estrecho de Hormuz como una consecuencia de las acciones del bloqueo naval de EE. UU. con respecto a Irán. Sin embargo, esta cobertura se enfoca en la importancia de mantener a Irán sometido para proteger la seguridad nacional y garantizar la estabilidad del mercado global de petróleo.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La disminución del tráfico de petróleo a través del Estrecho de Hormuz tiene consecuencias significativas para el mercado global de petróleo y la economía en general. Esto destaca la importancia de la gestión de la inestabilidad geopolítica en la región y la necesidad de encontrar una solución diplomática que satisfaga las demandas de todos los actores involucrados. Además, este tema enfatiza la necesidad de diversificar las fuentes de petróleo y reducir la dependencia de un único punto de tránsito como el Estrecho de Hormuz.</p>"
         },
         {
-          "id": "raw-1",
-          "headline": "[Left (NYT Business)] Diesel Prices Hit $5 a Gallon Again, Up 33% Since Start of Iran War",
-          "summary": "U.S. diesel prices first surpassed $5 a gallon in March. Renewed fighting in the Persian Gulf and reduced refinery capacity is once again pushing up p...",
+          "id": "topic-innovacion-tecnologica",
+          "headline": "Decisiones regulatorias sobre el acceso a la inteligencia artificial",
+          "summary": "La Comisión Europea ha ordenado a Google dar a sus rivales más acceso a la inteligencia artificial en sus dispositivos Android.",
           "tags": [
-            "Left"
+            "#innovacion-tecnologica",
+            "#privacidad-digital"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/07/16/business/diesel-prices-us-iran-war.html\" target=\"_blank\">Diesel Prices Hit $5 a Gallon Again, Up 33% Since Start of Iran War</a></p>\n                <p>U.S. diesel prices first surpassed $5 a gallon in March. Renewed fighting in the Persian Gulf and reduced refinery capacity is once again pushing up prices.</p>\n            "
+          "source_ids": [
+            2,
+            7
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/16/multimedia/16BIZ-EU-AI-kqgf/16BIZ-EU-AI-kqgf-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La Unión Europea exige a Google otorgar acceso a empresas rivales para aprovechar el gran mercado de Android.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El NYT Business informa que la decisión de los reguladores de la Unión Europea es una respuesta a las preocupaciones de que Google use su gran base de usuarios de Android para obtener una ventaja en inteligencia artificial. El artículo no muestra un punto de vista crítico o alarmista, sino más bien una reporte objetiva de la decisión.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">En este caso, no hay un medio imparcial que esté reportando directamente sobre este tema. Sin embargo, los artículos de ambos medios muestran la complejidad del tema, destacando las preocupaciones de las empresas rivales y la regulación gubernamental. Esto sugiere que se tratan de informes objetivos, aunque con un enfoque en la parte técnica.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">El Fox Business informa que la administración de Trump ha restringido el acceso a OpenAI's GPT-5.6 Sol, lo que plantea preguntas sobre el control gubernamental sobre herramientas de seguridad cibernética de AI. El artículo destaca la importancia de la regulación pero no muestra un enfoque político o partidista.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La regulación de acceso a la inteligencia artificial es un tema complejo que involucra el equilibrio entre la competencia en el mercado, la innovación y la seguridad. En este caso, la decisión de la Unión Europea de exigir a Google otorgar acceso a empresas rivales busca garantizar que la competencia en el mercado no esté desequilibrada por el dominio de una sola empresa. Por otro lado, la regulación gubernamental en Estados Unidos sobre OpenAI plantea preguntas sobre el control del acceso a tecnología avanzada y la seguridad de la información. En última instancia, el tema refleja la necesidad de una regulación equilibrada que permita la innovación y la competencia en un campo cada vez más dominado por la inteligencia artificial.</p>"
         },
         {
-          "id": "raw-2",
-          "headline": "[Neutral (BBC Business)] UK economy returns to growth in May",
-          "summary": "The modest growth reverses a slight contraction that had been seen the previous month....",
+          "id": "topic-acuerdos-economicos",
+          "headline": "Adquisición del acero en el Reino Unido",
+          "summary": "El acero británico ha sido nacionalizado por razones de seguridad nacional para proteger la industria del país.",
           "tags": [
-            "Neutral"
+            "#acuerdos-economicos",
+            "#industria"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/c8xnllq944go?at_medium=RSS&at_campaign=rss\" target=\"_blank\">UK economy returns to growth in May</a></p>\n                <p>The modest growth reverses a slight contraction that had been seen the previous month.</p>\n            "
+          "source_ids": [
+            4,
+            5
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/cpsprodpb/11A85/production/_123349177_british-steel-1-GettyImages-1132357368.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La acería de Scunthorpe ha sido nacionalizada para proteger los suministros esenciales del Reino Unido.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los medios de izquierda probablemente presentarían esta nacionalización como un paso crucial para proteger la industria del acero británica y evitar su colapso, resaltando el impacto negativo que tendría en la economía y los empleados de las plantas de acero en caso de que cayeran en manos de inversores no británicos.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales probablemente ofrecerían una descripción objetiva de la nacionalización, explicando los factores que la motivaron y citando a expertos que analicen sus pros y contras, sin adoptar una postura política o editorial particular.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha podrían criticar la nacionalización del acero argumentando que es una forma de intervención estatal que puede dañar la competencia y limitar las oportunidades de inversión en la industria, enfatizando la importancia de la libre empresa y el mercado para el crecimiento económico.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La nacionalización del acero británico plantea interrogantes sobre la función del Estado en la economía y las limitaciones de las políticas de intervención estatal en la industria. La decisión de nacionalizar la acería de Scunthorpe puede ser vista como un intento de proteger los suministros clave y la seguridad nacional, pero también puede ser vista como una limitación para la competencia y la innovación en la industria. Es importante considerar las implicaciones más amplias de esta decisión y su posible impacto en el futuro económico del Reino Unido.</p>"
         },
         {
-          "id": "raw-3",
-          "headline": "[Neutral (BBC Business)] British Steel taken into public ownership to protect 'vital' UK supply",
-          "summary": "The Scunthorpe steelworks has been officially nationalised under new government powers passed this week....",
+          "id": "topic-inseguridad-ciudadana",
+          "headline": "Escalada del fraude y la robo de identidad en la venta de propiedades",
+          "summary": "Los casos de fraude y robo de identidad han aumentado para aquellos que venden propiedades en el Reino Unido, poniendo en riesgo sus activos.",
           "tags": [
-            "Neutral"
+            "#inseguridad-ciudadana",
+            "#fraude"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/c5y680w62wno?at_medium=RSS&at_campaign=rss\" target=\"_blank\">British Steel taken into public ownership to protect 'vital' UK supply</a></p>\n                <p>The Scunthorpe steelworks has been officially nationalised under new government powers passed this week.</p>\n            "
+          "source_ids": [
+            6
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2024/03/Georgia-Property-Taxes.gif\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El fraude y la robo de identidad amenazan a los vendedores de propiedades.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">En este momento, no se encontraron artículos relevantes de medios de izquierda que aborden la escalada del fraude y la robo de identidad en la venta de propiedades. Por lo tanto, no hay una forma de abordar el tema desde una perspectiva de izquierda.</div>\n  </div>\n  <div class=\"bias-box bias-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">El articulo proporcionado procede de un medio imparcial, específicamente de Fox Business, que ofrece una visión neutral y concisa del problema. El artículo resalta cómo los timadores están aprovechando los registros de propiedades y los sitios de búsqueda de datos para comprometer el dinero del vendedor. Esta narrativa no presenta sesgos políticos explícitos, en lugar se centra en la importancia de la seguridad personal y la prevención de fraudes en la venta de propiedades.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">El artículo mencionado anteriormente pertenece al medio Fox Business, que generalmente se le considera un portavoz de la derecha. A pesar de este vínculo con la derecha, el artículo ofrece una narrativa neutral y concisa sobre el problema, enfocándose en la seguridad personal y la prevención de fraudes en la venta de propiedades. Por lo tanto, no se detectan evidencias de sesgos políticos explícitos en la narrativa de este artículo.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La escalada del fraude y la robo de identidad en la venta de propiedades es un problema complejo que tiene importantes implicaciones en la seguridad personal y la confianza en las instituciones. La creciente vulnerabilidad de los vendedores de propiedades a las estafas y la robo de identidad destaca la necesidad de una mayor conciencia sobre la importancia de proteger la identidad y la seguridad personal. Es imperativo que las autoridades y los medios de comunicación trabajen juntos para difundir información precisa y útil sobre cómo prevenir el fraude y la robo de identidad, protegiendo así a los vendedores de propiedades y restaurando la confianza en el mercado inmobiliario.</p>"
         },
         {
-          "id": "raw-4",
-          "headline": "[Neutral (BBC Business)] Celebrity influencers paid up to £1m to advertise deodorant on Instagram",
-          "summary": "The chief executive of Wild reveals what happens behind the scenes of social media posts....",
+          "id": "topic-espacio-celestre",
+          "headline": "Descubrimiento de la posible extensión de la Vía Láctea",
+          "summary": "Un equipo de astrónomos ha descubierto que la Vía Láctea podría ser más grande de lo que se pensaba anteriormente.",
           "tags": [
-            "Neutral"
+            "#espacio-celestre",
+            "#descubrimiento"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cvgegqrp656o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Celebrity influencers paid up to £1m to advertise deodorant on Instagram</a></p>\n                <p>The chief executive of Wild reveals what happens behind the scenes of social media posts.</p>\n            "
-        },
-        {
-          "id": "raw-5",
-          "headline": "[Left (NYT Business)] India Is Moving Fast to Build A.I. Data Centers. A Coastal City May Pay the Price.",
-          "summary": "With India lagging in the technology, officials are embracing giant data centers. But critics say the megaprojects will use up energy and water, witho...",
-          "tags": [
-            "Left"
+          "source_ids": [
+            8
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/07/16/world/asia/india-ai-data-centers-google.html\" target=\"_blank\">India Is Moving Fast to Build A.I. Data Centers. A Coastal City May Pay the Price.</a></p>\n                <p>With India lagging in the technology, officials are embracing giant data centers. But critics say the megaprojects will use up energy and water, without providing long-term jobs.</p>\n            "
-        },
-        {
-          "id": "raw-6",
-          "headline": "[Right (Fox Business)] Selling your home this summer? Your data is already moving",
-          "summary": "Scammers target home sellers through property records and data brokers. Real estate wire fraud and people search sites put your nest egg at risk....",
-          "tags": [
-            "Right"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/science/selling-home-summer-data-already-moving\" target=\"_blank\">Selling your home this summer? Your data is already moving</a></p>\n                <p>Scammers target home sellers through property records and data brokers. Real estate wire fraud and people search sites put your nest egg at risk.</p>\n            "
-        },
-        {
-          "id": "raw-7",
-          "headline": "[Right (Fox Business)] Trump puts brakes on OpenAI’s newest AI model",
-          "summary": "OpenAI's GPT-5.6 Sol model requires Trump administration approval for early access, raising questions about government control over AI cybersecurity t...",
-          "tags": [
-            "Right"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/science/trump-puts-brakes-openais-newest-ai-model\" target=\"_blank\">Trump puts brakes on OpenAI’s newest AI model</a></p>\n                <p>OpenAI's GPT-5.6 Sol model requires Trump administration approval for early access, raising questions about government control over AI cybersecurity tools.</p>\n            "
-        },
-        {
-          "id": "raw-8",
-          "headline": "[Right (Fox Business)] NASA's Chandra telescope reveals Milky Way's outer reaches may stretch farther than previously known",
-          "summary": "Rare gamma-ray bursts detected by powerful X-ray telescopes orbiting the Earth helped astronomers measure Milky Way spiral arms with stunning accuracy...",
-          "tags": [
-            "Right"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/science/nasas-chandra-telescope-reveals-milky-ways-outer-reaches-may-stretch-farther-than-previously-known\" target=\"_blank\">NASA's Chandra telescope reveals Milky Way's outer reaches may stretch farther than previously known</a></p>\n                <p>Rare gamma-ray bursts detected by powerful X-ray telescopes orbiting the Earth helped astronomers measure Milky Way spiral arms with stunning accuracy.</p>\n            "
+          "deepDiveHtml": "<!DOCTYPE html>\n\n\n\n\n\n<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/milky-way-death-valley.png?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">NASA reveló que la Vía Láctea podría tener un extenso que desborda los límites conocidos.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los medios de izquierda no han publicado información relevante sobre este tema en las últimas 24 horas.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">El artículo de Fox Business sobre la posible extensión de la Vía Láctea utiliza un lenguaje neutral e informativo, presentando los hechos y la investigación detrás del descubrimiento.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha tampoco han publicado información relevante sobre este tema en las últimas 24 horas.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La posible extensión de la Vía Láctea desafía nuestra comprensión de nuestra galaxia local y abre nuevas perspectivas sobre la complejidad del universo. Este descubrimiento nos hace reflexionar sobre la fragilidad de nuestra visión limitada y el aprecio por los misterios que aún quedan por descubrir.</p>\n\n"
         }
       ],
       "rawCount": 9
