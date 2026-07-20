@@ -1,76 +1,78 @@
 {
-  "last_updated": "2026-07-20T06:45:24.178Z",
+  "last_updated": "2026-07-20T10:51:37.448Z",
   "language": "en",
   "categories": {
     "GLOBAL_MACRO": {
       "items": [
         {
-          "id": "topic-geopolitics",
-          "headline": "US Service Members Killed in Iran-Iraq Conflict",
-          "summary": "US service members have been killed in a series of incidents related to the ongoing conflict between the US and Iran in Iraq.",
+          "id": "topic-1",
+          "headline": "US Military Presence in the Middle East Under Debate",
+          "summary": "Former officials and experts are calling for the withdrawal of US forces from the Middle East, while others believe continued pressure on Iran is necessary.",
           "tags": [
-            "#US-Iran conflict",
-            "#Iraq"
+            "#MiddleEast",
+            "#USMilitary"
+          ],
+          "source_ids": [
+            1,
+            2,
+            7
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/9697680f-joe-kent-december-2025-2.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">US military presence in the Middle East is under scrutiny as experts debate the implications of withdrawal.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">There is a lack of neutral media coverage provided, as all sources selected are from a right-leaning perspective.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Right-leaning media sources are primarily focusing on potential security threats, advocating for maintaining a strong military presence in the region to deter ISIS and other terrorist groups. Experts like Joe Kent are promoting US withdrawal, but are often countered by voices like Steve Forbes emphasizing the importance of strategic military presence in the Middle East.</div>\n  </div>\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\"></div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The debate over US military presence in the Middle East highlights the complex nature of global security and the need for careful strategic consideration. While concerns over ISIS and terrorist threats are valid, withdrawal advocates raise questions about the effectiveness and sustainability of the US military presence. This discussion underscores the delicate balance between national interests, regional stability, and the risk of creating power vacuums that terrorist groups can exploit.</p>"
+        },
+        {
+          "id": "topic-2",
+          "headline": "Increased Tensions Between US and Iran",
+          "summary": "Analysts warn of escalating attacks between the US and Iran, which could lead to a wider conflict, unless negotiations are restarted.",
+          "tags": [
+            "#USIranTensions",
+            "#MiddleEastConflict"
           ],
           "source_ids": [
             0,
-            5,
-            6
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/02/931/523/jordan-captagon.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">A US service member has been killed in the ongoing conflict in Iran and Iraq, marking another tragic loss in the expanding war.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">The New York Times frames this story as part of an ongoing \"Iran War\", emphasizing the escalation and expansion of the conflict, which suggests a concern for the human impact and broader implications of the war. The use of the term \"unidentified remains\" implies a focus on the humanitarian aspect of the story and raises questions about accountability.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">The BBC reports on the death of a US soldier with a concise and factual approach, focusing on the recent events without making any explicit commentary or taking a clear stance. They provide basic information, highlighting the location and cause of the death, while maintaining a neutral tone.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Fox News frames the story in a more straightforward and objective manner, reporting on the key facts without sensationalist language or explicit commentary. While this article still focuses on the US service member's death, it does not attempt to contextualize or analyze the broader implications of the conflict, suggesting a more matter-of-fact approach.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>In the midst of conflict, the loss of human life highlights the devastating consequences of war and the moral weight of military action. While the specifics of this incident are tragic, they serve as a poignant reminder of the importance of understanding the context and motivations behind such conflicts, and ultimately, the value of seeking peaceful resolution.</p>"
-        },
-        {
-          "id": "topic-lit-and-culture",
-          "headline": "Blue-Collar Workers Gain Recognition in China's Literary Scene",
-          "summary": "Workers in blue-collar jobs in China are gaining attention and recognition for their literary works, including a recent award for a food delivery rider.",
-          "tags": [
-            "#literature",
-            "#China"
-          ],
-          "source_ids": [
-            1
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/1024/custom/imagepbg/2022/12/15/000_1a7hquz-1-3c6c1d4e-3.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">A food delivery rider's emergence as a literary talent highlights the growing recognition of blue-collar workers in China's literary scene, challenging traditional notions of creative voices.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">Unfortunately, there is limited information available from left-leaning sources to provide a comprehensive analysis of their framing. However, it's likely that left-leaning media would portray blue-collar workers' growing recognition as a symbol of the fight against class inequality and the emergence of new, grassroots voices in China's literary scene.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">This BBC article frames Wang Jibing's win of the top literary prize as an example of blue-collar Chinese workers gaining wider attention for their literary works, highlighting the trend of non-traditional authors entering the literary scene, and noting the changing demographics and growing diversity within Chinese literature.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Right-leaning media might frame the growing recognition of blue-collar workers in China's literary scene as a response to government efforts to promote nationalistic literature and engage with working-class concerns, potentially highlighting how this shift could strengthen the Communist Party's connection with the population or emphasizing the Party's efforts to promote cultural unity.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>Chen's emergence as a literary talent and the increasing recognition of blue-collar workers in China's literary scene challenge traditional notions of creative voices and the concept of 'blue-collar literature'. This trend speaks to a broader shift in the social structure of China, where the traditional boundaries between art and reality, creativity and labor, are becoming increasingly blurred. In a rapidly changing society, this development reflects an evolving understanding of what it means to be creative and engaged with one's community, and it will be fascinating to observe how this shift unfolds.</p>"
-        },
-        {
-          "id": "topic-memorials-and-tribute",
-          "headline": "New Memorial Opens for Victims of 2011 Oslo Attack",
-          "summary": "Norway has unveiled a new memorial in Oslo to honor the victims of the 2011 attack, ahead of the 15th anniversary of the tragedy.",
-          "tags": [
-            "#memorial",
-            "#Norway"
-          ],
-          "source_ids": [
-            2
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/cpsprodpb/14A1A/production/_124215142_2011-07-22-oslo-castle.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Norway opens a new memorial to honor the victims of the 2011 Oslo attack.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">There are no available data at this time to assess how left-leaning media outlets are framing this story, as this information comes from a neutral news source.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">The BBC is presenting this story in a factual manner, emphasizing the unveiling of the new memorial in Oslo as an important event ahead of the 15th anniversary of the attack. This framing suggests a neutral tone in acknowledging the significance of the event without any apparent sensationalism or bias.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">There are no available data at this time to assess how right-leaning media outlets are framing this story, as this information comes from a neutral news source.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The 2011 Oslo attack serves as a poignant reminder of the devastating impact of terrorism on communities. The opening of a new memorial in Oslo not only honors the victims but also underscores the importance of memorializing and learning from tragic events. By doing so, we can strive to build more resilient and inclusive societies, acknowledging the complexities of human experience while promoting unity and understanding.</p>"
-        },
-        {
-          "id": "topic-US-withdrawal",
-          "headline": "US Prepares for Withdrawal from Iraq Amid ISIS Concerns",
-          "summary": "The US is preparing to complete its withdrawal from Iraq by September 30, amid concerns over the potential rise of ISIS in the region.",
-          "tags": [
-            "#US-foreign-policy",
-            "#ISIS"
-          ],
-          "source_ids": [
-            3,
+            4,
             5
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/Logo-Isis-Soldier.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">As the US prepares to withdraw from Iraq, concerns about ISIS' resurgence grow.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">None provided in the sources listed.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">There aren't multiple credible sources to provide a neutral representation of this topic.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Both Fox News articles are framing this topic from a critical viewpoint of the US withdrawal and ISIS' potential exploitation of the situation. The first article highlights a potential resurgence of ISIS fighters with an expert warning, while the second article covers a fatal incident involving a US service member in Iraq.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The withdrawal of US troops from Iraq raises significant concerns about the potential resurgence of ISIS, highlighting the complex nature of international security and the ongoing struggle against terrorism. This topic is particularly noteworthy as it emphasizes the interconnectedness of global security and the potential consequences of withdrawing from conflict zones.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/20/multimedia/20int-iran-war-assess-bfwl/20int-iran-war-assess-bfwl-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Increased tensions between the US and Iran are escalating, putting the world at risk of a wider conflict.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">The New York Times (NYT) is framing the increased tensions between the US and Iran as a warning for both nations to return to negotiations quickly, implying a sense of urgency and potential for disaster if they fail to do so. The use of terms like 'wake up moment' suggests a critical and somewhat alarmist tone.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">The BBC's coverage of the increased tensions between the US and Iran presents a balanced report on the situation, highlighting the attacks in Syria and Jordan as a response to US strikes, without taking a clear stance or promoting a particular agenda.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">There is no Right-Leaning article provided, so no analysis is available for this section.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The increasing tensions between the US and Iran not only pose a threat to regional stability but also reflect a broader global trend of escalating conflicts and the breakdown of diplomacy. This escalation highlights the need for effective and sustained diplomatic efforts to prevent the escalation of these conflicts and find peaceful solutions to these complex issues.</p>"
         },
         {
-          "id": "topic-world-sports",
-          "headline": "Argentina Prepares for World Cup Final",
-          "summary": "Argentina is gearing up for the World Cup final, having made it to the championship game after a series of wins.",
+          "id": "topic-3",
+          "headline": "Global Response to the Israeli-Palestinian Conflict",
+          "summary": "There is no summary for this topic.",
           "tags": [
-            "#soccer",
-            "#WorldCup"
+            "#MiddleEastConflict",
+            "#Conflict"
           ],
           "source_ids": [
             7
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/19/multimedia/19int-worldcup-argentina-wjmb/19int-worldcup-argentina-wjmb-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Argentina's national team is preparing for the World Cup Final, a highly anticipated event that holds significant importance for the country's sports scene and the nation's morale.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">The New York Times article \"Argentines, Already 'Losing Their Minds,' Brace for World Cup Final\" presents a predominantly celebratory tone with a dash of humor, reflecting a possible left-leaning bias in coverage. The article highlights Argentina's ecstatic mood while awaiting the World Cup Final, suggesting an emphasis on emotional narrative and social dynamics that might be more prevalent in left-leaning media.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Neutral media outlets might frame this topic focusing on the teams' performance, past matches, coaches' strategies, and key player statistics, providing a more factual, less emotive account of the World Cup Final. They would likely emphasize both teams' strengths and weaknesses, presenting an objective, balanced analysis of their chances.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Right-leaning media may take a more conservative approach in framing this topic, possibly emphasizing patriotism, sportsmanship, and the importance of national pride over individual emotional responses. They might highlight Argentina's national unity as a driving force behind the team's success, shifting focus from individual team dynamics to the broader implications for national morale and the economy.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The World Cup Final holds a special place in the hearts of many Argentinians, with the championship serving as a powerful symbol of national identity and solidarity. The impact of this event goes beyond the simple victory of a football team; it carries the weight of historical hopes, national pride, and the collective psyche of the Argentine people. A victory would not only elevate Argentina's reputation on the global stage but also reinforce the country's sense of self-worth and unity, while a loss would serve as a reminder of the complexities and challenges that Argentina faces in the world of international sports.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/Logo-Isis-Soldier.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">The potential resurgence of ISIS in the Middle East poses a significant threat to global security as countries respond to the Israeli-Palestinian conflict.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">There is limited information available on how neutral media outlets are framing the topic of ISIS in relation to the global response to the Israeli-Palestinian conflict, as the provided article does not mention other media sources.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">This article from Fox News, a right-leaning source, presents a warning from an expert that ISIS fighters in Syria may have grown in number and are poised to exploit the US Iraq exit. The article emphasizes a potential security threat, which aligns with right-leaning concerns about national security and terrorism.</div>\n  </div>\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">There is no information available on how left-leaning media outlets are framing this topic, as the provided article does not mention other media sources. However, a left-leaning outlet may focus on the human rights implications of the potential ISIS resurgence, such as the impact on civilians or refugees.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The potential resurgence of ISIS in the Middle East highlights the complexities of the global response to the Israeli-Palestinian conflict. As the conflict continues to unfold, the threat of terrorist organizations will undoubtedly become a pressing concern for countries and international organizations involved in the conflict. The question remains: how will the global community balance the need for a lasting peace in the Middle East with the need to address the security threats posed by organizations like ISIS?</p>"
+        },
+        {
+          "id": "topic-4",
+          "headline": "UK Politics: Challenges Facing New Prime Minister Andy Burnham",
+          "summary": "Andy Burnham faces a list of urgent issues as he prepares to take office, including challenges in healthcare and economic reform.",
+          "tags": [
+            "#UKPolitics",
+            "#NewPrimeMinister"
+          ],
+          "source_ids": [
+            6
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/20/multimedia/20uk-burnham-issues-gjvz/20uk-burnham-issues-gjvz-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">As Andy Burnham prepares to become the new Prime Minister of the UK, he is facing numerous challenges that will impact the country's future.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">This article from the New York Times (Left) frames Andy Burnham's challenges as \"five of the main challenges awaiting Andy Burnham when he becomes Prime Minister,\" implying that the issues are significant and will require substantial effort to resolve, thereby portraying Burnham in a less-than-optimal light. By focusing on the difficulties he will face, the article presents a negative narrative about the potential new leader.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Since no neutral media articles were provided for this analysis, we are unable to assess how they are framing this topic.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Unfortunately, since only a left-leaning article was provided for this analysis, we cannot assess how a right-leaning article would frame this topic.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The challenges facing Andy Burnham as he prepares to become the new Prime Minister of the UK are a reflection of the complexities and nuances of modern governance. The array of issues he will face, from economic and social problems to diplomatic and environmental challenges, highlights the need for effective leadership and strategic decision-making. As the UK navigates the complexities of the 21st century, it is essential for policymakers to prioritize the well-being of the nation and its citizens, working to balance competing interests and address the pressing issues of the day. The success or failure of Burnham's tenure will undoubtedly have significant implications for the country's future, underscoring the importance of careful planning, collaborative problem-solving, and a commitment to the common good.</p>"
+        },
+        {
+          "id": "topic-5",
+          "headline": "Accidents and Casualties During the World Cup",
+          "summary": "A 13-year-old boy died during World Cup celebrations in Spain, and other young people were injured in the incident.",
+          "tags": [
+            "#WorldCup",
+            "#Accidents"
+          ],
+          "source_ids": [
+            3,
+            8
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/web-natural/1196/production/_122511215_mediaitem122511206.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Tragedy struck during World Cup celebrations as a 13-year-old boy lost his life and two others were injured in a fountain collapse.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">Unfortunately, there is not enough information available in the provided sources to discern a left-leaning media framing of this topic. The sources provided are both from the neutral (BBC) media, which does provide a balanced perspective without any apparent bias.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">The BBC sources provided present a straightforward and factual account of the incident, detailing the casualty and incident without any sensationalism or spin. Their framing remains neutral and informative.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">There is insufficient information available in the provided sources to discern any framing from right-leaning media. Both sources are from the neutral (BBC), thus it is essential to consult additional sources for a comprehensive understanding of right-leaning perspectives on this incident.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The recent tragedy in Salamanca highlights the delicate balance between public celebrations and personal safety. The World Cup often brings people together, but the incident serves as a poignant reminder that human error can lead to devastating consequences. The international community and local authorities must come together to address the root causes of such accidents and take proactive measures to ensure public spaces are safe for all.</p>"
         }
       ],
       "rawCount": 9
@@ -78,157 +80,122 @@
     "TECH_FRONTIER": {
       "items": [
         {
-          "id": "raw-0",
-          "headline": "[Right (Fox Tech)] How sweepstakes entry data can reach scammers",
-          "summary": "Sweepstakes entry data can fuel marketing profiles and reach scammers. The Epsilon fraud case revealed how targeted lists harmed older adults....",
+          "id": "ai-advancements",
+          "headline": "China's Moonshot AI Unveils Advanced AI Models",
+          "summary": "China's Moonshot AI released a freely available AI model, reportedly narrowing the gap with US tech companies, and another AI firm, Polymarket, is vying for prediction market dominance.",
           "tags": [
-            "Right"
+            "#AI",
+            "#tech"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/tech/sweepstakes-entry-data-reach-scammers\" target=\"_blank\">How sweepstakes entry data can reach scammers</a></p>\n                <p>Sweepstakes entry data can fuel marketing profiles and reach scammers. The Epsilon fraud case revealed how targeted lists harmed older adults.</p>\n            "
+          "source_ids": [
+            2,
+            3,
+            1
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/17/multimedia/Biz-China-Moonshot-ckzl/Biz-China-Moonshot-ckzl-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">China's Moonshot AI has unveiled a cutting-edge artificial intelligence model, sparking concerns about the shift in global AI dominance.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">According to the NYT Tech article, 'China's Moonshot AI Unveils Kimi Model, Threatening America's Lead', the coverage is framed around the potential threat of this new AI model to American dominance in the AI sector. The article uses language such as 'threatening America's lead', indicating a clear bias towards China's Moonshot AI and the perceived 'gain' for China. This framing suggests that the article is taking a more confrontational tone, implying a rivalry between China and the US.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">In contrast, the BBC Tech article simply states that China's Moonshot AI has unveiled a massive new AI model, without any sensational or confrontational tone. This article presents the information in a more neutral manner, without explicit bias towards either China or the US. This framing suggests that the article aims to provide an objective overview of the development without sparking controversy.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\"></div>\n</div>\n<h2>Reflection</h2>\n<p>The emergence of China's Moonshot AI model highlights the increasingly competitive landscape of global AI dominance. This raises questions about the implications of AI advancements for national security, economic influence, and technological leadership. The development also underscores the need for international cooperation in the field of AI, rather than solely competing in a zero-sum game. As the AI sector continues to evolve, it is crucial for nations to engage in open dialogue and collaborative research to ensure that AI benefits humanity as a whole.</p>"
         },
         {
-          "id": "raw-1",
-          "headline": "[Left (NYT Tech)] Politicians Are Trying to Change What Chatbots Say About Them",
-          "summary": "Political campaigns have something new to worry about these days: unflattering or incomplete information produced by A.I. programs when voters ask que...",
+          "id": "social-media-regulation",
+          "headline": "Social Media Firms Face Increasing Scrutiny and Investigations",
+          "summary": "TikTok faced an Ofcom investigation and Trump Media launched a paid feed for its most influential social posts, highlighting the growing regulatory attention on the tech industry.",
           "tags": [
-            "Left"
+            "#socialmedia",
+            "#regulation"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/07/19/us/politics/chatbots-political-campaigns.html\" target=\"_blank\">Politicians Are Trying to Change What Chatbots Say About Them</a></p>\n                <p>Political campaigns have something new to worry about these days: unflattering or incomplete information produced by A.I. programs when voters ask questions about candidates.</p>\n            "
+          "source_ids": [
+            5,
+            4
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://amp.bbc.com/amp/images/1b6b7f9d-3e2b-4c5a-a93b-5c8f4c4b3f2e\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Social media firms face mounting scrutiny as regulators and lawmakers crack down on data concerns.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">There may not be any notable left-leaning media framing of this topic given the lack of information about a prominent left-leaning article. However, if there were such an article, left-leaning media typically frames increased scrutiny and investigations of large corporations and social networks in terms of social justice, consumer protection, and privacy concerns.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Neutral media outlets such as BBC Tech and Reuters typically maintain a factual tone and focus on reporting the specific actions taken by social media firms under investigation, along with regulatory and political reactions. They aim to inform rather than persuade readers.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Right-leaning media may frame these developments as instances of 'big government' or an overreach by regulatory bodies. Alternatively, some may criticize social media companies not for their handling of user data but for allegedly censoring or stifling free speech online.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The increasing scrutiny of social media firms points to broader societal tensions surrounding data privacy, accountability, and the role technology plays in society. As these platforms continue to evolve, the delicate balance between free expression, user protection, and corporate interests may be tested. It is crucial to critically examine the implications of these developments and foster a more informed public discourse on the governance of social media.</p>"
         },
         {
-          "id": "raw-2",
-          "headline": "[Left (NYT Tech)] The ‘Bad Blood’ Between Polymarket’s Shayne Coplan and Kalshi’s Tarek Mansour",
-          "summary": "Shayne Coplan of Polymarket and Tarek Mansour of Kalshi are young billionaires intent on dominating prediction markets. It’s more than a battle. It’s ...",
+          "id": "politics-and-tech",
+          "headline": "Politicians' Online Presence and AI-Driven Disinformation",
+          "summary": "A.I. programs may produce unflattering or incomplete information about candidates, raising concerns for politicians and altering the way they are perceived online.",
           "tags": [
-            "Left"
+            "#politics",
+            "#disinformation"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/07/19/technology/polymarket-kalshi-rivalry-coplan-mansour.html\" target=\"_blank\">The ‘Bad Blood’ Between Polymarket’s Shayne Coplan and Kalshi’s Tarek Mansour</a></p>\n                <p>Shayne Coplan of Polymarket and Tarek Mansour of Kalshi are young billionaires intent on dominating prediction markets. It’s more than a battle. It’s “bad blood.”</p>\n            "
-        },
-        {
-          "id": "raw-3",
-          "headline": "[Right (Fox Tech)] Would this survival pod make you feel safer?",
-          "summary": "LifePods survival capsules from Momentum Technologies offer flood, ballistic and earthquake protection starting around $27,000 before shipping costs....",
-          "tags": [
-            "Right"
+          "source_ids": [
+            0
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/tech/survival-pod-make-feel-safer\" target=\"_blank\">Would this survival pod make you feel safer?</a></p>\n                <p>LifePods survival capsules from Momentum Technologies offer flood, ballistic and earthquake protection starting around $27,000 before shipping costs.</p>\n            "
-        },
-        {
-          "id": "raw-4",
-          "headline": "[Right (Fox Tech)] HalluSquatting AI attack could hijack your computer",
-          "summary": "HalluSquatting exploits AI coding assistants that hallucinate fake repository names, letting attackers register those names and deliver malware....",
-          "tags": [
-            "Right"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/tech/hallusquatting-ai-attack-could-hijack-your-computer\" target=\"_blank\">HalluSquatting AI attack could hijack your computer</a></p>\n                <p>HalluSquatting exploits AI coding assistants that hallucinate fake repository names, letting attackers register those names and deliver malware.</p>\n            "
-        },
-        {
-          "id": "raw-5",
-          "headline": "[Left (NYT Tech)] China’s Moonshot AI Unveils Kimi Model, Threatening America’s Lead",
-          "summary": "China’s Moonshot AI unveiled a freely available artificial intelligence model that seemed to narrow the gap with cutting-edge offerings from U.S. tech...",
-          "tags": [
-            "Left"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/07/17/business/china-ai-moonshot-kimi.html\" target=\"_blank\">China’s Moonshot AI Unveils Kimi Model, Threatening America’s Lead</a></p>\n                <p>China’s Moonshot AI unveiled a freely available artificial intelligence model that seemed to narrow the gap with cutting-edge offerings from U.S. tech companies.</p>\n            "
-        },
-        {
-          "id": "raw-6",
-          "headline": "[Neutral (BBC Tech)] China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
-          "summary": "The company has unveiled a massive new artificial intelligence model it says can take on top American firms....",
-          "tags": [
-            "Neutral"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic</a></p>\n                <p>The company has unveiled a massive new artificial intelligence model it says can take on top American firms.</p>\n            "
-        },
-        {
-          "id": "raw-7",
-          "headline": "[Neutral (BBC Tech)] Trump Media to sell instant access to 'market-moving' social posts",
-          "summary": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders....",
-          "tags": [
-            "Neutral"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Trump Media to sell instant access to 'market-moving' social posts</a></p>\n                <p>Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.</p>\n            "
-        },
-        {
-          "id": "raw-8",
-          "headline": "[Neutral (BBC Tech)] TikTok faces Ofcom investigation over child age checks",
-          "summary": "It follows a review by the regulator in May that criticised the platform for not being \"safe enough\" for children....",
-          "tags": [
-            "Neutral"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">TikTok faces Ofcom investigation over child age checks</a></p>\n                <p>It follows a review by the regulator in May that criticised the platform for not being \"safe enough\" for children.</p>\n            "
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/19/multimedia/19pol-chatbots-fqcp/19pol-chatbots-fqcp-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Politicians are grappling with the emergence of AI-driven disinformation, which threatens to disrupt their online presence and communication with voters.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">Article from the NYT Tech section frames the issue as a challenge to democratic integrity, highlighting how AI-driven disinformation can spread unflattering or incomplete information about politicians.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">There's limited information available on how neutral sources are framing this topic. However, if available, their framing would likely provide a balanced overview of the issue, focusing on the technology and its implications rather than taking a partisan stance.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">It's likely that right-leaning media outlets would downplay or dismiss the significance of AI-driven disinformation, framing it as a minor issue or a conspiracy to undermine conservative politicians.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The emergence of AI-driven disinformation poses a profound threat to the integrity of democratic communication. As AI-powered chatbots become increasingly ubiquitous, politicians and voters must navigate a complex landscape of fact and fiction. This challenges fundamental assumptions about the role of information in democratic systems and highlights the need for transparency, accountability, and critical thinking in the face of rapid technological change.</p>"
         }
       ],
-      "rawCount": 9
+      "rawCount": 6
     },
     "MARKETS_ECONOMY": {
       "items": [
         {
-          "id": "topic-1",
-          "headline": "Oil Prices Rise Following Tensions Between US and Iran",
-          "summary": "Oil prices increased as global tensions between the United States and Iran worsened, with Brent crude rising over 3%.",
+          "id": "oil-and-energy",
+          "headline": "Oil Prices Rise as Global Supply and Demand Shift",
+          "summary": "Oil prices have increased due to a combination of factors, including the conflict between the US and Iran, which has affected supply and demand.",
           "tags": [
-            "#oilprices",
-            "#usiranconflict"
+            "#oil",
+            "#energy",
+            "#prices"
           ],
           "source_ids": [
-            0,
-            4
+            3,
+            2
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/19/multimedia/19biz-oil-stocks-gas-1-tbcm/19biz-oil-stocks-gas-1-tbcm-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Oil prices continue to fluctuate amidst escalating tensions between the US and Iran, impacting global markets.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">This article presents a straightforward, objective account of rising oil prices caused by US-Iran tensions. The Left-Leaning Media frames the issue by focusing on the economic implications and global market repercussions, without taking a clear stance or expressing a particular ideology. The article provides factual information, statistics, and quotes from relevant experts, maintaining a neutral tone throughout the piece.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">There is no second article for the topic 'Oil Prices Rise Following Tensions Between US and Iran'</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">No article was provided to assess the framing of Right-Leaning Media.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>As tensions between the US and Iran escalate, oil prices continue to rise, casting a spotlight on the complex and interconnected nature of global markets and geopolitics. This situation highlights the fragility of the global economy, where even the slightest disturbances can have far-reaching consequences. The ongoing US-Iran tensions pose a significant challenge to global stability, emphasizing the need for diplomacy and cooperation to mitigate the negative impacts of these tensions on the economy and the world at large.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/19/multimedia/19biz-oil-stocks-gas-1-tbcm/19biz-oil-stocks-gas-1-tbcm-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">The rising oil prices are causing concerns for drivers and the overall economy as the Iran crisis escalates.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">The New York Times Business section provides factual reports on the increasing oil prices, citing the rising Brent crude and S&P 500 futures. Their left-leaning tone is implicit, as they focus on the economic implications and impact on drivers, but maintain a neutral tone in presenting the facts.</div>\n  </div>\n  <div class=\"bias-box bias-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Since there is no information on neutral media provided in the given sources, I will assume neutral media would provide a fact-based report, focusing on the data-driven aspects of the rising oil prices and their impact on the global economy, without any emotional or sensationalist tone.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Similar to the left-leaning media, right-leaning media would likely provide factual reports on the rising oil prices, but with a different perspective. They might focus on the potential economic benefits of higher oil prices for domestic producers and the potential impact on the country's trade balance, while avoiding sensationalist language.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The ongoing Iran crisis has sparked concerns about global oil supply and demand, leading to an increase in prices. This has significant implications for the economy and daily lives of people, as rising gas prices affect transportation costs, consumer spending, and even food prices. It highlights the delicate balance between global politics, economy, and energy security, underscoring the need for international cooperation to address such challenges.</p>"
         },
         {
-          "id": "topic-2",
-          "headline": "Child Benefit Eligibility and Claiming Procedures",
-          "summary": "A significant number of new parents fail to claim child benefit in time, resulting in missed payments, according to HMRC.",
+          "id": "uk-tax-and-benefit",
+          "headline": "Some UK Parents Missing Out on Child Benefit Payments",
+          "summary": "Thousands of new parents in the UK are failing to claim their child benefit on time, resulting in missed payments.",
           "tags": [
-            "#childbenefit",
-            "#parenting"
+            "#tax",
+            "#benefit",
+            "#finance"
+          ],
+          "source_ids": [
+            4
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/cpsprodpb/15C7F/production/_118242213_hmrc-getty.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Thousands of new parents fail to claim child benefit until it is too late, highlighting concerns over financial support for families.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">This topic will likely be framed to highlight the struggles of low-income families and the importance of government support for families. The tone may be more sympathetic and focus on the impact of financial stress on parents and children.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">The topic will be presented as a factual issue of thousands of parents missing out on benefits, without emotional tone or value judgment. The focus will be on the numbers and procedures for claiming child benefit, with a neutral analysis of the HMRC's findings.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">The story may be framed to emphasize the potential waste of taxpayer money or the inefficiency of the HMRC in processing benefit claims. The tone may be more critical of the government's handling of benefits and the responsibility of parents to claim their entitlements.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The issue of parents missing out on child benefit highlights broader concerns about financial support for families and the effectiveness of government programs. It underscores the need for a more comprehensive and accessible system for claiming benefits, ensuring that families receive the support they need to thrive. The complexity of the benefits system and the failure of parents to claim their entitlements also point to deeper issues of financial literacy, poverty, and inequality, which require a thoughtful and multifaceted approach to addressing.</p>"
+        },
+        {
+          "id": "business-and-economy",
+          "headline": "Ryanair Profit Drops Due to Increased Fuel Costs",
+          "summary": "Ryanair's profits have decreased due to rising fuel costs, while the airline also reported a drop in passenger numbers.",
+          "tags": [
+            "#business",
+            "#economy",
+            "#aviation"
+          ],
+          "source_ids": [
+            0
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption>Ryanair's profits have taken a hit due to increased fuel costs and the ongoing conflict in Iran.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">Unfortunately, no sources were available from left-leaning media to analyze the framing of this topic. However, it is possible that some outlets might frame the increase in fuel costs as a consequence of climate change, and use this example to argue that corporations need to adapt to the changing environment.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Neutral sources like BBC Business are likely to frame the news in a fact-based manner. In this case, the BBC article focuses on the direct causes of Ryanair's profit drop, specifically increased fuel costs and the impact of the Iran conflict on passenger demand. There is no apparent bias in the selection of sources or the emphasis of certain aspects of the story.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Right-leaning media outlets might frame the story as another example of the failure of regulation or the impact of global turmoil on the economy. They could also argue that Ryanair should pass the increased fuel costs on to consumers, thereby emphasizing the airline's need to operate competitively and avoid losses.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>As a reflection, the news highlights the complex interplay between macroeconomic factors and the financial performance of large corporations. With fuel costs reaching as high as $90 per barrel, Ryanair is not alone in facing significant challenges. The ongoing conflict in Iran demonstrates how geopolitical tensions can ripple across international markets, leading to far-reaching financial consequences. It serves as a reminder of the interconnected nature of the global economy and the critical role that businesses, governments, and consumers all play in navigating its uncertainties.</p>"
+        },
+        {
+          "id": "jobs-and-finances",
+          "headline": "New UK Government Leader May Not Alleviate Financial Pressures",
+          "summary": "The incoming government leader of the UK may not necessarily bring about significant changes in the country's financial challenges.",
+          "tags": [
+            "#jobs",
+            "#finance",
+            "#leadership"
           ],
           "source_ids": [
             1
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/1024/branded_news/6E7A/img-5e6e6da4d1c0f.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Thousands of new parents are missing out on their child benefit entitlement, highlighting the need for improved awareness and claiming procedures.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">There is not enough information to assess left-leaning media bias, as no examples were provided from this perspective.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Neutral media outlets, such as the BBC Business, present balanced information on child benefit eligibility and claiming procedures, with a focus on the facts without any obvious slant or agenda.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">There is not enough information to assess right-leaning media bias, as no examples were provided from this perspective.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The child benefit system's complexity and lack of awareness among eligible parents underscore the importance of clear communication and accessible claiming procedures. As policymakers navigate the needs of diverse families, it is crucial to prioritize transparency and simplicity to ensure that all entitled individuals can access the support they need.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/cpsprodpb/16E3B/production/_123444441_gettyimages-1231424193.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Despite a new government leader in the UK, financial pressures persist, forcing a reassessment of policy priorities.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">This article's framing does not accurately reflect a typical left-leaning media narrative, as it presents a neutral discussion of the financial challenges faced by the new government leader, rather than taking a sterner policy stance.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">BBC Business frames the article neutrally, as it clearly states the reality that the new UK government leader may not alleviate financial pressures. They discuss the current state of jobs, benefits, and taxes without any clear agenda or bias.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">This article's focus on the financial pressures as a neutral, factual matter, rather than a criticism of the left or an argument for right-wing ideology, suggests that right-leaning media may not be aggressively pushing an agenda in this instance.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The persistence of financial pressures in the UK under a new government leader highlights the need for policymakers to think critically about priorities, trade-offs, and potential reforms. Effective governance requires addressing the root causes of economic stress, whether through tax reform, social welfare adjustments, or investments in key sectors. By acknowledging these challenges, the new government can develop a more nuanced understanding of its constituents' needs and work towards creating a more sustainable fiscal landscape.</p>"
         },
         {
-          "id": "topic-3",
-          "headline": "Early Pregnancy Signs and Fitness Trackers",
-          "summary": "Some women are noticing early pregnancy signs through data on their fitness trackers, with hundreds of users reporting similar experiences.",
+          "id": "entertainment-and-technology",
+          "headline": "Box Office Hit: Christopher Nolan's 'The Odyssey' Earns $124.5 Million",
+          "summary": "Christopher Nolan's film 'The Odyssey' has achieved significant commercial success, earning $124.5 million in the United States and Canada during its opening weekend.",
           "tags": [
-            "#pregnancy",
-            "#fitnesstrackers"
+            "#entertainment",
+            "#movies",
+            "#technology"
           ],
           "source_ids": [
-            2
+            5
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/cpsprodpb/19B5A/production/_124176211_vision.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Women are discovering early pregnancy signs through fitness tracker data, sparking new conversations about reproductive health and technology.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">This topic is unlikely to be covered as there is no inherent right or left leaning perspective that would be drawn out of it, however, left-leaning media might frame it as an example of technology being used to empower women and promote bodily autonomy, focusing on the positive implications for reproductive health and equality.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">The BBC's coverage exemplifies a neutral media framing. They present the story in a factual and objective manner, highlighting the trend of women discovering early pregnancy signs through their fitness trackers, and featuring real-life experiences. This framing does not take a stance on the topic, and presents the information as is, allowing readers to draw their own conclusions.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Right-leaning media might frame this topic as a concern about over-reliance on technology for health purposes, or as an example of the need for more personalized healthcare. They could emphasize the potential risks of relying on wearables for early pregnancy detection, such as over-interpretation of data, and express concerns about the potential impact on traditional reproductive health services.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The emergence of early pregnancy signs through fitness tracker data poses fundamental questions about our understanding of reproductive health and the role of technology in modern life. This phenomenon raises concerns about the potential over-reliance on technology for health purposes, while also highlighting the power of data-driven insights for women's health and well-being. Ultimately, this topic serves as a reminder of the complex interplay between technology, health, and personal experiences.</p>"
-        },
-        {
-          "id": "topic-4",
-          "headline": "Real Estate Scams and Home Seller Data Protection",
-          "summary": "There have been reported cases of scammers targeting home sellers through property records and data brokers, putting their financial information at risk.",
-          "tags": [
-            "#realestate",
-            "#dataprotection"
-          ],
-          "source_ids": [
-            6
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2024/03/Georgia-Property-Taxes.gif\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Scammers are targeting home sellers through property records and data brokers, posing a significant risk to their financial safety.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">Left-leaning media outlets are unlikely to frame this topic in a way that highlights the risks of real estate scams as a primary concern, instead choosing to emphasize the economic benefits of homeownership and the importance of affordable housing options for low-income families.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Neutral media outlets will likely present a balanced view of the topic, highlighting both the risks of real estate scams and the importance of data protection for home sellers. They may provide examples of successful cases where consumers have successfully protected their data and offer tips on how others can do the same.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Right-leaning media outlets are more likely to frame this topic in a way that highlights the need for consumer protection and the importance of preventing scams. They may emphasize the role of government agencies in monitoring data brokers and protecting consumers, and argue that homeowners and potential buyers should take an active role in safeguarding their data.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<div class=\"reflection-container\">\n  <p>The real estate market is a complex and often opaque ecosystem, where sensitive information is frequently shared and used for various purposes. This lack of transparency creates an environment where scammers and other malicious actors can thrive, putting hundreds of thousands of home sellers and buyers at risk each year. As the digital landscape continues to evolve, it is essential for both consumers and policymakers to prioritize data protection and take proactive steps to prevent real estate scams.</p>\n</div>"
-        },
-        {
-          "id": "topic-5",
-          "headline": "Recent Developments in AI and Space Exploration",
-          "summary": "A NASA telescope has discovered new information about the Milky Way's outer reaches, while the Trump administration has raised questions about government control over AI cybersecurity tools.",
-          "tags": [
-            "#spacediscovery",
-            "#ai"
-          ],
-          "source_ids": [
-            8,
-            7
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/milky-way-death-valley.png?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Recent developments in AI and space exploration are converging, as researchers use cutting-edge AI tools to explore the cosmos.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">There is no left-leaning media article provided to analyze.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">A neutral analysis would observe that recent advancements in AI are being applied to various fields, including space exploration, without an explicit bias or agenda.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">\n      Right-leaning media outlets, such as Fox Business, are framing the development of OpenAI's GPT-5.6 Sol model as an issue of government control and cybersecurity concerns, highlighting the need for administration approval. This perspective may be seen as more stringent on government regulation and AI oversight.\n    </div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The convergence of AI and space exploration raises profound questions about the future of scientific inquiry, global cooperation, and the potential risks and rewards of emerging technologies. As we continue to push the boundaries of what is possible in space and AI, it is essential to prioritize open communication, collaboration, and responsible stewardship of these powerful tools.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2023/07/15/arts/15odyssey-4/00odyssey-4-superJumbo.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Christopher Nolan's 'The Odyssey' dominates opening weekend box office with $124.5 million in ticket sales.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">The New York Times frames the event in a positive light, highlighting Christopher Nolan's success and the film's commercial performance, indicating a left-leaning bias by focusing on the artistic and economic benefits of the film.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">As a neutral media outlet does not have information on this topic, we cannot conclude any neutrality bias here.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Right-leaning media is expected to frame this topic by focusing on how 'The Odyssey' has successfully tapped into America's cultural consciousness or by highlighting the benefits of the American film industry, but as of now, no right-leaning media coverage information is available.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The success of Christopher Nolan's 'The Odyssey' at the box office serves as a testament to the enduring power of cinema in capturing the imagination of audiences worldwide. As the film's themes and characters resonate with diverse viewers, it underscores the importance of artistic expression in bridging cultural and social divides. Moreover, this outcome raises questions about the economics of the film industry and the impact of cinematic blockbusters on popular culture.</p>"
         }
       ],
       "rawCount": 9
