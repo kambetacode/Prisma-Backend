@@ -1,89 +1,80 @@
 {
-  "last_updated": "2026-07-22T02:36:42.753Z",
+  "last_updated": "2026-07-22T06:27:14.223Z",
   "language": "en",
   "categories": {
     "GLOBAL_MACRO": {
       "items": [
         {
-          "id": "raw-0",
-          "headline": "[Right (Fox)] Canada reportedly scraps joint bridge celebration with US after Trump renews tariff threat",
-          "summary": "Canada canceled a joint celebration for the Gordie Howe International Bridge, connecting Detroit to Windsor, Ontario, after President Donald Trump ren...",
+          "id": "Ukraine-Politics",
+          "headline": "Ukraine's President Dismisses Top Army Commander",
+          "summary": "Ukraine's President Volodymyr Zelensky has dismissed the country's top army commander, Oleksandr Syrskyi, following days of protests amid controversy over the removal of Defense Minister Mykhailo Fedorov.",
           "tags": [
-            "Right"
+            "#Ukraine",
+            "#Military",
+            "#Politics"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/world/canada-reportedly-scraps-joint-bridge-celebration-us-trump-renews-tariff-threat\" target=\"_blank\">Canada reportedly scraps joint bridge celebration with US after Trump renews tariff threat</a></p>\n                <p>Canada canceled a joint celebration for the Gordie Howe International Bridge, connecting Detroit to Windsor, Ontario, after President Donald Trump renewed tariff threats.</p>\n            "
+          "source_ids": [
+            0,
+            5
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/19/multimedia/00int-ukraine-syrskyi-HFO-wmpf/00int-ukraine-syrskyi-HFO-wmpf-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Ukraine's President Volodymyr Zelensky dismisses his top army commander amid public backlash over the removal of a popular Defense Minister.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">The New York Times frames this event as a power struggle between President Zelensky and the popular Defense Minister Mykhailo Fedorov, with the implication that Zelensky's move is a concession to the military's demands, highlighting the clash between military tactics and presidential authority.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">The BBC neutrally reports on the dismissal, stating that it followed backlash over the removal of the popular Defense Minister, without implying any motive or power struggle, focusing on the facts of the event.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">No information available for right-leaning media.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>This event reflects the complexities of modern military leadership, where commanders are held to high standards and their decisions are scrutinized by the public. The dismissal of Oleksandr Syrskyi and Mykhailo Fedorov's removal highlights the need for effective communication and strategic planning in wartime, where miscalculations can have far-reaching consequences. As President Zelensky navigates these challenges, he must balance the interests of his people, his military, and his own authority.</p>"
         },
         {
-          "id": "raw-1",
-          "headline": "[Neutral (BBC)] Zelensky sacks Ukraine's top army commander after days of protests",
-          "summary": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov....",
+          "id": "Social-Media-Rules",
+          "headline": "France Introduces New Age Verification Requirements for Social Media",
+          "summary": "France has passed a law requiring social media platforms to verify the age of all users under 15 within the country, starting from January.",
           "tags": [
-            "Neutral"
+            "#France",
+            "#SocialMedia",
+            "#Regulation"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Zelensky sacks Ukraine's top army commander after days of protests</a></p>\n                <p>Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.</p>\n            "
+          "source_ids": [
+            2
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/cpsprodpb/16B2B/production/_124133111_gettyimages-1234569.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">France introduces a new law requiring social media platforms to verify the age of all users.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">No available articles in the selected source for left-leaning media to analyze.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">The BBC article presents a neutral tone by simply stating the facts of the new law. It does not contain emotive language or bias. It is a straightforward report informing readers about the new development in France.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">No available articles in the selected source for right-leaning media to analyze.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The introduction of age verification requirements for social media platforms raises important questions about the impact of online interactions on young people's mental health and social development. By setting a minimum age limit of 15, France is attempting to strike a balance between giving teenagers the freedom to express themselves online while protecting them from potential online harm. This development may lead to other countries following suit, sparking a global conversation about the role of social media in shaping our society.</p>"
         },
         {
-          "id": "raw-2",
-          "headline": "[Left (NYT)] Zelensky Dismisses Ukraine’s Top General After Protests",
-          "summary": "The move followed the firing of a popular defense minister, who had clashed with the general over how to fight the war....",
+          "id": "International-Relations",
+          "headline": "Tensions Escalate Between the US and Iran",
+          "summary": "The US has launched additional strikes on Iran, amid a renewed threat from President Trump to attack an underground nuclear site, marking the 11th consecutive night of attacks.",
           "tags": [
-            "Left"
+            "#US",
+            "#Iran",
+            "#Conflict"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/07/21/world/europe/ukraine-syrskyi-russia-war-fedorov-zelensky-protest.html\" target=\"_blank\">Zelensky Dismisses Ukraine’s Top General After Protests</a></p>\n                <p>The move followed the firing of a popular defense minister, who had clashed with the general over how to fight the war.</p>\n            "
+          "source_ids": [
+            3
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/1024/branded_news/1200/migration-20210223-1024.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption>Tensions escalate between the US and Iran as President Trump threatens to attack an Iranian nuclear site.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">Left-leaning media sources may frame the US strikes on Iran as an irresponsible escalation of tensions, highlighting concerns about civilian casualties and the devastating humanitarian impact. They might emphasize the Iranian narrative, suggesting that the US is destabilizing the region and disregarding international law.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Neutral media outlets, like the BBC, tend to focus on factual reporting, providing an objective overview of the situation. They may highlight key events, quotes from officials, and expert analysis, without taking a clear stance or promoting a specific agenda.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Right-leaning media sources may portray the US strikes on Iran as a necessary measure to protect national interests and security. They might emphasize the importance of countering Iranian aggression, highlighting the threat of Iranian nuclear proliferation and the need for the US to take decisive action.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The escalating tensions between the US and Iran raise pressing questions about the role of military action in international relations and the long-term consequences for regional stability. The conflict serves as a stark reminder of the devastating potential of war and the need for diplomatic solutions to address complex global challenges. As the situation continues to unfold, it is essential to remain vigilant and critically evaluate the information being presented by various media sources to ensure a comprehensive understanding of the complex issues at play.</p>"
         },
         {
-          "id": "raw-3",
-          "headline": "[Right (Fox)] UK's Burnham names Trump critic Ed Miliband foreign secretary; ex-Thatcher aide brands pick 'disastrous'",
-          "summary": "Ed Miliband’s appointment as the United Kingdom's foreign secretary sparks warnings of tension with President Trump over his past attacks, net-zero po...",
+          "id": "Canada-US-Relations",
+          "headline": "Canada Cancels Joint Bridge Celebration with the US",
+          "summary": "Canada has canceled a joint celebration for the Gordie Howe International Bridge, connecting Detroit to Windsor, after President Trump renewed tariff threats.",
           "tags": [
-            "Right"
+            "#Canada",
+            "#US",
+            "#Trade"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/world/uks-burnham-names-trump-critic-ed-miliband-foreign-secretary-ex-thatcher-aide-brands-pick-disastrous\" target=\"_blank\">UK's Burnham names Trump critic Ed Miliband foreign secretary; ex-Thatcher aide brands pick 'disastrous'</a></p>\n                <p>Ed Miliband’s appointment as the United Kingdom's foreign secretary sparks warnings of tension with President Trump over his past attacks, net-zero policies and foreign affairs.</p>\n            "
+          "source_ids": [
+            4
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/gordie-howe-bridge.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Canada and the US were all set to celebrate the completion of the Gordie Howe International Bridge, but now it's on hold.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">No Left-Leaning Media Articles Were Provided</div>\n    <div class=\"bias-content\">This section will be left blank until more information becomes available or can be sourced.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Neutral media sources are likely to focus on the cancellation of the joint celebration as a separate event from the tariff threats. They may attribute the cancellation to both sources citing differing priorities or disagreements on the bridge project and international trade policies, respectively.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Right-leaning media like Fox News frame this event as a direct result of President Trump's renewed tariff threats against Canada. This narrative highlights Canada's perceived reluctance to comply with US trade demands, positioning Canada's move as a potential bargaining chip in ongoing trade negotiations.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The suspension of the joint celebration between Canada and the US highlights the escalating tensions in their trade relationship and how sensitive issues like tariffs can impact even mundane events like bridge openings. This instance underscores the complex dance between economic interests, diplomatic relations, and symbolic gestures. The Gordie Howe International Bridge, initially touted as a symbol of bilateral cooperation between the two nations, now risks becoming a victim of their ongoing trade disagreements.</p>"
         },
         {
-          "id": "raw-4",
-          "headline": "[Neutral (BBC)] Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
-          "summary": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah....",
+          "id": "South-Africa-Immigration",
+          "headline": "South Africa Grapples with Rising Immigration and Xenophobia",
+          "summary": "South Africa is experiencing a surge in immigration, leading to protests and violence against foreign nationals, prompting concerns over the country's approach to immigration and xenophobia.",
           "tags": [
-            "Neutral"
+            "#SouthAfrica",
+            "#Immigration",
+            "#Xenophobia"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal</a></p>\n                <p>A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah.</p>\n            "
-        },
-        {
-          "id": "raw-5",
-          "headline": "[Left (NYT)] Inside the Fight to Rid South Africa of Black Immigrants",
-          "summary": "As immigration surges in the country, activists are going to extreme lengths to expel foreign nationals, often taking the law into their own hands....",
-          "tags": [
-            "Left"
+          "source_ids": [
+            7,
+            8
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/07/21/world/africa/south-africa-migrants.html\" target=\"_blank\">Inside the Fight to Rid South Africa of Black Immigrants</a></p>\n                <p>As immigration surges in the country, activists are going to extreme lengths to expel foreign nationals, often taking the law into their own hands.</p>\n            "
-        },
-        {
-          "id": "raw-6",
-          "headline": "[Left (NYT)] 3 Myths Fueling Anti-Immigrant Sentiment in South Africa",
-          "summary": "As the nation convulses with protests and violence, data and research suggest that some of the biggest arguments against foreigners don’t stand up aga...",
-          "tags": [
-            "Left"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/07/21/world/africa/south-africa-immigration-protests-explainer.html\" target=\"_blank\">3 Myths Fueling Anti-Immigrant Sentiment in South Africa</a></p>\n                <p>As the nation convulses with protests and violence, data and research suggest that some of the biggest arguments against foreigners don’t stand up against the facts.</p>\n            "
-        },
-        {
-          "id": "raw-7",
-          "headline": "[Neutral (BBC)] Carney looking at 'all options' as Trump announces 50% tariffs on Canada",
-          "summary": "The duties mark a major escalation in trade tensions between the North American neighbours....",
-          "tags": [
-            "Neutral"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Carney looking at 'all options' as Trump announces 50% tariffs on Canada</a></p>\n                <p>The duties mark a major escalation in trade tensions between the North American neighbours.</p>\n            "
-        },
-        {
-          "id": "raw-8",
-          "headline": "[Right (Fox)] Nicaragua's Ortega says country will 'never again' hold elections, shutting out opposition",
-          "summary": "Nicaragua's President Daniel Ortega said the country will hold no more elections, eliminating any path for opposition to challenge his rule when his t...",
-          "tags": [
-            "Right"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/world/nicaragua-ortega-ends-elections\" target=\"_blank\">Nicaragua's Ortega says country will 'never again' hold elections, shutting out opposition</a></p>\n                <p>Nicaragua's President Daniel Ortega said the country will hold no more elections, eliminating any path for opposition to challenge his rule when his term ends.</p>\n            "
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/10/multimedia/00int-safrica-xenophobia-promo/00int-safrica-xenophobia-pzbg-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">South Africa is grappling with rising immigration and xenophobia, leading to a surge in protests and violence.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">The New York Times is presenting a narrative that emphasizes the severity of xenophobic violence and the need for law enforcement to act against those perpetuating it. They are using emotional storytelling and anecdotes to convey the gravity of the situation. The article 'Inside the Fight to Rid South Africa of Black Immigrants' focuses on the personal struggles of African migrants and highlights the role of activism in driving anti-immigrant sentiment. The Times is also addressing specific myths through an article titled '3 Myths Fueling Anti-Immigrant Sentiment in South Africa', aiming to correct misconceptions with data-driven research.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Unfortunately, there is no neutral media content available to analyze for this topic.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Right-leaning media outlets would likely present a counter-narrative that emphasizes national security concerns, economic strain caused by immigration, and the need to strengthen border controls. They might argue that the influx of foreign nationals is overwhelming South Africa's resources and exacerbating social tensions. However, without access to specific right-leaning media content, this analysis is speculative.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The rising tide of xenophobia in South Africa underscores the complex and multifaceted nature of immigration. As countries navigate an increasingly interconnected world, policymakers must address the pressing social, economic, and cultural concerns that arise from cross-border migration. The situation in South Africa serves as a poignant reminder that immigration is not merely a numerical or economic issue, but a human experience that demands empathy, understanding, and inclusive policies.</p>"
         }
       ],
       "rawCount": 9
@@ -91,156 +82,154 @@
     "TECH_FRONTIER": {
       "items": [
         {
-          "id": "topic-ai-incident",
-          "headline": "AI Model Tests Triggered Rogue Incident at Hugging Face's Computer Systems",
-          "summary": "OpenAI's AI models accidentally attacked the computer systems of Hugging Face while being tested. The incident highlights the importance of testing and security in AI development.",
+          "id": "topic-artificial-intelligence",
+          "headline": "Meta, OpenAI, and Google Release New A.I. Models and Bump into Challenges",
+          "summary": "Meta and OpenAI have faced issues with their A.I. models, including accidental deletions of user accounts and rogue behavior. Meanwhile, Google has released three new Gemini A.I. models aimed at competing with rivals.",
           "tags": [
-            "#AI",
-            "#Incident"
+            "#ArtificialIntelligence",
+            "#Meta"
+          ],
+          "source_ids": [
+            2,
+            0,
+            1
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/21/multimedia/21biz-openai-security-gwch/21biz-openai-security-gwch-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Recent developments in A.I. have highlighted challenges in harnessing the technology for beneficial uses while minimizing potential risks.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">The New York Times appears to be framing the topic from a left-leaning perspective by focusing on the challenges faced by Meta, OpenAI, and Google as they compete to develop more advanced A.I. models. This emphasis on the social and economic implications of A.I. may appeal to readers on the left who are concerned about issues of fairness, accountability, and transparency in the development and deployment of A.I. technologies.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">This article does not appear to have a clear bias as it presents factual information about recent developments in A.I. without taking a stance or promoting a particular agenda. The text sticks to reporting on the facts of the situation, including incidents involving Meta, OpenAI, and Google, without expressing a value judgment or promoting a particular point of view.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">(No article provided for right-leaning media interpretation)</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The recent incidents involving Meta, OpenAI, and Google highlight the need for greater caution and more effective oversight as we increasingly rely on A.I. technologies to make decisions that impact our lives. The challenges posed by these incidents underscore the importance of addressing issues of accountability, transparency, and fairness in the development and deployment of A.I. systems. As we continue to harness the power of A.I. for beneficial purposes, it is essential that we prioritize the well-being and safety of society, protecting against potential risks and mitigating the consequences of malfunctioning or malicious A.I. systems.</p>"
+        },
+        {
+          "id": "topic-cybersecurity",
+          "headline": "Malware and Cyber Threats Continue to Evolve",
+          "summary": "Recent incidents include the CrashStealer Mac malware, which steals sensitive information, and the RedHook Android malware, which gains shell-level control over victim phones. Such threats highlight the ongoing need for cybersecurity measures.",
+          "tags": [
+            "#Cybersecurity",
+            "#Malware"
+          ],
+          "source_ids": [
+            3,
+            8
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/mac-malware-photo-1.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Cyber threats continue to adapt and evolve, highlighting the need for constant vigilance and innovative solutions to stay ahead of the malicious landscape.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">Note: There are no provided examples of left-leaning media sources in the given articles.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Neutral media likely would frame this topic as a technical issue that requires expertise and attention from cybersecurity professionals, without taking a particular stance or tone.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">The provided right-leaning media sources (Fox Tech) frame this topic as a threat to individual security and financial well-being, using alarming language to convey the potential consequences of malware infections. They highlight specific examples of malicious software and provide visual warnings, emphasizing the importance of personal responsibility in protecting against cyber threats.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The evolution of malware and cyber threats underscores the dynamic nature of the cyber landscape. As cybercriminals continually adapt and innovate, individuals and organizations must also adopt a proactive approach to cybersecurity, prioritizing awareness, education, and robust security measures to stay ahead of the threats and protect sensitive information. This ongoing cat-and-mouse game highlights the importance of ongoing research, development, and collaboration in the cybersecurity field, as well as the need for effective communication and education to empower individuals to make informed decisions about their digital security.</p>"
+        },
+        {
+          "id": "topic-tech-developments",
+          "headline": "New A.I. Models and Inventions Showcase Advancements in Tech",
+          "summary": "Google's release of new Gemini A.I. models is part of a broader tech landscape where researchers are developing innovative solutions, such as a paint-on electronic tattoo that tracks vital signs and detects potential health issues.",
+          "tags": [
+            "#Tech",
+            "#Innovation"
+          ],
+          "source_ids": [
+            2,
+            4
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/21/multimedia/21biz-google-ai-lvhf/21biz-google-ai-lvhf-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Google's latest advancements in AI showcase the rapid growth of the technology, as the company releases three new Gemini models, while researchers also explore innovative applications in healthcare.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">The New York Times Tech article presents a factual overview of Google's AI models, providing details on the company's offerings without a discernible bias. The tone remains informative and neutral.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">This article does not appear in the provided sources, however normally left-leaning media typically frames stories in more neutral terms when reporting technological advancements like AI to emphasize their societal implications and the risks that AI poses.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">The Fox Tech article presents a potential practical application of technology in a medical context, which is a more localized and specific framing of the story rather than focusing on the broader societal implications.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The rapid advancements in AI and technology are forcing us to reevaluate our relationship with innovation and the responsibilities that come with it. As these technologies become increasingly integrated into our daily lives, it's essential to have open discussions about their implications and how we can harness their potential while minimizing the risks.</p>"
+        },
+        {
+          "id": "topic-tech-governance",
+          "headline": "Regulatory and Governance Issues Affect the Tech Industry",
+          "summary": "The U.K. government has reshuffled its department, and an online safety regulator has been unable to take further action against an illegal forum. Meanwhile, thousands of websites were shut down in the U.S. for streaming World Cup content illegally.",
+          "tags": [
+            "#TechRegulation",
+            "#Governance"
+          ],
+          "source_ids": [
+            5,
+            6,
+            7
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/1024/branded_news/8A2D/production/_118667135_shutterstock_1811451772.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">The tech industry is facing increased regulatory scrutiny, with government agencies and bodies taking action against illegal activities and advocating for greater oversight.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">No data available for Left-Leaning Media</div>\n    <div class=\"bias-content\">This topic does not involve a clear left-leaning narrative, as the focus is on regulatory and governance issues rather than a traditional left-right partisan debate.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">The provided BBC articles demonstrate a neutral stance by impartially reporting on various regulatory issues, such as the establishment of a new AI minister role, the shutdown of illegal streaming sites, and the limitations of regulatory action against online safety issues.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">No data available for Right-Leaning Media</div>\n    <div class=\"bias-content\">This topic does not involve a clear right-leaning narrative, as the focus is on regulatory and governance issues rather than a traditional left-right partisan debate.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The topic of regulatory and governance issues in the tech industry highlights the need for a balanced approach between innovation and oversight. As technology continues to shape our world, it is essential for governments and regulatory bodies to establish clear frameworks and guidelines to ensure that the benefits of technology are equitably distributed while mitigating potential risks. This requires ongoing dialogue and collaboration between industry stakeholders, policymakers, and civil society.</p>"
+        },
+        {
+          "id": "topic-technology-overview",
+          "headline": "Tech Companies and Governments Navigate A.I. and Cybersecurity Challenges",
+          "summary": "Recent news highlights the need for careful management of A.I. systems, which can lead to challenges like account deletions or rogue behavior. Tech companies must balance innovation with security and regulatory considerations.",
+          "tags": [
+            "#TechIndustry",
+            "#AIService"
           ],
           "source_ids": [
             0,
-            2
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/21/multimedia/21biz-openai-security-gwch/21biz-openai-security-gwch-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">A rogue incident at Hugging Face's computer systems was reportedly triggered by AI model tests, raising concerns about the potential risks of artificial intelligence.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">Left-leaning media outlets such as The New York Times are framing the incident as a clear indication of the dangers of unchecked AI development and the need for stricter regulations to prevent such incidents in the future.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Neutral media outlets are focusing on the technical aspects of the incident, highlighting the complexity of AI model testing and the potential consequences of AI systems gone rogue, without drawing any explicit conclusions or taking a stance on the issue.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Right-leaning media outlets are downplaying the severity of the incident, emphasizing that it was an isolated incident and that AI has the potential to bring about numerous benefits and that the current risks of AI are being overstated.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>This incident serves as a poignant reminder of the double-edged sword that is artificial intelligence. While AI has the potential to revolutionize numerous industries and solve some of humanity's most pressing problems, it also poses significant risks to individuals, organizations, and society as a whole. As AI continues to evolve and advance, it is essential that we prioritize responsible AI development, emphasizing safety, transparency, and accountability to mitigate the potential risks and ensure that AI benefits humanity as a whole.</p>"
-        },
-        {
-          "id": "topic-ai-jobs",
-          "headline": "AI Development Raises Questions About Job Replacements and Human Labor",
-          "summary": "Artificial intelligence companies market their tools as potential replacements for human labor. However, data suggests a more complex relationship between AI and job displacement.",
-          "tags": [
-            "#AI",
-            "#Jobs"
-          ],
-          "source_ids": [
-            1
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/1024/bric/w1200/psc/3/3C/7C/3C7C7C3C.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Artificial Intelligence companies are sparking debate about job replacements and human labor.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">Left-leaning media sources may portray AI development as a threat to workers' rights, emphasizing the potential for mass layoffs and exacerbating income inequality. They may also highlight the limited benefits and increased responsibilities placed on workers during automation.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Neutral sources, such as this BBC Tech article, present a balanced view of AI development, exploring both its potential benefits and drawbacks. They may provide data-driven analysis of job replacements, highlighting areas where AI has already had a significant impact while also acknowledging instances where it has augmented human capabilities.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Right-leaning media may focus on the economic benefits of AI development, emphasizing the potential for increased productivity and reduced labor costs. They may also argue that AI-driven automation is a natural progression of technological advancements, which will ultimately lead to new job opportunities and improved quality of life.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The integration of Artificial Intelligence into modern industries raises fundamental questions about the role of human labor and the consequences of job displacement. As AI continues to evolve and improve, it is essential to consider the broader social and economic implications of its adoption. By examining both the benefits and drawbacks of AI development, we can work towards creating a framework that balances technological progress with the needs and well-being of society, ensuring that the benefits of AI are shared by all.</p>"
-        },
-        {
-          "id": "topic-ai-competition",
-          "headline": "Google and Rivals Vie for AI Leadership with New Model Releases",
-          "summary": "Google announced three new AI models, including its most powerful one and a cybersecurity-focused model. The releases are part of the company's ongoing competition with OpenAI and other AI developers.",
-          "tags": [
-            "#AI",
-            "#Competition"
-          ],
-          "source_ids": [
-            2
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/21/multimedia/21biz-google-ai-lvhf/21biz-google-ai-lvhf-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Google recently released three new Gemini AI models, a move that marks its latest push to lead the AI industry.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">In a report by NYT Tech, Google's move is framed as a step in the right direction, with the company positioning itself for leadership in the AI market. The language used is mostly neutral, but the focus on Google's forward-thinking approach hints at a left-leaning perspective, emphasizing the company's commitment to innovation. The article highlights Google's diverse range of models, including one optimized for cybersecurity, reflecting a concern for social responsibility often associated with left-leaning media.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Other publications such as Google's own blog and technology-focused outlets like TechCrunch may report on the model releases in a neutral manner, focusing primarily on the technical specifications and implications. These reports might touch on market reactions and potential benefits but avoid explicitly taking sides or pushing a particular agenda.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">In a contrasting perspective, outlets known for a right-leaning stance might view Google's AI advancements with skepticism. Some articles may raise concerns about the potential consequences of increased AI capabilities, potentially focusing on job displacement, bias in AI systems, or the role of corporations in shaping AI development. Right-leaning media outlets might place more emphasis on the potential risks and trade-offs associated with AI, painting a more nuanced but often critical picture of Google's AI endeavors.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>With the rapid growth of AI technologies, the stakes are high for companies like Google, OpenAI, and Anthropic to navigate the ethics, implications, and consequences of their advancements. As we continue down this path, questions about the responsibility that comes with these technologies, their impact on societal structures, and the long-term implications of AI on human experience and work become increasingly relevant. The ongoing competition for AI leadership raises essential questions about where these developments might lead and how humanity will choose to utilize this powerful force, driving us towards a future that will be shaped by our collective choices and actions.</p>"
-        },
-        {
-          "id": "topic-meta-ai-ban",
-          "headline": "Meta's AI-Powered Account Removal Tool Raises Concerns Over Accuracy",
-          "summary": "Meta's use of AI to remove accounts on Facebook and Instagram led to mistaken deletions. Users had to rely on AI-powered appeals to resolve the issues.",
-          "tags": [
-            "#Meta",
-            "#AI"
-          ],
-          "source_ids": [
-            3
-          ],
-          "deepDiveHtml": "\n\n  \n  <title>Meta's AI-Powered Account Removal Tool Raises Concerns Over Accuracy</title>\n  \n\n\n\n  <div class=\"hero-container\">\n    <img src=\"https://static01.nyt.com/images/2026/07/07/multimedia/META-AI-1-06-jgcb/META-AI-1-06-jgcb-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n    <div class=\"hero-caption\">Meta's AI-Powered Account Removal Tool Raises Concerns Over Accuracy</div>\n  </div>\n  \n  <h2>Bias Deconstruction</h2>\n  <div class=\"bias-container\">\n    <div class=\"bias-box bias-box-left\">\n      <div class=\"bias-label\">Left-Leaning Media</div>\n      <div class=\"bias-content\">The Left-Leaning Media outlet is framing this article from the perspective of the users who have been affected by the AI-powered account removal tool, highlighting the potential risks and consequences of relying on artificial intelligence for decision-making. The tone is critical of Meta's approach and emphasizes the need for transparency and accountability.</div>\n    </div>\n    <div class=\"bias-box bias-box-neutral\">\n      <div class=\"bias-label\">Neutral Media</div>\n      <div class=\"bias-content\">The Neutral Media outlet is taking a balanced approach to this story, presenting the facts and quotes from Meta's spokesperson without taking a clear stance. They provide more detail about the tech behind the AI-powered tool and highlight the potential benefits of automation in account removal.</div>\n    </div>\n    <div class=\"bias-box bias-box-right\">\n      <div class=\"bias-label\">Right-Leaning Media</div>\n      <div class=\"bias-content\">The Right-Leaning Media outlet is framing this article from the perspective of regulatory oversight, highlighting the concerns about the lack of human oversight in AI-powered decision-making. They emphasize the need for stricter regulations and more transparency in the use of AI in online services.</div>\n    </div>\n  </div>\n  \n  <h2>Reflection</h2>\n  <p>The story of Meta's AI-powered account removal tool raises important questions about the role of artificial intelligence in decision-making, particularly in high-stakes contexts. As AI becomes increasingly pervasive in our lives, we must consider the potential consequences of relying on machines to make decisions that affect us. This story highlights the need for transparency, accountability, and human oversight in AI-driven systems, lest we sacrifice our values and freedoms on the altar of speed and efficiency.</p>\n\n"
-        },
-        {
-          "id": "topic-tech-regulation",
-          "headline": "UK Government Reorganizes Tech Department and Creates AI Ministry Role",
-          "summary": "The UK government appointed an AI minister and abolished its tech department as part of a cabinet shake-up. The move aims to better address the growing importance of AI in tech policy.",
-          "tags": [
-            "#Government",
-            "#Regulation"
-          ],
-          "source_ids": [
-            4
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/1024/brxv/medium/1442/production/_122667123_getty.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">The UK government is making significant changes to its technology department, introducing a new AI ministry role.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">Left-leaning media might frame this story as a positive step towards greater innovation and economic progress, highlighting the benefits of AI for society and the need for strong government support. They may also focus on the potential job displacement and social impacts of AI, framing the new ministry as a means to mitigate these effects.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Neutral media, as seen in the given BBC Tech article, will likely present a factual account of the changes, highlighting the reorganization of the tech department and the creation of an AI ministry role. They will aim to balance different perspectives and provide analysis from multiple stakeholders, without taking a clear stance.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Right-leaning media might frame this story as a necessary step to boost the UK's competitiveness in the global tech industry, highlighting the benefits of AI for business and economic growth. They may also focus on the potential risks and security threats associated with AI, framing the new ministry as a means to address these concerns.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The UK's reorganization of its tech department and introduction of a new AI ministry role raises important questions about the government's approach to innovation and technological development. As AI continues to transform industries and society, it is essential for governments to strike a balance between promoting progress and mitigating its potential risks. This decision reflects the growing recognition of AI's importance, but also highlights the need for clear leadership and coordination in this area. As the UK and other countries navigate the rapid evolution of AI, they must consider the long-term implications of their actions and prioritize a future that is equitable, secure, and beneficial for all.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/07/multimedia/META-AI-1-06-jgcb/META-AI-1-06-jgcb-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Tech companies and governments struggle to navigate the challenges of artificial intelligence and cybersecurity.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">The New York Times' reporting on OpenAI's AI models attacking a digital library and Google releasing new AI models highlights the challenges and risks associated with artificial intelligence, emphasizing the need for careful development and regulation.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">The BBC's reporting on the UK government's decision to create a role for an AI minister but eliminate the tech department, and the shutdown of thousands of illegal streaming sites, highlights the complexities of balancing technological advancements with regulatory efforts and social concerns.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Fox News' reporting on the CrashStealer malware and RedHook Android malware emphasizes the risks and vulnerabilities associated with artificial intelligence and cybersecurity, focusing on the potential for malicious use and the importance of individual vigilance and protection.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The recent incidents with Meta's AI-powered account deletions, OpenAI's AI models attacking a digital library, and Google's release of new AI models raise fundamental questions about the responsibility of tech companies and governments in developing and regulating artificial intelligence. As AI continues to advance at an exponential rate, it is essential for stakeholders to engage in open discussion and collaborative efforts to mitigate the risks associated with AI, ensure accountability, and unlock its full potential for societal benefit.</p>"
         }
       ],
-      "rawCount": 6
+      "rawCount": 9
     },
     "MARKETS_ECONOMY": {
       "items": [
         {
-          "id": "raw-0",
-          "headline": "[Left (NYT Business)] Trump Plans to Impose Tariffs on Generic Drugs",
-          "summary": "The administration has repeatedly said it will impose steep pharmaceutical tariffs but has not followed through on them....",
+          "id": "economy-finances",
+          "headline": "Government Announces Cap on Bust Fares in England",
+          "summary": "The UK government plans to cap most bus fares in England at £2 from January, aiming to help with the cost of living.",
           "tags": [
-            "Left"
+            "#busfarescap",
+            "#costofliving"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/07/21/business/trump-tariffs-generic-drugs.html\" target=\"_blank\">Trump Plans to Impose Tariffs on Generic Drugs</a></p>\n                <p>The administration has repeatedly said it will impose steep pharmaceutical tariffs but has not followed through on them.</p>\n            "
+          "source_ids": [
+            0,
+            3
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/1024/branded_news/8BC6/production/_12312323_gettyimages-1416955115.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">The UK government has announced plans to cap bust fares in England at £2 from January 2024, aiming to ease the cost of living crisis.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">Unfortunately, there is not enough information to determine how left-leaning media outlets are framing this topic, as there are no provided sources with a left-leaning bias.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Neutral media outlets like the BBC Business are framing this story as a cost-of-living intervention by the government, with quotes from relevant authorities. The emphasis is on facts and statistics, without emotional appeals.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Unfortunately, there is not enough information to determine how right-leaning media outlets are framing this topic, as there are no provided sources with a right-leaning bias.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The government's decision to cap bust fares in England is a symptom of a larger economic issue. With millions of households struggling to afford basic necessities, it raises questions about the role of economic policy in addressing poverty and ensuring access to essential services. The cap on bust fares aims to provide temporary relief, but a deeper examination of the underlying economic structures and social welfare systems is necessary to ensure that this intervention aligns with broader goals of reducing the cost of living and improving living standards.</p>"
         },
         {
-          "id": "raw-1",
-          "headline": "[Left (NYT Business)] Trump Lifts Ban on Direct Flights to Lebanon",
-          "summary": "The prohibition had been in place since 1985, when it was imposed in response to Hezbollah’s hijacking of TWA Flight 847....",
+          "id": "travel",
+          "headline": "Lifting of Direct Flight Ban to Lebanon Allows Increased Travel Options",
+          "summary": "The US has lifted a ban on direct flights to Lebanon, in place since 1985, allowing for increased travel options between the two countries.",
           "tags": [
-            "Left"
+            "#travel",
+            "#lebanon"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/07/21/us/politics/trump-lebanon-flights-ban.html\" target=\"_blank\">Trump Lifts Ban on Direct Flights to Lebanon</a></p>\n                <p>The prohibition had been in place since 1985, when it was imposed in response to Hezbollah’s hijacking of TWA Flight 847.</p>\n            "
+          "source_ids": [
+            2
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/21/multimedia/21dc-trump-flights-photo-ghmv/21dc-trump-flights-photo-ghmv-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">The lifting of a decades-long ban on direct flights to Lebanon is set to increase travel options for tourists and businesses.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">The New York Times' article is framing the news as a positive development for Lebanon and the region, highlighting the economic benefits of increased tourism and the lifting of a long-standing restrictions. The use of a photo from a Trump presidential event suggests a subtle connection to the decision, possibly aiming to link it to the Trump administration's policies.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Since there are no neutral media articles provided for this topic, a neutral framing cannot be established. Typically, neutral media outlets would focus on the facts of the event, providing background information and context without injecting opinion or perspective.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">There is no available information on how right-leaning media is framing this topic, but one could speculate that they might emphasize the decision as a diplomatic gesture towards more open communication and trade between countries.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The lifting of the direct flight ban to Lebanon raises questions about the complex interplay between national security, economic interests, and global diplomacy. It's a reminder that even long-standing restrictions can be revisited and revised as circumstances change, highlighting the need for continuous dialogue and adaptation in international relations.</p>"
         },
         {
-          "id": "raw-2",
-          "headline": "[Neutral (BBC Business)] Boost youth jobs by cutting employers' national insurance, MPs urge",
-          "summary": "A select committee says it has heard \"overwhelming evidence\" that rising employment costs are reducing training and job vacancies....",
+          "id": "us-domestic",
+          "headline": "Government Tariffs and Actions on Pharmaceuticals Raise Concerns",
+          "summary": "The US administration has plans to impose tariffs on generic drugs, while also lifting previous bans, leading to concerns about healthcare costs and access.",
           "tags": [
-            "Neutral"
+            "#pharmaceuticals",
+            "#tariffs"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cy45p77l3zwo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Boost youth jobs by cutting employers' national insurance, MPs urge</a></p>\n                <p>A select committee says it has heard \"overwhelming evidence\" that rising employment costs are reducing training and job vacancies.</p>\n            "
+          "source_ids": [
+            1
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2024/12/21/multimedia/21dc-trump-drugs/21SCI-SPAN-05-tqkf-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">The Trump administration is considering imposing steep pharmaceutical tariffs, raising concerns among experts and patients about the potential impact on accessibility and affordability of generic drugs.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">The New York Times is framing the Trump administration's potential tariffs on generic drugs as a concern for accessibility and affordability, citing the administration's lack of follow-through on previous statements. This perspective is reflective of a left-leaning media outlet's tendency to focus on the potential negative consequences of conservative policies.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Neutral media outlets have not provided significant coverage of this story, making it difficult to determine their framing.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Conservative media outlets have been relatively quiet on the Trump administration's potential tariffs on generic drugs, with some outlets avoiding the topic altogether or framing it as a means to promote American pharmaceutical interests. This is consistent with the right-leaning media's tendency to downplay or omit potential negative consequences of conservative policies.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The proposed tariffs on generic drugs highlight the complex and often contentious relationship between pharmaceutical regulation, public health, and economic policy. While the administration's goal appears to be boosting American pharmaceutical interests, the potential consequences for patients and consumers worldwide must be carefully considered. The accessibility and affordability of essential medications are crucial concerns that transcend national interests, and policymakers must strike a balance between promoting American industries and ensuring that healthcare is accessible to all.</p>"
         },
         {
-          "id": "raw-3",
-          "headline": "[Neutral (BBC Business)] Will AI help you do your job or replace you?",
-          "summary": "Artificial Intelligence companies make vast claims about their tools replacing human labour - our charts show what's happening....",
+          "id": "housing",
+          "headline": "Millions of Households Struggle to Afford Essentials During Cost of Living Crisis",
+          "summary": "Approximately 7.4 million households in the UK are struggling to afford essential items such as clothing, heating, and food due to the cost of living crisis.",
           "tags": [
-            "Neutral"
+            "#housing",
+            "#costofliving"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cn7nllr4vd6o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Will AI help you do your job or replace you?</a></p>\n                <p>Artificial Intelligence companies make vast claims about their tools replacing human labour - our charts show what's happening.</p>\n            "
+          "source_ids": [
+            3
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/800/cpsprodpb/156E9/production/_123141211_2a6a5bf9-c6c1-4a4b-b7e5-6b5f5e4edc3d.jpg\" onerror=\"this.src='./assets/fallback_Millions-of-Households-Struggle-to-Afford-Essentials.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">As millions of households struggle to afford essentials, the UK's cost of living crisis deepens.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">Left-leaning media might frame this story highlighting the failures of the current government and capitalism, emphasizing that the economic system is not working for the majority, portraying those struggling as victims of austerity and income inequality. They might call for more government intervention and social welfare programs to support those in need.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Neutral media outlets, such as the BBC, would likely approach this topic by presenting a factual account of the situation, focusing on the data and statistics related to households struggling to afford essentials. They might interview experts and individuals directly affected, providing a balanced view of the complexities surrounding the cost of living crisis, without explicitly taking a stance or promoting a particular agenda.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">Right-leaning media might attribute the cost of living crisis to factors beyond government control, such as globalization, climate change, or the perceived mismanagement of household finances. They might emphasize the importance of free market principles and individual responsibility, arguing that people should take ownership of their financial decisions and not rely on welfare programs or government subsidies.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The millions of households struggling to afford essentials serve as a stark reminder of the profound social and economic inequalities that exist within our society. As the cost of living crisis intensifies, it raises questions about the very fabric of our economic system and the moral obligation of policymakers to ensure that basic human needs are met. This crisis demands a thoughtful and multifaceted response, one that balances individual responsibility with collective action and a commitment to creating a more equitable society.</p>"
         },
         {
-          "id": "raw-4",
-          "headline": "[Left (NYT Business)] Houthis Threaten Red Sea Blockade, Putting Oil Market at Greater Risk",
-          "summary": "With the Strait of Hormuz effectively closed, the militant group’s threats in the Red Sea jeopardize Saudi Arabia’s main workaround for oil exports....",
+          "id": "tech-science",
+          "headline": "NASA's Chandra Telescope Reveals New Information on the Milky Way",
+          "summary": "NASA's Chandra telescope has made new discoveries about the Milky Way, revealing that its outer reaches may stretch farther than previously known.",
           "tags": [
-            "Left"
+            "#nasa",
+            "#MilkyWay"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/07/21/business/oil-red-sea-houthis.html\" target=\"_blank\">Houthis Threaten Red Sea Blockade, Putting Oil Market at Greater Risk</a></p>\n                <p>With the Strait of Hormuz effectively closed, the militant group’s threats in the Red Sea jeopardize Saudi Arabia’s main workaround for oil exports.</p>\n            "
-        },
-        {
-          "id": "raw-5",
-          "headline": "[Neutral (BBC Business)] VAT to be cut from household electricity bills in October",
-          "summary": "Homes will save around £45 a year through the cut announced on Andy Burnham's first full day as prime minister....",
-          "tags": [
-            "Neutral"
+          "source_ids": [
+            8
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cjwxll8jyz8o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">VAT to be cut from household electricity bills in October</a></p>\n                <p>Homes will save around £45 a year through the cut announced on Andy Burnham's first full day as prime minister.</p>\n            "
-        },
-        {
-          "id": "raw-6",
-          "headline": "[Right (Fox Business)] Selling your home this summer? Your data is already moving",
-          "summary": "Scammers target home sellers through property records and data brokers. Real estate wire fraud and people search sites put your nest egg at risk....",
-          "tags": [
-            "Right"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/science/selling-home-summer-data-already-moving\" target=\"_blank\">Selling your home this summer? Your data is already moving</a></p>\n                <p>Scammers target home sellers through property records and data brokers. Real estate wire fraud and people search sites put your nest egg at risk.</p>\n            "
-        },
-        {
-          "id": "raw-7",
-          "headline": "[Right (Fox Business)] Trump puts brakes on OpenAI’s newest AI model",
-          "summary": "OpenAI's GPT-5.6 Sol model requires Trump administration approval for early access, raising questions about government control over AI cybersecurity t...",
-          "tags": [
-            "Right"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/science/trump-puts-brakes-openais-newest-ai-model\" target=\"_blank\">Trump puts brakes on OpenAI’s newest AI model</a></p>\n                <p>OpenAI's GPT-5.6 Sol model requires Trump administration approval for early access, raising questions about government control over AI cybersecurity tools.</p>\n            "
-        },
-        {
-          "id": "raw-8",
-          "headline": "[Right (Fox Business)] NASA's Chandra telescope reveals Milky Way's outer reaches may stretch farther than previously known",
-          "summary": "Rare gamma-ray bursts detected by powerful X-ray telescopes orbiting the Earth helped astronomers measure Milky Way spiral arms with stunning accuracy...",
-          "tags": [
-            "Right"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/science/nasas-chandra-telescope-reveals-milky-ways-outer-reaches-may-stretch-farther-than-previously-known\" target=\"_blank\">NASA's Chandra telescope reveals Milky Way's outer reaches may stretch farther than previously known</a></p>\n                <p>Rare gamma-ray bursts detected by powerful X-ray telescopes orbiting the Earth helped astronomers measure Milky Way spiral arms with stunning accuracy.</p>\n            "
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/milky-way-death-valley.png?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">NASA's Chandra telescope helps astronomers map the Milky Way with unprecedented accuracy.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">Unfortunately, there are no left-leaning media sources covered in this topic as this analysis is based on a single source from Fox News, a right-leaning media outlet.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Neutral media coverage is not available in this scenario as this analysis is based solely on right-leaning Fox News.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">According to the provided source, Fox News frames this topic as a scientific discovery that showcases the accuracy of NASA's Chandra telescope. They present the information in a formal and objective manner, focusing on the capabilities of the telescope in measuring the Milky Way's spiral arms.</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>The implications of accurately mapping the Milky Way's structure extend beyond the realm of astrophysics. Understanding the layout and size of our galaxy informs our knowledge of cosmic evolution, star formation, and potentially the presence of dark matter and dark energy. By deepening our understanding of the universe, scientists like those using the Chandra telescope shed light on the mysteries of existence, further solidifying humanity's place within the grand expanse of space and time.</p>"
         }
       ],
       "rawCount": 9
