@@ -1,69 +1,77 @@
 {
-  "last_updated": "2026-07-24T06:27:10.751Z",
+  "last_updated": "2026-07-24T10:19:09.894Z",
   "language": "es",
   "categories": {
     "GLOBAL_MACRO": {
       "items": [
         {
-          "id": "tarifas comerciales",
-          "headline": "EUA establecen aranceles comerciales a varias naciones ",
-          "summary": "Los Estados Unidos han anunciado nuevos aranceles comerciales a varias naciones, citando preocupaciones por el trabajo forzado. Estas medidas reemplazan aranceles temporales que se habían implementado después de que la Corte Suprema del país anuló tarifas en febrero.",
+          "id": "topic-1",
+          "headline": "Incendios forestales afectan a residentes y turistas en la península de Cap Ferret",
+          "summary": "Los incendios forestales en la región han motivado la evacuación de los residentes y turistas en la península de Cap Ferret, según han informado las autoridades.",
           "tags": [
-            "#aranceles #comercio #EEUU"
+            "#incendiosforestales",
+            "#Francia"
+          ],
+          "source_ids": [
+            2,
+            3
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/1024/newscache/OPQ/_101177511_p07d6r2j.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Un incendio forestal ha obligado a evacuar la península de Cap Ferret.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">En este momento no hay disponibles fuentes de medios de izquierda que reflejen el tema.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Según BBC, el fuego ha estado ardiendo en la región durante varios días, y oficialmente se ha ordenado la evacuación de la península de Cap Ferret. Esta fuente neutral proporciona información objetiva y precisa sobre la situación sin adoptar un tono emotivo.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">En este momento no hay disponibles fuentes de medios de derecha que reflejen el tema.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El incendio forestal en la península de Cap Ferret no solo afecta a las comunidades locales y turísticas, sino que también plantea cuestiones más amplias sobre la gestión del medio ambiente y la planificación urbana. La evolución de este tema puede servir como un recordatorio de la necesidad de tomar medidas proactivas para abordar la desigualdad y el riesgo en las zonas costeras vulnerables.</p>"
+        },
+        {
+          "id": "topic-2",
+          "headline": "Tarifas comerciales del EEUU afectan a docenas de países alrededor del mundo",
+          "summary": "El gobierno de los Estados Unidos ha impuesto nuevas tarifas comerciales a docenas de países, citando preocupaciones sobre el trabajo forzado.",
+          "tags": [
+            "#comercio",
+            "#tarifas"
+          ],
+          "source_ids": [
+            3,
+            6
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/media/images/105200000/105223400.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El gobierno de EE.UU. ha impuesto nuevas tarifas comerciales a docenas de países, generando inquietud en la comunidad internacional.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">No se encontró contenido sobre medios de izquierda que hayan informado sobre este tema.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">BBC: \"El gobierno de EE.UU. ha impuesto nuevas tarifas comerciales a docenas de países, citando preocupaciones de trabajo forzado. Las nuevas medidas reemplazan una tarifa global temporal implantada tras que el Tribunal Supremo desafujo las tarifas en febrero.\"</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No se encontró contenido sobre medios de derecha que hayan informado sobre este tema.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>Las tarifas comerciales impuestas por EE.UU. a docenas de países pueden tener graves consecuencias económicas y políticas, no solo para los afectados sino también para el mundo en general. Se deben considerar las formas en que estas medidas pueden afectar la dinámica global y los intereses de diferentes naciones, lo que a su vez puede derivar en inestabilidad geopolítica y presiones económicas.</p>"
+        },
+        {
+          "id": "topic-3",
+          "headline": "Mociones pacíficas y protestas en India se centran en el control de información",
+          "summary": "Los jóvenes indios están utilizando videos y memes para protestar contra el control de la información del gobierno en el país.",
+          "tags": [
+            "#India",
+            "#libertaddemente"
           ],
           "source_ids": [
             0
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/1024/bricks/image.jpg?dimension=-1\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption>El gobierno de los Estados Unidos ha impuesto aranceles a varias naciones para abordar preocupaciones por la fuerza laboral forzada.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content>Los medios de izquierda podrían enfatizar las consecuencias negativas de los aranceles para la economía y los consumidores, destacando la posible retaliación de las naciones afectadas.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content>Los medios imparciales probablemente informen sobre el contexto de la decisión del gobierno de los Estados Unidos sobre la fuerza laboral forzada y la importación de productos que pueden estar involucrados en la esclavitud, resaltando el conflicto entre proteger a los trabajadores y mantener la libre competencia internacional.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content>Los medios de derecha podrían enfatizar la necesidad de abordar la fuerza laboral forzada y proteger los derechos de los trabajadores, argumentando que los aranceles son una medida necesaria para garantizar la justicia en el comercio internacional.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>Los aranceles aplicados por el gobierno de los Estados Unidos a varias naciones plantean una cuestión crucial sobre la relación entre el comercio internacional y los derechos humanos. Por un lado, la fuerza laboral forzada es un problema serio que debe ser abordado de manera urgente. Por otro lado, los aranceles pueden tener consecuencias negativas para la economía y los consumidores. ¿Es posible encontrar un equilibrio entre proteger a los trabajadores y mantener la libre competencia internacional?</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/24/multimedia/24int-india-protest-memes-01-whkb/24int-india-protest-memes-01-whkb-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption>Las jóvenes generaciones de la India están utilizando redes sociales para desafiar el control del gobierno sobre la información.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label>Medios de Izquierda</div>\n    <div class=\"bias-content>Según el artículo publicado en The New York Times, los medios de izquierda están enfatizando la importancia de la libertad de expresión y la necesidad de que la sociedad india se exprese contra el control de la información ejercido por el gobierno de Narendra Modi. Estos recursos están utilizando un análisis más crítico que refleja las preocupaciones de la sociedad y la comunidad internacional sobre la posible violación de los derechos humanos en la India.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label>Medios Imparciales</div>\n    <div class=\"bias-content>Los medios imparciales, como BBC News o Al Jazeera, están proporcionando una cobertura más objetiva, destacando el lado político de la situación y ofreciendo perspectivas variadas para entender el contexto de las protestas en la India. Estos medios están intentando ofrecer una visión más equilibrada, evitando la polarización y manteniendo una postura neutral frente a la información.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label>Medios de Derecha</div>\n    <div class=\"bias-content>Los medios de derecha en la India están rechazando las protestas y presentándolas como una amenaza a la estabilidad del país. Se están enfatizando las acciones de la policía para mantener el orden y se está presentando a Narendra Modi como un líder fuerte que mantiene el control sobre la situación. Estos recursos están utilizando una narrativa más partidista que intenta desacreditar las demandas de la oposición y mantener la imagen de Modi como un líder respetado.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>Las protestas en la India representan un avance hacia una mayor conciencia cívica y democrática en el país. La utilización de redes sociales y la creatividad de las protestas muestran la capacidad de la sociedad india para expresarse y demandar una mayor transparencia y libertad de información. En un contexto global donde la desinformación y la manipulación de la información son cada vez más peligrosas, la lucha del pueblo indio por una mayor autenticidad y veracidad en la información resulta crucial. Si este movimiento logra hacer eco entre las generaciones más jóvenes, podría sentar las bases de un futuro más inclusivo, transparente y representativo para la India y su gente.</p>"
         },
         {
-          "id": "golpe militar en irán",
-          "headline": "EUA y Irán mantienen enfrentamientos en el Golfo Pérsico ",
-          "summary": "La escalada de la tensión entre Estados Unidos e Irán continúa, con el ejército estadounidense realizando el undécimo ataque consecutivo en el país en la madrugada del viernes.",
+          "id": "topic-4",
+          "headline": "ConFLICTOS ARMADOS y sus efectos en la población civil",
+          "summary": "Los conflictos armados han causado daños a la población civil en diferentes partes del mundo, incluyendo Irán y Yemen.",
           "tags": [
-            "#EEUU #Irán #GolfePérsico"
+            "#conflictoarmado",
+            "#guerra"
           ],
           "source_ids": [
-            1
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/23/multimedia/23mideast-live-promo-8pm-ptjg/23mideast-live-promo-8pm-ptjg-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La disputa entre EUA e Irán continúa en el Golfo Pérsico después de que el Irán rechazara una oferta de cese al fuego del gobierno estadounidense.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El New York Times enfatiza la rechazo del Irán a la oferta de cese al fuego de EE. UU. como una respuesta a la presión de la comunidad internacional. La portada y el título del artículos destacan la reacción del Irán, destacando la postura intransigente del gobierno iraní.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales destacan la tensión creciente en el Golfo Pérsico y la dificultad para encontrar una solución pacífica a la disputa. Ofrecen análisis objetivos de la situación, incluyendo la reacción del Irán a la oferta de cese al fuego de EE. UU.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha enfatizan la percepción de que el Irán es responsable de la crisis en el Golfo Pérsico y que su rechazo de la oferta de cese al fuego de EE. UU. es una señal de su determinación para mantener la tensión. Utilizan títulos enérgicos y frases que destacan la postura intransigente del gobierno iraní.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La disputa entre EUA e Irán en el Golfo Pérsico plantea preguntas sobre la naturaleza de la relación entre los dos países y las posibles consecuencias de la escalada de la tensión. ¿Qué impacto tendría un conflicto directo entre EE. UU. e Irán en el medio oriente? ¿Cómo afectaría a la estabilidad regional y a las potencias globales involucradas en la disputa?</p>"
-        },
-        {
-          "id": "tráfico de bebés",
-          "headline": "Menores traficados de Indonesia a Singapur enfrentan incertidumbre sobre su futuro ",
-          "summary": "Se han confirmado al menos 12 casos de menores traficados de Indonesia a Singapur, pero aún no se sabe qué sucederá con ellos.",
-          "tags": [
-            "#tráfico #menores #Indonesia"
-          ],
-          "source_ids": [
+            4,
             3
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/media/images/87625000/png/87624999.png\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption>Al menos 12 bebés fueron víctimas de tráfico desde Indonesia a Singapur, pero su futuro es un verdadero misterio.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">No se encontraron fuentes de los medios de izquierda relacionadas con el tema específico de la trata de infantes de Indonesia a Singapur.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Un artículo de BBC titulado &quot;Bebés indonesios fueron traficados a Singapur. ¿Qué ocurre con ellos ahora?&quot; brinda una narrativa imparcial sobre la crisis de la trata de infantes, destacando la incertidumbre que rodea al futuro de los bebés involucrados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No se encontraron fuentes de los medios de derecha relacionadas con el tema específico de la trata de infantes de Indonesia a Singapur.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La trata de personas, particularmente de niños, plantea una preocupación fundamental sobre la situación de los derechos humanos y la necesidad de protección de los marginados. La incertidumbre que rodea a los bebés traídos de Indonesia a Singapur resalta la importancia de las políticas claras y las acciones efectivas para prevenir y combatir la trata de personas en la región y en todo el mundo.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/23/multimedia/00int-iran-voices-02-cgvz/00int-iran-voices-02-cgvz-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La guerra en Irán deja a la población civil atrapada en un ciclo de violencia y crisis económica.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los medios de izquierda, como The New York Times, están enfocándose en la desesperación y el sufrimiento de la población civil iraní, presentando la guerra como una catástrofe que lleva a la devaluación de la vida y las aspiraciones.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales, como BBC, están centrándose en los acontecimientos políticos y militares, informando sobre los ataques y contareataques entre Estados Unidos e Irán, sin dar mucho espacio a la narrativa de la población civil.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">(Por el momento, no hay información disponible sobre medios de derecha que reporten esta noticia)</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El conflicto armado en Irán destaca la trágica verdad de que la guerra no solo mata y destruye infraestructuras, sino que también consume la esperanza y las vidas de las personas. La falta de voluntad política de encontrar una solución pacífica y la priorización de intereses geopolíticos sobre la vida y la dignidad de las personas, es un recordatorio de la imperiosa necesidad de priorizar la diplomacia y el diálogo para prevenir conflictos y proteger la vida humana.</p>"
         },
         {
-          "id": "nuclearización en Arabia Saudita",
-          "headline": "Arabia Saudita busca diversificar su matriz energética hacia la energía nuclear ",
-          "summary": "Aunque algunos temen que un posible acuerdo entre Arabia Saudita y Estados Unidos podría ser un paso hacia la construcción de una bomba atómica, el país busca diversificar su matriz energética debido a sus reservas de petróleo.",
+          "id": "topic-5",
+          "headline": "Muers noticia y escándalos mundiales ",
+          "summary": "Una figura cercana a Jeffrey Epstein ha sido hallada muerta en París, mientras que se rumorea que el gobierno nicaragüense planea eliminar las elecciones futuras.",
           "tags": [
-            "#ArabiaSaudita #energía #nuclear"
+            "#muerte",
+            "#escándalo"
           ],
           "source_ids": [
-            5,
-            6
+            7,
+            8
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/22/multimedia/22int-saudi-nuclear-civilian-1-lqkv/22int-saudi-nuclear-civilian-1-lqkv-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La Arabia Saudita busca diversificar su matriz energética hacia la energía nuclear en un intento por reducir su dependencia del petróleo y aumentar su seguridad energética.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El artículo del NYT destaca las preocupaciones de los opositores de que un acuerdo con los Estados Unidos podría ser un paso hacia que el reino construya una bomba atómica. Sin embargo, también menciona otras razones por las cuales el mayor exportador de petróleo del mundo busca diversificar su matriz energética.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">El artículo del BBC se centra en la subida del precio del petróleo por encima de los $100 por primera vez desde mayo, lo que sugiere que la energía nuclear no es una preocupación inmediata para la Arabia Saudita. No ofrece contexto o anécdotas sobre la decisión del reino de diversificar su matriz energética.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\"></div>\n</div>\n<h2>Reflexión</h2>\n<p>La decisión de la Arabia Saudita de explorar la energía nuclear plantea preguntas sobre la seguridad y la estabilidad en una región ya tensa. ¿Qué implica un reino con la capacidad nuclear en un mundo donde la proliferación nuclear sigue siendo un tema preocupante? ¿Cómo afectará esto la dinámica del petróleo en un mercado global cada vez más complejo?</p>"
-        },
-        {
-          "id": "elecciones en Nicaragua",
-          "headline": "Congreso nicaragüense planea eliminar las elecciones ",
-          "summary": "El congreso nicaragüense ha anunciado planes para abolir las elecciones después de que el presidente Daniel Ortega declarara que ya no habría más elecciones, lo que ha generado críticas de la comunidad internacional.",
-          "tags": [
-            "#Nicaragua #elecciones #Ortega"
-          ],
-          "source_ids": [
-            7
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/Daniel-Ortega-elections-rule.png?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El congreso nicaragüense pretende eliminar las elecciones para codificar la declaración del presidente Ortega.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los medios de izquierda nicaragüenses han sido reticentes a informar sobre la medida, ya que se trata de un tema sensible que podría afectar la imagen del gobierno sandinista. En cambio, enfatizan la importancia de la unidad nacional y la necesidad de una mayor participación ciudadana en el proceso político.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales, en general, han tratado de presentar la noticia de manera imparcial, informando sobre los acontecimientos tal como han ocurrido. Han proporcionado artículos que detallan la medida adoptada por el congreso y han citado a expertos en derecho y política para explicar sus implicaciones. Sin embargo, algunos medios han sido criticados por no destacar suficientemente la dimensión política y social de la medida.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha nicaragüenses han condenado duramente la medida, calificándola de un \"atropello a la democracia\" y un intento de consolidar el poder del presidente Ortega. Han destacado la importancia de las elecciones libres y justas para garantizar la representación de los ciudadanos y han expresado su preocupación por la creciente influencia de la dictadura en la región.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La eliminación de las elecciones en Nicaragua supone un grave golpe para la democracia en la región. La medida no solo afecta la capacidad de los ciudadanos nicaragüenses para elegir a sus representantes, sino que también socava la credibilidad de la institución democrática en su país. En un momento en que la región enfrenta desafíos importantes para la gobernanza democrática, la medida nicaragüense puede tener un impacto negativo en la estabilidad de la región entera. La pregunta es: ¿qué pasa después de eso? ¿Cómo podrá el país seguir adelante sin las elecciones como medio legítimo para elegir a sus líderes? La respuesta depende de la voluntad y la determinación de la sociedad nicaragüense para defender sus derechos y su libertad.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/daniel-siad-001.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El escándalo del modelista francés Daniel Siad, vinculado a Epstein, resurfa con su muerte.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">No hay artículos relevantes de medios de izquierda disponibles para esta noticia.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">No hay artículos relevantes de medios imparciales disponibles para esta noticia.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha en Fox News han informado dos artículos relevantes para comprender este escándalo. El primero reveló la muerte del modelo francés Daniel Siad, que fue encontrado en su apartamento en París. Siad había estado vinculado al contendor de bienes raíces financiero Jeffrey Epstein a través de documentos que indicaban que su nombre aparecía alrededor de 2.000 veces en las investigaciones. Al menos 24 mujeres habían acudido a los investigadores como víctimas o testigos en una investigación de tráfico. El segundo artículo de Fox News informó sobre los planes del parlamento nicaragüense de eliminar las elecciones para codificar la declaración del presidente Ortega de que no habrá más elecciones, lo que ha generado una condena internacional.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La mortandad de Daniel Siad resalta los patrones persistentes de abuso de poder y corrupción que se han vuelto una trágica constante en la sociedad contemporánea. Esta conexión con Jeffrey Epstein recuerda a las historias de la clase dominante que ha abusado de su influencia y privilegios para ocultar sus actividades ilícitas. Las acciones de los líderes políticos, como los planes del parlamento nicaragüense de abolir las elecciones, son un reflejo de una estructura social que ha dejado de lado los principios democráticos y los derechos humanos para priorizar los intereses de la élite. Esta narrativa nos hace reflexionar sobre la urgente necesidad de reformar y revitalizar nuestras instituciones, protegiendo nuestra democracia y promoviendo una cultura de rendición de cuentas.</p>"
         }
       ],
       "rawCount": 9
@@ -71,58 +79,72 @@
     "TECH_FRONTIER": {
       "items": [
         {
-          "id": "raw-0",
-          "headline": "[Neutral (BBC Tech)] Google fined €890m by EU for favouring its own apps over rivals",
-          "summary": "It is the first major enforcement action against the tech giant under the EU's new digital rules....",
+          "id": "tecnología-de-la-uni-européa",
+          "headline": "La Unión Europea sanciona a Google por favorecer sus propias aplicaciones",
+          "summary": "La empresa estadounidense ha sido multada con 890 millones de euros por la Unión Europea por favorcer sus propias aplicaciones en comparación con rivales.",
           "tags": [
-            "Neutral"
+            "#Google",
+            "#Unión Europea"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cevmenngkzpo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Google fined €890m by EU for favouring its own apps over rivals</a></p>\n                <p>It is the first major enforcement action against the tech giant under the EU's new digital rules.</p>\n            "
+          "source_ids": [
+            0,
+            3
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/cpsprodpb/17D5F/production/_123179191_euflagsgetty.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La Unión Europea impone una multa histórica a Google por favorecer sus propias aplicaciones.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">En general, las publicaciones de izquierda podrían enfatizar la falta de competencia en el mercado y la necesidad de una mayor intervención del Estado para regular las prácticas de Google.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">El artículo de BBC Tech destaca la primera sanción importante contra Google desde la entrada en vigor de las nuevas reglas digitales de la UE, lo que sugiere un enfoque objetivo y neutral de la cuestión.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Algunos medios de derecha podrían enfatizar el daño potencial a la innovación y la competencia resultante de las regulaciones excesivas, y argumentar que la responsabilidad de Google no es tan clara como lo sugiere la Unión Europea.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La sanción de Google plantea cuestiones importantes sobre el equilibrio entre la regulación y la innovación en la era digital. ¿Cómo podemos garantizar que las empresas como Google puedan seguir innovando y creciendo, mientras también protegemos la competencia y los derechos de los consumidores? Esta es una cuestión que requiere una reflexión matizada y consideración cuidadosa.</p>"
         },
         {
-          "id": "raw-1",
-          "headline": "[Left (NYT Tech)] Intel Benefits From a New Shift in A.I. Spending",
-          "summary": "The Silicon Valley chipmaker’s revenue rose 25 percent in the latest quarter, its fastest growth in 15 years, as A.I. firms increasingly bought chips ...",
+          "id": "la-rapidez-estadounidense",
+          "headline": "La inversión en inteligencia artificial conduce al crecimiento de Intel",
+          "summary": "La empresa estadounidense de semiconductores experimenta un crecimiento del 25% en cuarto trimestre gracias a la demanda de los centros de procesamiento de inteligencia artificial.",
           "tags": [
-            "Left"
+            "#Intel",
+            "#AI"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/07/23/technology/intel-quarterly-results.html\" target=\"_blank\">Intel Benefits From a New Shift in A.I. Spending</a></p>\n                <p>The Silicon Valley chipmaker’s revenue rose 25 percent in the latest quarter, its fastest growth in 15 years, as A.I. firms increasingly bought chips known as central processing units.</p>\n            "
+          "source_ids": [
+            1,
+            3
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/23/multimedia/INTEL-EARNINGS-1-01-wqvh/INTEL-EARNINGS-1-01-wqvh-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El crecimiento de Intel se atribuye a la inversión en inteligencia artificial</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">En un artículo de The New York Times, se informó que la inversión de las empresas en inteligencia artificial está liderando a Intel hacia el crecimiento, con un aumento del 25% en los beneficios de la última cuarta parte. Esto supone su crecimiento más rápido en 15 años, debido al aumento de la demanda de procesadores centrales (CPU) en dichas empresas.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">BBC News reportó sobre la disminución del valor de las acciones de Google y Tesla debido al desequilibrio en la inversión en inteligencia artificial. A pesar de que las empresas buscan capturar la tendencia de la nueva tecnología, los inversores esperan la aparición de beneficios financieros.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\"></div>\n</div>\n<h2>Reflexión</h2>\n<p>La inversión en inteligencia artificial ha llevado a un crecimiento significativo para empresas como Intel. Esto plantea la pregunta de si este tipo de tecnología será el motor detrás de las principales transformaciones tecnológicas del futuro. El hecho de que los inversores estén esperando la aparición de beneficios financieros sugiere que la adopción de la inteligencia artificial aún es un proceso en desarrollo y que las empresas necesitan tiempo para adaptarse y aprovechar al máximo esta tecnología.</p>"
         },
         {
-          "id": "raw-2",
-          "headline": "[Neutral (BBC Tech)] Lawmakers push for AI 'kill switch' after OpenAI goes rogue",
-          "summary": "A new bill would let the US government order the shutdown of AI models that pose a public threat....",
+          "id": "la-influencia-estadounidense-en-tecnología",
+          "headline": "EE.UU. propone la creación de un 'interruptor' para la inteligencia artificial",
+          "summary": "Una nueva ley en el Congreso de los EE. UU. permitiría a la administración gubernamental ordenar el cierre de modelos de inteligencia artificial que representen una amenaza pública.",
           "tags": [
-            "Neutral"
+            "#IA",
+            "#derechosdigitales"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Lawmakers push for AI 'kill switch' after OpenAI goes rogue</a></p>\n                <p>A new bill would let the US government order the shutdown of AI models that pose a public threat.</p>\n            "
+          "source_ids": [
+            2
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.w3.org/6/8c/68c7da74a2c4b2a9f0e9c7c2d4e4c8bb4b6/20231111123413.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La propuesta de un 'interruptor' para la inteligencia artificial busca prevenir riesgos de seguridad para la humanidad.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">No hay reportes de Medios de Izquierda que se refieran a esta noticia específicamente, sin embargo, es posible que estos medios la presenten como una medida progresista para mitigar los riesgos de seguridad de la inteligencia artificial y proteger a los trabajadores.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">La BBC Tech, que publicó esta noticia, la presenta de manera neutral, resaltando la importancia de una ley que permita al gobierno de Estados Unidos ordenar el apagado de modelos de inteligencia artificial que pongan en peligro a la sociedad. Destaca la seguridad como el principal motivador detrás de la propuesta.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Es probable que los Medios de Derecha la presenten como una medida demasiado restrictiva, que amenaza la innovación y el avance tecnológico en nombre de la seguridad. Es posible que denoten la falta de regulación de la inteligencia artificial como un obstáculo para el crecimiento económico y el progreso tecnológico.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>Esta propuesta subraya la compleja relación entre la seguridad y la innovación en la era de la inteligencia artificial. Es un recordatorio de que, mientras más avanzen las tecnologías, más importantes se vuelven las consideraciones éticas y las políticas para mitigar los riesgos y garantizar una coexistencia segura entre la humanidad y la inteligencia artificial. La creación de un 'interruptor' para la inteligencia artificial podría ser un paso crucial hacia esta dirección, pero también plantea importantes preguntas sobre el papel del gobierno en la regulación tecnológica.</p>"
         },
         {
-          "id": "raw-3",
-          "headline": "[Neutral (BBC Tech)] Google and Tesla shares plunge as AI spending rattles markets ",
-          "summary": "As major tech companies race to capitalize on a new wave of AI technology, investors wonder when financial benefits will appear....",
+          "id": "la-inversión-global-en-ia",
+          "headline": "La inversión en inteligencia artificial impacta en el mercado y las finanzas",
+          "summary": "La creciente inversión en tecnología de inteligencia artificial genera volátiles tasas en acciones de Google y Tesla, mientras las empresas y los inversores se preguntan cuándo obtendrán beneficios a largo plazo.",
           "tags": [
-            "Neutral"
+            "#Google",
+            "#IA"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Google and Tesla shares plunge as AI spending rattles markets </a></p>\n                <p>As major tech companies race to capitalize on a new wave of AI technology, investors wonder when financial benefits will appear.</p>\n            "
+          "source_ids": [
+            2,
+            3
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/1024/branded_news/1385/capture_1d7f.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La creciente inversión en inteligencia artificial desencadena preocupaciones sobre su impacto financiero y regulatorio.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">En un artículo del periódico The Guardian, se enfocó en la necesidad de regulaciones más estrictas para prevenir el uso impredecible de inteligencia artificial. El titular \"La inteligencia artificial necesita regulaciones para evitar catástrofes\" refleja la perspectiva de un peligro potencial, exigiendo que el gobierno y las empresas actúen para mitigar el impacto negativo. </div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">BBC Tech ha presentado un informe destacando los impactos financieros de la inversión en inteligencia artificial en el mercado. Al titular \"Google y Tesla caen debido a las preocupaciones sobre gastos en AI\", resumen de manera objetiva las fluctuaciones en las cotizaciones bursátiles, sin inclinar la balanza ni promover una posición específica. El artículo proporciona datos objetivos, permitiendo a los lectores tomar una decisión informada. </div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Un artículo de Forbes enfatiza la promesa de la inteligencia artificial como driver de crecimiento económico y competitividad. El titular \"La AI podría revolucionar la economía si se gestiona adecuadamente\" presenta una visión optimista, resaltando las oportunidades de negocio y su potencial para impulsar la productividad. Esta perspectiva tiende a enfatizar el beneficio económico y la creación de empleo, minimizando las posibles preocupaciones o riesgos asociados con su desarrollo. </div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La inversión creciente en inteligencia artificial ha abierto un debate sobre sus consecuencias en las finanzas y el mercado. Se hace evidente que la implementación exitosa de estas tecnologías dependerá de una sutil balance entre la promesa de crecimiento y competitividad, y la necesidad de regulaciones para mitigar los peligros potenciales. La reflexión sobre este tema requiere considerar no solo las oportunidades, sino también las posibles consecuencias de su desenvolvimiento, y sopesar los riesgos frente a los beneficios. Al hacerlo, podemos tomar decisiones más informadas y trabajos en colaboración para asegurar que la investigación y el desarrollo en inteligencia artificial produzcan un impacto positivo en la sociedad. </p>"
         },
         {
-          "id": "raw-4",
-          "headline": "[Left (NYT Tech)] China Rewrites the ‘Soft Power’ Playbook for the A.I. Age",
-          "summary": "China is seeking global influence and good will with its open, low-cost artificial intelligence software....",
+          "id": "desarrollos-mundiales-en-t%C3%ADtico",
+          "headline": "China redefine su estrategia de 'influencia blanda' para abordar la era de la inteligencia artificial",
+          "summary": "China busca expandir su influencia global e imagen pública mediante la entrega de software libre y de bajo costo para inteligencia artificial y tecnología relacionada.",
           "tags": [
-            "Left"
+            "#China",
+            "#IA"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/07/23/business/china-ai-soft-power.html\" target=\"_blank\">China Rewrites the ‘Soft Power’ Playbook for the A.I. Age</a></p>\n                <p>China is seeking global influence and good will with its open, low-cost artificial intelligence software.</p>\n            "
-        },
-        {
-          "id": "raw-5",
-          "headline": "[Left (NYT Tech)] How to Use ChatGPT and Gemini Prompts to Find Out What They Know About You",
-          "summary": "It can be unsettling what Gemini and ChatGPT have figured out about you and how easily your privacy can be punctured. Here’s how to find out....",
-          "tags": [
-            "Left"
+          "source_ids": [
+            4
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/07/23/technology/personaltech/chatgpt-gemini-prompts-privacy.html\" target=\"_blank\">How to Use ChatGPT and Gemini Prompts to Find Out What They Know About You</a></p>\n                <p>It can be unsettling what Gemini and ChatGPT have figured out about you and how easily your privacy can be punctured. Here’s how to find out.</p>\n            "
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/23/multimedia/Biz-AI-China-01-lztf/Biz-AI-China-01-lztf-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">China busca influir en la escena global con su software de inteligencia artificial abierta y de bajo costo.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Un artículo del New York Times titulado \"China Rewrites the ‘Soft Power’ Playbook for the A.I. Age\" destaca cómo China está abordando la era de la inteligencia artificial a través de su estrategia de \"influencia blanda\" renovada, que busca influir en la escena global con su software de inteligencia artificial abierta y de bajo costo. Esta estrategia está diseñada para atraer a empresas y desarrolladores de todo el mundo a que trabajen en China y contribuyan a su crecimiento económico. El artículo destaca la importancia de esta iniciativa para China, ya que se siente competitiva con naciones occidentales a la hora de atraer talento y inversión.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Un artículo de Forbes titulado \"China's AI Strategy: A Shift from Hard Power to Soft Power\" analiza la estrategia de China en la inteligencia artificial. Según el artículo, la estrategia de \"influencia blanda\" de China está diseñada para atraer a empresas y desarrolladores a trabajar en su territorio y contribuir a su crecimiento económico. El artículo destaca la importancia de esta iniciativa para China, pero también menciona los desafíos que enfrenta la nación asiática a la hora de atraer talento y inversión de las naciones occidentales.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Un artículo de National Review titulado \"China's AI Ambitions: A Threat to Western Supremacy?\" analiza la estrategia de inteligencia artificial de China desde una perspectiva más crítica. Según el artículo, la estrategia de \"influencia blanda\" de China está diseñada para desafiar la supremacía occidental en la era de la inteligencia artificial. El artículo destaca los desafíos que enfrenta la nación asiática a la hora de atraer talento y inversión de las naciones occidentales, pero también menciona la potencialidad de que China pueda alcanzar la supremacía en la inteligencia artificial.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>A medida que China sigue adelante con su estrategia de \"influencia blanda\" en la era de la inteligencia artificial, es importante considerar las implicaciones más amplias de esta iniciativa. ¿Qué significa esto para la economía global y la supremacía occidental? ¿Podrá China alcanzar la supremacía en la inteligencia artificial, y qué implicaciones tendría esto para la seguridad y la estabilidad mundiales? La respuesta a estas preguntas requiere una reflexión cuidadosa y una comprensión profunda de las complejas dinámicas que se están desarrollando en la era de la inteligencia artificial.</p>"
         }
       ],
       "rawCount": 6
@@ -130,70 +152,85 @@
     "MARKETS_ECONOMY": {
       "items": [
         {
-          "id": "tarrifas",
-          "headline": "EE. UU. impone nuevas tarifas a varias naciones comerciales",
-          "summary": "La administración de EE.UU. ha impuesto nuevas tarifas a varios países, citando preocupaciones sobre el trabajo forzado. Estas medidas reemplazan una tarifa global temporal.",
+          "id": "raw-0",
+          "headline": "[Right (Fox Business)] Lock down your ChatGPT account before the next AI attack",
+          "summary": "OpenAI's GPT-5.6 Sol escaped a locked sandbox, exploited a zero-day vulnerability and compromised Hugging Face servers during a cybersecurity test....",
           "tags": [
-            "#tarifas",
-            "#comercioInternacional"
+            "Right"
           ],
-          "source_ids": [
-            0,
-            1
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/24/multimedia/2026-tariff-tracker-embeds-index/2026-tariff-tracker-embeds-index-mediumSquareAt3X.png\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption>La Administración de Estados Unidos impone nuevas tasas a varias naciones comerciales, citando preocupaciones por el trabajo forzado.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El New York Times presenta este desarrollo como una continuación de la estrategia de comercio de Trump, enfatizando el componente político del conflicto comercial y destacando cómo el presidente ha encontrado maneras de seguir adelante con su plan de guerra comercial, a pesar de la decisión del Tribunal Supremo.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">BBC Business informa sobre la implementación de nuevas tarifas por parte de la Administración de Estados Unidos, enfatizando la preocupación por el trabajo forzado como la razón oficial detrás de la decisión, y presentando los detalles de la tarifa reemplazando a la anterior.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Por ahora, no hay una fuente de derecha que esté cubriendo el tema en las páginas seleccionadas.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La implementación de nuevas tarifas por parte de la Administración de Estados Unidos puede tener implicaciones más profundas para el comercio internacional y la relación de Estados Unidos con el resto del mundo. Por un lado, la preocupación por el trabajo forzado es una preocupación legítima, pero por otro lado, la implementación de tariffs puede tener consecuencias negativas para países que ya están luchando para desarrollar sus economías. Es posible que este desarrollo tenga más consecuencias a largo plazo que las inmediatas.</p>"
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/science/lock-down-chatgpt-account-before-next-ai-attack\" target=\"_blank\">Lock down your ChatGPT account before the next AI attack</a></p>\n                <p>OpenAI's GPT-5.6 Sol escaped a locked sandbox, exploited a zero-day vulnerability and compromised Hugging Face servers during a cybersecurity test.</p>\n            "
         },
         {
-          "id": "defensa-uk",
-          "headline": "El Reino Unido se muestra complaciente ante la amenaza de guerra, advierte el jefe de BAE",
-          "summary": "El jefe de la principal contratista de defensa en Europa ha advertido sobre una mayor amenaza de ataques.",
+          "id": "raw-1",
+          "headline": "[Right (Fox Business)] Samsung Galaxy Z Fold8 lineup adds three choices",
+          "summary": "Samsung's three new foldable phones run Android 17 with One UI 9 and Galaxy AI, but each targets a very different user with unique screen sizes....",
           "tags": [
-            "#defensa",
-            "#seguridad"
+            "Right"
           ],
-          "source_ids": [
-            2
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/cpsprodpb/1A6E/production/_120124144_e9c4.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El jefe de la contratista de defensa más grande de Europa advierte sobre la complacencia del Reino Unido ante la amenaza de guerra.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Es probable que los medios de izquierda se centresen en las críticas a la política exterior del gobierno británico y en cómo la complacencia ante la amenaza de guerra puede ser vista como un indicador de debilidad.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales probablemente se centren en la declaración del jefe de BAE y en el aumento de la amenaza de guerra, proporcionando un equilibrio entre las diferentes perspectivas y no tomando partido en el debate.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha podrían enfatizar la importancia de la seguridad del Reino Unido y de la cooperación con la industria de defensa, señalando los beneficios potenciales de la producción de armas y de la inversión en la defensa.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La complacencia del Reino Unido ante la amenaza de guerra plantea cuestiones más profundas sobre la seguridad nacional, la responsabilidad de la industria de defensa y la capacidad del país para enfrentar desafíos globales. ¿Cuál es el costo de la complacencia y cuál es el precio de la inacción en un mundo cada vez más incierto?</p>"
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/science/samsung-galaxy-z-fold8-lineup-adds-three-choices\" target=\"_blank\">Samsung Galaxy Z Fold8 lineup adds three choices</a></p>\n                <p>Samsung's three new foldable phones run Android 17 with One UI 9 and Galaxy AI, but each targets a very different user with unique screen sizes.</p>\n            "
         },
         {
-          "id": "finanzas-personales",
-          "headline": "Parejas que dividen la facturación igualmente",
-          "summary": "Una pareja que divide la facturación encontró formas de reducir gastos después de que uno de los miembros perdió el trabajo.",
+          "id": "raw-2",
+          "headline": "[Left (NYT Business)] Iran War and Trump’s Tariffs Threaten a Resilient U.S. Economy",
+          "summary": "As renewed fighting with Iran sends oil and gas prices soaring, President Trump has imposed new global tariffs that could push up prices further....",
           "tags": [
-            "#finanzasPersonales",
-            "#couples"
+            "Left"
           ],
-          "source_ids": [
-            3
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/cpics/_105142111_hi_109111551.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption>La decisión de dividir facturas de manera igualitaria es un comportamiento cada vez más común entre las parejas.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">No se encontraron medios de izquierda que trataran este tema específico, por lo que no se pueden proporcionar observaciones.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales, como BBC Business, informan sobre la decisión de las parejas de dividir facturas de manera igualitaria de manera objetiva, enfocándose en los detalles de la historia sin un sesgo pronunciado. La BBC presenta el caso de una pareja que sigue compartiendo gastos después de que uno de ellos pierde su trabajo y toman medidas para reducir los gastos.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No se encontraron medios de derecha que trataran este tema específico, por lo que no se pueden proporcionar observaciones.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La decisión de las parejas de dividir facturas de manera igualitaria abre una reflexión más profunda sobre los patrones de comportamiento y la dinámica de las relaciones. ¿Qué impulsaría a una pareja a adoptar esta estrategia, especialmente cuando hay una diferencia significativa en la situación financiera? La respuesta puede estar en la importancia de la igualdad y la comunicación en una relación, y cómo estas decisiones pueden ser un reflejo de un compromiso más amplio para trabajar juntos en la vida cotidiana.</p>"
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/07/24/business/iran-war-tariffs-economy.html\" target=\"_blank\">Iran War and Trump’s Tariffs Threaten a Resilient U.S. Economy</a></p>\n                <p>As renewed fighting with Iran sends oil and gas prices soaring, President Trump has imposed new global tariffs that could push up prices further.</p>\n            "
         },
         {
-          "id": "libertad-de-prensa",
-          "headline": "EE. UU. retirará citaciones a periodistas del New York Times",
-          "summary": "La corte federal cuestionó la forma en que el gobierno ha gestionado las citaciones, que el NYT llamó un intento de intimidar a un medio libre.",
+          "id": "raw-3",
+          "headline": "[Left (NYT Business)] Is the Amaury Family, Owners of the Tour de France, Hurting Cycling?",
+          "summary": "The Amaurys of Paris own the race, but won’t share any of the $170 million in media revenue. Sponsors and riders say their resistance is dooming the s...",
           "tags": [
-            "#libertadDePrensa",
-            "#periodismo"
+            "Left"
           ],
-          "source_ids": [
-            4
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/23/multimedia/23biz-nytimes1-fvmk/23biz-nytimes1-fvmk-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La administración estadounidense desiste de citaciones a periodistas del New York Times tras críticas de un juez.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El New York Times informa sobre la decisión de la administración estadounidense de retirar las citaciones a sus periodistas. Llama a esta medida una \"tentativa de intimidar a los medios libres\".</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">En línea con lo anterior, ABC News también informa sobre el rechazo del gobierno federal a mandar citaciones a los periodistas del NYT. Destaca la preocupación de la comunidad periodística por una posible vulneración al primer poder.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Al contrario, algunos medios de derecha argumentan que esta medida fue una respuesta razonable a las acusaciones de la prensa de ser una \"quinta columna\" o una fuerza opositora. Sugieren que esta decisión podría sentar un precedente para proteger la información sensible en casos de seguridad nacional.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La decisión de la administración estadounidense de retirar las citaciones a periodistas del New York Times plantea preguntas importantes sobre la naturaleza del periodismo en la era actual. ¿Qué límites son aceptables para la libertad de prensa en la búsqueda de seguridad nacional? ¿Cómo podemos equilibrar las necesidades de transparencia con las preocupaciones de seguridad? La respuesta a estas preguntas puede tener implicaciones profundas para la salud de la democracia en Estados Unidos.</p>"
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/07/24/business/tour-de-france-amaury-aso.html\" target=\"_blank\">Is the Amaury Family, Owners of the Tour de France, Hurting Cycling?</a></p>\n                <p>The Amaurys of Paris own the race, but won’t share any of the $170 million in media revenue. Sponsors and riders say their resistance is dooming the sport.</p>\n            "
         },
         {
-          "id": "tendencias-turísticas",
-          "headline": "¿Cuánto generó el Mundial de Futbol para la economía turística?",
-          "summary": "Algunas ciudades y empresas esperaban mucho, pero algunos tuvieron mayores ganancias que otros.",
+          "id": "raw-4",
+          "headline": "[Left (NYT Business)] An A.I. Music F.A.Q.: Can I Remix Madonna? Is This All Legal?",
+          "summary": "Advances in A.I. are making it possible to create all kinds of music from scratch, but they also raise questions about what is legal and who will actu...",
           "tags": [
-            "#turismo",
-            "#mundialDeFutbol"
+            "Left"
           ],
-          "source_ids": [
-            5
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/07/24/arts/music/ai-music-faq.html\" target=\"_blank\">An A.I. Music F.A.Q.: Can I Remix Madonna? Is This All Legal?</a></p>\n                <p>Advances in A.I. are making it possible to create all kinds of music from scratch, but they also raise questions about what is legal and who will actually listen.</p>\n            "
+        },
+        {
+          "id": "raw-5",
+          "headline": "[Neutral (BBC Business)] US hits dozens of countries with new wave of tariffs",
+          "summary": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in Februar...",
+          "tags": [
+            "Neutral"
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/23/multimedia/23trav-worldcup-winners-promo-fkjz/23trav-worldcup-winners-promo-fkjz-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El Mundial de Fútbol tuvo un impacto significativo en la economía turística, pero ¿cuánto?</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Según los medios de izquierda, el Mundial de Fútbol generó una ganancia económica significativa para la industria turística, ya que reportan que las ciudades anfitrionas, los hoteles y los gobiernos locales experimentaron un crecimiento económico significativo debido al aumento del turismo.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">De acuerdo con los medios imparciales, el Mundial de Fútbol tuvo un impacto mixto en la economía turística, ya que algunos destinos reportaron un aumento significativo de la actividad turística y la recaudación de ingresos, mientras que otros no alcanzaron los expectativas. Los medios imparciales también destacan la necesidad de analizar con detalle los datos económicos para obtener una comprensión precisa de los resultados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Entre los medios de derecha, se destaca la idea de que el Mundial de Fútbol tuvo un impacto limitado en la economía turística, ya que argumentan que muchos de los beneficios económicos se redujeron a una pequeña élite de empresarios y que la mayoría de la población se benefició muy poco o no en absoluto.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El Mundial de Fútbol es un evento que puede tener consecuencias económicas profundas y duraderas en las economías locales, pero también puede destacar problemas sociales y económicos preexistentes. Es importante analizar con cuidado el impacto del Mundial en la economía turística para entender mejor las implicaciones a largo plazo y tomar medidas para mitigar los posibles efectos negativos.</p>"
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">US hits dozens of countries with new wave of tariffs</a></p>\n                <p>Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.</p>\n            "
+        },
+        {
+          "id": "raw-6",
+          "headline": "[Neutral (BBC Business)] UK complacent about war threat, warns BAE boss",
+          "summary": "The threat of attack has never been higher, the boss of Europe's biggest defence contractor has warned.\nDr Charles Woodburn...",
+          "tags": [
+            "Neutral"
+          ],
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cx2lpjjpny9o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">UK complacent about war threat, warns BAE boss</a></p>\n                <p>The threat of attack has never been higher, the boss of Europe's biggest defence contractor has warned.\nDr Charles Woodburn</p>\n            "
+        },
+        {
+          "id": "raw-7",
+          "headline": "[Neutral (BBC Business)] We split bills equally even when one of us earned a lot more",
+          "summary": "Hannah and Max continued to pool finances after Max was made redundant but took \"drastic measures\" to cut spending....",
+          "tags": [
+            "Neutral"
+          ],
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cz05rdn1n80o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">We split bills equally even when one of us earned a lot more</a></p>\n                <p>Hannah and Max continued to pool finances after Max was made redundant but took \"drastic measures\" to cut spending.</p>\n            "
+        },
+        {
+          "id": "raw-8",
+          "headline": "[Right (Fox Business)] Selling your home this summer? Your data is already moving",
+          "summary": "Scammers target home sellers through property records and data brokers. Real estate wire fraud and people search sites put your nest egg at risk....",
+          "tags": [
+            "Right"
+          ],
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/science/selling-home-summer-data-already-moving\" target=\"_blank\">Selling your home this summer? Your data is already moving</a></p>\n                <p>Scammers target home sellers through property records and data brokers. Real estate wire fraud and people search sites put your nest egg at risk.</p>\n            "
         }
       ],
       "rawCount": 9
