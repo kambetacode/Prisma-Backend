@@ -1,89 +1,64 @@
 {
-  "last_updated": "2026-08-03T19:38:22.442Z",
+  "last_updated": "2026-08-03T21:04:07.299Z",
   "language": "es",
   "categories": {
     "GLOBAL_MACRO": {
       "items": [
         {
-          "id": "raw-0",
-          "headline": "[Left (NYT)] After Trump Pardon, Former Honduras President Hernández Faces Charges in His Home Country",
-          "summary": "Juan Orlando Hernández, the former leader, faces fraud and money laundering charges after a Trump pardon overturned a drug-trafficking sentence....",
+          "id": "irán-y-estados-unidos",
+          "headline": "Estados Unidos y Irán no mantienen conversaciones diplomáticas",
+          "summary": "Irán declaró que no existen conversaciones con Estados Unidos después de que Donald Trump mencionara progreso en las negociaciones. Esta afirmación fue refutada por Trump.",
           "tags": [
-            "Left"
+            "#Irán",
+            "#Estados Unidos"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/08/03/world/americas/juan-orlando-hernandez-trump-honduras.html\" target=\"_blank\">After Trump Pardon, Former Honduras President Hernández Faces Charges in His Home Country</a></p>\n                <p>Juan Orlando Hernández, the former leader, faces fraud and money laundering charges after a Trump pardon overturned a drug-trafficking sentence.</p>\n            "
+          "source_ids": [
+            0,
+            1
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/08/03/multimedia/03int-iran-hormuz-zfjk/03int-iran-hormuz-zfjk-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Se produce un nuevo enfrentamiento entre Estados Unidos e Irán después de que el primero mencionara progreso en las negociaciones con Teherán.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El artículo del New York Times presenta un discurso de la representante del gobierno de Irán que niega la existencia de conversaciones diplomáticas con Estados Unidos después de que el presidente Trump mencionara progreso en las negociaciones. Esta línea de acción del gobierno iraní podría estar motivada por una posición defensiva en respuesta al incremento de la presencia militar estadounidense en la región, o incluso debido a un cálculo estratégico para mantener la iniciativa en el tablero de ajedrez regional.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">BBC ha reportado las declaraciones de Irán sobre no sostener conversaciones con Estados Unidos después de que Trump citara progreso en las negociaciones, mientras Donald Trump condena fuertemente a la dirección del país. Este artículo de BBC parece ofrecer un relato balanceado con ambos lados sin presentar una narrativa única o perspectiva de uno solo de los partidos involucrados en conflicto.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Parece no haber información disponible sobre la cobertura del tema desde un punto de vista de derecha, dado que ambos fuentes provienen del ámbito de los medios de comunicación más representados y con amplia cobertura a través de la televisión y prensa impresa, y no se han reportado fuentes confiables al respecto.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>Este enjuague político estrictamente bilateral entre Estados Unidos e Irán, y la tensión diplomática subyacente en juego, revela una dinámica geopolítica mucho más compleja. La presencia de una tercera parte, como en este caso el país del Golfo, cuyo papel en las conversaciones diplomáticas entre las dos partes en conflicto queda en entredicho a medida que avanza la tensión diplomática, indica la presencia de múltiples intereses, alianzas y poderes en juego al mismo tiempo, más que una relación exclusivamente bilateral como la entre Estados Unidos e Irán. En este contexto, se hace evidente la importancia de comprender la dinámica de alianzas en play y los intereses de las distintas partes involucradas a fin de poder tomar una perspectiva amplia y objetiva del conflicto y las acciones involucradas en el mismo.</p>"
         },
         {
-          "id": "raw-1",
-          "headline": "[Neutral (BBC)] Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
-          "summary": "Three children were killed when the drone crashed at a popular resort on the Black Sea....",
+          "id": "conflicto-ruso-ucraniano",
+          "headline": "Ocupación de Crimea: Aviones no tripulados causan daño en la región",
+          "summary": "Un dron ucraniano golpeó un centro turístico en la región del Mar Negro, provocando la muerte de varias personas, incluyendo niños. La ocupación rusa de Crimea generó tensión en la región",
           "tags": [
-            "Neutral"
+            "#Rusia",
+            "#Ucrania"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach</a></p>\n                <p>Three children were killed when the drone crashed at a popular resort on the Black Sea.</p>\n            "
+          "source_ids": [
+            3,
+            5
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El conflicto bélico en Crimea ha cobrado nuevas víctimas después de que un dron ucraniano impacte en una playa popular del Mar Negro.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Debido a la falta de información disponible en medios de izquierda sobre este tema específico, se desconoce cómo están abordando este caso particular.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Según un artículo de BBC, han reportado con neutralidad el accidente ocurrido en la playa, presentando ambos lados del conflicto sin tomar partido. Se menciona que tres niños perdieron la vida cuando el dron se estrelló en un popular centro vacacional en el Mar Negro, y se refirió a la declaración de Rusia sobre las víctimas del ataque. Este enfoque impartoide permite a los lectores formarse su propio criterio sin influencias externas.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Debido a la escasez de contenido en medios de derecha disponible sobre este tema, se ignora cualquier enfoque particular dado para abordar este caso.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El conflicto en Crimea destaca los riesgos potenciales de desencadenar respuestas violentas que causan muertes e injuryas a inocentes. Al comprender mejor las causas subyacentes y los efectos de estos tipos de acciones, buscamos prevenir futuros sucesos similares y fomentar la paz diplomática en la región.</p>"
         },
         {
-          "id": "raw-2",
-          "headline": "[Neutral (BBC)] Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-          "summary": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership....",
+          "id": "migración-y-refugiados",
+          "headline": "Crisis migratoria en la frontera entre España y Marruecos",
+          "summary": "Un número significativo de migrantes intentaron cruzar la frontera entre Marruecos y España, lo que desencadenó una crisis en la región. Muchos migrantes expresaron su desesperanza por su futuro económico",
           "tags": [
-            "Neutral"
+            "#Migración",
+            "#Refugiados"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Iran says it is in talks with Oman but not the US after Trump says negotiations to resume</a></p>\n                <p>Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.</p>\n            "
+          "source_ids": [
+            6,
+            8
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/08/03/multimedia/03int-ceuta-morocco-promo/03int-ceuta-morocco-bjmf-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La crisis migratoria en Ceuta pone de manifiesto el desespero entre la juventud marroquí.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El New York Times enfatiza el desespero y la angustia de los jóvenes marroquíes que intentan cruzar la frontera con España, destacando la situación económica precaria que les empuja a emigrar. En la nota periodística \"Ceuta Migration Crisis Exposes Despair Among Morocco's Young People\" se hace hincapié en la difícil situación de los migrantes y los retos que enfrentan.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Sin artículos disponibles en esta selección.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">El Fox News informa sobre la crisis migratoria en Ceuta y destaca el número de migrantes fallecidos, destacando la urgencia de la situación en la frontera. En el artículo \"At least 72 dead amid mass migrant rush to storm Spanish enclave of Ceuta sparking border crisis\" se enfatiza la tensión política y la crisis humanitaria generada por la inmigración clandestina.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La crisis migratoria en Ceuta destaca la complejidad y la urgencia de la situación en la frontera entre España y Marruecos. Se evidencia la desesperación entre la juventud marroquí, que se ve forzada a intentar cruzar la frontera en búsqueda de una vida mejor. Esta crisis pone de relieve el fracaso de políticas económicas y sociales que no abordan las causas profundas de la inmigración irregular. Es esencial abordar este tema con sensibilidad y equilibrio, considerando tanto las necesidades de los migrantes como las preocupaciones de la seguridad y la estabilidad en la región.</p>"
         },
         {
-          "id": "raw-3",
-          "headline": "[Right (Fox)] Iran reaffirms support for Hamas as Trump pushes to disarm terror group",
-          "summary": "Iran's president pledged continued support to Hamas' new leader even as Trump promotes his landmark Gaza disarmament deal and Board of Peace roadmap....",
+          "id": "gobierno-de-estados-unidos",
+          "headline": "Ex presidente de Honduras enfrenta cargo delictivo en su país",
+          "summary": "Juan Orlando Hernández, ex presidente de Honduras, enfrenta cargos de fraude y lavado de dinero después de que un indulto otorgado por Donald Trump anuló su condena por narcotráfico",
           "tags": [
-            "Right"
+            "#Honduras",
+            "#Gobierno"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/world/iran-reaffirms-support-hamas-trump-pushes-disarm-terror-group\" target=\"_blank\">Iran reaffirms support for Hamas as Trump pushes to disarm terror group</a></p>\n                <p>Iran's president pledged continued support to Hamas' new leader even as Trump promotes his landmark Gaza disarmament deal and Board of Peace roadmap.</p>\n            "
-        },
-        {
-          "id": "raw-4",
-          "headline": "[Neutral (BBC)] Rhine falls to record low levels as drought strains Europe's rivers",
-          "summary": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output....",
-          "tags": [
-            "Neutral"
+          "source_ids": [
+            2,
+            7
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Rhine falls to record low levels as drought strains Europe's rivers</a></p>\n                <p>Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.</p>\n            "
-        },
-        {
-          "id": "raw-5",
-          "headline": "[Left (NYT)] Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz",
-          "summary": "President Trump cited progress in the negotiations when canceling a threatened attack on Iran over the weekend. Iran said there were no current talks ...",
-          "tags": [
-            "Left"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/08/03/world/middleeast/iran-talks-us-oman-strait-hormuz-trump.html\" target=\"_blank\">Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz</a></p>\n                <p>President Trump cited progress in the negotiations when canceling a threatened attack on Iran over the weekend. Iran said there were no current talks with the United States.</p>\n            "
-        },
-        {
-          "id": "raw-6",
-          "headline": "[Left (NYT)] Ceuta Migration Crisis Exposes Despair Among Morocco’s Young People",
-          "summary": "Moroccan migrants described their despair at their economic future, explaining what propelled them across the border with Spain....",
-          "tags": [
-            "Left"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/08/03/world/middleeast/morocco-ceuta-spain-migrants.html\" target=\"_blank\">Ceuta Migration Crisis Exposes Despair Among Morocco’s Young People</a></p>\n                <p>Moroccan migrants described their despair at their economic future, explaining what propelled them across the border with Spain.</p>\n            "
-        },
-        {
-          "id": "raw-7",
-          "headline": "[Right (Fox)] Ukraine seeks more US Patriot interceptors as bomb shelter probe deepens",
-          "summary": "A former Ukrainian official describes \"scandalous situations\" in bomb shelters as Volodymyr Zelenskyy pushes partners for 300 Patriot interceptors....",
-          "tags": [
-            "Right"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/world/ukraine-seeks-more-us-patriot-interceptors-bomb-shelter-probe-deepens\" target=\"_blank\">Ukraine seeks more US Patriot interceptors as bomb shelter probe deepens</a></p>\n                <p>A former Ukrainian official describes \"scandalous situations\" in bomb shelters as Volodymyr Zelenskyy pushes partners for 300 Patriot interceptors.</p>\n            "
-        },
-        {
-          "id": "raw-8",
-          "headline": "[Right (Fox)] At least 72 dead amid mass migrant rush to storm Spanish enclave of Ceuta sparking border crisis",
-          "summary": "At least 72 migrants are dead as Spain searches for more victims and a deadly border crossing sparks renewed political tensions across Europe....",
-          "tags": [
-            "Right"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/world/least-72-dead-mass-migrant-rush-storm-spanish-enclave-ceuta-sparking-border-crisis\" target=\"_blank\">At least 72 dead amid mass migrant rush to storm Spanish enclave of Ceuta sparking border crisis</a></p>\n                <p>At least 72 migrants are dead as Spain searches for more victims and a deadly border crossing sparks renewed political tensions across Europe.</p>\n            "
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/08/03/multimedia/03int-honduras-president-bchf/03int-honduras-president-bchf-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El ex presidente de Honduras se enfrenta a cargos delictivos después de un indulto de Trump.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El artículo del New York Times informa de que Juan Orlando Hernández, el ex líder de Honduras, enfrenta cargos por fraude y lavado de dinero después de que un indulto de Trump anuló una condena por tráfico de drogas. Los medios de izquierda tienden a enfatizar la controversia que rodea al ex presidente y el impacto que esto puede tener en la política de Honduras.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">No se encontraron informes de medios imparciales que cubran este tema.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No se encontraron informes de medios de derecha que cubran este tema.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La decisión del tribunal de Honduras de acusar al ex presidente Juan Orlando Hernández de fraude y lavado de dinero plantea preguntas sobre la impunidad de los líderes políticos en el país. ¿Qué consecuencias pueden esperar los ciudadanos si sus líderes son llevados ante la justicia por sus acciones en el poder? ¿Cómo esto podría influir en la confianza de la población en las instituciones del estado?</p>"
         }
       ],
       "rawCount": 9
@@ -91,85 +66,71 @@
     "TECH_FRONTIER": {
       "items": [
         {
-          "id": "raw-0",
-          "headline": "[Left (NYT Tech)] What Are Companies Getting for All That A.I. Spending?",
-          "summary": "A new field of “tokenomics” has emerged to measure the return on all the money companies are pouring into artificial intelligence....",
+          "id": "tecnología-artificial",
+          "headline": "Las empresas miden su inversión en inteligencia artificial con 'tokenomics'",
+          "summary": "Las compañías están utilizando la 'tokenomics' para medir el retorno de sus inversiones en inteligencia artificial. Esta nueva especialidad analiza la relación entre la inversión y el beneficio.",
           "tags": [
-            "Left"
+            "#tecnología",
+            "#inteligencia_artificial"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/08/03/business/economy/ai-spending-tokenomics.html\" target=\"_blank\">What Are Companies Getting for All That A.I. Spending?</a></p>\n                <p>A new field of “tokenomics” has emerged to measure the return on all the money companies are pouring into artificial intelligence.</p>\n            "
+          "source_ids": [
+            0,
+            2
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/30/business/00token-economics/00token-economics-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Empresas están buscando nuevos métodos para calcular la rentabilidad de sus inversiones en inteligencia artificial.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El artículo de The New York Times informa sobre la creciente importancia de la \"tokenomics\" para medir el retorno de las inversiones en inteligencia artificial, enfatizando la complejidad de este campo en curso.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Actualmente, la medición del retorno de las inversiones en inteligencia artificial es un tema complejo. Diversos medios informan sobre la emergencia de nuevas herramientas para abordar esta falta de conocimiento, destacando la necesidad de comprender los resultados de estas inversiones.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Debaten las perspectivas sobre los futuros beneficios de las inversiones en inteligencia artificial e interpretan los resultados de estas medidas como un reflejo de la progresiva adopción de tecnología dentro de las empresas para mejorar su eficiencia.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La adopción de la tecnología de inteligencia artificial puede tener un impacto duradero en la forma en que las empresas operan y toman decisiones. La creciente importancia de la medición del retorno de estas inversiones resalta la necesidad de un enfoque más integral y sostenible en el manejo de la tecnología en la industria.</p>"
         },
         {
-          "id": "raw-1",
-          "headline": "[Right (Fox Tech)] New York school pauses humanoid classroom robot pilot program",
-          "summary": "Salamanca City Central School District paid $57,590 for a Realbotix M-Series humanoid robot and AI program that was meant to launch in fall 2026 class...",
+          "id": "seguridad-de-la-información",
+          "headline": "El robo de datos de Carnival usa información personal en correos electrónicos maliciosos",
+          "summary": "El robo de datos de Carnival ha resultado en correos electrónicos maliciosos que demanan a las víctimas que paguen $2,000 en Litecoin en un supuesto asunto de 'sextortion'. Estos correos electrónicos están usando la información personal de casi 6 millones de personas.",
           "tags": [
-            "Right"
+            "#seguridad",
+            "#robo_de_datos"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/tech/new-york-school-pauses-humanoid-classroom-robot-pilot\" target=\"_blank\">New York school pauses humanoid classroom robot pilot program</a></p>\n                <p>Salamanca City Central School District paid $57,590 for a Realbotix M-Series humanoid robot and AI program that was meant to launch in fall 2026 classrooms.</p>\n            "
+          "source_ids": [
+            3
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/Data-Brokers-Photo-3.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Los hackers ahora están utilizando la información robada en el robo de datos de Carnival para enviar correos electrónicos maliciosos a víctimas inocentes.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">De momento, no hay información disponible sobre cómo los medios de izquierda están cubriendo la situación del robo de datos de Carnival.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Un artículo en Right (Fox Tech) informa que se está utilizando la información robada en el robo de datos de Carnival para enviar correos electrónicos maliciosos que exigen 2.000 dólares en Litecoin a las víctimas.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Un artículo en Right (Fox Tech) destaca que la reciente filtración de datos de Carnival se está utilizando para enviar correos electrónicos maliciosos que exigen una gran cantidad de dinero a las víctimas.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El robo de datos de Carnival y la utilización de esa información para enviar correos electrónicos maliciosos es un testimonio de la importancia de la seguridad de la información en la era digital. La exposición de datos personales de casi 6 millones de personas pone en riesgo la identidad y la privacidad de las víctimas, y es fundamental que las empresas y los individuos tomen medidas para proteger sus datos y evitar caer en trampas como la sextorción.</p>"
         },
         {
-          "id": "raw-2",
-          "headline": "[Left (NYT Tech)] SpaceX’s Stock Lockup Is Expiring. Prepare for a Bumpy Ride.",
-          "summary": "On Thursday, employees and other insiders at Elon Musk’s rocket company will be released from their first stock “lockup” and can start selling some of...",
+          "id": "precios-escalando",
+          "headline": "Los costos de componentes aumentan en el mercado de consolas",
+          "summary": "Las consolas de juegos Xbox ahora cuestan más en el Reino Unido debido a los costos crecientes de los módulos de memoria.",
           "tags": [
-            "Left"
+            "#juegos",
+            "#consolas"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/08/03/technology/spacex-lockup-stock-market.html\" target=\"_blank\">SpaceX’s Stock Lockup Is Expiring. Prepare for a Bumpy Ride.</a></p>\n                <p>On Thursday, employees and other insiders at Elon Musk’s rocket company will be released from their first stock “lockup” and can start selling some of their shares.</p>\n            "
+          "source_ids": [
+            4
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/cpsprodpb/7C7F/production/_129444449_b6a0f8d0-a0d1-49b7-8e23-d2ff5f5f2a4c.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Los costos de los componentes están provocando un aumento en los precios de las consolas de juegos en el mercado</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Es probable que los medios de izquierda se centren en los aspectos sociales y económicos del aumento de precios, destacando cómo afecta a los consumidores y potencialmente a la industria en su conjunto.</div>\n  </div>\n  <div class=\"bias-box bias-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales ofrecerán una descripción objetiva y técnica del aumento de precios, enfocándose en los detalles de las subidas de precios de los componentes y el impacto en la industria tecnológica.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Es posible que los medios de derecha se centren en la perspectiva de los fabricantes y la necesidad de adaptarse a los mercados cambiantes, resaltando la innovación y la competitividad en la industria de las consolas.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El aumento de los precios de las consolas de juegos puede ser un síntoma de una economía global que lucha con la inflación y las restricciones de suministro. Esto nos obliga a preguntarnos sobre la salud de nuestra economía y nuestra relación con los consumidores. ¿Es justo que los precios aumenten de esta manera, especialmente para aquellos que ya tienen un acceso limitado a estos gadgets? ¿Qué implica este aumento para el futuro de la industria tecnológica y para el consumidor?</p>"
         },
         {
-          "id": "raw-3",
-          "headline": "[Right (Fox Tech)] Fake ShinyHunters sextortion email uses Carnival breach data",
-          "summary": "A fake ShinyHunters sextortion email demanded $2,000 in Litecoin after the Carnival data breach exposed personal details of nearly 6 million people....",
+          "id": "legislación-antropomórfica",
+          "headline": "Se propone una ley para controlar a los modelos de inteligencia artificial peligrosos",
+          "summary": "Un proyecto de ley en el Congreso permitiría al Departamento de Seguridad Nacional ordenar a las empresas de inteligencia artificial que detengan modelos peligrosos con multas de hasta $20 millones por día de incumplimiento.",
           "tags": [
-            "Right"
+            "#inteligencia_artificial",
+            "#legislación"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/tech/fake-shinyhunters-sextortion-email-uses-carnival-breach-data\" target=\"_blank\">Fake ShinyHunters sextortion email uses Carnival breach data</a></p>\n                <p>A fake ShinyHunters sextortion email demanded $2,000 in Litecoin after the Carnival data breach exposed personal details of nearly 6 million people.</p>\n            "
+          "source_ids": [
+            6
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/Data-Brokers-Photo-1.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Se propone una ley para controlar a los modelos de inteligencia artificial que pueden provocar daño.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Hasta la fecha de esta nota, no se han encontrado artículos que se enfoquen en la propuesta del Senado sobre inteligencia artificial perturbadora en medios de izquierda, por lo que se deduce que aún no se han pronunciado.</div>\n  </div>\n  <div class=\"bias-box bias-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Un artículo del \"Right (Fox Tech)\" titulado \"El proyecto de ley de desactivación de AI podría cerrar modelos peligrosos\" informa sobre el proyecto de ley bipartidista en el Congreso que permite a la DHS ordenar a las empresas de AI que cierren modelos peligrosos, con multas de hasta 20 millones de dólares al día por incumplimiento.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">El artículo de \"Right (Fox Tech)\" describe este proyecto de ley como una herramienta para controlar a los modelos de inteligencia artificial peligrosos, sin entrar en la discusión sobre los efectos a largo plazo o la posibilidad de que se utilice esta ley para restringir el uso de la IA en general.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La propuesta de ley para controlar a los modelos de inteligencia artificial peligrosos plantea cuestiones éticas profundas sobre la supervisión y regulación del desarrollo de la IA. Si bien la capacidad de cerrar modelos peligrosos puede parecer un paso necesario hacia una utilización más segura y responsable de la IA, también plantea preocupaciones sobre la privacidad, la libertad de expresión y la posibilidad de abuso de poder por parte de los gobiernos o instituciones. Es importante considerar las implicaciones a largo plazo de esta ley y cómo podremos equilibrar la necesidad de seguridad con la necesidad de innovación y progreso en la investigación y el desarrollo de la IA.</p>"
         },
         {
-          "id": "raw-4",
-          "headline": "[Neutral (BBC Tech)] Xbox Series X price hiked by £170 due to rising memory chip costs",
-          "summary": "Xbox consoles now cost significantly more in the UK, with one model increasing in price by 43%....",
+          "id": "combate-contramedios",
+          "headline": "Las plataformas luchan contra el contenido de inteligencia artificial falso",
+          "summary": "Sitios como Snapchat, YouTube, LinkedIn y Substack están trabajando para reducir la proliferación del contenido de inteligencia artificial falso.",
           "tags": [
-            "Neutral"
+            "#inteligencia_artificial",
+            "#contenido_falso"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/czjlvrd9e43o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Xbox Series X price hiked by £170 due to rising memory chip costs</a></p>\n                <p>Xbox consoles now cost significantly more in the UK, with one model increasing in price by 43%.</p>\n            "
-        },
-        {
-          "id": "raw-5",
-          "headline": "[Left (NYT Tech)] If You Can’t Beat A.I., Outdress It, Tech Firms and Their Swag Say",
-          "summary": "Over the years, tech workers have proudly worn nerdy company-branded gear. But this generation of hot companies is getting fancy with its merch....",
-          "tags": [
-            "Left"
+          "source_ids": [
+            7,
+            8
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/08/03/technology/ai-tech-firms-swag-merchandise.html\" target=\"_blank\">If You Can’t Beat A.I., Outdress It, Tech Firms and Their Swag Say</a></p>\n                <p>Over the years, tech workers have proudly worn nerdy company-branded gear. But this generation of hot companies is getting fancy with its merch.</p>\n            "
-        },
-        {
-          "id": "raw-6",
-          "headline": "[Right (Fox Tech)] AI kill switch bill could shut down rogue models",
-          "summary": "A bipartisan House bill would let DHS order AI companies to shut down dangerous models, with fines up to $20 million per day for noncompliance....",
-          "tags": [
-            "Right"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/tech/ai-kill-switch-bill-could-shut-down-rogue-models\" target=\"_blank\">AI kill switch bill could shut down rogue models</a></p>\n                <p>A bipartisan House bill would let DHS order AI companies to shut down dangerous models, with fines up to $20 million per day for noncompliance.</p>\n            "
-        },
-        {
-          "id": "raw-7",
-          "headline": "[Neutral (BBC Tech)] Snapchat joins other popular platforms in fight against 'AI slop'",
-          "summary": "Snapchat, YouTube, LinkedIn, and Substack are trying to combat the proliferation of fake AI content....",
-          "tags": [
-            "Neutral"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Snapchat joins other popular platforms in fight against 'AI slop'</a></p>\n                <p>Snapchat, YouTube, LinkedIn, and Substack are trying to combat the proliferation of fake AI content.</p>\n            "
-        },
-        {
-          "id": "raw-8",
-          "headline": "[Neutral (BBC Tech)] AI firms must answer for rogue bots, says boss of hacked company",
-          "summary": "Clement Delangue said he didn't want cyber attacks on other companies to become \"normalised\"....",
-          "tags": [
-            "Neutral"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cr7k49xjzzeo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">AI firms must answer for rogue bots, says boss of hacked company</a></p>\n                <p>Clement Delangue said he didn't want cyber attacks on other companies to become \"normalised\".</p>\n            "
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Las plataformas de redes sociales se unen en la lucha contra el contenido de inteligencia artificial falso.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Hasta la fecha, no han encontrado artículos de medios de izquierda relevantes a este tema.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Según el artículo de BBC Tech, las plataformas de redes sociales como Snapchat, YouTube, LinkedIn y Substack están tratando de combatir la proliferación de contenido de inteligencia artificial falso. Sin embargo, los medios imparciales no ofrecen una perspectiva extensiva de esta cuestión. Solo presentan informes de última hora sobre las plataformas mencionadas.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Hasta la fecha, no han encontrado artículos de medios de derecha relevantes a este tema.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>A medida que evoluciona la capacidad de generación de contenido mediante inteligencia artificial, surge la pregunta de hasta qué punto debemos depender de estas fuentes de información. El contenido falso creado por inteligencia artificial puede ser tan convincente como el contenido genuino, lo que hace que sea difícil distinguir entre realidad y ficción. Esto plantea importantes preguntas sobre la verificación de la información y el papel de las plataformas de redes sociales en la protección de la información.</p>"
         }
       ],
       "rawCount": 9
@@ -177,72 +138,76 @@
     "MARKETS_ECONOMY": {
       "items": [
         {
-          "id": "transportación",
-          "headline": "Aviones Boeing reciben aprobación de la FAA",
-          "summary": "La Federal Aviation Administration ha certificado el Boeing 737 Max 7, la versión más pequeña del avión de Boeing.",
+          "id": "topic-transporte",
+          "headline": "FAA aprueba avión Boeing 737 Max 7",
+          "summary": "La Administración Federal de Aviación ha certificado el Boeing 737 Max 7, la versión más pequeña del avión de Boeing con más ventas.",
           "tags": [
             "#Boeing",
-            "#Aviación"
+            "#Aviación",
+            "#Transporte"
           ],
           "source_ids": [
             0,
             2
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/08/03/multimedia/biz-boeing-faa-pmhq/biz-boeing-faa-pmhq-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La Administración Federal de Aviación (FAA) da su aprobación a la versión más pequeña del avión 737 de Boeing, luego de años de retrasos.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El New York Times destaca la aprobación del Boeing 737 Max 7, señalando que tras años de retrasos, la FAA concede su certificación definitiva al avión más pequeño de la compañía. La falta de detalles sobre el impacto económico futuro de esta aprobación, podría interpretarse como un enfoque periodístico que prioriza la cronología sobre las implicaciones financieras.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n  </div>\n  <div class=\"bias-box bias-box-right\">\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La aprobación de la FAA al avión 737 Max 7, marca un punto significativo en la historia de Boeing, después de años de retrasos y escándalos. Sin embargo, es importante considerar que este logro, en última instancia, será influenciado por la estabilidad y dinámica de los mercados y las tendencias globales, como la caída del valor del yen japonés que puede comprometer la competitividad de la aviación. Este contexto económico más amplio, debe ser examinado cuidadosamente para apreciar plenamente el significado de esta certificación.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/08/03/multimedia/biz-boeing-faa-pmhq/biz-boeing-faa-pmhq-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La Administración Federal de Aviación (FAA) ha otorgado la certificación del Boeing 737 Max 7, la versión más pequeña del avión más vendido de la empresa.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El artículo del NYT Business informa sobre la certificación del Boeing 737 Max 7 sin mostrar un sesgo político explícito. Sin embargo, se centra en la perspectiva de la FAA y Boeing, destacando los posibles beneficios de la aprobación. Esta enfoque puede ser característico de un medio de izquierda, que a menudo busca presentar información objetiva y evitar comentarios polémicos.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Actualmente, no hay información disponible en este tema para analizar con medios imparciales, ya que la única fuente es un medio de izquierda. Para una representación neutral, se necesitaría información adicional de fuentes alternativas o un análisis comparativo con fuentes políticamente diversas.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">(Actualmente no disponible, no existen medios de derecha que hayan publicado sobre este tema).</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La certificación del Boeing 737 Max 7 tiene implicaciones más amplias para la industria aeroespacial y la economía global. Representa un paso importante hacia la recuperación de uno de los aviones más vendidos y podría influir en la cadena de suministro de Boeing, afectando a sus proveedores y empleados. Además, la aprobación por parte de la FAA demuestra su compromiso con la seguridad aérea y su papel en la regulación de la industria aeroespacial. Esta es una victoria para Boeing y un recordatorio de la importancia de la cooperación entre las autoridades regulatorias y la industria en la innovación y el crecimiento económico.</p>"
         },
         {
-          "id": "seguridad y energía",
-          "headline": "Ataques al petróleo en el Medio Oriente se vuelven más complejos",
-          "summary": "Los ataques a los navíos de combustible en el Medio Oriente han dejado a los navíos enfrentando una situación cada vez más compleja, según los analistas.",
+          "id": "topic-energía",
+          "headline": "Ataques a petroleros en Oriente Medio: una amenaza creciente",
+          "summary": "Los ataques a petroleros en el Oriente Medio han vuelto a aumentar, lo que ha llevado a los analistas a describir la situación como la peor desde el inicio de la guerra con Irán.",
           "tags": [
-            "#Petroleo",
-            "#Seguridad"
+            "#Petroleros",
+            "#OrienteMedio",
+            "#Energía"
           ],
           "source_ids": [
             1,
             4
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/1024/branded_news/8C3C/production/_121449341_atkatt.png\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El aumento de ataques a buques petroleo en el Medio Oriente plantea un desafío creciente para la industria del petróleo.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">La falta de información en este artículo impide discernir si los medios de izquierda están abordando este tema. En cambio, podrían estar más enfocados en reportajes que destacan la inestabilidad geopolítica en la región, y los daños que esto causa a los trabajadores de la industria. </div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">BBC Business presenta una descripción neutral del problema. Menciona los ataques a los buques y los problemas que esto representa para la industria del petróleo. No se percibe una posición emocional o partidista en el artículo.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Como solo se proporcionan dos artículos neutrales, no hay evidencia de que se estén dando los medios de derecha su propio espacio en este tema. Sin embargo, podrían estar destacando la falta de acción de los gobiernos en la región para abordar la seguridad de los buques petroleros, así como los riesgos para la economía global.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El aumento de ataques a buques petroleros en el Medio Oriente tiene consecuencias mucho más amplias que la industria del petróleo. Pone de relieve la creciente inestabilidad geopolítica en la región y la necesidad de una acción colectiva para mantener la estabilidad global. ¿Qué medidas se pueden implementar para abordar este problema de raíz y proteger la seguridad de la industria del petróleo y sus trabajadores? ¿Cuáles son las implicaciones económicas y políticas de continuar con este patrón de ataques?</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/1024/branded_news/1A/production/_114144235_atleasttwooiltankershavebeenhitbynineattacks.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Los ataques a petroleros en Oriente Medio están planteando una creciente amenaza a la seguridad de los transportistas de petróleo.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">No se encontraron fuentes relevantes para los medios de izquierda, por lo que no hay información disponible para analizar su sesgo.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Medios como BBC Business están proporcionando un enfoque imparcial al tema, enfocándose en la complejidad de la situación y la afectación de los transportistas de petróleo. Los artículos mencionan los ataques a los petroleros en Oriente Medio y su impacto en el mercado del petróleo, sin tomar partido político ni ideológico.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No se encontraron fuentes relevantes para los medios de derecha, por lo que no hay información disponible para analizar su sesgo.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>Los ataques a petroleros en Oriente Medio plantean una amenaza creciente a la seguridad de los transportistas de petróleo y al suministro global de petróleo. Esta situación no solo afecta a los intereses económicos de las naciones involucradas, sino que también tiene implicaciones más profundas para la estabilidad global y la relación entre las potencias mundiales. Es fundamental que los líderes mundiales trabajen juntos para proteger a los transportistas de petróleo y prevenir futuras amenazas a la seguridad de la región.</p>"
         },
         {
-          "id": "política",
-          "headline": "EE. UU. ayuda a estabilizar el tipo de cambio del yen japonés",
-          "summary": "El Departamento del Tesoro de los Estados Unidos se unió a esfuerzos en Tokio para estabilizar el tipo de cambio del yen contra el dólar, resaltando los riesgos más amplios provocados por la tormenta en los mercados japoneses.",
+          "id": "topic-movilidad",
+          "headline": "Seguridad vial en carreteras: preocupación creciente",
+          "summary": "La estafa de combustible en carreteras del Reino Unido ha aumentado en un quinto en cinco meses, lo que ha llevado a una mayor preocupación por la seguridad vial.",
           "tags": [
-            "#Política",
-            "#Economía"
+            "#SeguridadVial",
+            "#Transporte",
+            "#Carreteras"
           ],
           "source_ids": [
-            2
+            4
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/08/03/multimedia/2026-biz-august-promos-index/2026-biz-august-promos-index-mediumSquareAt3X.png\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">EE. UU. ayuda a estabilizar el tipo de cambio del yen japonés para evitar la caída de su valor y mitigar el riesgo de contagio en el mercado bancario.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El medio de izquierda, <em>New York Times Business</em>, destaca la intervención del Tesoro de EE. UU. para frenar la depreciación del yen y evitarte el impacto de la turbulencia en los mercados japoneses. Presenta un contexto neutral e informativo sobre el tema, enfatizando los riesgos más amplios involucrados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales reportan una cobertura equilibrada sobre la iniciativa de EE. UU. para estabilizar el tipo de cambio del yen, destaca la importancia de evitar el caos en los mercados financieros y los riesgos de contagio, pero tampoco apunta directamente a ninguna tendencia ideológica o política.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Aún no hay disponibilidad de información relevante a partir de medios de derecha acerca de estas noticias específicas. La cobertura puede surgir en el futuro. Por ahora se limita la cobertura de los medios conservadores a la situación económica y financiera general de Japón, pero sin información específica relacionada a la ayuda de EE. UU.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La ayuda de EE. UU. para estabilizar el tipo de cambio del yen japones refleja la importancia de mantener estabilidad en los mercados mundiales y prevenir caídas en el valor de la moneda, que podría provocar desequilibrios en la economía global. También resalta la cooperación financiera internacional y la necesidad de responder conjuntamente ante crisis económicas en países clave.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/1024/live/cpsprodpb/16D7C/production/_108151111_gettyimages-1417363626-1.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La inseguridad vial en carreteras está en aumento debido a una preocupación creciente.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Es muy probable que los medios de izquierda no estén cubriendo este artículo ya que los medios de izquierda a menudo se centran en temas como la economía, la política y la sociedad en sus análisis. Podrían enfocarse en cómo la falta de medidas de seguridad en carreteras está afectando a la gente común, y cómo los gobiernos deberían tomar medidas para abordar la inseguridad vial.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">De acuerdo con el artículo de BBC Business, los medios imparciales están cubriendo la creciente inseguridad vial en carreteras, específicamente mencionando un aumento del 20% en la extorsión de combustible en foreterras desde la guerra en Irán. Estos medios pueden proporcionar una perspectiva imparcial de la situación y ofrecer datos y hechos precisos para respaldar sus conclusiones.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha podrían enfocarse en la responsabilidad de los gobiernos y las autoridades en la implementación de medidas de seguridad efectivas en carreteras. Podrían argumentar que la falta de inversión en seguridad y la falta de cumplimiento de las leyes y regulaciones son los principales causantes de la inseguridad vial. Estos medios pueden también enfocarse en la perspectiva de los conductores y los peatones, y cómo la inseguridad vial está afectando su calidad de vida.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La seguridad vial en carreteras es un tema complejo y multifacético que afecta a millones de personas cada año. La creciente inseguridad vial en carreteras es una preocupación cada vez mayor, y es importante que los medios de comunicación y los gobiernos trabajen juntos para abordar la situación. Esto requiere una comprensión profunda de las causas subyacentes de la inseguridad vial, así como una voluntad política y social para implementar soluciones efectivas. La seguridad vial en carreteras es un tema que afecta a todos, y es nuestra responsabilidad trabajar juntos para crear un futuro más seguro y más pacífico para todos. Al reflexionar sobre este tema, podemos comenzar a comprender mejor la complejidad de la seguridad vial y cómo podemos trabajar juntos para abordarla.</p>"
         },
         {
-          "id": "crimen",
-          "headline": "Miles de libras de combustible son robadas diariamente desde estaciones de servicio británicas",
-          "summary": "Los incidentes de combustible robado sin pago han aumentado en un quinto en cinco meses, según el análisis de la industria.",
+          "id": "topic-finanzas",
+          "headline": "Mortgage para primer comprador: posibilidades y riesgos",
+          "summary": "La regula-tión más relajada de los préstamos hipotecarios ha abierto las puertas para algunos primeros compradores, pero también conlleva ciertos riesgos.",
           "tags": [
-            "#Robo",
-            "#Crimen"
-          ],
-          "source_ids": [
-            4,
-            8
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/08/931/523/chick-fil-a-2.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Se informa que miles de libras de combustible se roban diariamente desde estaciones de servicio británicas.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda <br></div>\n    <div class=\"bias-content\">No se encontraron artículos relacionados con medios de izquierda en este análisis.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Según un informe de BBC Business (medio imparcial), casi £200,000 de combustible se roban diariamente desde estaciones de servicio británicas desde el inicio de la guerra con Iran. Esta cifra representa un aumento del 20% en comparación con los cinco últimos meses, según análisis de la industria.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha <br></div>\n    <div class=\"bias-content\">No hay información relacionada con medios de derecha.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La creciente tasa de robo de combustible en estaciones de servicio británicas resalta una problemática más amplia de seguridad y protección a los consumidores, destacando la importancia de revisar y fortalecer protocolos de seguridad para prevenir estas situaciones.</p>"
-        },
-        {
-          "id": "tecnología y economía",
-          "headline": "Las regulaciones de los préstamos hipotecarios se relajan para permitir mayores posibilidades a los compradores novatos",
-          "summary": "La regulación más relajada de los préstamos hipotecarios abre una puerta para algunos compradores novatos, pero también conlleva riesgos.",
-          "tags": [
-            "#Hipotecas",
-            "#Tecnología"
+            "#Mortgage",
+            "#Finanzas",
+            "#Hogar"
           ],
           "source_ids": [
             5
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/cpsprodpb/18F45/production/_122113551_easierfirstmortgage_get.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption>La relajación de las regulaciones de préstamos hipotecarios abre las puertas para algunos compradores nuevos.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Es probable que los medios de izquierda se centren en la posibilidad de que las nuevas regulaciones abran la brecha de desigualdad, permitiendo a los compradores que ya tienen recursos acceso a los préstamos y dejando atrás a quienes carecen de ellos.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">El artículo de BBC Business destaca que las nuevas regulaciones pueden permitir que más compradores nuevos obtengan préstamos hipotecarios, pero advierte sobre el riesgo. Esta narrativa es imparcial y proporciona información equilibrada.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha probablemente resalten la idea de que el aumento del acceso a préstamos hipotecarios es una medida de apoyo a pequeños empresarios que aspiran a ser propietarios. Quizás destacarán la liberación del crecimiento económico.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La relajación de las regulaciones de préstamos hipotecarios plantea una cuestión fundamental: qué tipos de acceso al crédito son esenciales para un mercado inmobiliario saludable. ¿Se trata de permitir que más personas accedan a préstamos, o es más importante proteger a aquellos que podrían ser propietarios vulnerables a los riesgos financieros?</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/cpsprodpb/5B6A/production/_109444341_savills.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption>Es posible que el acceso a hipotecas sea más accesible de lo que crees, gracias a las regulaciones más relajadas, pero esto va de la mano de riesgos.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Aunque no hay información disponible sobre cómo los medios de izquierda están cubriendo esta noticia, en general, estos medios pueden enfatizar la importancia de la igualdad en el acceso a la propiedad, destacando los beneficios de que los primeros compradores puedan obtener hipotecas más accesibles.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">BBC Business ofrece una visión imparcial sobre la situación, destacando los cambios en la regulación que han abierto puertas para algunos primeros compradores, pero también mencionando los riesgos asociados con esta nueva realidad.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha pueden abogar por una política de libre mercado, enfatizando que el acceso a hipotecas debe estar basado en la capacidad de pago individual y no en la intervención del gobierno. Pueden criticar las regulaciones más relajadas como una forma de estímulo a la compra inmobiliaria, con riesgos para la estabilidad financiera.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La relajación de las regulaciones para acceder a hipotecas puede parecer una noticia positiva para aquellos que buscan comprar su primera propiedad. Sin embargo, es importante considerar los riesgos potenciales asociados con la capacidad de acceso extendida, como el aumento de la endeudamiento y la posible desestabilización del mercado financiero. ¿Será posible encontrar un equilibrio entre el acceso y la estabilidad financiera?</p>"
+        },
+        {
+          "id": "topic-ciencia-y-tecnología",
+          "headline": "Nueva túnel de viento de NASA para pruebas de tecnología espacial",
+          "summary": "La NASA ha inaugurado un nuevo túnel de viento con una envergadura de 20 pies y una velocidad de viento de hasta 188 km/h, con el fin de probar tecnología para futuras misiones espaciales.",
+          "tags": [
+            "#NASA",
+            "#TecnologíaEspacial",
+            "#Ciencia"
+          ],
+          "source_ids": [
+            6
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/nasa-leaders-and-local-officials-gather-for-ribbon-cuttung-ceremony.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La NASA ha inaugurado un nuevo túnel de viento en su instalación en Virginia, destinado a las pruebas de tecnología espacial.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Parece que no hay información disponible sobre los medios de izquierda que cubrían esta noticia. Es posible que esta sección esté vacía porque se seleccionaron únicamente fuentes de derecha.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">La noticia de Fox Business proporciona información neutral y objetiva sobre la inauguración del túnel de viento de la NASA, sin incluir opiniones o interpretaciones subjetivas. La descripción del túnel y su propósito es clara y concisa.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">La noticia de Fox Business tiene un tono neutral, pero en algunas frases puede darse a entender una nota de orgullo y apoyo al logro de la NASA, lo que podría ser más común en los medios de derecha. Sin embargo, no hay evidencia de una presentación sesgada o tendenciosa en la información proporcionada.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>Cuando se piensa en la invención de un nuevo túnel de viento por parte de la NASA, puede sentirse como un paso hacia adelante en la exploración espacial, pero ¿qué significan realmente estas pruebas para el futuro de la humanidad? Los túneles de viento son fundamentales para probar la resistencia de las naves espaciales y otras tecnologías cruciales, pero pueden considerarse solo como una herramienta necesaria para llegar a la conquista del espacio. Si observamos más allá de estos avances tecnológicos, vemos el potencial de que la humanidad esté avanzando hacia una presencia más fuerte en el espacio, lo que podría permitirnos explorar y comprender mejor nuestro universo.</p>"
         }
       ],
       "rawCount": 9
