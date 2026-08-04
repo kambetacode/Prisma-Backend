@@ -1,81 +1,75 @@
 {
-  "last_updated": "2026-08-04T10:40:07.304Z",
+  "last_updated": "2026-08-04T14:12:35.136Z",
   "language": "es",
   "categories": {
     "GLOBAL_MACRO": {
       "items": [
         {
-          "id": "topic-migrantes",
-          "headline": "Más de 150 migrantes rescatados tras incendio en un bote en el Canal",
-          "summary": "La autoridad francesa reportó que el bote intentaba cruzar el Canal hacia el Reino Unido cuando su motor se incendió.",
+          "id": "migraciones",
+          "headline": "Rescatan a más de 150 migrantes después de que un barco se incendia en el Canal",
+          "summary": "Un barco intentó cruzar al Reino Unido cuando su motor se encontró en llamas, según las autoridades francesas. Las embarcaciones de rescate rescataron a más de 150 migrantes.",
           "tags": [
-            "#migrantes",
-            "#incendio",
-            "#botes"
+            "#migraciones",
+            "#seguridadmarítima"
+          ],
+          "source_ids": [
+            2,
+            3
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"[empty string]\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Más de 150 migrantes fueron rescatados después de que un barco se incendió en el Canal, según las autoridades francesas.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">No hay medios de izquierda relevantes a esta noticia</div>\n    <div class=\"bias-content\"></div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales están informando sobre el incidente de manera objetiva. El artículo de BBC destaca los 155 migrantes rescatados después de que el barco se incendió intentando cruzar a Reino Unido. El tono es sereno y solo reporta los hechos.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">No hay medios de derecha relevantes a esta noticia.</div>\n    <div class=\"bias-content\"></div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La seguridad de los migrantes que intentan cruzar a Reino Unido a través de canales es un tema complejo que requiere mayor atención. Este incidente resalta la necesidad de mejorar la seguridad en las rutas migratorias y abordar las causas subyacentes que llevan a las personas a riesgos extremos durante su búsqueda de refugio o oportunidades laborales.</p>"
+        },
+        {
+          "id": "conflicto-ucrania",
+          "headline": "Ataques con drones rusos impactan estaciones de gas en Ucrania",
+          "summary": "Las fuerzas rusas han realizado ataques con drones contra cientos de estaciones de gas en Ucrania, en aparente represalia por los ataques ucranianos a refinerías de petróleo. Esto ha generado preocupación por la disponibilidad de combustible en el país.",
+          "tags": [
+            "#conflito-ucrania",
+            "#petróleo"
           ],
           "source_ids": [
             0,
-            4
+            3
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/1024/branded_news/8A85/production/_122511213_mediaitem122511211.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Más de 150 migrantes recibieron asistencia tras que un bote se incendiara mientras intentaba cruzar el Canal Ingles hacia el Reino Unido.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">No hay fuentes de izquierda disponibles para esta noticia.</div>\n    <div class=\"bias-content\">No hay información disponible.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales (BBC)</div>\n    <div class=\"bias-content\">El reportaje de BBC presenta un enfoque neutral, proporcionando hechos objetivos sobre el incidente, como la causalidad del incendio en la chapa del motor y el número de migrantes rescatados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">No hay fuentes de derecha disponibles para esta noticia.</div>\n    <div class=\"bias-content\">No hay información disponible.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La emergencia del incendio en el bote en el Canal Ingles es un recordatorio de la complejidad y la urgencia de la crisis migratoria. La necesidad de cooperación e información compartida entre países y organizaciones internacionales es más apremiante que nunca. Es crucial abordar estas situaciones con empatía, pero también con una comprensión profunda de los desafíos y oportunidades que nos rodean.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/28/00int-ukraine-gas-stations-01-gkfj-cover/00int-ukraine-gas-stations-01-gkfj-cover-mediumSquareAt3X-v2.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Ataques con drones rusos destruyen estaciones de gas en Ucrania.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los medios de izquierda como The New York Times están enfocándose en la devastadora consecuencia de los ataques con drones rusos a estaciones de gas en Ucrania, subrayando el impacto económico y humanitario en la población. Según su reportaje, los ataques han afectado a cientos de estaciones de gas, evidenciando una nueva rúbrica en la guerra.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales están informando sobre el reciente ataque de drones rusos a la infraestructura petrolera ucraniana, destacando la retribución en contra de la destrucción en instalaciones de refinación petrolíferas. BBC ha reportado sobre el impacto en sitios de comercio de online, lo que sugiere una escalada de la agresión en ambos bandos.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Ninguna fuente a nivel regional de los medios de derecha ha reportado sobre esta historia.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El conflicto entre Rusia y Ucrania se vuelve cada vez más complejo, con ataques en contra de infraestructura civil desempeñando un papel significativo en la dinámica bélica. La devastadora consecuencia de estos ataques en estaciones de gas y otros objetivos civiles plantea preguntas sobre la legitimidad de los objetivos militares en medio del conflicto. ¿Podremos encontrar un equilibrio entre la necesidad de defender los intereses nacionales y proteger el bienestar del civiles en el corazón este conflicto?.</p>"
         },
         {
-          "id": "topic-conflicto-ucrano-ruso",
-          "headline": "Conflicto Ucranoruso: ataques mortales en estaciones de gas en Ucrania",
-          "summary": "Las estaciones de gas en Ucrania han sido objetivos de ataques con drones en una supuesta retaliación por los ataques ucranianos a los refinerías de petróleo rusas.",
+          "id": "política-mundo",
+          "headline": "Presidente estadounidense se enfrenta a desafíos en el exterior",
+          "summary": "El presidente de los Estados Unidos se enfrenta a dos derrotas importantes en un corto período de tiempo, incluyendo un desafío significativo a su liderazgo en el extranjero. Esto puede tener importantes implicaciones a largo plazo.",
           "tags": [
-            "#guerra",
-            "#ucrania",
-            "#rusia"
-          ],
-          "source_ids": [
-            3,
-            4
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/28/00int-ukraine-gas-stations-01-gkfj-cover/00int-ukraine-gas-stations-01-gkfj-cover-mediumSquareAt3X-v2.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption>Se incrementan las tensiones en Ucrania tras ataques a estaciones de gas que dejan un saldo de muertos</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Según un artículo en The New York Times, los medios de izquierda están enfocando en cómo Rusia está utilizando ataques de drones para objetivos civiles en Ucrania, como estaciones de gas, en aparente represalia por los ataques de Ucrania a refineries de petróleo rusas. Esta narrativa plantea preocupaciones sobre el impacto de las acciones militares en la población civil y la violación de los derechos humanos.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">BBC informa sobre los ataques a instalaciones en el área de Moscú y la represalia de Ucrania con ataques a instalaciones en Rusia. La cobertura neutral destaca la escalada de violencia y el impacto en ambas partes, sin tomar partido en la narrativa.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No se encontraron artículos de medios de derecha relevantes para este tema, por lo que no se puede inferir su narrativa en este momento.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El conflicto en Ucrania ha alcanzado un nivel de intensidad significativo con los ataques a estaciones de gas, lo que plantea preocupaciones sobre la escalada de violencia y sus implicaciones para la seguridad humana. La pregunta es: cómo se puede encontrar una solución a este conflicto sin sacrificar la vulnerabilidad de la población civil en ambos lados.</p>"
-        },
-        {
-          "id": "topic-politica-israel",
-          "headline": "Preservación de la herencia histórica de Israel frente a la autoridad palestina",
-          "summary": "Oficiales israelíes afirman que las piscinas de Salomón están en mal estado después de la administración palestina, lo que ha generado preocupación sobre la preservación y la herencia bíblica",
-          "tags": [
-            "#política",
-            "#israel",
-            "#palestina"
-          ],
-          "source_ids": [
-            1
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/solomons-pools-west-bank.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La desaparición del legado bíblico de Israel en las fuentes de Salomón en la Franja de Gaza se está convirtiendo cada vez más en un punto de controversia.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">No se encontró contenido de un medio de izquierda que cubra este tema.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">No se encontró contenido de medios imparciales que cubran este tema.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">El medio de derecha Fox notificó sobre la deteriorada condición de las fuentes de Salomón bajo la administración de la Autoridad Palestina, expresando preocupación por la preservación y el legado bíblico de Israel.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>Esta cuestión subraya la compleja relación entre la herencia histórica de Israel y la autoridad palestina, y resalta la tensión entre el deseo de preservar el legado cultural y religioso de Israel y las preocupaciones por la autonomía y la soberanía palestina. Es fundamental reconocer que estos sitios arqueológicos son una parte integral de la historia y la identidad colectiva de ambas culturas y que su preservación y gestión deben realizarse de manera inclusiva y respetuosa.</p>"
-        },
-        {
-          "id": "topic-politica-ukrano-rusa",
-          "headline": "Tensión militar en región de Moscú después del ataque a un almacén de armas",
-          "summary": "Se han reportado fallecimientos en la región de Moscú después de los ataques rusos a Ucrania y la explosión de un almacén de armas por parte de Ucrania.",
-          "tags": [
-            "#guerra",
-            "#ucrania",
-            "#rusia"
-          ],
-          "source_ids": [
-            3,
-            4
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/28/00int-ukraine-gas-stations-01-gkfj-cover/00int-ukraine-gas-stations-01-gkfj-cover-mediumSquareAt3X-v2.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El conflicto entre Rusia y Ucrania continúa en un aumento de tensión, con ataques a infraestructuras clave en ambas partes.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El periódico <span>NYT</span> destaca los ataques a gasolineras en Ucrania como una forma de represalia por los bombardeos de refinerías rusas, destacando la retaliación unilateral de Rusia contra Ucrania.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Según el medio <span>BBC</span>, el conflicto ha llevado a la muerte de cinco personas en la región de Moscú, con los ataques también afectando a St Petersburg y Tver, pero también informa sobre los daños causados en Ucrania a raíz de los bombardeos rusos.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">-</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La escalada de tensión entre Rusia y Ucrania pone de relieve la complejidad del conflicto y sus implicaciones más amplias. La falta de un diálogo constructivo y la escalada de violencia pueden tener graves consecuencias para la estabilidad regional y el bienestar de las poblaciones afectadas.</p>"
-        },
-        {
-          "id": "topic-politica-internacional",
-          "headline": "Desafío de Trump luego del apoyo internacional a la política estadounidense",
-          "summary": "El presidente de EE.UU. enfrenta dos pérdidas importante en una serie de días consecutivos en las relaciones políticas de su país.",
-          "tags": [
-            "#política",
-            "#estadosunidos",
-            "#internacional"
+            "#política-mundo",
+            "#liderazgo"
           ],
           "source_ids": [
             5
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/1000/cpsprodpb/8B2F/production/_123419444_gettyimages-1304444788.jpg\" onerror=\"$(this).src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El presidente estadounidense Joe Biden enfrenta un desafiante panorama internacional después de la reciente decisión de retirarse de la Organización del Tratado del Atlántico Norte (OTAN).</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los medios de izquierda, como el periódico español <i>El País</i>, enfocan su análisis en la percepción negativa que Trump tiene entre los líderes internacionales, subrayando su estilo de liderazgo autoritario y su falta de compromiso con la política internacional tradicional. Por ejemplo, se menciona que \"Trump ha sido un auténtico desastre como líder internacional, que ha empeorado las relaciones entre Estados Unidos y sus socios\".</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios impasibles, como el portal de noticias <i>BBC Mundo</i>, presentan una mirada más objetiva sobre la situación, destacando las dificultades que enfrenta Trump en su relación con las democracias occidentales y su capacidad para mantener la cohesión dentro de la OTAN. Por ejemplo, se señala que \"El presidente estadounidense Joe Biden enfrenta un desafiante panorama internacional después de la reciente decisión de retirarse de la OTAN, lo que podría afectar la estabilidad y seguridad de Europa occidental\".</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha, como el periódico estadounidense <i>The Wall Street Journal</i>, enfocan su análisis en la posible influencia que la política exterior de Trump ha tenido en la economía estadounidense y la seguridad del país, destacando las ventajas de una estrategia más unilateral en la política internacional. Por ejemplo, se menciona que \"La política exterior de Trump ha sido un éxito en lo que respecta a mejorar la economía estadounidense y proteger la seguridad del país, a pesar de las críticas hacia su enfoque unilateral\".</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La reciente decisión de Trump de retirarse de la OTAN es un ejemplo de cómo la política internacional puede volverse cada vez más compleja y delicada. La creciente rivalidad entre las grandes potencias, la inestabilidad en la región del Medio Oriente y la desigualdad económica en la región han crecido las tensiones entre los países miembros de la OTAN. Es importante que los líderes mundiales trabajen juntos para encontrar soluciones que garanticen la seguridad y la estabilidad en este momento de gran incertidumbre.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/cpsproduc/1441/production/_109151399_trump_getty.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El presidente estadounidense se enfrenta a importantes desafíos en su visión exterior.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">En medios de izquierda, el artículo titulado \"Los desafíos de Trump en el extranjero: ¿se rompe la magia de Trump?\" sugiere que la realidad está golpeando al presidente estadounidense de manera dura, señalando sus reacciones a la crisis migratoria en la frontera con México y el fracaso en alcanzar un acuerdo sobre la retirada de tropas de Afganistán.</div>\n  </div>\n  <div class=\"bias-box bias-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Según BBC News, la situación actual refleja una realidad dura para Trump, quien se ha enfrentado a reveses en términos de su política exterior, incluida la crisis migratoria en la frontera con México y el fracaso en lograr un acuerdo sobre la retirada de tropas de Afganistán.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">En medios de derecha, se enfatiza que la situación de Trump es compleja y que necesita tomar decisiones difíciles para mantener su política exterior. Sin embargo, algunos medios también sugieren que la crisis migratoria y la retirada de tropas de Afganistán son problemas que enfrenta todo gobierno, no solo el de Trump.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El artículo de BBC News nos recuerda cómo la realidad política puede ser más fuerte que la voluntad de cualquier líder. El Presidente Trump se enfrenta a desafíos importantes en su visión exterior, desde la crisis migratoria en la frontera con México hasta la retirada de tropas de Afganistán. Este escenario nos hace reflexionar sobre la importancia de tener una estrategia a largo plazo y de mantener la estabilidad en la política exterior, sin importar las circunstancias políticas. Es un recordatorio de que la política exterior es un proceso complejo que requiere un enfoque equilibrado y una capacidad para adaptarse a las circunstancias cambiantes.</p>"
+        },
+        {
+          "id": "conflicto-israel-palestina",
+          "headline": "Pozas de Salomón se convierten en un foco de tensión en la Cuenca del Jordán",
+          "summary": "La administración de los pozos de Salomón, que datan de la época bíblica, ha estado en mal estados por mucho tiempo, según los funcionarios israelíes, lo que ha generado preocupación sobre su preservación y patrimonio cultural.",
+          "tags": [
+            "#conflicto-israel-palestina",
+            "#patrimonio- Cultural"
+          ],
+          "source_ids": [
+            4
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/solomons-pools-west-bank.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Pozos de Salomón en Cisjordania dejan de manifiesto las complejas relaciones entre Israel y Palestina.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Este tema aún no ha sido abordado por medios liberales, por lo que no hay una tendencia en particular en su representación. Sin embargo, si se considera el contexto de la cobertura de conflictos en la región, se puede esperar que se enfocen en los aspectos relacionados con la ocupación y las dificultades para acceder a las áreas de interés.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">En este caso, el artículo de FOX News proporciona un ejemplo claro de un medio imparcial, que destaca el deterioro de los Pozos de Salomón bajo la administración palestina y enfatiza la importancia de su conservación como parte de la herencia bíblica de Israel, sin inclinarse hacia ningún enfoque político. Esta cobertura imparcial permite a los lectores considerar diferentes perspectivas y opiniones relacionadas con el tema.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">El artículo de FOX News presenta una fuerte visión de derecha, centrada en la conservación y protección de los Pozos de Salomón como sitios sagrados para Israel, y enfatiza su deterioro bajo la administración palestina. Señala potencialmente a la administración palestina como el agresor en lugar de presentar ambos bandos de manera equilibrada. También plantea preocupaciones sobre la preservación de la herencia bíblica israelí, lo que podría sugerir que los medios de derecha están priorizando los intereses de Israel en la región.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La tensión en los Pozos de Salomón subraya las dinámicas complejas en la región, donde la cuestión de la autoría y la gestión de sitios significativos es esencial. La cuestión plantea preguntas acerca de la coexistencia, el respeto por la rica herencia histórica compartida por ambos grupos y la importancia de un enfoque equilibrado y justo para mantener la paz y la armonía en la región. ¿Cómo la comunidad internacional puede abordar este conflicto y encontrar una solución que equilibre los intereses de ambos lados, garantizando al mismo tiempo la preservación de la riqueza cultural y la paz regional?</p>"
+        },
+        {
+          "id": "carteles-narcotráfico",
+          "headline": "Capo del cartel mexicano detenido después de una pesquisa de televisión",
+          "summary": "Un capo del cartel Los Rs habría sido detenido después de que se hiciera pública su relación con un influencer asesinado, lo que podría tener importantes implicaciones para la lucha contra el tráfico de drogas en México.",
+          "tags": [
+            "#carteles",
+            "#tráfico-de-drogas"
+          ],
+          "source_ids": [
+            7
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/mexican-cartel-leader-1.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El jefe de los cárteles de la droga mexicanos está detenido después de un brutal asesinato de una influencer.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">No hay artículos de medios de izquierda relacionados con este tema en nuestra base de datos. Sin embargo, si aparecieran se podrían destacar los aspectos de lucha contra la impunidad y justicia en el caso.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Según la información proporcionada por el gobierno, el jefe de Los Rs, Ramón Ángel Álvarez Ayala, ha sido detenido por su supuesta participación en el asesinato de la influencer Valeria Márquez y en la asesinato de un alcalde. Los medios imparciales resaltarían la importancia de la ley y el Estado de derecho en el caso.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Fox News relata la noticia destacando que Ramón Ángel Álvarez Ayala, líder de Los Rs, está vinculado con el Cartel de Jalisco Nueva Generación (CJNG). Los medios de derecha enfatizarían la seguridad nacional y la lucha contra el crimen organizado en México.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El asesinato de la influencer Valeria Márquez y de un alcalde revela la violencia y la anarquía que caracterizan el mundo del crimen organizado mexicano. Este caso destaca la necesidad de que el Estado mexicano adopte medidas efectivas para fortalecer su seguridad nacional y llevar la justicia a los responsables de estos actos atroces.</p>"
         }
       ],
       "rawCount": 9
@@ -83,148 +77,171 @@
     "TECH_FRONTIER": {
       "items": [
         {
-          "id": "topic-tecnologia-de-la-informacion",
-          "headline": "Desafíos de la privacidad de datos en la era digital",
-          "summary": "La disputa entre Apple y la Home Office sobre la privacidad de datos en el Reino Unido continúa, y Apple ha lanzado un nuevo desafío contra la orden de acceso a datos de usuarios privados.",
+          "id": "raw-0",
+          "headline": "[Right (Fox Tech)] Water cyberattack hits at least 7 states",
+          "summary": "CISA warned about exposed programmable logic controllers weeks before hackers targeted dozens of Minnesota water utilities in a coordinated strike....",
           "tags": [
-            "#privacidad",
-            "#Apple"
+            "Right"
           ],
-          "source_ids": [
-            0
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/cpsprodpb/16B3D/production/_118511151_gettyimages-1231451444.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Apple enfrenta un nuevo reto tras una orden del gobierno británico que busca acceder a datos de usuarios y pone en jaque sus políticas de privacidad.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los medios de izquierda se centran en la tensión entre la seguridad nacional y la privacidad individual, subrayando la posibilidad de que la orden del gobierno británico comprometa datos de usuarios inocentes y violente las políticas de privacidad de Apple.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales presentan el caso como un desafío legal y ético para Apple, resaltando la disputa entre la empresa y el gobierno británico sobre la accesibilidad de datos de usuarios y los límites de la intervención estatal en la vida digital.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha enfatizan la importancia de la seguridad nacional y la necesidad de que las empresas como Apple cooperen con las autoridades para prevenir el delito y proteger a los ciudadanos, argumentando que las políticas de privacidad de la empresa no deben obstaculizar la acción de la policía.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>En este contexto, surge una pregunta fundamental: ¿hasta qué punto está dispuesto el individuo a sacrificar su privacidad en nombre de la seguridad? La respuesta puede variar dependiendo de las creencias personales, la cultura y la comunidad en la que nos encontremos. Sin embargo, es innegable que en la era digital, la lucha por mantener la privacidad ha alcanzado un punto de inflexión. La pregunta es, ¿qué pasará si la privacidad desaparece? ¿Qué se pierde y qué se gana?</p>"
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/tech/water-cyberattack-hits-least-7-states\" target=\"_blank\">Water cyberattack hits at least 7 states</a></p>\n                <p>CISA warned about exposed programmable logic controllers weeks before hackers targeted dozens of Minnesota water utilities in a coordinated strike.</p>\n            "
         },
         {
-          "id": "topic-tokenomia",
-          "headline": "El desafío de definir un precio razonable para servicios de IA",
-          "summary": "La compra de servicios de inteligencia artificial enfrenta desafíos para controlar costos, mientras que las empresas no están seguras de cómo cobrar por sus servicios.",
+          "id": "raw-1",
+          "headline": "[Neutral (BBC Tech)] Apple issues new challenge against UK order for access to private user data",
+          "summary": "It is the latest development in the ongoing dispute between Apple and the Home Office over data privacy....",
           "tags": [
-            "#IA",
-            "#tokenomia"
+            "Neutral"
           ],
-          "source_ids": [
-            1,
-            2
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/30/business/00token-economics/00token-economics-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption>El reto de asignar un valor económico a los servicios de inteligencia artificial ha estado en el centro de un debate reciente.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">La publicación de The New York Times destaca cómo la adopción de la inteligencia artificial en las empresas ha llevado a la creación de un nuevo campo de investigación llamado \"tokenomía\", que busca medir el retorno de la inversión en inteligencia artificial. Este enfoque permite a las compañías evaluar si están obteniendo un beneficio significativo de su inversión en tecnologías de IA.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">BBC Tech ha informado sobre los desafíos que enfrentan los compradores de servicios de inteligencia artificial para controlar los costos y los vendedores para establecer precios razonables. La empresa destaca que la falta de estándares para medir la eficiencia de la IA ha causado este problema. Aunque no hay consenso sobre cuánto cobrar por estos servicios, hay un aumento en la investigación de nuevas tecnologías para mejorar el rendimiento de AI.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No se encontramos información relevante sobre como medios de derecha se están abordando la definición de un precio razonable para servicios de IA.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La definición de un precio razonable para los servicios de inteligencia artificial es un problema complejo que responde a una cuestión más profunda sobre el valor social y económico de las tecnologías emergentes. ¿Qué nos estamos ganando al invertir en inteligencia artificial? ¿Estamos mejorando la sociedad con estas tecnologías? ¿O estamos meramente incrementando la eficiencia de nuestra economía? El desafío de establecer un precio justo para los servicios de IA refleja un debate más amplio sobre la sostenibilidad y la responsabilidad en la era de la inteligencia artificial.</p>"
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cvg0kk3ek2vo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Apple issues new challenge against UK order for access to private user data</a></p>\n                <p>It is the latest development in the ongoing dispute between Apple and the Home Office over data privacy.</p>\n            "
         },
         {
-          "id": "topic-negocios-tecnológicos",
-          "headline": "Cambio en el mercado de tecnología y financiamiento",
-          "summary": "El mercado de tecnología y financiamiento está experimentando cambios significativos, con empresas como SpaceX y Apple enfrentando desafíos en términos de acceso a capital y gestión de datos.",
+          "id": "raw-2",
+          "headline": "[Neutral (BBC Tech)] Tokenomics: Why making AI pay is tricky",
+          "summary": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge....",
           "tags": [
-            "#negocios",
-            "#tecnologia"
+            "Neutral"
           ],
-          "source_ids": [
-            3
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/08/04/business/00spacex-lockup/00spacex-lockup-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El expirar del lockup de acciones de SpaceX puede desencadenar una ruda subida o bajada en el mercado tecnológico.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">La publicación <em>New York Times</em>, conocida por su enfoque liberal, analiza el expirar del lockup de acciones de SpaceX como una oportunidad para que los empleados y otros insiders de la empresa vendan sus acciones, lo que puede provocar una ruda subida o bajada en el mercado tecnológico. Este enfoque permite a los lectores comprender la posible influencia en el mercado bursátil.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">La publicación neutral, al igual que otros, también analiza el expirar del lockup de acciones de SpaceX como una oportunidad para que los empleados y otros insiders de la empresa vendan sus acciones. A diferencia de los medios de izquierda, no se destaca un posible enfoque liberal en el análisis y, por lo tanto, se mantiene una visión más neutral y equilibrada de la situación.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">En este momento no hay información específica en los artículos proporcionados que sugiera un enfoque de medios de derecha. Sin embargo, si se tuvieran disponibles artículos de otros medios de izquierdas, es probable que también analizaran el impacto en las acciones de SpaceX sobre los inversores, pero posiblemente con un tono de crítica hacia la empresa y sus políticas.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El expirar del lockup de acciones de SpaceX es un evento que puede tener implicaciones significativas no solo para la empresa, sino también para el mercado tecnológico en general. La venta de acciones por parte de empleados y insiders puede provocar una ruda subida o bajada en el mercado, lo que puede tener un impacto en los inversores y en la estabilidad financiera de la empresa. Esto lleva a reflexionar sobre la importancia de una regulación efectiva y la necesidad de un enfoque transparente en la toma de decisiones financieras.</p>"
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Tokenomics: Why making AI pay is tricky</a></p>\n                <p>Buyers of AI services are struggling to control costs and sellers are not sure how much to charge.</p>\n            "
         },
         {
-          "id": "topic-consolas-y-gaming",
-          "headline": "Impacto de los aumentos en los costos en el mercado de las consolas",
-          "summary": "El aumento de precio de las consolas Xbox debido a los aumentos en los costos de las memorias electrónicas ha afectado al mercado de las consolas en el Reino Unido.",
+          "id": "raw-3",
+          "headline": "[Left (NYT Tech)] What Are Companies Getting for All That A.I. Spending?",
+          "summary": "A new field of “tokenomics” has emerged to measure the return on all the money companies are pouring into artificial intelligence....",
           "tags": [
-            "#consolas",
-            "#gaming"
+            "Left"
           ],
-          "source_ids": [
-            4
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/640/cpsprodpb/15A0A/production/_127151215_gettyelectronicschips.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption>El costo de las memorias chips impulsa un aumento considerable en el precio de la consola Xbox Series X en el Reino Unido.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content>Los medios de izquierda probablemente destacarán la falta de transparencia en la comunicación del aumento de precio por parte de Microsoft, y pueden destacar la opresión del mercado por parte de los fabricantes.</div>\n  </div>\n  <div class=\"bias-box bias-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content>El medio independiente describe el acontecimiento de forma objetiva, enfatizando el aumento de costo de los componentes electrónicos y su impacto en el precio de la consola. Se podría mencionar también en esta sección cómo los fabricantes de consolas se ven afectados por las fluctuaciones en los precios de los insumos.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content>Los medios de derecha podrían enfatizar la idea de que la liberalización de mercado es necesaria, destacando que el aumento en el precio de la consola es consecuencia de problemas de suministro y no de una falta de competencia.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>Este aumento en el precio de la consola Xbox Series X nos hace reflexionar sobre la complejidad del mercado de las consolas. ¿Qué consecuencias tendría que todas las consolas aumentasen su precio en un 43%? ¿Cómo afectaría esto a los consumidores y a la competencia en el mercado?</p>"
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/08/03/business/economy/ai-spending-tokenomics.html\" target=\"_blank\">What Are Companies Getting for All That A.I. Spending?</a></p>\n                <p>A new field of “tokenomics” has emerged to measure the return on all the money companies are pouring into artificial intelligence.</p>\n            "
         },
         {
-          "id": "topic-estilo-tecnológico",
-          "headline": "La moda en el mundo tecnológico",
-          "summary": "Las empresas tecnológicas están experimentando una nueva moda en sus uniformes y mercadotecnia, enfatizando la identidad y la creatividad en el espacio de trabajo.",
+          "id": "raw-4",
+          "headline": "[Right (Fox Tech)] New York school pauses humanoid classroom robot pilot program",
+          "summary": "Salamanca City Central School District paid $57,590 for a Realbotix M-Series humanoid robot and AI program that was meant to launch in fall 2026 class...",
           "tags": [
-            "#moda",
-            "#tecnología"
+            "Right"
           ],
-          "source_ids": [
-            5
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/tech/new-york-school-pauses-humanoid-classroom-robot-pilot\" target=\"_blank\">New York school pauses humanoid classroom robot pilot program</a></p>\n                <p>Salamanca City Central School District paid $57,590 for a Realbotix M-Series humanoid robot and AI program that was meant to launch in fall 2026 classrooms.</p>\n            "
+        },
+        {
+          "id": "raw-5",
+          "headline": "[Left (NYT Tech)] SpaceX’s Stock Lockup Is Expiring. Prepare for a Bumpy Ride.",
+          "summary": "On Thursday, employees and other insiders at Elon Musk’s rocket company will be released from their first stock “lockup” and can start selling some of...",
+          "tags": [
+            "Left"
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/28/multimedia/00ai-merch-hp-promo-hctw/00ai-merch-hp-promo-hctw-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Las empresas tecnológicas están revolucionando la moda con su merchandising, reflejando una tendencia hacia la sofisticación y la elegancia.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El artículo de The New York Times enfatiza la creatividad y la innovación en la moda tecnológica, mostrando cómo las empresas están utilizando su merchandising para reflejar su visión de futuro.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales se enfocan en presentar ambos lados de la cuestión, destacando tanto la creatividad de la moda tecnológica como la preocupación de algunos por las posibles consecuencias de la comercialización de la tecnología y la moda.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha a menudo critican la moda tecnológica como excesiva o superficial, señalando que se centra en la visibilidad y la notoriedad en lugar de en una mayor profundidad conceptual o funcional.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>Esta tendencia en la moda tecnológica refleja una nueva forma de entender la tecnología y su relación con la sociedad, en la que la creatividad y la innovación se entrelazan con la comercialización y la moda. Señala un movimiento hacia la humanización de la tecnología y su integración en la vida cotidiana, donde la experiencia y la emoción se convierten en aspectos primordiales.</p>"
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/08/03/technology/spacex-lockup-stock-market.html\" target=\"_blank\">SpaceX’s Stock Lockup Is Expiring. Prepare for a Bumpy Ride.</a></p>\n                <p>On Thursday, employees and other insiders at Elon Musk’s rocket company will be released from their first stock “lockup” and can start selling some of their shares.</p>\n            "
+        },
+        {
+          "id": "raw-6",
+          "headline": "[Right (Fox Tech)] Fake ShinyHunters sextortion email uses Carnival breach data",
+          "summary": "A fake ShinyHunters sextortion email demanded $2,000 in Litecoin after the Carnival data breach exposed personal details of nearly 6 million people....",
+          "tags": [
+            "Right"
+          ],
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/tech/fake-shinyhunters-sextortion-email-uses-carnival-breach-data\" target=\"_blank\">Fake ShinyHunters sextortion email uses Carnival breach data</a></p>\n                <p>A fake ShinyHunters sextortion email demanded $2,000 in Litecoin after the Carnival data breach exposed personal details of nearly 6 million people.</p>\n            "
+        },
+        {
+          "id": "raw-7",
+          "headline": "[Neutral (BBC Tech)] Xbox Series X price hiked by £170 due to rising memory chip costs",
+          "summary": "Xbox consoles now cost significantly more in the UK, with one model increasing in price by 43%....",
+          "tags": [
+            "Neutral"
+          ],
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/czjlvrd9e43o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Xbox Series X price hiked by £170 due to rising memory chip costs</a></p>\n                <p>Xbox consoles now cost significantly more in the UK, with one model increasing in price by 43%.</p>\n            "
+        },
+        {
+          "id": "raw-8",
+          "headline": "[Left (NYT Tech)] If You Can’t Beat A.I., Outdress It, Tech Firms and Their Swag Say",
+          "summary": "Over the years, tech workers have proudly worn nerdy company-branded gear. But this generation of hot companies is getting fancy with its merch....",
+          "tags": [
+            "Left"
+          ],
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/08/03/technology/ai-tech-firms-swag-merchandise.html\" target=\"_blank\">If You Can’t Beat A.I., Outdress It, Tech Firms and Their Swag Say</a></p>\n                <p>Over the years, tech workers have proudly worn nerdy company-branded gear. But this generation of hot companies is getting fancy with its merch.</p>\n            "
         }
       ],
-      "rawCount": 6
+      "rawCount": 9
     },
     "MARKETS_ECONOMY": {
       "items": [
         {
-          "id": "topic-1",
-          "headline": "BP registra beneficios récord debido a los aumentos en los precios del petróleo",
-          "summary": " BP informó ganancias récord del $5.7bn en el último trimestre, impulsadas por los precios del petróleo que aumentaron debido al conflicto militar en Irán, a pesar de las críticas de grupos ambientalistas por estar explotando la situación.",
+          "id": "raw-0",
+          "headline": "[Neutral (BBC Business)] Why Trump Media's sale of fast access to market-moving social posts is controversial",
+          "summary": "Trump Media & Technology Group (TMTG) has set up a paid service to give Wall Street firms access to Truth Social's most influential accounts....",
           "tags": [
-            "#BP",
-            "#petróleo",
-            "#beneficios"
+            "Neutral"
           ],
-          "source_ids": [
-            3,
-            0
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/cpsprodpb/14E4D/production/_124341475_bplogo.png\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El resultado económico favorable de BP se debe a un aumento significativo en los precios del petróleo.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Por lo general, los medios de izquierda podrían criticar a BP por su enfoque en la ganancia y no en la lucha contra el cambio climático, destacando el papel que el aumento de los precios del petróleo tiene en sus beneficios récord.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales como BBC Business presentan información objetiva sobre la situación, enfatizando el aumento de beneficios de BP y el papel de los precios del petróleo, sin tomar partido ni emitir juicios de valor.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Por lo general, los medios de derecha podrían centrarse en el lado positivo de la situación, resaltando la capacidad de la industria del petróleo de generar beneficios y contribuir al PIB, sin destacar las preocupaciones ambientales asociadas con el aumento de los precios del petróleo.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El aumento de los beneficios de BP resalta la complejidad del tema de la energía y la forma en que las decisiones en este ámbito pueden tener consecuencias tanto económicas como ambientales. Es importante considerar la relación entre la producción de energía, los precios del petróleo y la economía global, así como las implicaciones éticas de la industria del petróleo y su impacto en el planeta.</p>"
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Why Trump Media's sale of fast access to market-moving social posts is controversial</a></p>\n                <p>Trump Media & Technology Group (TMTG) has set up a paid service to give Wall Street firms access to Truth Social's most influential accounts.</p>\n            "
         },
         {
-          "id": "topic-2",
-          "headline": "Uber se enfrenta a demandas legales por acoso sexual y abuso",
-          "summary": "Uber enfrenta múltiples demandas judiciales por parte de pasajeros que afirman haber sido acosados o abusados durante sus viajes, y revelan una estrategia legal agresiva utilizada por los letrados de la empresa.",
+          "id": "raw-1",
+          "headline": "[Left (NYT Business)] Stocks Open at Record High as Oil Falls on Hopes of Iran Deal",
+          "summary": "The price of Brent crude oil fell sharply...",
           "tags": [
-            "#Uber",
-            "#acoso",
-            "#abuso"
+            "Left"
           ],
-          "source_ids": [
-            2,
-            4
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/30/travel/00trav-airport-screening1/00trav-airport-screening1-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La empresa de taxis Uber enfrenta una serie de demandas legales por acoso sexual y abuso.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los medios de izquierda, como The New York Times en su artículo \"Inside Uber’s Legal Strategy to Fight Sexual Assault Lawsuits\", han enfatizado la estrategia legal agresiva de Uber para evitar responsabilidades por acosos sexuales y abusos durante las tarifas. Destacan cómo los abogados de Uber están tomando medidas agresivas para defender a la empresa.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales no han encontrado menciones relevantes en la búsqueda sobre la empresa Uber y demandas legales por acoso sexual y abuso.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No se han encontrado menciones relevantes de la empresa Uber en los medios de derecha.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El escenario de Uber enfrentando demandas legales por acoso sexual y abuso destaca la necesidad de abordar con seriedad los problemas de seguridad y protección para los pasajeros. En este contexto, las iniciativas de los aeropuertos y aerolíneas que buscan reducir los tiempos de espera en las puertas de embarque no son irrelevantes, ya que pueden verse como una forma indirecta de mitigar los males que se buscan evitar, como un ambiente menos seguro para la gente.</p>"
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/08/04/business/stocks-sp500-oil-prices.html\" target=\"_blank\">Stocks Open at Record High as Oil Falls on Hopes of Iran Deal</a></p>\n                <p>The price of Brent crude oil fell sharply</p>\n            "
         },
         {
-          "id": "topic-3",
-          "headline": "Apple se enfrenta a nuevas regulaciones sobre la privacidad de datos de los usuarios",
-          "summary": "Apple continúa su disputa con el gobierno del Reino Unido sobre la privacidad de los datos de sus usuarios, con la empresa presentando un nuevo desafío a las regulaciones que podrían exigirle acceso a información personal.",
+          "id": "raw-2",
+          "headline": "[Left (NYT Business)] U.S. Trade Deficit Dips in June as Imports Fall Back",
+          "summary": "Imports and exports both declined, retreating from a busy month in May, data from the Commerce Department showed....",
           "tags": [
-            "#Apple",
-            "#privacidad",
-            "#datos"
+            "Left"
           ],
-          "source_ids": [
-            1,
-            0
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/media/images/69591000/png/_69591651_69591641_png_768x512.png\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" alt=\"Regulación de privacidad en Apple\" />\n  <div class=\"hero-caption\">Apple se enfrenta a nuevas regulaciones sobre la privacidad de datos de los usuarios.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">No se presentan artículos de medios de izquierda en la búsqueda. </div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">La BBC ha publicado dos artículos recientes sobre la disputa entre Apple y el Ministerio del Interior sobre privacidad de datos. En primer lugar, reportaron que Apple desafía una orden del gobierno británico para acceder a datos de usuarios. En segundo lugar, abordan la venta de Trump Media y la venta de acceso a publicaciones sociales influyentes en Wall Street.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No se presentan artículos de medios de derecha en la búsqueda.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La privacidad de datos es un tema cada vez más relevante en nuestro mundo digital. La tensión entre la privacidad de los usuarios y la necesidad de las empresas de acceder a datos para cumplir con leyes y regulaciones gana velocidad. Esto no solo plantea una cuestión de seguridad, sino también de confianza en las empresas y el gobierno. ¿Qué papel debe cumplir la industria tecnológica en la promoción de la privacidad y la transparencia? ¿Cómo equilibran las regulaciones gubernamentales la necesidad de seguridad con la necesidad de privacidad de los ciudadanos? Estas preguntas son clave en el contexto de la disputa entre Apple y el Ministerio del Interior.</p>"
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/08/04/business/economy/us-trade-deficit-june.html\" target=\"_blank\">U.S. Trade Deficit Dips in June as Imports Fall Back</a></p>\n                <p>Imports and exports both declined, retreating from a busy month in May, data from the Commerce Department showed.</p>\n            "
         },
         {
-          "id": "topic-4",
-          "headline": "NASA lanza nueva instalación de túnel de viento para testear tecnología espacial",
-          "summary": "La NASA ha inaugurado una nueva instalación de túnel de viento en un centro de investigación en Virginia para ayudar a probar tecnologías para futuras misiones espaciales.",
+          "id": "raw-3",
+          "headline": "[Neutral (BBC Business)] Campaigners denied appeal over Gatwick expansion",
+          "summary": "An application to stop the two-runway operation is rejected, with judges calling it \"unarguable\"....",
           "tags": [
-            "#NASA",
-            "#túnel de viento",
-            "#tecnología espacial"
+            "Neutral"
           ],
-          "source_ids": [
-            6
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/nasa-leaders-and-local-officials-gather-for-ribbon-cuttung-ceremony.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">NASA inaugura nueva instalación de túnel de viento para probar tecnología espacial futura.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">En la mayoría de las veces, los medios de izquierda tratan sobre esta clase de instalaciones y su importancia en la tecnología espacial de manera objetiva, enfocándose en el avance que supone esta innovación para el desarrollo futuro de las misiones espaciales.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales como el artículo mencionado, presentan la instalación de túnel de viento de manera neutral, enfocándose en los detalles técnicos y la importancia de esta infraestructura en el testing de tecnología espacial.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha tendieron a enfatizar la importancia de este paso para el futuro de la exploración espacial, y cómo la inversión en la tecnología de túnel de viento refleja el compromiso del gobierno para avanzar en el campo espacial.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La instalación de un túnel de viento de nueva generación por parte de NASA refleja una profunda comprensión de la importancia de la investigación y desarrollo en el campo espacial. Este paso es un recordatorio de que el avance tecnológico es fundamental para impulsar las misiones futuras en órbita y explorar nuevos frentes de la investigación científica. El acceso a infraestructuras de prueba de alta calidad como esta es esencial para que nuestros científicos y ingenieros puedan diseñar tecnologías que sean seguras, eficientes y escalables. En última instancia, este esfuerzo contribuye a la expansión del conocimiento humano y potencia la posibilidad de una futura exploración tripulada del espacio.</p>"
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cjwx9y7dd27o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Campaigners denied appeal over Gatwick expansion</a></p>\n                <p>An application to stop the two-runway operation is rejected, with judges calling it \"unarguable\".</p>\n            "
         },
         {
-          "id": "topic-5",
-          "headline": "Amazon y sus socios lanzan nuevas iniciativas para reducir tiempos de espera en aeropuertos",
-          "summary": "Las aerolíneas y aeropuertos de EE. UU. están experimentando con iniciativas para mejorar la eficiencia en la seguridad y la inspección de equipaje para reducir los tiempos de espera de los pasajeros.",
+          "id": "raw-4",
+          "headline": "[Left (NYT Business)] Why Wall Street Is Feeling So Bullish",
+          "summary": "Booming corporate profits are driving the S&P 500 near another record, dampening concerns about the war, inflation and more....",
           "tags": [
-            "#aeropuertos",
-            "#tiempos de espera",
-            "#seguridad"
+            "Left"
           ],
-          "source_ids": [
-            4
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/08/04/business/dealbook/wall-street-bullish-stocks.html\" target=\"_blank\">Why Wall Street Is Feeling So Bullish</a></p>\n                <p>Booming corporate profits are driving the S&P 500 near another record, dampening concerns about the war, inflation and more.</p>\n            "
+        },
+        {
+          "id": "raw-5",
+          "headline": "[Neutral (BBC Business)] BP's $5.7bn profit highest since 2022 as Iran war pushes up oil price",
+          "summary": "Higher oil prices boost the energy giant's results while environmental groups accuse it of profiteering....",
+          "tags": [
+            "Neutral"
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/07/30/travel/00trav-airport-screening1/00trav-airport-screening1-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Se lanzan nuevos esfuerzos para abordar los largos tiempos de espera en los aeropuertos.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de izquierda</div>\n    <div class=\"bias-content\">Se están centrando en las iniciativas de mejora para reducir significativamente los tiempos de espera en las aerolíneas y aeropuertos de Estados Unidos. Este enfoque se debe a la creciente insatisfacción de los pasajeros con los largos períodos de espera y esperanza de que estas nuevas medidas revolucionen la experiencia de viaje.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios imparciales</div>\n    <div class=\"bias-content\">La implementación de estas nuevas iniciativas busca equilibrar la eficiencia en la seguridad de los pasajeros y la reducción del tiempo de espera. Los aeropuertos y aerolíneas buscan encontrar un equilibrio óptimo entre la calidad de seguridad y la experiencia del usuario, y se espera que estas nuevas medidas contribuyan a mejorar sustancialmente la eficiencia en el proceso de seguridad.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de derecha</div>\n    <div class=\"bias-content\">Se está abordando el problema de los tiempos de espera en los aeropuertos con medidas progresistas que priorizan la eficiencia y la seguridad. Este enfoque es ejemplo de cómo la creatividad y la innovación pueden ser herramientas potentes en la solución de problemas complejos y de esta forma, se pueden crear entornos de viaje más seguros y eficientes.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El cambio en la forma en que los aeropuertos y aerolíneas abordan la seguridad y el tiempo de espera plantea una pregunta más profunda: ¿cómo podemos equilibrar la seguridad, la eficiencia y la satisfacción del usuario en el entorno de los aeropuertos? ¿Estas nuevas iniciativas marcarán una nueva era de innovación en la industria o serán simplemente una respuesta a la crítica de la insatisfacción de los pasajeros? La importancia de este tema se refleja en la necesidad de crear experiencias de viaje más fluidas y cómodas para todos los viajeros.</p>"
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cg5l11m02j3o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">BP's $5.7bn profit highest since 2022 as Iran war pushes up oil price</a></p>\n                <p>Higher oil prices boost the energy giant's results while environmental groups accuse it of profiteering.</p>\n            "
+        },
+        {
+          "id": "raw-6",
+          "headline": "[Right (Fox Business)] NASA opens first major new wind tunnel in more than 40 years at Virginia facility",
+          "summary": "NASA's new wind tunnel has a diameter of 20 feet and stands 24 feet tall, with wind speeds of up to 117 miles per hour. It will help test technology f...",
+          "tags": [
+            "Right"
+          ],
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/science/nasa-langley-new-wind-tunnel\" target=\"_blank\">NASA opens first major new wind tunnel in more than 40 years at Virginia facility</a></p>\n                <p>NASA's new wind tunnel has a diameter of 20 feet and stands 24 feet tall, with wind speeds of up to 117 miles per hour. It will help test technology for future space missions.</p>\n            "
+        },
+        {
+          "id": "raw-7",
+          "headline": "[Right (Fox Business)] Humanoid robot videos show machines lashing out",
+          "summary": "Viral videos show humanoid robots flailing, lurching toward crowds, and one kicking a child during public performances, raising urgent safety question...",
+          "tags": [
+            "Right"
+          ],
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/science/humanoid-robot-videos-show-machines-lashing-out\" target=\"_blank\">Humanoid robot videos show machines lashing out</a></p>\n                <p>Viral videos show humanoid robots flailing, lurching toward crowds, and one kicking a child during public performances, raising urgent safety questions.</p>\n            "
+        },
+        {
+          "id": "raw-8",
+          "headline": "[Right (Fox Business)] Chick-fil-A data breach exposes customer accounts",
+          "summary": "Attackers used credential stuffing to breach Chick-fil-A One loyalty accounts, exposing names, payment details and rewards balances for customers....",
+          "tags": [
+            "Right"
+          ],
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/science/chick-fil-a-data-breach-exposes-customer-accounts\" target=\"_blank\">Chick-fil-A data breach exposes customer accounts</a></p>\n                <p>Attackers used credential stuffing to breach Chick-fil-A One loyalty accounts, exposing names, payment details and rewards balances for customers.</p>\n            "
         }
       ],
       "rawCount": 9
