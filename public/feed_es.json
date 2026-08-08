@@ -1,83 +1,78 @@
 {
-  "last_updated": "2026-08-08T10:34:40.892Z",
+  "last_updated": "2026-08-08T12:48:52.125Z",
   "language": "es",
   "categories": {
     "GLOBAL_MACRO": {
       "items": [
         {
-          "id": "gobierno-estadounidense",
-          "headline": "El Senado estadounidense confirma a Todd Blanche como fiscal general",
-          "summary": "El Senado republicano de Estados Unidos votó a favor de confirmar a Todd Blanche como fiscal general después de una larga negociación. La confirmación fue posible después del voto a favor de Republicano Bill Cassidy.",
+          "id": "estrategias-armadas",
+          "headline": "Conflicto en Yemen y amenazas regionales",
+          "summary": "La situación en Yemen es crítica y las tensiones con Irán se están intensificando, mientras que la región del Oriente Medio espera una resolución para la apertura del Estrecho de Ormuz.",
           "tags": [
-            "#EEUU",
-            "#gobierno"
+            "#yemen",
+            "#conflicto"
           ],
           "source_ids": [
-            0
+            0,
+            4
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.metropolsinis.com/resources/news/2023/03/23/1231237.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El Senado estadounidense confirma a Todd Blanche como fiscal general, marcando un punto de inflexión en la política judicial del país.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Probablemente enfatizarán la vinculación de Todd Blanche con Donald Trump, destacando la posible influencia política en su designación como fiscal general, y expresarán preocupación por la orientación de la administración en la política judicial.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Describirán la confirmación de Todd Blanche como una victoria republicana en la política judicial, destacarán la votación de la senadora republicana Bill Cassidy y analizarán las implicaciones de la designación para el balance de poder en el país.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Celebrarán la confirmación de Todd Blanche como una conquista significativa para el partido republicano y la política judicial, destacarán su experiencia judicial y expresarán la creencia de que su designación marcará un nuevo capítulo en la lucha contra la corrupción y la inseguridad.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>Esta decisión marca un punto de inflexión en la política judicial del país, ya que Todd Blanche, conocido por su conexión con Donald Trump, se convierte en fiscal general. Esto plantea preguntas sobre la imparcialidad del poder judicial y la influencia política en la administración de justicia. A medida que avanzamos en este nuevo capítulo, es fundamental considerar las implicaciones más amplias de esta elección y su impacto potencial en la balanza de poder del país.</p>"
-        },
-        {
-          "id": "guerra-ucrania",
-          "headline": "Rusia continúa atacando áreas alrededor de Kiev",
-          "summary": "La Federación Rusa ha seguido atacando aldeas cerca de la capital ucraniana después de que el presidente Volodymyr Zelensky advirtió sobre la disminución de suministros de interceptores de misiles en el país.",
-          "tags": [
-            "#Ucrania",
-            "#guerra"
-          ],
-          "source_ids": [
-            1
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/media/images/74015000/74015692/74015692.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption>Se sigue reportando continuamente una escalada de violencia en áreas alrededor de Kiev, tras nuevos ataques de misiles por parte de Rusia.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">A pesar de la falta de información específica sobre la cobertura de medios de izquierda en este momento, es posible que estén enfatizando la necesidad de un cambio de política a nivel internacional para resolver el conflicto en Ucrania, subrayando la inmoralidad de los ataques rusos.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Como se muestra en el artículo de la BBC, los medios imparciales están tratando de mantener un tono neutral y objetivo al informar sobre los ataques, proporcionando detalles precisos sobre las víctimas y los daños causados. No están tomando partido ni defendiendo a ninguna de las partes en conflicto.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Es probable que los medios de derecha estén enfatizando la responsabilidad de Rusia en los ataques y la necesidad de una respuesta más dura contra Moscú. También pueden estar subrayando la importancia de la estabilidad y seguridad en la región, y critican la posible debilidad de Ucrania a la hora de defenderse contra las agresiones rusas.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El conflicto en Ucrania es un ejemplo de cómo la violencia y la agresión pueden tener consecuencias devastadoras para las poblaciones inocentes. También destaca la importancia de mantener una actitud crítica y objetiva frente a la información proporcionada por los medios de comunicación, ya que pueden influir en nuestra percepción del mundo y nuestras decisiones. En un momento en que la información se multiplica y se dispersa a gran velocidad, es fundamental ser conscientes de nuestros propios sesgos y prejuicios para poder tomar decisiones informadas.</p>"
-        },
-        {
-          "id": "crise-colombiana",
-          "headline": "El presidente colombiano busca revertir tendencias negativas",
-          "summary": "El presidente recién elegido de Colombia, Abelardo de la Espriella, debe enfrentar problemas como violencia creciente y un Congreso fragmentado, además de un considerable déficit financiero.",
-          "tags": [
-            "#Colombia",
-            "#política"
-          ],
-          "source_ids": [
-            5,
-            6
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/abelardo-de-la-espriella.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El presidente electo colombiano busca revertir las tendencias negativas y reconstruir las relaciones con los Estados Unidos.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">En los medios de izquierda, no se encuentró contenido relevante relacionado con el tema.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">De BBC, nos proporcionan un reportaje neutral con temas relacionados con eventos geopolíticos y espionaje, pero no contienen información de relevancia directa sobre el tema.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">El artículo de Fox News, describe al nuevo presidente colombiano como el 'Tigre' y destaca su vinculación con Donald Trump, señalando su plan de reconstruir las relaciones con los Estados Unidos y enfrentar los problemas internos como la violencia y el déficit fiscal.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La elección del presidente colombiano Abelardo de la Espriella y su enfoque en reconstruir las relaciones con los Estados Unidos, nos lleva a reflexionar sobre las tendencias políticas latinoamericanas, que se dirigen hacia la derecha, y la importancia de la cooperación bilateral para abordar los desafíos comunes en la región. Es fundamental analizar las implicaciones de estas alianzas e investigar cómo impactarán en la política, la economía y la sociedad colombiana, así como en la dinámica geopolítica regional.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/08/08/multimedia/08int-yemen-retaliation-qwvh/08int-yemen-retaliation-qwvh-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El conflicto en Yemen y sus implicaciones regionales parecen alcanzar un punto de inflexión.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los medios de izquierda, en este caso, <i>The New York Times</i>, están enfocando su atención en la creciente tensión entre el gobierno yemení y los rebeldes houthis respaldados por Irán. La portada destaca la posible expansión del conflicto y sus peligrosas implicaciones regionales.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">En el ámbito de los medios imparesentados, aún no se han emitido informes relevantes en esta situación. Por lo tanto, la sección de los medios imparciales se mantiene en silencio.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No se han encontrado informes desde los medios de derecha relacionados con el conflicto en Yemen, por lo que este tema se ha dejado de informar aquí.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El conflicto en Yemen y las amenazas regionales plantean preocupaciones serias sobre la estabilidad en el área. Al verse inmersos en un entorno político y militar cada vez más complejo, los líderes y actores en la región tendrán que recurrir a estrategias diplomáticas y políticas para abordar las causas subyacentes del conflicto y buscar una resolución pacífica. La clave para mitigar las amenazas regionales radica en encontrar espacios de diálogo y cooperación entre las partes involucradas, lo que en última instancia contribuirá a la consecución de una estabilidad duradera en la región.</p>"
         },
         {
           "id": "violencia-armada",
-          "headline": "Escalada de violencia armada en diferentes partes del mundo",
-          "summary": "Recientemente, se han informado incidentes de violencia armada en lugares como Estados Unidos, Tailandia y Colombia. Los motivos y circunstancias varían en cada caso, pero las consecuencias son graves.",
+          "headline": "Asesinatos a tiros en escuelas y medidas legales para abordar el problema",
+          "summary": "Ha habido varios episodios de violencia armada en países como Tailandia y el mundo está buscando soluciones para prevenir este tipo de ataques.",
           "tags": [
-            "#violencia-armada",
-            "#crimen"
+            "#violencia",
+            "#legislacion"
           ],
           "source_ids": [
-            8,
+            1,
+            8
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/3ce66f7b-emergency-responders-school-shooting-thailand-august-2026.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Un estudiante abrió fuego en una escuela secundaria en Tailandia, resultando en la pérdida de vidas y lesiones a otros.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los medios de izquierda, como el New York Times, en su artículo \"As Thailand Gets Known for Mass Shootings, Fresh Pledges to Fix Gun Laws\", enfocan más en el problema de la violencia armada en Tailandia y cómo las autoridades prometen reformar las leyes de armas. El enfoque se centra en las víctimas y en encontrar soluciones para prevenir futuros incidentes.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">En cuanto a los medios imparciales, no hay información proporcionada en este análisis. Se requeriría consultar otras fuentes para comprender cómo se están cubriendo los hechos de manera objetiva.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha, como Fox News, en su titular \"Student perpetrates deadly shooting at Thailand high school, authorities say\", enfocan más en la naturaleza del incidente y los detalles de la investigación en curso. El enfoque se centra en la presentación de los hechos de manera objetiva, sin embargo, es posible que exista un subtexto de responsabilidad personal en lugar de centrarse en las causas más profundas del problema.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La violencia armada en las escuelas es un problema complejo que afecta a países de todo el mundo. En este caso, Tailandia enfrenta un nuevo desafío después de un estudiante abrió fuego en una escuela secundaria, dejando víctimas mortales y heridos. Esta tragedia nos obliga a reflexionar sobre la naturaleza humana, la influencia de los medios en la percepción pública y la necesidad de encontrar soluciones efectivas para prevenir incidentes similares en el futuro. Es hora de que los líderes y las comunidades de todo el mundo se unan para abordar este problema global y crear un futuro más seguro para todos los niños.</p>"
+        },
+        {
+          "id": "guerra-rusa-ucrania",
+          "headline": "Ataques rusos cerca de Kiev y preocupaciones de la situación militar",
+          "summary": "La situación en Ucrania se vuelve más compleja con ataques rusos cada vez más frecuentes y la falta de suministros de interceptores de misiles en el país.",
+          "tags": [
+            "#guerra",
+            "#ucrania"
+          ],
+          "source_ids": [
+            3,
+            6
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/cpsprodpb/18F6C/production/_127331133_127331116.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Rusia continúa con sus ataques nocturnos cerca de Kiev luego de que el presidente Volodymyr Zelensky alerte sobre la escasez de interceptores de misiles en Ucrania.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">En este caso, no se encontraron artículos relevantes de medios de izquierda para analizar.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">El artículo de BBC titulado \"Child among three killed in Russian missile attacks near Kyiv\" muestra una cobertura neutral de los ataques rusos cerca de Kiev. La noticia informa sobre las víctimas y la advertencia del presidente Zelensky sobre la escasez de misiles interceptores. BBC proporciona información objetiva sin inclinar la balanza en una dirección particular.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No se encontraron artículos relevantes de medios de derecha para analizar.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El continente de Rusia cerca de Kiev puede ser un indicador de qué está sucediendo en las áreas controladas por la ONU, como Siria. La experiencia de la \"telaraña\" y cómo se utilizó para capturar a un personaje influyente en Damasco plantea una pregunta: ¿cómo afecta la información y el espiaje a la situación en Ucrania?</p>"
+        },
+        {
+          "id": "politica-estadounidense",
+          "headline": "Cambio de personal en el gobierno de EE. UU. y desafíos políticos",
+          "summary": "El gobierno de EE. UU. ha experimentado cambios en su estructura y se enfrenta a desafíos políticos internos y externos.",
+          "tags": [
+            "#politica",
+            "#ee.uu"
+          ],
+          "source_ids": [
+            2,
             7,
-            7
+            6
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/3ce66f7b-emergency-responders-school-shooting-thailand-august-2026.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La violencia armada continúa empeorando a nivel mundial, con noticias de tiroteos en escuelas y posibles conflictos militares.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">En las noticias de la izquierda no encontramos artículos relevantes para este tema.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Aunque no encontramos artículos imparciales en este análisis, es importante buscar fuentes confiables e imparciales para obtener información precisa.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">En las noticias de Fox encontramos varias historias relacionadas con violencia armada, incluyendo un tiroteo en una escuela tailandesa y una advertencia de inteligencia de que Rusia podría lanzar un ataque limitado contra un aliado de la OTAN. Estas historias tienden a ser enfocadas en la perspectiva de la violencia y el peligro, sin un análisis más profundo o una contextualización de las causas subyacentes. Por ejemplo, el artículo sobre el tiroteo en la escuela tailandesa se enfoca en la cantidad de muertes y heridos, pero no ofrece una perspectiva más amplia sobre la violencia escolar en todo el mundo ni sobre las medidas que podrían tomarse para prevenir estos incidentes.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La violencia armada a nivel mundial es un tema complejo y multifacético que requiere una abordaje integral. Si bien los medios de comunicación pueden informar sobre incidentes específicos, es importante considerar las causas subyacentes de la violencia y explorar soluciones para prevenirla. La violencia armada no solo afecta a individuos y comunidades, sino que también tiene consecuencias a largo plazo para la estabilidad y la seguridad en todo el mundo. Es importante que los medios de comunicación y los líderes políticos adopten un enfoque equilibrado y basado en hechos para abordar este tema y trabajar hacia una sociedad más pacífica y segura.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/putin-security-council-meeting-moscow.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El cambio en la cúpula del gobierno de EE. UU. genera incertidumbre política en el país y el continente.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los medios de izquierda no han abordado directamente este tema en sus últimas noticias. Sin embargo, al analizar la estructura general de sus historias, parece que están enfocados en reportar sobre otros temas, como la investigación de inteligencia y sus posibles implicaciones en la política internacional.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">BBC ha publicado dos noticias relacionadas con este tema, destacando el nombramiento del nuevo fiscal general, Todd Blanche, y su contexto político. Las noticias de BBC también mencionan otros temas internacionales, como el seguimiento de la cabeza de la inteligencia siria, sin relacionarlos directamente con el cambio en el gobierno de EE. UU.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Fox News ha enfocado su atención en el informe de inteligencia sobre posibles ataques rusos a aliados de OTAN, destacando la amenaza a la estabilidad en Europa. Esta perspectiva puede ser vista como una forma de crear tensión y preocupación entre la audiencia, lo que podría ser utilizado como un argumento a favor de una postura más conservadora en la política internacional.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El cambio en la cúpula del gobierno de EE. UU. y los desafíos políticos que conlleva, pueden tener consecuencias significativas en la política internacional. Los distintos enfoques de los medios de comunicación y su percepción de la situación pueden ser influyentes en la forma en que la gente entiende y se involucre en estos temas. Es importante ser conscientes de estos sesgos y reflexionar sobre sus implicaciones, para así tener una comprensión más completa y matizada del mundo en el que vivimos.</p>"
         },
         {
-          "id": "conflicto-chagos",
-          "headline": "El destino de las Islas Chagos sigue siendo incierto",
-          "summary": "El pueblo de las Islas Chagos, expulsado por los británicos hace 60 años, espera con ansias poder regresar este año. Sin embargo, sus planes han sido complicados por conflictos geopolíticos y presiones políticas.",
+          "id": "violencia-en-colombia",
+          "headline": "Violencia en Colombia y desafíos para el nuevo presidente",
+          "summary": "La situación de violencia en Colombia persiste y el nuevo presidente debe enfrentar desafíos importantes para abordar esta problemática.",
           "tags": [
-            "#Chagos",
-            "#colonialismo"
+            "#violencia",
+            "#colombia"
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/08/08/multimedia/08int-mauritius-trump-iran-10-ckfb/08int-mauritius-trump-iran-10-ckfb-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El destino de las Islas Chagos sigue siendo objeto de debate geopolítico.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El New York Times ha publicado tres artículos sobre el tema, destacando la preocupación de los refugiados por volver a sus tierras natales y la influencia de la geopolítica en su futuro. Los artículos de NY Times 'Pellet Guns, Sticks and Tear Gas: Cómo la policía india detuvo una marcha juvenil' y 'Their African Islands Were Set to Be Decolonized. Luego Estados Unidos bombardeó a Irán' destacan la injusticia e inestabilidad causadas por la expulsión de los habitantes de las Islas Chagos.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">BBC no ha publicado artículos relacionados directamente con el tema, lo que sugiere una falta de cobertura o un enfoque diferente. Sin embargo, BBC ha publicado artículos sobre noticias generales y conflictos globales, pero no proporcionan información específica sobre el futuro de las Islas Chagos.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Fox News no ha publicado artículos relacionados directamente con el tema, lo que sugiere una falta de interés o un enfoque diferente. Sin embargo, Fox News ha publicado artículos sobre conflictos globales, incluyendo una amenaza potencial de Rusia contra un aliado de NATO, pero no proporcionan información específica sobre el destino de las Islas Chagos.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El destino de las Islas Chagos sigue siendo incierto debido a las complejas redes de poder y geopolítica que rodean a la región. La expulsión de los habitantes de las islas ha creado una crisis humanitaria y ha dejado en la oscuridad el futuro de una comunidad que ha sido desestabilizada por la presencia militar estadounidense. La falta de cobertura de los medios de comunicación, especialmente los de izquierda y derecha, sobre este tema destaca la necesidad de una atención y un enfoque más profundo en la situación de las Islas Chagos y las implicaciones globales de esta crisis.</p>"
-        },
-        {
-          "id": "protestas-india",
-          "headline": "La policía india usa medidas controvertidas para controlar protestas",
-          "summary": "La policía india ha utilizado armas de fuego y gas pimienta para disolver protestas pacíficas en la ciudad de Nueva Delhi, lo que ha levantado críticas y acusaciones de excesos en el uso de la fuerza.",
-          "tags": [
-            "#India",
-            "#protestas"
+          "source_ids": [
+            5
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/08/08/multimedia/08int-mauritius-trump-iran-10-ckfb/08int-mauritius-trump-iran-10-ckfb-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Las autoridades indias han sido vistas utilizando medidas controvertidas para controlar las protestas callejeras.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El New York Times, de tendencia de izquierda, ha analizado la crisis en Nueva Delhi, destacando la respuesta excesiva de la policía frente a los manifestantes, quienes eran inocentes. El artículo destaca cómo la represión policiaca ha provocado un gran reclamo público y acusaciones de uso de la fuerza innecesaria.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">BBC, como emisor imparcial, ha informado sobre la situación en su sitio web, pero no ha profundizado en la narrativa de la respuesta policial, manteniéndose neutral en su cobertura.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No se han encontrado informaciones relevantes desde emisor de derecha que estén relacionadas directamente con la crítica de las medidas controvertidas de la policía india. Sin embargo, se ha hecho mención a noticias sobre geopolíticas y otros temas no relacionados.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>En este escenario, las autoridades de una potencia emergente utilizan medidas extremas para controlar las protestas. ¿Qué implica esto para los derechos humanos y la dignidad individual en un contexto de mayor poder policial y vigilancia? ¿Cómo se abordan estas situaciones en otras partes del mundo y qué pueden aprenderse de estas experiencias?</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/abelardo-de-la-espriella.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El recién asesinado presidente colombiano, Abelardo de la Espriella, hereda conflictos armados en aumento y una financiación insuficiente para los programas sociales.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">No se encontraron artículos que representen la perspectiva de los medios de izquierda para esta noticia específica.</div>\n  </div>\n  <div class=\"bias-box bias-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Hasta la fecha, no se han encontrado articulos que representen la perspectiva de medios imparciales para esta noticia específica. Sin embargo, si se encuentra algún articulo de los medios imparciales que cubran la violencia en Colombia y el desafío para el nuevo presidente, se podrán analizar e incluir en esta sección en el futuro.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha, como Right (Fox), enfatizan que el nuevo presidente, Abelardo de la Espriella, asume el cargo en un momento crítico de la historia de Colombia, con un aumento de la violencia armada y una financiación insuficiente para los programas sociales. También destaca la importancia de la relación con Estados Unidos y la intención de \"reconstruir\" los lazos bilaterales.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La elección del nuevo presidente en Colombia en medio de un clima de violencia armada y desafíos financieros presenta un panorama desafiante no solo para el país, sino también para la comunidad internacional. La relación con Estados Unidos, uno de los principales socios comerciales y geopolíticos de Colombia, es crucial en este contexto. Es importante reflexionar sobre cómo esta convergencia de factores podría afectar no solo la estabilidad interna de Colombia, sino también su capacidad para abordar problemas globales y participar en la economía global. Esto nos obliga a replantearnos nuestras prioridades y estrategias en materia de seguridad, desarrollo y cooperación internacional, para garantizar la estabilidad y el crecimiento sostenible de Colombia en un entorno global cada vez más complejo</p>"
         }
       ],
       "rawCount": 9
@@ -85,159 +80,126 @@
     "TECH_FRONTIER": {
       "items": [
         {
-          "id": "tema-1",
-          "headline": "Meta enfrenta multas por seguridad en redes sociales",
-          "summary": "La empresa Meta ha sido condenada a pagar una multa de $567 millones por incumplir leyes de seguridad en redes sociales y otra multa de $375 millones de acuerdo a una sentencia de un jurado.",
+          "id": "topic-1",
+          "headline": "Meta enfrenta multas por seguridad de usuarios",
+          "summary": "Meta enfrentó multas de $567 millones y $375 millones por engañar a los usuarios sobre la seguridad de sus plataformas.",
           "tags": [
             "#Meta",
-            "#seguridadreducion"
+            "#SeguridadEnLinea"
           ],
           "source_ids": [
-            3,
+            1,
+            2
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/08/06/multimedia/06biz-meta-new-mexico-clph/06biz-meta-new-mexico-clph-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Meta enfrenta una nueva condena millonaria por inseguridad de usuarios en sus plataformas.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El artículo de The New York Times resalta la gravedad de la condena imponga a Meta, destacando que la compañía debe pagar $567 millones de dólares como parte de una orden judicial. Este enfoque enfatiza el lado negativo de la decisión, poniendo de relieve la responsabilidad de Meta en la inseguridad de sus usuarios. De este modo, los medios de izquierda tienden a adoptar una actitud crítica hacia las grandes corporaciones como Meta.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">El artículo de BBC resalta el hecho de que esta es la condena más grande en la historia para una empresa de redes sociales. Sin embargo, también destaca que la decisión se debe a que Meta incurrió en errores al ocultar información sobre la seguridad de sus plataformas. Este enfoque imparte datos de forma objetiva, presentando ambos factores de la decisión sin tomar partido. De este modo, los medios imparciales tienden a adoptar una actitud informativa y descriptiva en lugar de crítica.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No hay ningún artículo proporcionado del lado de la derecha.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La sentencia contra Meta refleja un cambio importante en la forma en que la sociedad percibe a las empresas de redes sociales. En un mundo donde la privacidad y la seguridad en línea han ganado en importancia, la falta de transparencia de Meta es un recordatorio de que las corporaciones deben rendir cuentas por sus acciones. Esta decisión no solo establece un precedente para futuras acciones legales, sino que también plantea una pregunta más profunda sobre la responsabilidad social de las empresas tecnológicas: ¿hasta qué punto deben estos gigantes tecnológicos priorizar la seguridad y la privacidad de sus usuarios?</p>"
+        },
+        {
+          "id": "topic-2",
+          "headline": "Investidores y futurismo tecnológico",
+          "summary": "Investidores están considerando futurismo tecnológico, como el uso de robots humanoides y la automatización en el fútbol, aunque su viabilidad está por verse.",
+          "tags": [
+            "#Inversión",
+            "#FuturismoTecnológico"
+          ],
+          "source_ids": [
+            0,
+            3
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/08/06/multimedia/Biz-China-Robot-IPO-video-still-cftp/Biz-China-Robot-IPO-video-still-cftp-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Esta análisis explora las posibilidades y limitaciones de la inversión de capital para el futurismo tecnológico.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El artículo de NYT Tech, 'China’s Unitree Prices IPO en apuestas de que inversionistas están listos para los robots humanoides', presenta el caso de la empresa Unitree Robotics, que busca recaudar $900 millones en una oferta pública de acciones para desarrollar tecnología de robots humanoides, cuyo mercado todavía es incierto. Esta presentación enfatiza la incertidumbre y la necesidad de inversión en el proyecto, acentuando la importancia de la visión a corto plazo de los inversionistas.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">El artículo BBC Tech, '¿La football es AI-proof? Por qué los tecnólogos querían una franquicia del Mundial de Fútbol', analiza una propuesta de inversión para el fútbol utilizando tecnología AI, que finalmente se canceló. La presentación descriptiva del artículo enfatiza la complejidad de las decisiones de inversión, y las incertidumbres a corto plazo que rodean tanto la tecnología como el mercado del esfuerzo de inversión. Esta perspectiva neutral busca proporcionar una comprensión equilibrada de la situación.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No se proporcionó ningún artículo desde una fuente de derecha que se pueda analizar directamente como parte de esta presentación.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>A medida que la inversión en tecnología evoluciona, es fundamental considerar las posibles consecuencias de dichos esfuerzos a largo plazo. La pregunta clave es ¿podríamos estamos avanzando demasiado en la adopción de tecnologías que puedan tener implicaciones inciertas sobre la sociedad y la humanidad, y si los inversionistas y emprendedores de tecnología están teniendo suficiente cautela al considerar las posibles consecuencias de sus acciones?</p>"
+        },
+        {
+          "id": "topic-3",
+          "headline": "Seguridad de viaje y baterías de litio",
+          "summary": "La industria aeronáutica advierte sobre el riesgo de baterías de litio en el transporte aéreo.",
+          "tags": [
+            "#Seguridad",
+            "#Aviación"
+          ],
+          "source_ids": [
             4
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/08/06/multimedia/06biz-meta-new-mexico-clph/06biz-meta-new-mexico-clph-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Meta enfrenta multas récord por la falta de seguridad en sus plataformas de redes sociales.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El New York Times Tech, presenta esta noticia como una condena severa al accionista principal de Facebook, Meta, imponiendo una multa récord de $567 millones en Nueva México, sumada a otra de $375 millones imponiendo un total de $942 millones, lo que sugiere que el tema de la seguridad en las redes sociales sigue siendo prioritario para la legislación estadounidense.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">La BBC Tech informa sobre la multa de $567 millones, destacando el carácter de esta decisión como el mayor castigo jamás impuesto a una plataforma de redes sociales por incumplimiento de obligaciones en materia de seguridad de menores. Esta neutralidad del informe resalta la importancia de cumplir con las leyes sobre seguridad y protección de la infancia en línea.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n  (No se encontraron artículos relevantes para este tipo de medios)\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La multa impuesta a Meta subraya el impacto cada vez más crítico que tienen las redes sociales en la vida de los menores. Con la creciente influencia de las plataformas sociales en la infancia y la juventud, es esencial que las empresas que operan en este espacio prioricen la seguridad y la protección de sus usuarios más vulnerables. Esta condena debería ser un llamado de atención para la industria alrededor de la importancia de tomar medidas efectivas para garantizar la seguridad del mundo en línea, particularmente para aquellos que son los más propensos a ser explotados y dañados por las redes sociales.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/1019/branded_news/8B74/production/_123667142_airplane.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La industria aérea advierte a los pasajeros sobre las baterías de litio.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Actualmente, no se han encontrado noticias de medios de izquierda que cubran este tema.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Algunos medios imparciales como BBC Tech están informando sobre la advertencia de la industria aérea a los pasajeros sobre las baterías de litio, destacando la preocupación por la seguridad. Por ejemplo, BBC Tech informa que \"The airline industry wants passengers to be careful when travelling with lithium ion batteries.\"</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Actualmente, no se han encontrado noticias de medios de derecha que cubran este tema.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La seguridad de los viajes y la preocupación por las baterías de litio pueden ser vistas como un reflejo de las complejidades de la tecnología moderna. La industria aérea está trabajando incansablemente para garantizar la seguridad de los pasajeros, pero también es importante que los viajeros tomen precauciones al viajar con baterías de litio. Esto destaca la importancia de la conciencia ambiental y el cuidado con el equipaje. ¿Qué otros cambios tecnológicos deberíamos estar prestando atención a la hora de viajar en avión?</p>"
         },
         {
-          "id": "tema-2",
-          "headline": "Aviones advierten sobre baterías de litio",
-          "summary": "La industria aérea ha lanzado una alerta para recordar a los pasajeros que deben llevar baterías de litio de una manera segura a bordo de los aviones.",
+          "id": "topic-4",
+          "headline": "Avances en Inteligencia Artificial",
+          "summary": "La IA sigue evolucionando, con noticias de renuncias en Google y cambios en la jerarquía de la empresa.",
           "tags": [
-            "#aviación",
-            "#baterías"
-          ],
-          "source_ids": [
-            6,
-            7
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/1024/branded_news/9C3A/production/_124667111_airplane-getty.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Las aerolíneas advierten a los pasajeros sobre la manipulación de baterías de litio.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">No se encontró contenido de medios de izquierda relacionado con este tema.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios de información imparciales se están centrando en el aviso a los pasajeros sobre la importancia de manipular los baterías de litio de manera segura durante el vuelo. Por ejemplo, según BBC Tech, el \"industria aeroportuaria pide a los pasajeros que sean cautelosos al viajar con baterías de iones de litio\".</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No se encontró contenido de medios de derecha relacionado con este tema.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La manipulación de baterías de litio por parte de pasajeros puede tener consecuencias graves, incluyendo incendios en aviones. Si bien el aviso de las aerolíneas puede parecer exagerado, es importante que los pasajeros sean conscientes de la importancia de manejar estas baterías con cuidado. Esto hace que este tema sea relevante no solo para las aerolíneas, sino también para la seguridad en general. La reflexión detrás de este aviso nos lleva a pensar sobre las posibles consecuencias de nuestra acción individual y cómo impactan en un contexto más amplio. En este caso, la manipulación de baterías de litio puede parecer una tarea trivial, pero su importancia se vuelve evidente cuando consideramos la seguridad en nuestras vidas cotidianas.</p>"
-        },
-        {
-          "id": "tema-3",
-          "headline": "Tecnología de robótica avanza con inversión en robots humanoides",
-          "summary": "La empresa china Unitree Robotics ha decidido realizar una oferta pública inicial (IPO) para recaudar $900 millones y financiar su investigación de robots humanoides.",
-          "tags": [
-            "#robotica",
-            "#IPO"
+            "#IA",
+            "#Google"
           ],
           "source_ids": [
             5
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/08/06/multimedia/Biz-China-Robot-IPO-video-still-cftp/Biz-China-Robot-IPO-video-still-cftp-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La tecnología de robótica avanza con inversión en robots humanoides, pero ¿qué tan viable es realmente esta tecnología?</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">En el artículo de The New York Times, se destaca la empresa chino-estadounidense Unitree Robotics, que busca recaudar $900 millones en su IPO. La noticia enfatiza el interés del mercado en robots humanoides, a pesar de que esta tecnología ha dejado de satisfacer aún sus promesas.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">La mayoría de los medios imparten la noticia sin expresar una postura clara sobre el valor del mercado potencial para los robots humanoides. Solo se destaca el interés de la empresa Unitree Robotics en la recaudación de fondos mediante su IPO.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Algunos medios conservadores enfatizan la potencialidad de los robots humanoides en el futuro laboral, destacando la posible reducción de costos y la mejora de la productividad en la industria de la fabricación. También se destaca la importancia de invertir en tecnología que potencialmente puede mejorar la vida de las personas.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La tecnología de robótica es una área en constante evolución, pero la pregunta sigue siendo: ¿qué tan cerca estamos de lograr la creación de robots humanoides que puedan satisfacer las necesidades y expectativas de la sociedad? La inversión en esta tecnología puede ser un paso importante hacia el futuro, pero también es importante considerar las limitaciones y los posibles riesgos asociados con ella.</p>"
-        },
-        {
-          "id": "tema-4",
-          "headline": "Nuevas tecnologías médicas prometen mejorar la atención en salud",
-          "summary": "La tecnología HARO EKG-seat detecta fibrilación auricular y ritmos cardíacos irregulares en 30 segundos, mejorando la atención en salud.",
-          "tags": [
-            "#salud",
-            "#tecnología"
-          ],
-          "source_ids": [
-            0
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/nurse-records-vital-signs-walk-test.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption>Este avance tecnológico promete mejorar significativamente la detección de arritmias cardíacas.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">No se han encontrado artículos de medios de izquierda que analicen este tema, por lo que no se puede determinar cómo están abordando la cuestión de la detección de arritmias cardíacas mediante tecnología de inodoro inteligente.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Artículos como el publicado en Right (Fox Tech) \"La silla de inodoro inteligente puede detectar la AFib en 30 segundos\" muestran un enfoque neutral, enfocándose en la tecnología en sí misma y sus características, sin adoptar un tono político o ideológico.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Similarmente, el artículo en Right (Fox Tech) también destaca las ventajas de esta tecnología y presenta una visión general positiva, enfatizando los beneficios para la salud y la posible reducción de costos para los sistemas de salud.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El desarrollo de tecnologías médicas innovadoras y precisas como la silla de inodoro inteligente puede cambiar el curso de la atención médica, permitiendo a los profesionales de la salud tomar decisiones informadas y ofrecer tratamiento oportuno. Esta tecnología tiene el potencial de reducir la carga de enfermedades cardíacas y mejorando significativamente la calidad de vida de millones de personas. Es crucial considerar las implicaciones éticas y económicas de la adopción de tecnologías médicas en el futuro, asegurando que la innovación esté al servicio de la salud humana y no se desvíe del objetivo principal.</p>"
-        },
-        {
-          "id": "tema-5",
-          "headline": "Ataques de cibercrimen crecen en cantidad y gravedad",
-          "summary": "La empresa OpenAI enfrenta acusaciones de haber priorizado trabajadores extranjeros sobre estadounidenses y la empresa Meta enfrenta acusaciones de seguridad en sus plataformas.",
-          "tags": [
-            "#cibercrimen",
-            "#seguridad"
-          ],
-          "source_ids": [
-            1,
-            7
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/524/openai-sam-altman-american-workers.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La creciente amenaza del cibercrimen y la necesidad de proteger los sistemas informáticos.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los medios de izquierda no han abordado este tema directamente, pero en su lugar han destacado los problemas de preferencias laborales de las empresas de inteligencia artificial, como se ve en el artículo de Fox News sobre la empresa OpenAI y su supuesto favoritismo hacia los trabajadores extranjeros.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">El artículo de BBC Tech se centra en las implicaciones de las hackeos de los modelos de inteligencia artificial de varias empresas, destacando la frecuencia y gravedad de estos incidentes, y llamando la atención sobre la necesidad de mayor seguridad en el desarrollo de estos modelos.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha han destacado la importancia de proteger a los trabajadores estadounidenses de la supuesta competencia de las empresas extranjeras, como se ve en el artículo de Fox News sobre las preferencias laborales de la empresa OpenAI. También han mencionado la necesidad de mayor seguridad en la inteligencia artificial a la luz de los recientes hackeos.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La creciente amenaza del cibercrimen y la necesidad de proteger los sistemas informáticos son problemas que demandan una respuesta inmediata y efectiva. Los recientes incidentes de hackeo de modelos de inteligencia artificial destacan la vulnerabilidad de estos sistemas y la necesidad de que las empresas y los gobiernos trabajen juntos para implementar medidas de seguridad adecuadas y prevenir futuras violaciones. La protección de la inteligencia artificial no sólo es una cuestión de seguridad nacional, sino también de confianza y privacidad en el mundo digital.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/08/05/multimedia/05biz-google-deepmind-zkcj/05biz-google-deepmind-zkcj-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">En un giro inesperado, Google anunció que Demis Hassabis, científico ganador de un Nobel, ocupará un nuevo cargo en el corazón de su laboratorio de inteligencia artificial.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Nuestros medios de izquierda, como NYT.tech, presentan la reestructuración liderada por Google como un cambio estratégico en la dirección de su laboratorio de inteligencia artificial. Destacan la carrera científica de Demis Hassabis, subrayando su papel en las investigaciones de DeepMind y cómo esta nombramiento resalta el apoyo a la investigación científica. La cobertura en NYT.tech enfatiza las consecuencias de la partida de cuatro destacados investigadores y cómo Hassabis asumirá la responsabilidad de liderar a un equipo de investigación con el objetivo de impulsar avances en inteligencia artificial.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales no presentan un sesgo en su cobertura, presentando el cambio en Google como una decisión empresarial necesaria para mantener el ritmo de la competencia en el campo de la inteligencia artificial. Señalan los desafíos que enfrenta Google y la importancia de mantener un liderazgo en el campo de la IA. Se destaca el papel de Demis Hassabis en el desarrollo de la inteligencia artificial y cómo su liderazgo podría impulsar avances significativos en el sector.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Nuestras principales fuentes de información conservadoras presentan el reemplazo de cuatro investigadores por Google como una señal de debilidad y un reflejo de la necesidad de reforzar el liderazgo corporativo. Algunos medios de derecha critican la partida de investigadores, calificándola como una pérdida de talento, y advierten que la reestructuración podría generar una disminución en la innovación y el avance en inteligencia artificial.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La reestructuración en Google destaca la importancia creciente de la inteligencia artificial en la economía global y cómo las corporaciones líderes están comprometiéndose en la innovación en este campo. El cambio en el liderazgo de Google y la partida de cuatro destacados investigadores plantean interrogantes sobre la estabilidad y la dirección a seguir en la industria de la IA. La pregunta en el aire es: ¿Cómo la industria de la IA responderá a estos cambios y cuáles son los posibles impactos en el futuro del desarrollo en este campo? La respuesta puede marcar el tono para el progreso tecnológico en los próximos años.</p>"
         }
       ],
-      "rawCount": 9
+      "rawCount": 6
     },
     "MARKETS_ECONOMY": {
       "items": [
-        {
-          "id": "raw-0",
-          "headline": "[Left (NYT Business)] Medicare Advantage’s Perks Are Getting Scrutiny",
-          "summary": "Officials said no to health plans that wanted to expand extra benefits to cover medical marijuana, streaming services and shopping clubs. More changes...",
-          "tags": [
-            "Left"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/08/08/business/medicare-advantage-benefits.html\" target=\"_blank\">Medicare Advantage’s Perks Are Getting Scrutiny</a></p>\n                <p>Officials said no to health plans that wanted to expand extra benefits to cover medical marijuana, streaming services and shopping clubs. More changes are coming in 2027.</p>\n            "
-        },
-        {
-          "id": "raw-1",
-          "headline": "[Left (NYT Business)] How an N.F.L.-Backed Plan to Revitalize Canton, Ohio, Faltered",
-          "summary": "The “Hall of Fame Village” was pitched in 2014 as a boon to the city. But hundreds of millions were spent, the N.F.L. backed out, and the project is u...",
-          "tags": [
-            "Left"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/08/08/business/nfl-canton-hall-of-fame-village.html\" target=\"_blank\">How an N.F.L.-Backed Plan to Revitalize Canton, Ohio, Faltered</a></p>\n                <p>The “Hall of Fame Village” was pitched in 2014 as a boon to the city. But hundreds of millions were spent, the N.F.L. backed out, and the project is unfinished.</p>\n            "
-        },
-        {
-          "id": "raw-2",
-          "headline": "[Left (NYT Business)] Can Netflix Save a Summer Slump With a Stunt on Sunset Boulevard?",
-          "summary": "The streaming giant, still looking for this year’s blockbuster, paid an actor to spend three days inside a billboard in Los Angeles to promote an upco...",
-          "tags": [
-            "Left"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/08/07/business/media/netflix-billboard-marketing-strategy.html\" target=\"_blank\">Can Netflix Save a Summer Slump With a Stunt on Sunset Boulevard?</a></p>\n                <p>The streaming giant, still looking for this year’s blockbuster, paid an actor to spend three days inside a billboard in Los Angeles to promote an upcoming film.</p>\n            "
-        },
-        {
-          "id": "raw-3",
-          "headline": "[Neutral (BBC Business)] How a 90-second power outage sparked chaos for rail commuters",
-          "summary": "The incident raised questions about how a disrupted power supply can have such a widespread impact....",
-          "tags": [
-            "Neutral"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">How a 90-second power outage sparked chaos for rail commuters</a></p>\n                <p>The incident raised questions about how a disrupted power supply can have such a widespread impact.</p>\n            "
-        },
-        {
-          "id": "raw-4",
-          "headline": "[Neutral (BBC Business)] Goodwin considers selling part of defence business",
-          "summary": "The firm is a key supplier of components to UK and US frigate and submarine programmes....",
-          "tags": [
-            "Neutral"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/c20dgpl0z4jo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Goodwin considers selling part of defence business</a></p>\n                <p>The firm is a key supplier of components to UK and US frigate and submarine programmes.</p>\n            "
-        },
-        {
-          "id": "raw-5",
-          "headline": "[Neutral (BBC Business)] Surprise fall in US jobs last month as slow summer continues",
-          "summary": "Analysts had expected an uptick in the number of jobs created, but the number of roles fell by 23,000 in July....",
-          "tags": [
-            "Neutral"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Surprise fall in US jobs last month as slow summer continues</a></p>\n                <p>Analysts had expected an uptick in the number of jobs created, but the number of roles fell by 23,000 in July.</p>\n            "
-        },
-        {
-          "id": "raw-6",
-          "headline": "[Right (Fox Business)] West Virginia University researchers turn polluted mine water into critical rare earth minerals",
-          "summary": "West Virginia University researchers are extracting critical rare earth minerals from polluted mine water, creating a potential U.S. supply chain solu...",
-          "tags": [
-            "Right"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/science/west-virginia-university-researchers-turn-polluted-mine-water-critical-rare-earth-minerals\" target=\"_blank\">West Virginia University researchers turn polluted mine water into critical rare earth minerals</a></p>\n                <p>West Virginia University researchers are extracting critical rare earth minerals from polluted mine water, creating a potential U.S. supply chain solution.</p>\n            "
-        },
-        {
-          "id": "raw-7",
-          "headline": "[Right (Fox Business)] NASA opens first major new wind tunnel in more than 40 years at Virginia facility",
-          "summary": "NASA's new wind tunnel has a diameter of 20 feet and stands 24 feet tall, with wind speeds of up to 117 miles per hour. It will help test technology f...",
-          "tags": [
-            "Right"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/science/nasa-langley-new-wind-tunnel\" target=\"_blank\">NASA opens first major new wind tunnel in more than 40 years at Virginia facility</a></p>\n                <p>NASA's new wind tunnel has a diameter of 20 feet and stands 24 feet tall, with wind speeds of up to 117 miles per hour. It will help test technology for future space missions.</p>\n            "
-        },
-        {
-          "id": "raw-8",
-          "headline": "[Right (Fox Business)] Humanoid robot videos show machines lashing out",
-          "summary": "Viral videos show humanoid robots flailing, lurching toward crowds, and one kicking a child during public performances, raising urgent safety question...",
-          "tags": [
-            "Right"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/science/humanoid-robot-videos-show-machines-lashing-out\" target=\"_blank\">Humanoid robot videos show machines lashing out</a></p>\n                <p>Viral videos show humanoid robots flailing, lurching toward crowds, and one kicking a child during public performances, raising urgent safety questions.</p>\n            "
-        }
+        [
+          {
+            "id": "topic-1",
+            "headline": "La inversión en tecnología y deporte",
+            "summary": "La combinación de la tecnología y el deporte ha atraído la atención de inversores. Algunos planes de inversión han sido cancelados, pero la colaboración entre tecnología y deporte sigue siendo una tendencia.",
+            "tags": [
+              "#tecnología",
+              "#deporte"
+            ],
+            "source_ids": [
+              0
+            ]
+          },
+          {
+            "id": "topic-2",
+            "headline": "Cambio en la moda laboral",
+            "summary": "La moda en el lugar de trabajo ha cambiado en los últimos años, con jóvenes personas que prefieren llevar zapatos elegantes a la oficina.",
+            "tags": [
+              "#moda",
+              "#trabajo"
+            ],
+            "source_ids": [
+              1
+            ]
+          },
+          {
+            "id": "topic-3",
+            "headline": "Revisión de la cobertura de Medicare",
+            "summary": "La cobertura de Medicare se está revisando para asegurar que los planes de salud sigan siendo accesibles y asequibles para los beneficiarios.",
+            "tags": [
+              "#salud",
+              "#seguro"
+            ],
+            "source_ids": [
+              2
+            ]
+          },
+          {
+            "id": "topic-4",
+            "headline": "Investigación sobre la recuperación de minerales",
+            "summary": "Investigadores de la Universidad de Virginia Occidental están desarrollando un método para recuperar minerales valiosos a partir de agua contaminada.",
+            "tags": [
+              "#ciencia",
+              "#medioambiente"
+            ],
+            "source_ids": [
+              6
+            ]
+          },
+          {
+            "id": "topic-5",
+            "headline": "Investigación en la tecnología aeroespacial",
+            "summary": "La NASA ha inaugurado un nuevo túnel de viento moderno, lo que permitirá a los científicos probar nuevas tecnologías para futuras misiones espaciales.",
+            "tags": [
+              "#aeroespacial",
+              "#innovación"
+            ],
+            "source_ids": [
+              7
+            ]
+          }
+        ]
       ],
       "rawCount": 9
     }
