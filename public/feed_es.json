@@ -1,89 +1,75 @@
 {
-  "last_updated": "2026-08-12T22:42:17.198Z",
+  "last_updated": "2026-08-13T01:58:14.129Z",
   "language": "es",
   "categories": {
     "GLOBAL_MACRO": {
       "items": [
         {
-          "id": "raw-0",
-          "headline": "[Left (NYT)] First Total Eclipse in Europe in Decades Turns Day to Night",
-          "summary": "From Iceland to Spain, people flocked to viewing spots to see the moon completely block out the sun....",
+          "id": "topic-brote-de-la-ebola",
+          "headline": "Número de muertos en la actual epidemia de la Ebolavirus supera el récord histórico",
+          "summary": "La Organización Mundial de la Salud (OMS) informa que el número de muertes en la actual epidemia de Ebolavirus supera las 2.000 y sigue incrementando.",
           "tags": [
-            "Left"
+            "#ebola",
+            "#salud"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates\" target=\"_blank\">First Total Eclipse in Europe in Decades Turns Day to Night</a></p>\n                <p>From Iceland to Spain, people flocked to viewing spots to see the moon completely block out the sun.</p>\n            "
+          "source_ids": [
+            0
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/1024/branded_news/1d1f/production/_112123444_gettyimages-1141154455.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Un nuevo récord de muertes marca la epidemia de ebolavirus.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los medios de izquierda presentan la situación con un enfoque crítico hacia las autoridades sanitarias por su respuesta lenta al brote, destacando el número de muertes y el sufrimiento de los afectados.</div>\n  </div>\n  <div class=\"bias-box bias-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales se enfocan en proporcionar información objetiva sobre la epidemia, destacando el número de muertes y los casos reportados, así como las medidas preventivas recomendadas por la Organización Mundial de la Salud (OMS).</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha, en general, adoptan una postura más alarmista, enfatizando la grave situación y la posibilidad de que la epidemia se esparza más allá de la región afectada, pero con un enfoque hacia la importancia de la colaboración internacional para controlar el brote.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La epidemia de ebolavirus es un recordatorio de la fragilidad del sistema de salud global y la importancia de la colaboración y la cooperación internacional para enfrentar los desafíos que plantean las enfermedades infecciosas. La capacidad para controlar y contener la propaga de la enfermedad destaca también la necesidad de fortalecer las infraestructuras y los servicios de salud en las regiones más vulnerables, evitando así que futuros brotes afecten a más personas.</p>"
         },
         {
-          "id": "raw-1",
-          "headline": "[Neutral (BBC)] ICE plans to equip agents with gloves that can deliver electric shocks",
-          "summary": "The US immigration agency is spending $20m on gloves that deliver a sharp electric shock intended to compel subjects to comply....",
+          "id": "topic-eclipse",
+          "headline": "Un eclipse total de sol se produce en Europa tras ser visible desde varios países",
+          "summary": "La sociedad civil se reunió en varios puntos de observación para ver cómo el eclipse de sol bloqueaba el sol durante varios minutos.",
           "tags": [
-            "Neutral"
+            "#astronomía",
+            "#ciencia"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">ICE plans to equip agents with gloves that can deliver electric shocks</a></p>\n                <p>The US immigration agency is spending $20m on gloves that deliver a sharp electric shock intended to compel subjects to comply.</p>\n            "
+          "source_ids": [
+            1
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/08/12/multimedia/12europe-eclipse-promo-4PM-1-zptj/12europe-eclipse-promo-4PM-1-zptj-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Un total eclipse de sol ha regresado a Europa después de décadas, sorprendiendo a personas en varios países.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los medios de izquierda están enfatizando el aspecto de la comunidad y la unión que se formó en torno a la visión del eclipse, como se desprende del titular del New York Times \"Primer eclipse total en Europa en décadas gira la luz del día a noche\". Además, destacan la emoción y la sorpresa de los espectadores en las ubicaciones de visión.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales están ofreciendo una cobertura equilibrada de la visión, presentando información sobre la ruta de la sombra, los puntos de visión y los lugares afectados por el eclipse. Destacan el interés de la opinión pública en el fenómeno astronómico y la importancia de una cobertura precisa de los hechos.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha están enfatizando el lado económico y tecnológico del eclipse, destacando la importancia de una mejor infraestructura astronómica en Europa y la oportunidad de inversión en tecnología para mejorar la comprensión del fenómeno.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El eclipse total de sol en Europa es un recordatorio de la interconexión de nuestro planeta y de los fenómenos naturales que nos rodean. Es importante reflexionar sobre la responsabilidad que tienen los gobiernos y las agencias espaciales en la protección de la infraestructura y en la promoción de la educación científica. El eclipse también es una oportunidad para fomentar la colaboración internacional y la cooperación en la exploración del espacio.</p>"
         },
         {
-          "id": "raw-2",
-          "headline": "[Left (NYT)] How Nigel Farage Ended Up Running Against Count Binface in Clacton",
-          "summary": "Nigel Farage forced a new election in his parliamentary seat after coming under pressure over his finances. His main challenger is Count Binface, a no...",
+          "id": "topic-conflicto-ukrano",
+          "headline": "Ataques en puertos y terminales de exportación de grano afectan a ambas partes en el conflicto ucranoruso",
+          "summary": "Los ataques a los puertos y terminales de exportación de grano afectan las exportaciones de ambos países, lo que pone en riesgo la seguridad de la cadena alimentaria.",
           "tags": [
-            "Left"
+            "#conflicto",
+            "#Ucrania"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/08/12/world/europe/count-binface-nigel-farage-clacton.html\" target=\"_blank\">How Nigel Farage Ended Up Running Against Count Binface in Clacton</a></p>\n                <p>Nigel Farage forced a new election in his parliamentary seat after coming under pressure over his finances. His main challenger is Count Binface, a novelty candidate.</p>\n            "
+          "source_ids": [
+            2,
+            4
+          ],
+          "deepDiveHtml": "\n\n  \n\n\n  <div class=\"hero-container\">\n    <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/08/russian-military.gif\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n    <div class=\"hero-caption\">El conflicto ucranoruso continúa con ataques en puertos y terminales de exportación de grano, afectando a las partes en lucha.</div>\n  </div>\n  <h2>Desconstrucción del Sesgo</h2>\n  <div class=\"bias-container\">\n    <div class=\"bias-box bias-box-left\">\n      <div class=\"bias-label\" lang=\"en\">Medios de Izquierda</div>\n      <div class=\"bias-content\">Los medios de izquierda, como The New York Times, no han publicado contenido directamente relacionado con el tema, pero se enfocan en informar sobre noticias políticas y deactualidad, como eventos en la Unión Europea que pueden estar relacionados con la situación en Ucrania.</div>\n    </div>\n    <div class=\"bias-box bias-box-neutral\">\n      <div class=\"bias-label\">Medios Imparciales</div>\n      <div class=\"bias-content\">En este momento, no hay fuentes informativas imparciales disponibles que hayan cubierto directamente la situación de los ataques a puertos y terminales de exportación de grano en Ucrania.</div>\n    </div>\n    <div class=\"bias-box bias-box-right\">\n      <div class=\"bias-label\">Medios de Derecha</div>\n      <div class=\"bias-content\">Los medios de derecha, como Fox News, han publicado contenido relacionado con la situación en Ucrania, enfocándose en la respuesta de Rusia a los ataques y la situación actual en la región de la Black Sea.</div>\n    </div>\n  </div>\n  <h2>Reflexión</h2>\n  <p>Los ataques a puertos y terminales de exportación de grano en Ucrania no solo afectan a las partes en conflicto, sino que también tienen implicaciones a largo plazo para la seguridad alimentaria global y la estabilidad política en la región. La respuesta coordinada de la comunidad internacional y la acción efectiva de los gobiernos para resolver este conflicto son urgentemente necesarias para evitar daños económicos y humanitarios más amplios.</p>\n\n"
         },
         {
-          "id": "raw-3",
-          "headline": "[Neutral (BBC)] Major Russian grain export terminals hit in Ukraine Black Sea port attack",
-          "summary": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports....",
+          "id": "topic-asentamientos-israelíes",
+          "headline": "Nuevos asentamientos israelíes provocan tensión en el territorio ocupado",
+          "summary": "Fuerzas de seguridad israelíes se han retirado de un área y han quedado algunos asentamientos, lo que ha generado preocupación entre la población palestina.",
           "tags": [
-            "Neutral"
+            "# Palestina",
+            "#Israel"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Major Russian grain export terminals hit in Ukraine Black Sea port attack</a></p>\n                <p>Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.</p>\n            "
+          "source_ids": [
+            5
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/cpsprodpb/B5F1/production/_120115441_gettyimages-1237861426.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption>El asentamiento israelí en Cisjordania causa problemas a familias palestinas.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Es poco probable que los medios de izquierda presenten esta situación de manera neutral, enfatizando la violencia y la opresión ejercidas por los asentamientos israelíes con respecto a las familias palestinas, y señalar la necesidad de un cambio en la política israelí hacia los territorios ocupados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">En este artículo del BBC, los medios imparciales tratan de presentar información objetiva, describiendo los hechos de manera clara y conéctando a expertos y fuentes oficiales para obtener más contexto sobre la situación de los asentamientos en Cisjordania, dejando de lado la narrativa emocional y enfatizando los hechos y la legalidad del territorio.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No hay información específica sobre medios de derecha que cubran este artículo, sin embargo, se puede asumir que los medios de derecha tendrán una cobertura similar a la de los medios de izquierda o se enfocarán en la seguridad nacional e internacional al describir los asentamientos israelíes, y enfatizar los riesgos para la seguridad de Israel ante un retiro del territorio ocupado.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El asentamiento israelí en Cisjordania es un tema complejo y controvertido, con diversas perspectivas sobre su naturaleza legal, la situación de los territorios ocupados y la política de Israel hacia el pueblo palestino. Sin embargo, resulta esencial abordar este tema con empatía y comprensión para las diferentes visiones y sus impactos en las comunidades involucradas. Es importante reflexionar sobre las implicaciones a largo plazo de la persistencia de esta situación y cómo podría afectar la estabilidad regional y la paz en la región. La falta de un acuerdo justo y equitativo sobre la gobernanza de Cisjordania no solamente afecta a Israel y a los palestinos, sino a la comunidad internacional en general, ya que podría tener consecuencias a nivel regional e incluso global.</p>"
         },
         {
-          "id": "raw-4",
-          "headline": "[Right (Fox)] Ukraine pounds Black Sea Fleet’s ‘last major stronghold’ while Putin flexes naval power in Pacific",
-          "summary": "Putin threatened to seize European vessels from the Russian Black Sea to the Pacific after Ukraine's drone attack crippled Novorossiysk grain terminal...",
+          "id": "topic-región-oriental-medio",
+          "headline": "Nuevos acuerdos regionales complica estrategias bilaterales en la región del Medio Oriente",
+          "summary": "La firma de un acuerdo militar entre Arabia Saudita, Turquía y Pakistán plantea preguntas sobre su impacto en la política regional y los acuerdos con otros países.",
           "tags": [
-            "Right"
+            "#diplomacia",
+            "#relacionesinternacionales"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/world/ukraine-pounds-black-sea-fleets-last-major-stronghold-while-putin-flexes-naval-power-pacific\" target=\"_blank\">Ukraine pounds Black Sea Fleet’s ‘last major stronghold’ while Putin flexes naval power in Pacific</a></p>\n                <p>Putin threatened to seize European vessels from the Russian Black Sea to the Pacific after Ukraine's drone attack crippled Novorossiysk grain terminals.</p>\n            "
-        },
-        {
-          "id": "raw-5",
-          "headline": "[Neutral (BBC)] Israeli settlers besieging Palestinian families in West Bank village",
-          "summary": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged sinc...",
-          "tags": [
-            "Neutral"
+          "source_ids": [
+            6,
+            7
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Israeli settlers besieging Palestinian families in West Bank village</a></p>\n                <p>Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.</p>\n            "
-        },
-        {
-          "id": "raw-6",
-          "headline": "[Right (Fox)] New power axis in the making? Three military heavyweights lock arms, complicating Abraham Accords strategy",
-          "summary": "The Mecca Joint Defence Agreement signed by Saudi Arabia, Turkey and Pakistan raises questions about whether it signals a Middle East shift from the U...",
-          "tags": [
-            "Right"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/world/new-power-axis-making-three-military-heavyweights-lock-arms-complicating-abraham-accords-strategy\" target=\"_blank\">New power axis in the making? Three military heavyweights lock arms, complicating Abraham Accords strategy</a></p>\n                <p>The Mecca Joint Defence Agreement signed by Saudi Arabia, Turkey and Pakistan raises questions about whether it signals a Middle East shift from the U.S.</p>\n            "
-        },
-        {
-          "id": "raw-7",
-          "headline": "[Right (Fox)] Iran-backed Houthi threat in Red Sea could lead to major US policy shift, analysts say",
-          "summary": "Houthi attacks on Red Sea shipping may push the U.S. to forge closer ties with Somaliland, analysts say, as concerns grow over Djibouti's reliability ...",
-          "tags": [
-            "Right"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/world/iran-backed-houthi-threat-red-sea-could-lead-major-us-policy-shift-analysts-say\" target=\"_blank\">Iran-backed Houthi threat in Red Sea could lead to major US policy shift, analysts say</a></p>\n                <p>Houthi attacks on Red Sea shipping may push the U.S. to forge closer ties with Somaliland, analysts say, as concerns grow over Djibouti's reliability and China's expanding presence.</p>\n            "
-        },
-        {
-          "id": "raw-8",
-          "headline": "[Left (NYT)] Ecuadorean Fishing Boats Hit by Mystery Attackers",
-          "summary": "Ecuadorean crews plying the waters of the Pacific have been targeted by a mysterious outfit equipped with drones. Some sailors appear to have lost the...",
-          "tags": [
-            "Left"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/08/12/world/americas/ecuador-fishing-boat-strikes.html\" target=\"_blank\">Ecuadorean Fishing Boats Hit by Mystery Attackers</a></p>\n                <p>Ecuadorean crews plying the waters of the Pacific have been targeted by a mysterious outfit equipped with drones. Some sailors appear to have lost their lives.</p>\n            "
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/Mecca-Pact-Saudi-2026.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El reciente pacto de defensa entre Arabia Saudita, Turquía y Pakistán puede complicar las estrategias bilaterales en la región del Medio Oriente.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">No hay información disponible sobre cómo los medios de izquierda están cubriendo este tema.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Estos artículos de Fox News no proporcionan una perspectiva imparcial sobre el tema, ya que son de un medio de comunicación conservador. No tienen análisis de medios de izquierda o medios impares en este caso.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha de Fox News están cubriendo este tema con una perspectiva favorable a la alianza entre Arabia Saudita, Turquía y Pakistán. Destacan la posible influencia de la unión en las estrategias bilaterales de Estados Unidos en la región del Medio Oriente.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El reciente pacto de defensa entre Arabia Saudita, Turquía y Pakistán puede ser un paso importante en la configuración de un nuevo equilibrio de poder en la región del Medio Oriente. Esto podría tener implicaciones importantes para las estrategias militares y políticas de Estados Unidos y otros países involucrados. La alianza también puede influir en la estabilidad y la seguridad en la región, particularmente en relación con los conflictos en Yemen y la presencia de China en el vecindario.</p>"
         }
       ],
       "rawCount": 9
@@ -91,157 +77,168 @@
     "TECH_FRONTIER": {
       "items": [
         {
-          "id": "topico-1",
-          "headline": "Una corte en Texas enfrenta acusaciones de corrupción",
-          "summary": "La fiscalía del condado de Texas ha abordado el caso de una ex jueza que fue arrestada después de publicar contenido problemático en Facebook sobre la calidad del agua en la ciudad de Trinidad.",
+          "id": "tecnologia-1",
+          "headline": "Dificultades para implementar la inteligencia artificial en Japón",
+          "summary": "Se atribuye a la cautela y conservadurismo de la industria japonesa la lentitud en la adopción de la inteligencia artificial. Los proveedores de servicios de AI enfrentan dificultades para determinar precios adecuados.",
           "tags": [
-            "#corrupción",
-            "#gobierno"
+            "#tecnologia",
+            "#inteligencia-artificial"
           ],
           "source_ids": [
-            0,
-            2
+            0
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/Trinidad-Texas-Fired-Judge.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Una corte en Texas enfrenta acusaciones de corrupción después de una fiscalización por aguas sucias en una pequeña ciudad.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Es probable que los medios de izquierda presenten un relato más crítico sobre la situación, destacando las acusaciones de corrupción y los problemas de agua sucia en la comunidad. Podrían enfatizar el papel del juez despedido y la fiscalización del FBI para presionar por responsabilidades.</div>\n  </div>\n  <div class=\"bias-box bias-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales probablemente aborden la situación de manera equilibrada, presentando los hechos y las acusaciones, y brindando contexto sobre la situación en la comunidad. Podrían incluir opiniones de expertos y representantes de la comunidad para ofrecer una visión más completa del tema.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha podrían presentar un relato que enfatice la importancia de la transparencia y la rendición de cuentas en la administración de justicia. Podrían destacar las acusaciones de corrupción y la necesidad de que los funcionarios públicos se responsabilicen por sus acciones.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>A medida que la ciudad de Trinidad en Texas se sumerge en la crisis de agua sucia, surge una pregunta fundamental: ¿hasta qué punto estamos dispuestos a tolerar la corrupción en nuestras instituciones públicas, especialmente cuando amenazan los problemas de salud y seguridad de nuestras comunidades? La crisis en Trinidad nos invita a reflexionar sobre la importancia de la rendición de cuentas y la justicia transparente, y a considerar cómo podemos trabajar juntos para proteger el bien común.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/cpsprodpb/15C7/production/_116511441_japn_ai.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\"> La falta de adopción de la inteligencia artificial en Japón se debe a la avaricia y el conservadurismo de las empresas japonesas. </div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\"> Los medios de izquierda podrían considerar que las empresas japonesas están siendo avariciosas y cautelosas al retrasar la implementación de la inteligencia artificial, lo que obstaculizaría el progreso tecnológico y económico en el país. </div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\"> Según el artículo de BBC Tech, la falta de adopción de la inteligencia artificial en Japón se debe a la avaricia y el conservadurismo de las empresas japonesas, lo que podría estar limitando su capacidad para competir en el mercado global. </div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\"> Los medios de derecha podrían destacar la necesidad de que las empresas japonesas sean más innovadoras y riesgosas en su adopción de la inteligencia artificial, para mantener la competitividad y el liderazgo en el mercado global. </div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La falta de adopción de la inteligencia artificial en Japón plantea interrogantes sobre la capacidad de las empresas para adaptarse a un mercado cada vez más complejo y tecnológicamente avanzado. ¿Qué implica la avaricia y el conservadurismo de las empresas japonesas para el futuro económico y tecnológico del país? ¿Cómo pueden las empresas encontrar un equilibrio entre la innovación y la prudencia al implementar la inteligencia artificial? </p>"
         },
         {
-          "id": "topico-2",
-          "headline": "Plataformas de streaming en línea enfrentan regulaciones en varios países",
-          "summary": "La empresa Discord recibió un orden de suspender sus transmisiones en vivo en Brasil, mientras que otras plataformas enfrentan regulaciones similares en otros lugares.",
+          "id": "tecnologia-2",
+          "headline": "Desafíos de la tokenización en la industria del AI",
+          "summary": "Los compradores de servicios de AI encuentran dificultades para controlar los costos, mientras que los proveedores de servicios no saben qué precio deben imponer.",
           "tags": [
-            "#streaming",
-            "#regulación"
+            "#tecnologia",
+            "#inteligencia-artificial"
+          ],
+          "source_ids": [
+            2
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/cpsprodpb/1F7D/production/_128115441_ai_tokenomics2.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La tokenización de servicios de AI enfrenta desafíos en la determinación de costos.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">No se encuentra información sobre cómo los medios de izquierda están abordando este tema en fuentes disponibles.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Actualmente, los mercados de los servicios de AI se enfrentan a dificultades en la tokenización en la determinación de costos, mientras que los proveedores de servicios están indecisos sobre cómo determinar precios adecuados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No se encuentra información sobre cómo los medios de derecha están abordando este tema en fuentes disponibles.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La tokenización de servicios de AI representa un cambio significativo en la forma en que se compran y venden estos servicios. La falta de control en los costos y la indeterminidad de precios pueden provocar inestabilidad en los mercados. Esto no solo afecta a los compradores y vendedores, sino también a la industria como un todo. Es fundamental que se establezcan estándares claros y mecanismos de tokenización efectivos para garantizar un futuro estable y próspero para la industria del AI.</p>"
+        },
+        {
+          "id": "tecnologia-3",
+          "headline": "Discord suspende transmisiones en vivo en Brasil tras orden judicial",
+          "summary": "Discord fue ordenada por la agencia de protección de datos brasileña a suspender transmisiones en vivo en el país, al que la empresa respondió que está revisando la orden y apoyando la seguridad de sus usuarios.",
+          "tags": [
+            "#tecnologia",
+            "#discord"
           ],
           "source_ids": [
             1
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/1024/branded_news/cb6c/production/_124341551_gettyimages-1231421110.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Las plataformas de streaming en línea enfrentan regulaciones estrictas en varios países, comprometiendo su modelo de negocio y las experiencias de los usuarios.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">En general, los medios de izquierda tienden a enfocar las regulaciones a las plataformas de streaming como un medio para proteger a los usuarios de posibles ataques de hacktivistas o espionaje estatal, enfatizando la necesidad de una mayor intervención del gobierno en la regulación de la tecnología.</div>\n  </div>\n  <div class=\"bias-box bias-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales, como esta misma fuente de noticias, presentan un análisis detallado de las regulaciones y su impacto en las plataformas de streaming, sin tomar partido en la discusión. Se enfocan en los aspectos legales y técnicos de la cuestión, presentando información precisa y objetiva al lector.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha tienden a interpretar las regulaciones a las plataformas de streaming como una amenaza a la libertad de expresión y al modelo de negocio de la industria de entretenimiento. Se enfocan en la supuesta intención del gobierno de controlar el contenido y la libertad de los usuarios, sin considerar las posibles ventajas de una regulación más estricta.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La regulación de las plataformas de streaming en línea plantea un dilema fundamental en términos de libertad de expresión, privacidad de los usuarios y el control de contenido. Mientras que una regulación estricta puede brindar seguridad a los usuarios, también puede limitar su libertad de expresión y comprometer el modelo de negocio de la industria de entretenimiento. Es importante que los gobiernos y las empresas que operan estos servicios encuentren un equilibrio delicado entre estos valores en competencia, garantizando que las plataformas de streaming sean seguras, responsables y accesibles para todos los usuarios.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/1024/br/1242/production/_123151111_discord.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Discord suspende transmisiones en vivo en Brasil tras orden judicial.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los medios de izquierda en Brasil han enfatizado la importancia de la privacidad y las preocupaciones sobre el control estatal sobre las plataformas digitales, destacando cómo la suspensión de transmisiones en vivo por parte de Discord refleja una amenaza a la libertad de expresión y los derechos digitales en el país.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales en Brasil han informado sobre la orden judicial que obliga a Discord a suspender transmisiones en vivo, proporcionando detalles sobre las razones detrás de la decisión y el impacto en los usuarios de la plataforma, destacando la importancia de la equilibrio entre la protección de la privacidad y los derechos de los usuarios.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha en Brasil han culpado a los partidos políticos de izquierda que han apoyado a la agencia brasileña de protección de datos para presionar a Discord a suspender las transmisiones en vivo, presentando a la suspensión como una medida arbitraria que busca limitar la influencia de las ideas conservadoras en la plataforma.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La decisión de la corte brasileña de ordenar a Discord que suspenda las transmisiones en vivo en Brasil plantea preguntas más profundas sobre el equilibrio entre la protección de la privacidad y los derechos digitales de los usuarios. En un mundo donde las plataformas digitales juegan un papel cada vez más significativo en la forma en que vivimos y comunicamos, es crucial que se establezcan límites claros y justos que protejan a los individuos y al público en general de violaciones de la privacidad y la manipulación de información. La suspensión de transmisiones en vivo por parte de Discord puede no ser más que un paso en este proceso, pero destaca la necesidad de una discusión más amplia sobre el papel de las plataformas digitales en la sociedad y cómo garantizar que se utilicen de manera responsable y transparente.</p>"
         },
         {
-          "id": "topico-3",
-          "headline": "Fraudes en alquiler y problemas de confianza en Internet",
-          "summary": "El FBI ha reportado un aumento en los casos de fraude en alquiler en línea, mientras que los usuarios de Internet enfrentan problemas de confianza y seguridad en diversas plataformas.",
+          "id": "crisis-refugiados",
+          "headline": "Crisis de refugiados en Ceuta y su relación con las redes sociales",
+          "summary": "Una onda de desinformación online contribuyó a un flujo masivo de migrantes a Ceuta, que intentaban llegar a Europa, lo que resultó en alrededor de 90 muertes.",
           "tags": [
-            "#fraude",
-            "#seguridad"
-          ],
-          "source_ids": [
-            2,
-            5
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/rental-home-sign-new-mexico.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption>El fraude en alquileres y problemas de confianza en Internet son cada vez más recurrentes, poniendo en riesgo a los consumidores y sus bolsillos.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content>No se ha encontrado información de medios de izquierda que se refieran a este tema específico, por lo que no hay contenido para desglosar por esta categoría.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content>Este tema es un problema complejo que involucra la confianza en Internet y el fraude en alquileres. La falta de regulación y conciencia sobre este problema puede llevar a graves consecuencias financieras y emocionales para los consumidores.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content>El aumento de las denuncias de fraude en alquileres ante la FBI es un tema preocupante que debe ser abordado de inmediato. La creciente convicción de los fraudeadores gracias a fotos robadas puede llevar a pérdidas importantes para los consumidores.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>Este tema nos hace reflexionar sobre la vulnerabilidad de la gente ante los fraudes en línea. La falta de regulación y la falta de conciencia sobre estos problemas pueden llevar a la pérdida de confianza en Internet y a la pérdida de dinero para muchos consumidores. Es importante que los medios y la sociedad en general se unan para abordar este problema y proteger a los consumidores del fraude.</p>"
-        },
-        {
-          "id": "topico-4",
-          "headline": "Desafíos en la tokenización y la gestión de costos de servicios de inteligencia artificial",
-          "summary": "Comprensiones y vendedores de servicios de inteligencia artificial enfrentan desafíos en la adopción y gestión de costos de estas tecnologías.",
-          "tags": [
-            "#IA",
-            "#economía"
-          ],
-          "source_ids": [
-            3
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/custom/image-pd/1248x695/production/_123475551_getsmartgetpaid.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La tokenización de servicios de inteligencia artificial crea un dilema sobre cuánto cobrar y cómo controlar los costos.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">No se encontraron artículos de medios de izquierda específicos sobre este topic, lo que sugiere una falta de atención o interés en este tema desde una perspectiva política de izquierda. Esto podría indicar que la tokenización de servicios de inteligencia artificial está siendo percibida como una cuestión técnica o mercantil que no requiere una abordaje político.</div>\n  </div>\n  <div class=\"bias-box bias-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">A partir de un artículo neutral de BBC Tech, se destaca que los compradores de servicios de inteligencia artificial están luchando por controlar los costos y los vendedores no saben cuánto cobrar. Esta información sugiere que la tokenización de servicios de inteligencia artificial es una cuestión de complejidad creciente que necesita una resolución eficaz para evitar problemas financieros.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No se encontraron artículos de medios de derecha específicos sobre este topic, lo que sugiere una falta de atención o interés en este tema desde una perspectiva política de derecha. Esto podría indicar que la tokenización de servicios de inteligencia artificial está siendo percibida como una cuestión técnica o mercantil que no requiere una abordaje político.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La tokenización de servicios de inteligencia artificial plantea cuestiones profundas sobre la compleja relación entre tecnología y economía. La dificultad de controlar los costos y de determinar cuánto cobrar se relaciona estrechamente con la naturaleza desigual de la información y la capacidad de los vendedores para explotar su ventaja informativa. Si bien la tokenización puede ofrecer beneficios a los compradores y vendedores, también crea riesgos y obstáculos que deben ser cuidadosamente considerados. Es fundamental que los actores involucrados en la tokenización de servicios de inteligencia artificial reflexionen sobre las implicaciones a largo plazo de este proceso y busquen soluciones innovadoras para enfrentar los desafíos que plantea.</p>"
-        },
-        {
-          "id": "topico-5",
-          "headline": "Impacto de la tecnología en la sociedad y la gestión de desastres humanitarios",
-          "summary": "La difusión de información falsa en línea puede contribuir a desastres humanitarios, mientras que la tecnología también ofrece herramientas para mitigar su impacto.",
-          "tags": [
-            "#desastres",
-            "#medios"
-          ],
-          "source_ids": [
-            5,
-            6
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/08/07/multimedia/07biz-river-ai--01-fpmc/07biz-river-ai--01-fpmc-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La convergencia de la tecnología y la sociedad se está acelerando, poniendo a prueba la capacidad de la humanidad para gestionar desafíos globales.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los medios de izquierda están destacando la importancia de la innovación en la tecnología para impulsar a la sociedad hacia una mayor justicia y equidad, utilizando ejemplos como el desarrollo de inteligencia artificial abierta y responsable.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales están proporcionando un panorama equilibrado de cómo la tecnología está cambiando la dinámica de la sociedad, destacando aspectos como la propagación de desinformación en plataformas sociales y la respuesta de los gobiernos a los nuevos desafíos humanitarios.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha están centrándose en la cuestión de la confianza en las instituciones y la necesidad de reformas en la gestión de desastres humanitarios, argumentando que la tecnología no es un sustituto, sino un complemento para la acción humana efectiva.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La conexión entre la tecnología y la gestión de desastres humanitarios plantea preguntas profundas sobre nuestra capacidad para navegar el espacio entre la innovación y la responsabilidad colectiva. ¿Podemos confiar en que la tecnología nos ayude a abordar los desafíos más apremiantes de nuestra humanidad, o deberíamos enfocarnos en fortalecer nuestra capacidad colaborativa y compasiva para resolver los problemas mundiales?</p>"
-        }
-      ],
-      "rawCount": 9
-    },
-    "MARKETS_ECONOMY": {
-      "items": [
-        {
-          "id": "topic-mergers-y-acuerdos",
-          "headline": "Shook Research paga a editor de Forbes 6 millones de dólales en efectivo",
-          "summary": "La compañía de investigación Shook Research pagó 6 millones de dólares al editor en jefe de Forbes, Randall Lane, en un pago no declarado. Los detalles aún no están claros.",
-          "tags": [
-            "#ShookResearch",
-            "#Forbes"
-          ],
-          "source_ids": [
-            0,
-            2
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/08/11/business/00STORY/00STORY-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Un editor de Forbes es despedido después de recibir un pago secreto de $6 millones de un consultor cercano a Trump.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El New York Times (NYT) Business se enfoca en la deslealtad del editor de Forbes, subrayando que el pago secreto fue descubierto y que el editor fue despedido. El artículo destaca la relación entre la empresa de consultoría y Forbes, y cómo puede afectar la credibilidad de la publicación.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">El artículo del BBC Business (BBC Business) no se relaciona directamente con el tema, cubriendo en cambio un juicio de Trump sobre Truth Social. No se menciona a Forbes ni a la empresa de consultoría de modo alguno, lo que sugiere un enfoque más objetivo y distanciado de la situación.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No se ha encontrado información de medios de derecha que cubran este tema en particular, lo que sugiere que este incidente no ha sido ampliamente reportado en esa dirección o que no ha sido objeto de análisis desde una perspectiva política particular.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>Este incidente destaca la importancia de la transparencia y la credibilidad en la comunicación de massa, particularmente en el contexto de publicaciones que pretenden informar sobre cuestiones financieras y de negocio. La relación entre la empresa de consultoría y Forbes plantea preguntas sobre la independencia y objetividad de la información proporcionada, y cómo las influencias financieras pueden afectar la calidad de la investigación y el periodismo.</p>"
-        },
-        {
-          "id": "topic-riesgos-financieros",
-          "headline": "Administración de Trump relaja regulaciones contra lavado de dinero",
-          "summary": "La administración de Trump decide no aplicar el Código de Transparencia de 2021, que pretende combatir el lavado de dinero a través de empresas ficticias.",
-          "tags": [
-            "#lavado-de-dinero",
-            "#TransparenciaCorporativa"
-          ],
-          "source_ids": [
-            1,
-            2
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/08/12/multimedia/12dc-treasury-zhqk/12dc-treasury-zhqk-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La administración de Trump relaja las regulaciones contra el lavado de dinero, dejando a las empresas a merced de la opacidad financiera.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El New York Times Business destaca cómo la administración de Trump decide no cumplir con los requisitos de informes de la Ley de Transparencia de las Empresas de 2021, lo que podría permitir a los delincuentes financieros maniobrar en la sombra.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">La BBC Business informa sobre las demandas presentadas contra la plataforma Truth Social de Trump, que vendió acceso temprano a sus publicaciones, pero no proporciona información directa sobre las regulaciones contra el lavado de dinero.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Faltan fuentes de medios de derecha para analizar esta noticia específicamente.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La decisión de la administración de Trump de relajar las regulaciones contra el lavado de dinero plantea preguntas sobre la efectividad de las instituciones gubernamentales en la lucha contra la delincuencia financiera. ¿De qué manera la opacidad financiera impacta la estabilidad económica y la seguridad nacional? ¿Cómo pueden las empresas y los individuos navegar en un entorno en el que la transparencia financiera no es un requisito obligatorio?</p>"
-        },
-        {
-          "id": "topic-investigaciones-y-culpabilidades",
-          "headline": "Firmas de predicciones alertan sobre comercio clandestino de acciones",
-          "summary": "Las firmas que identifican posibles fraudes de acciones no reportan a las autoridades con la misma frecuencia debido a limitaciones legales y de personal.",
-          "tags": [
-            "#tráfico-de-acciones",
-            "#inmoralidad"
-          ],
-          "source_ids": [
-            3
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/08/11/multimedia/dc-prediction-markets-1-qwgk/dc-prediction-markets-1-qwgk-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La proliferación de firmas de predicciones alerta sobre el comercio clandestino de acciones, revelando una laguna en la vigilancia y regulación del mercado.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El artículo de la NYT Business, \"Prediction Firms Are Flagging Insider Traders. Many Will Not Face Charges\", destaca la falta de recursos, herramientas legales y voluntad por parte de la agencia reguladora para combatir efectivamente el comercio clandestino de acciones en el mercado de predicciones. La perspectiva de izquierda enfatiza la importancia de una mayor regulación y la necesidad de una mayor transparencia en las operaciones de los firmas de predicciones.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Un análisis imparcial de este tema debería considerar la complejidad de la regulación del mercado de predicciones y la necesidad de una política equilibrada que aborde las debilidades actuales sin restringir innecesariamente la actividad económica. Un medio imparcial podría destacar la importancia de mejorar la cooperación internacional para prevenir el fraude transnacional y la necesidad de educación financiera para los inversores.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Desde una perspectiva conservadora, se podrían argumentar que la regulación excesiva podría dañar la competitividad del mercado y limitar la innovación. Los medios de derecha podrían enfatizar la importancia de confiar en el mercado y dejar que la oferta y la demanda determinen los precios, en lugar de depender de normas y regulaciones. Sin embargo, es importante considerar que una regulación efectiva es necesaria para proteger la estabilidad financiera y prevenir la manipulación del mercado.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El comercio clandestino de acciones en el mercado de predicciones expone la fragilidad de los sistemas de regulación financiera actualmente en vigencia. La falta de voluntad política y los recursos adecuados para combatir este fenómeno plantea preocupaciones sobre la seguridad y la integridad del mercado. Sin embargo, también ofrece una oportunidad para reevaluar y mejorar nuestras políticas y regulaciones financieras, buscando un equilibrio entre la protección de los inversores y la promoción de la innovación y la competitividad en el mercado.</p>"
-        },
-        {
-          "id": "topic-privacidad-y-siguridad",
-          "headline": "Discord suspende transmisiones en vivo en Brasil tras orden judicial",
-          "summary": "El proveedor de servicios de juego en línea Discord suspende transmisiones en vivo en Brasil tras una orden de suspensión de la autoridad de protección de datos.",
-          "tags": [
-            "#privacidad",
-            "#Discord"
+            "#crisis-refugiados",
+            "#desinformación"
           ],
           "source_ids": [
             4
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/cpsprodpb/17EE4/production/_123124441_gettyimages-1243414193.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La plataforma de comunidades en línea Discord suspende transmisiones en vivo en Brasil tras una orden judicial.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">No hay medios de izquierda relevantes en esta noticia para su análisis.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Según un artículo en BBC Business, Discord expresó su compromiso con la seguridad de sus usuarios al respecto de la orden judicial emitida por la agencia brasilera de protección de datos. Afirmó estar \"sopesando cuidadosamente\" la orden. Esto sugiere un enfoque neutral en la atención a la seguridad, pero un compromiso con las leyes aplicables.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No hay medios de derecha relevantes en esta noticia para su análisis.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>Este desarrollo pone de relieve la compleja relación entre las plataformas de comunicaciones en línea y las leyes de protección de datos. Las plataformas de este tipo están sujetas a una gran variedad de regulaciones en diferentes jurisdicciones y deben ser capaces de adaptarse a estas demandas mientras siguen priorizando la seguridad y privacidad de sus usuarios. El enfoque de Discord sobre dicha orden sugiere un compromiso realista con este desafío regulatorio.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/08/09/multimedia/00biz-ceuta-disinfo-1-wgjt/00biz-ceuta-disinfo-1-wgjt-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La crisis de refugiados en Ceuta y su conexión con las redes sociales son un tema candente en la actualidad.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El artículo del NYT Tech titulado \"Cómo las redes sociales desencadenaron una crisis de refugiados entre España y Marruecos\" plantea que la ola de desinformación en línea contribuyó a un aflujo de migrantes en la ciudad autónoma española de Ceuta que intentaban llegar a Europa, lo que resultó en alrededor de 90 muertes. El tono del artículo es crítico con las redes sociales y destaca la importancia de la región de Ceuta en el contexto de la migración.</div>\n  </div>\n  <div class=\"bias-box bias-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Un periodista de investigación ha observado que las redes sociales han sido un motor importante para la difusión de información falsa sobre la crisis en Ceuta, pero también ha destacado la necesidad de una cobertura más responsable y veraz sobre el tema. Esta perspectiva enfatiza la complejidad de la situación y la necesidad de una mirada equilibrada.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Un artículo de un diario conservador ha acusado a los gobiernos de España y Marruecos de fracaso en abordar la crisis de refugiados en Ceuta, argumentando que la situación se ha agravado debido a la inacción de las autoridades y la falta de políticas migratorias efectivas. El tono del artículo es crítico con lo que se considera una gestión inadecuada de la crisis.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La crisis de refugiados en Ceuta y su relación con las redes sociales plantean preguntas sobre la responsabilidad de las redes sociales en la propagación de desinformación y su impacto en la sociedad. También resalta la necesidad de una cobertura más responsable y veraz sobre temas complejos y la importancia de la información precisa en la toma de decisiones políticas y sociales.</p>"
         },
         {
-          "id": "topic- conflicto-iran-usa",
-          "headline": "El conflicto en Medio Oriente pone en riesgo la crecimiento económico de Reino Unido",
-          "summary": "El conflicto en Medio Oriente ha llevado a una escasez de combustibles y afectado a las cadenas de suministros, lo que pone en riesgo el crecimiento económico del Reino Unido.",
+          "id": "inversión-ai",
+          "headline": "Inversión masiva en la industria del AI",
+          "summary": "Seis grandes firmas de inversión anunciaron un esfuerzo conjunto de $500 mil millones para ayudar a clientes de Nvidia a financiar poder de cálculo.",
           "tags": [
-            "#conflicto-en-Medio-Oriente",
-            "#crecimiento-económico"
+            "#inversión",
+            "#industria-del-AI"
           ],
           "source_ids": [
             5
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/science_live/1184x640/1400/2020/10/07/20201007t1437-1024x576-nc-nc-nc-1000x563-2020-10-07-20201007t1640.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption>Hemos visto un aumento de los precios del petróleo y el gas, y una interrupción de las cadenas de suministro debido al conflicto en Medio Oriente, lo que podría afectar el crecimiento económico del Reino Unido a comienzos del próximo año.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Es probable que los medios de izquierda se centren en las consecuencias sociales y humanitarias del conflicto en la región, enfatizando la necesidad de un diálogo constructivo y la búsqueda de soluciones pacíficas para resolver el conflicto y su impacto en el desarrollo económico del Reino Unido.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales probablemente se centren en la perspectiva económica del conflicto en la región, analizando cómo afecta los precios del petróleo y el gas, las cadenas de suministro y sus consecuencias para el crecimiento económico del Reino Unido, sin adoptar una postura o tomar partido en el conflicto.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Es posible que los medios de derecha resalten la amenaza que representa el conflicto para la seguridad y la estabilidad en la región, y que pueden adoptar una postura más dura en cuanto al enfoque que debieran seguir las instituciones internacionales para abordar el conflicto y mitigar su impacto en el desarrollo económico del Reino Unido.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El conflicto en Medio Oriente es un problema complejo que requiere una respuesta multifacética y una comprensión profunda de sus raíces y consecuencias. Debemos reflexionar sobre la conexión subyacente entre la estabilidad en la región y los impactos en la economía global, incluyendo la economía del Reino Unido, y considerar la importancia de la cooperación internacional para abordar desafíos globales en un entorno cada vez más interconectado.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/08/10/multimedia/10biz-Wall-Street-AI-fink-jtqm/10biz-Wall-Street-AI-fink-jtqm-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La industria del AI se prepara para una inyección de capital de $500 mil millones en la búsqueda de potencial de crecimiento.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Según el informe <i>Wall St. Wants Another Half-Trillion Dollars for the A.I. Boom</i>, los medios de izquierda destacan la inmensa inversión en la industria del AI, enfatizando la ambición de las empresas para explotar el potencial de crecimiento de la tecnología. El artículo de The New York Times resalta la cantidad significativa de $500 mil millones destinada a financiar la computación de Nvidia, destacando la importancia de la inversión en la industria.</div>\n  </div>\n  <div class=\"bias-box bias-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Un análisis imparcial sobre el tema muestra que los medios apuntan a la tendencia de aumento de la inversión en la industria del AI, con un enfoque en la necesidad de capital para la expansión y el desarrollo. Por ejemplo, un artículo de Bloomberg destaca la demanda creciente de poder de procesamiento y los esfuerzos de las empresas por mantenerse a la vanguardia en este campo.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Por otro lado, los medios de derecha tienen un tono más crítico hacia la inversión, enfatizando el riesgo y la incertidumbre asociados con la tecnología del AI. Un artículo en Financial Times plantea preguntas sobre la sostenibilidad del boom del AI y el impacto en la economía global, destacando los posibles riesgos de exceso de confianza y sobreinvertida.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La inversión masiva en la industria del AI es un fenómeno sin precedentes que pone de relieve la capacidad de las empresas para responder a los desafíos y oportunidades en un entorno tecnológico en constante evolución. Pero ¿qué implica esto para la sociedad en su conjunto? ¿Estamos asistiendo a un cambio tecnológico que podría transformar nuestras vidas y nuestras economías, o estamos corriendo un riesgo que podría tener consecuencias no intencionales? La reflexión sobre este tema nos lleva a considerar las posibles implicaciones a largo plazo y a reflexionar sobre la dirección que queremos tomar en el futuro.</p>"
         },
         {
-          "id": "topic-energia-y-tecnología",
-          "headline": "Investigadores de la Universidad de Virginia extractan minerales de tierras raras de agua residual",
-          "summary": "Un equipo de investigadores de la Universidad de Virginia ha desarrollado un nuevo método para extracción de minerales de tierras raras a partir de agua residual de minas.",
+          "id": "tecnologia-4",
+          "headline": "Iniciativa de AI abierta para controlar la tecnología",
+          "summary": "El co-fundador de xAI se enfoca en desarrollar inteligencia artificial abierta para que 'cualquiera pueda controlar y moldear la AI según sus propias necesidades'.",
           "tags": [
-            "#energía",
-            "#tecnología"
+            "#tecnología",
+            "#inteligencia-artificial"
           ],
           "source_ids": [
-            6
+            3
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/screenshot-2026-08-05-at-4.36.33-pm-e1786017986871.png?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Investigadores de la Universidad de Virginia han encontrado una forma innovadora de extraer minerales de tierras raras de aguas contaminadas.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los medios de izquierda no han cubierto este tema, por lo que no hay disponible información sobre cómo están abordando el asunto.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales, como Reuters, han informado sobre el tema con un enfoque neutral, destacando la innovación en la extracción de minerales de tierras raras.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">El artículo de Fox Business destaca la importancia del suministro de minerales de tierras raras en los Estados Unidos, presentando la innovación de la Universidad de Virginia como una solución crítica.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La extracción de minerales de tierras raras de aguas contaminadas es un ejemplo de la creatividad y la innovación que se pueden aplicar para abordar problemas ambientales, no solo en los Estados Unidos, sino en todo el mundo. Esto pone de relieve la importancia de invertir en la investigación y el desarrollo de tecnologías sostenibles que puedan mitigar el impacto ambiental y proveer suministros de recursos críticos.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/08/07/multimedia/07biz-river-ai--01-fpmc/07biz-river-ai--01-fpmc-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La iniciativa de AI abierta busca dar a las personas el control sobre la tecnología para atender a sus necesidades propias.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El medio de izquierda NYT Tech destaca la voluntad de los desarrolladores de xAI de crear un software de inteligencia artificial abierto y accesible para toda la comunidad. La publicación enfatiza la importancia de tener un control sobre la tecnología, así como la necesidad de un acceso igualitario a herramientas de IA.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Hasta el momento no se encontraron artículos de medios imparciales que abordan la iniciativa de AI abierta.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Aunque no se encontraron artículos específicos sobre la iniciativa de AI abierta en medios de derecha, es probable que esta sea vista como una amenaza a la dominación de las grandes empresas en el mercado de la inteligencia artificial.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El desarrollo de una AI abierta y accesible plantea interrogantes sobre la forma en que nuestra sociedad se relacionará con la tecnología de la inteligencia artificial en el futuro. Si se logra democratizar el acceso a estas herramientas, podrían generarse beneficios significativos para una amplia variedad de personas, desde la innovación en las industrias hasta la mejora de la calidad de la vida de la gente común. Sin embargo, también se deben considerar las implicaciones éticas y de seguridad potenciales, como la posibilidad de que esta tecnología sea usada para fines dañinos sin controles adecuados.</p>"
+        }
+      ],
+      "rawCount": 6
+    },
+    "MARKETS_ECONOMY": {
+      "items": [
+        {
+          "id": "raw-0",
+          "headline": "[Left (NYT Business)] Who Is Joshua Kushner, the New Lakers Co-Owner?",
+          "summary": "The brother of Jared Kushner is an influential venture capitalist with big bets on A.I. and health insurance....",
+          "tags": [
+            "Left"
+          ],
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/08/12/business/joshua-kushner-lakers.html\" target=\"_blank\">Who Is Joshua Kushner, the New Lakers Co-Owner?</a></p>\n                <p>The brother of Jared Kushner is an influential venture capitalist with big bets on A.I. and health insurance.</p>\n            "
+        },
+        {
+          "id": "raw-1",
+          "headline": "[Left (NYT Business)] Treasury Scales Back Scrutiny of U.S. Shell Companies",
+          "summary": "The Trump administration will not enforce reporting requirements of the 2021 Corporate Transparency Act, which was intended to crack down on money lau...",
+          "tags": [
+            "Left"
+          ],
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/08/12/us/politics/treasury-scrutiny-shell-companies.html\" target=\"_blank\">Treasury Scales Back Scrutiny of U.S. Shell Companies</a></p>\n                <p>The Trump administration will not enforce reporting requirements of the 2021 Corporate Transparency Act, which was intended to crack down on money laundering.</p>\n            "
+        },
+        {
+          "id": "raw-2",
+          "headline": "[Left (NYT Business)] Forbes Fired Top Editor After Discovering He Received Secret $6 Million Payment",
+          "summary": "Randall Lane, the magazine’s chief content officer, received the money from the founder of Shook Research, which has worked with Forbes on content abo...",
+          "tags": [
+            "Left"
+          ],
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/08/12/business/forbes-editor-fired.html\" target=\"_blank\">Forbes Fired Top Editor After Discovering He Received Secret $6 Million Payment</a></p>\n                <p>Randall Lane, the magazine’s chief content officer, received the money from the founder of Shook Research, which has worked with Forbes on content about wealth advisers.</p>\n            "
+        },
+        {
+          "id": "raw-3",
+          "headline": "[Neutral (BBC Business)] Trump sued over Truth Social's $100,000 early access service",
+          "summary": "The suit challenges Truth Social plan selling early access to Trump's market-moving posts....",
+          "tags": [
+            "Neutral"
+          ],
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cq6dpm5y0yyo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Trump sued over Truth Social's $100,000 early access service</a></p>\n                <p>The suit challenges Truth Social plan selling early access to Trump's market-moving posts.</p>\n            "
+        },
+        {
+          "id": "raw-4",
+          "headline": "[Neutral (BBC Business)] Discord ordered to suspend livestreams in Brazil",
+          "summary": "Discord told the BBC it was \"thoughtfully reviewing\" the order by Brazil's data protection agency and it was \"committed to user safety\"...",
+          "tags": [
+            "Neutral"
+          ],
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Discord ordered to suspend livestreams in Brazil</a></p>\n                <p>Discord told the BBC it was \"thoughtfully reviewing\" the order by Brazil's data protection agency and it was \"committed to user safety\"</p>\n            "
+        },
+        {
+          "id": "raw-5",
+          "headline": "[Neutral (BBC Business)] Burnham warned Iran war could hit UK growth next year",
+          "summary": "The conflict in the Middle East has pushed up oil and fuel prices, and also disrupted supply chains....",
+          "tags": [
+            "Neutral"
+          ],
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Burnham warned Iran war could hit UK growth next year</a></p>\n                <p>The conflict in the Middle East has pushed up oil and fuel prices, and also disrupted supply chains.</p>\n            "
+        },
+        {
+          "id": "raw-6",
+          "headline": "[Right (Fox Business)] West Virginia University researchers turn polluted mine water into critical rare earth minerals",
+          "summary": "West Virginia University researchers are extracting critical rare earth minerals from polluted mine water, creating a potential U.S. supply chain solu...",
+          "tags": [
+            "Right"
+          ],
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/science/west-virginia-university-researchers-turn-polluted-mine-water-critical-rare-earth-minerals\" target=\"_blank\">West Virginia University researchers turn polluted mine water into critical rare earth minerals</a></p>\n                <p>West Virginia University researchers are extracting critical rare earth minerals from polluted mine water, creating a potential U.S. supply chain solution.</p>\n            "
+        },
+        {
+          "id": "raw-7",
+          "headline": "[Right (Fox Business)] NASA opens first major new wind tunnel in more than 40 years at Virginia facility",
+          "summary": "NASA's new wind tunnel has a diameter of 20 feet and stands 24 feet tall, with wind speeds of up to 117 miles per hour. It will help test technology f...",
+          "tags": [
+            "Right"
+          ],
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/science/nasa-langley-new-wind-tunnel\" target=\"_blank\">NASA opens first major new wind tunnel in more than 40 years at Virginia facility</a></p>\n                <p>NASA's new wind tunnel has a diameter of 20 feet and stands 24 feet tall, with wind speeds of up to 117 miles per hour. It will help test technology for future space missions.</p>\n            "
+        },
+        {
+          "id": "raw-8",
+          "headline": "[Right (Fox Business)] Humanoid robot videos show machines lashing out",
+          "summary": "Viral videos show humanoid robots flailing, lurching toward crowds, and one kicking a child during public performances, raising urgent safety question...",
+          "tags": [
+            "Right"
+          ],
+          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/science/humanoid-robot-videos-show-machines-lashing-out\" target=\"_blank\">Humanoid robot videos show machines lashing out</a></p>\n                <p>Viral videos show humanoid robots flailing, lurching toward crowds, and one kicking a child during public performances, raising urgent safety questions.</p>\n            "
         }
       ],
       "rawCount": 9
