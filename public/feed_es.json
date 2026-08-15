@@ -1,215 +1,219 @@
 {
-  "last_updated": "2026-08-15T18:30:43.977Z",
+  "last_updated": "2026-08-15T20:24:14.830Z",
   "language": "es",
   "categories": {
     "GLOBAL_MACRO": {
       "items": [
         {
-          "id": "conflicto-israel-iran",
-          "headline": "Israel realiza una operación militar en Líbano tras incidentes con Hezbollah",
-          "summary": "Las fuerzas israelíes han realizado una serie de ataques a infraestructura de Hezbollah en Líbano, dejando once muertos.",
+          "id": "terrorismo-en-bloques",
+          "headline": "Israel lanza operaciones militares en el sur de Líbano",
+          "summary": "Israel ha lanzado operaciones militares en el sur de Líbano como respuesta a acciones anteriores contra sus soldados, según las autoridades. Las operaciones han causado daños y víctimas.",
           "tags": [
-            "#conflicto-armado",
-            "#medio-oriente"
+            "#terorismo",
+            "#conflicto-israeli-líbano"
+          ],
+          "source_ids": [
+            0,
+            3,
+            6
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/ali-khamenei-mojtaba.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Israel lanzó operaciones militares en el sur de Líbano con el objetivo de desarticular la infraestructura de Hezbollah.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">El medio de noticias neutral BBC informa sin mostrar prejuicios sobre la situación. Destaca que Israel atacó \"infraestructura terrorista de Hezbollah\" en respuesta a una supuesta acción contra sus soldados.</div>\n  </div>\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">De momento, no se han observado medios de noticas de izquierda relevantes sobre este tema.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">El medio de noticias conservador Fox informa sobre una operación militar de Israel en el sur de Líbano, destacando una perspectiva de seguridad nacional. Sin embargo, también comparte información sobre un arsenal terrorista de Hezbollah y Hamas en Israel, lo que no se encuentra directamente relacionado con las operaciones militares en cuestión.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La situación conflictiva en el sur de Líbano destaca la complejidad de las relaciones en la región. Los desafíos de la seguridad nacional y la necesidad de equilibrar la libertad de acción con la protección de la población civil deben ser consideradas con cautela. Este conflicto también subraya la importancia de una narrativa informativa precisa y imparcial para ayudar a la sociedad a tomar decisiones informadas sobre este tema crítico.</p>"
+        },
+        {
+          "id": "desastres-naturales",
+          "headline": "Terremoto en Indonesia causa daños y víctimas",
+          "summary": "Un terremoto de magnitud 7,7 en la isla de Flores ha causado daños y víctimas, y una operación de búsqueda y rescate está en marcha.",
+          "tags": [
+            "#terremoto",
+            "#desastre-natural"
+          ],
+          "source_ids": [
+            1
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/1024/branded_news/3CB9/live-62711158.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption>Un terremoto de magnitud 7.7 devastó una zona remota de Indonesia, cobrando vidas de personas inocentes.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content>No hay contenido disponible para medir el sesgo de los medios de izquierda en este artículo.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content>Desde el medio imparcial BBC News, el terremoto está siendo descrito como 'muy destructivo', enfatizando la gravedad de la situación y las necesidades de los afectados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content>No hay contenido disponible para medir el sesgo de los medios de derecha en este artículo.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El terremoto que devastó Indonesia recuerda la fragilidad y la impermanencia de nuestras vidas. En un mundo donde los desastres naturales y humanos pueden ocurrir en cualquier momento, es fundamental que nos unamos en la ayuda mutua y la cooperación internacional.</p>"
+        },
+        {
+          "id": "migración",
+          "headline": "Décimas de migrantes se arrestan al intentar cruzar la frontera entre Marruecos y España",
+          "summary": "Marruecos ha arrestado a décimas de migrantes que intentaban cruzar la frontera con España, especialmente en el enclave de Ceuta",
+          "tags": [
+            "#migración",
+            "#fronteras"
           ],
           "source_ids": [
             2,
-            0
+            6
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/ali-khamenei-mojtaba.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Israel realiza una operación militar en Líbano en respuesta a incidentes con el partido extremista Hezbollah.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\" style=\"background-color: #f44336;\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El medio de izquierda presentó una visión más matizada del conflicto, enfatizando la necesidad de una respuesta pacífica y el riesgo de un estallido generalizado en la región. El artículo mencionó que \"11 personas murieron en ataques israelíes sobre el sur de Líbano, según las autoridades\", ofreciendo una perspectiva más moderada sobre la situación.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\" style=\"background-color: #333;\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">El medio imparcial presentó una relación de los hechos, mencionando que Israel \"afirmó que había atacado 'la infraestructura del terrorismo de Hezbollah'\" en respuesta a sucesos anteriores contra sus soldados. La descripción del conflicto fue clara y concisa, evitando cualquier interpretación o juicio de valor.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\" style=\"background-color: #ffcc00;\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">El medio de derecha presentó una visión más radical del conflicto, enfatizando la necesidad de una acción más firme contra Hezbollah. El artículo mencionó que \"se confiscó una vasta red de armas iraníes\" y que las armas incluyen \"cohetes, aviones no tripulados y armas de época del nazismo\". La presentación del conflicto fue más emotiva y dramática que en los demás medios.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El conflicto entre Israel y Hezbollah es un ejemplo del complejo entramado de intereses, miedos y prejuicios que subyacen a la política regional. Cada parte involucrada en el conflicto tiene sus propias motivaciones y objetivos, y la respuesta de Israel a los incidentes con Hezbollah es un caso claro de cómo las acciones de un lado pueden llevar a una serie de consecuencias inesperadas y peligrosas. Esta situación subraya la importancia de la comunicación efectiva y de la búsqueda de soluciones pacíficas en la resolución de conflictos internacionales.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/morocco-cueta-migrants-riot-1.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Décimas de migrantes se enfrentan a detención al intentar cruzar la frontera con España.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los medios de izquierda están abordando este tema como un problema humanitario, enfatizando la necesidad de proteger a los refugiados y migrantes que intentan llegar a la Unión Europea. El titular \"Marroquíes detienen a decenas de migrantes que intentan atravesar la frontera con Ceuta\" de BBC resalta la situación sin tomar partido.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">BBC describe la situación con objetividad, mencionando que Marruecos detuvo a los migrantes al intentar cruzar la frontera con Ceuta, sin tomar una postura política o ideológica en el reportaje.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha, como Fox News, están presentando este tema como una cuestión de seguridad nacional, enfatizando la necesidad de fortalecer las fronteras con Marruecos para evitar la inmigración irregular. El titular \"España reforza la seguridad en Ceuta mientras Marruecos monitorea llamados a una segunda afluencia de migrantes\" de Fox News resalta la posición del gobierno español.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La situación en la frontera entre Marruecos y España pone de relieve la complejidad del tema migratorio en la región. Se trata de encontrar un equilibrio entre proteger a los refugiados y migrantes desafortunadamente obligados a viajar, y garantizar la seguridad y soberanía de los países involucrados. Esta cuestión no solo tiene implicaciones en la cooperación internacional, sino también en la gobernanza migratoria y la gestión de flujos de inmigración.</p>"
         },
         {
-          "id": "conflicto-sirio",
-          "headline": "Un ex funcionario policial sirio es detenido en Siria, a pesar de haber sido condenado en Austria",
-          "summary": "Musab Abu Rukbah, ex jefe de policía, fue detenido en Siria tras haber sido condenado a ocho años de prisión por crímenes cometidos durante la guerra civil.",
+          "id": "prisiones-y-detenciones",
+          "headline": "Austria entrega a Siria a un ex jefe de policía condenado por abusos durante la guerra civil",
+          "summary": "Musab Abu Rukbah, un ex jefe de policía, fue entregado a Siria después de recibir una condena de ocho años por abusos cometidos durante la guerra civil",
           "tags": [
-            "#conflicto-sirio",
-            "#justicia"
-          ],
-          "source_ids": [
-            1,
-            3
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/08/15/world/15int-syria-arrest-amgaolag/15int-syria-arrest-amgaolag-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption>Un ex funcionario policial sirio, Musab Abu Rukbah, ha sido detenido nuevamente en Siria, a pesar de haber sido condenado a ocho años de prisión en Austria.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El New York Times, un medio de izquierda, destaca el conflicto entre la decisión de Austria de extraditar a Musab Abu Rukbah y la negativa de Siria a enviarlo de vuelta, lo que plantea cuestiones sobre las relaciones entre países y las responsabilidades internacionales.</div>\n  </div>\n  <div class=\"bias-box bias-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales pueden presentar un retrato más equilibrado del tema, enfocándose en la complejidad del conflicto en Siria y la situación de Musab Abu Rukbah, sin inclinarse hacia un enfoque particular.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Un medio de derecha podría enfatizar la inmunidad de Musab Abu Rukbah y la falta de cooperación de Siria con la justicia, resaltando la necesidad de que los países protejan sus intereses y promuevan la justicia.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La detención de Musab Abu Rukbah en Siria plantea cuestiones éticas sobre la responsabilidad de los países en relación con los crímenes cometidos en tiempos de conflicto. ¿Cuál es la responsabilidad de los países de proteger a aquellos que han cometido crímenes en tiempos de guerra, y cómo podemos garantizar que los responsables sean juzgados y castigados de manera justa?</p>"
-        },
-        {
-          "id": "terremoto-indonesia",
-          "headline": "'Terremoto de magnitud 7,7 causo estragos en la isla de Flores, Indonesia'",
-          "summary": "Un terremoto de magnitud 7,7 sacudió la isla de Flores, en el este de Indonesia, dejando al menos 47 muertos.",
-          "tags": [
-            "#terremoto",
-            "#naturaleza"
-          ],
-          "source_ids": [
-            4
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/1024/branded_news/19CC8/production/_121551511_gettyimages-1401357180.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Un terremoto poderoso de magnitud 7.7 causó estragos en la isla de Flores, en Indonesia, dejando al menos 47 muertos.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Al parecer este artículo no muestra un sesgo claro hacia la izquierda, como se esperaba se mencione las posibles violaciones de derechos humanos o la ineptitud del gobierno. En su lugar, se enfoca en informar los hechos sobre el terremoto.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">En la BBC, uno de los mayores medios internacionales imparciales, se reporta que un equipo de rescate busca supervivientes en la isla de Flores, en Indonesia. El artículo describe los daños causados por el terremoto sin tomas de partido.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">(No se pudieron encontrar artículos de medios de derecha que cubrieran este tema, por lo que no se puede analizar su sesgo en este caso).</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El terremoto en la isla de Flores, Indonesia, no solo representa una tragedia inmediata, sino que también resalta la vulnerabilidad de muchas comunidades locales a los desastres naturales, que se ven agravadas por factores de la pobreza y la falta de infraestructura. Es importante reflexionar sobre la necesidad de inversión en la resiliencia y la preparación para estos eventos, y cómo estos esfuerzos pueden ser aún más efectivos al involucrar a las comunidades locales en el proceso de planificación y respuesta.</p>"
-        },
-        {
-          "id": "crisis-borde",
-          "headline": "Ceuta aumenta medidas de seguridad ante posibles migrantes en la frontera con Marruecos",
-          "summary": "La enclava española de Ceuta mantiene medidas de seguridad reforzadas ante una posible nueva afluencia de migrantes desde Marruecos.",
-          "tags": [
-            "#migración",
-            "#seguridad"
+            "#prisión",
+            "#detención"
           ],
           "source_ids": [
             5
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/morocco-cueta-migrants-riot-1.jpg?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La zona de Ceuta se ve incrementada medidas de seguridad ante posible inmigración irregular del lado marroquí.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Debido a la ausencia de artículos en medios de izquierda para este acontecimiento, no se encontraron referencias sobre cómo están presentando esta situación.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales, como Fox News, han presentado la situación de Ceuta como una amenaza inminente a la seguridad nacional debido a la posible inmigración irregular. Resaltan las medidas aumentadas de seguridad y la actuación de Marruecos contra los instigadores de una nueva afluencia de inmigrantes en la frontera.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha coinciden con los medios imparciales en la presentación de la situación como una amenaza a la seguridad nacional. Algunos medios de derecha han resaltado la inadecuada gestión por parte de los gobiernos europeos y la necesidad de medidas más estrictas para prevenir la inmigración irregular.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La incertidumbre y la inestabilidad en las fronteras del sur de Europa tienen consecuencias más profundas de lo que inicialmente podría parecer. Esta tensión no solo afecta las políticas migratorias, sino que también plantea preguntas más amplias sobre la identidad cultural y la cohesión social en Europa. ¿Cómo se equilibran las preocupaciones por la seguridad nacional con la necesidad de proteger los derechos humanos y ofrecer refugio a aquellos que lo requieren? La situación en Ceuta y su frontera con Marruecos es un mordaz recordatorio de la complejidad y la profundidad de estas cuestiones.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/08/15/world/15int-syria-arrest-amgaolag/15int-syria-arrest-amgaolag-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Austria devuelve a Siria a un ex jefe de policía condenado por abusos durante la guerra civil.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El New York Times de Estados Unidos destaca la decisión de Austria de extraditar a Musab Abu Rukbah, un ex jefe de policía de Siria, en un artículo titulado \"Siria Convirtió a un Ex Policía en un Condenado en Austria\". La publicación enfatiza la condena de ocho años impuesta a Abu Rukbah por sus abusos cometidos durante la guerra civil en Siria, y la posibilidad de que sea encarcelado de nuevo en su país de origen.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Hasta el momento, parece no haber información disponible sobre cómo se está abordando esta noticia por parte de medios impasibles o internacionales. Es posible que la cobertura de esta historia esté en proceso de desarrollo.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Aunque no se han encontrado artículos en medios de derecha que estén específicamente cubriendo esta historia, es posible que en futuras publicaciones se aborden los temas de seguridad y extradición relacionados con esta situación.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La entrega de Musab Abu Rukbah a Siria plantea preocupaciones sobre la protección de los derechos humanos y el papel de las naciones en la aplicación de la justicia. Esta situación sirve como recordatorio constante de la complejidad y la gravedad del conflicto en Siria, donde violaciones de derechos humanos han sido comunes. El dilema que enfrenta Austria, y otras naciones que enfrenten situaciones similares, consiste en equilibrar la responsabilidad de rendir a aquellos condenados por sus acciones con la posibilidad de que puedan enfrentar violaciones de sus derechos en países con sistemas legales inestables. La resolución de este conundrum puede resultar difícil, ya que implica considerar las dimensiones éticas, políticas y sociales de las acciones internacionales.</p>"
         },
         {
-          "id": "juicio-judicial",
-          "headline": "BBC busca obtener testimonios de familiares de Trump en litigio judicial",
-          "summary": "El periódico BBC busca obtener testimonios de familiares de Trump en una disputa judicial sobre un reportaje emitido en el programa Panorama.",
+          "id": "política-y-sociedad",
+          "headline": "Profesores universitarios enfrentan preguntas sobre raza y contratación en Cambridge",
+          "summary": "La muerte de Jason Arday, un profesor universitario, ha dejado interrogantes sobre la contratación de profesores en Cambridge, especialmente relacionados con la raza",
           "tags": [
-            "#judicial",
-            "#política"
+            "#educación",
+            "#régimen-académico"
           ],
           "source_ids": [
-            8
+            4
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/cpsprodpb/12B9A/production/_121511667_gettyimages-1237854446.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El periódico británico BBC busca obtener testimonios de familiares del expresidente Donald Trump en un litigio judicial.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los medios de izquierda están enfatizando la importancia de que la BBC pueda obtener testimonios de los familiares de Trump, argumentando que es una oportunidad para revelar la verdad detrás de las acciones del antiguo presidente.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales, incluyendo el propio artículo de la BBC, están informando sobre el intento de la BBC de obtener testimonios de los familiares de Trump sin tomar una postura clara o expresar un sesgo en particular. Se enfocan en los hechos del asunto y los detalles del litigio judicial.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha podrían abordar esta historia desde una perspectiva crítica, expresando concernes sobre la intromisión del gobierno o la censura de la libertad de expresión de Trump. También podrían argumentar que el intento de la BBC de obtener testimonios de los familiares de Trump es una táctica para silenciar al ex presidente.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>Este intento de la BBC de obtener testimonios de los familiares de Trump plantea preguntas importantes sobre la relación entre la libertad de expresión y la responsabilidad de los medios de comunicación. ¿Hasta qué punto es legítimo que los medios traten de obtener testimonios de personajes públicos cercanos a figuras políticas involucradas en conflictos legales o escándalos? ¿Cómo podemos equilibrar el derecho a la libertad de expresión con la necesidad de responder a posibles incumplimientos de la ley o acciones poco éticas?</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/08/15/world/15int-uk-cambridge-qqqq/15int-uk-cambridge-qqqq-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_GLOBAL_MACRO.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La muerte del profesor Jason Arday plantea preguntas difíciles en Cambridge sobre raza y contratación.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El The New York Times destaca la muerte del profesor Black más joven de la universidad como un ejemplo de la falta de diversidad en la institución. El artículo sugiere que la institución ignoró las advertencias sobre la vida y la trayectoria profesional del profesor Jason Arday. El periódico resalta la necesidad de mayor diversidad y la importancia de abordar las discriminaciones raciales en la contratación.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Aunque no hay información disponible sobre si existe un medio imparcial que haya cubierto esta noticia, es probable que la cobertura se centre en la presentación objetiva de los hechos, evitando tomar una postura o presentar opiniones sesgadas. El enfoque imparcial podría enfocarse en la presentación de diferentes perspectivas y la exploración de las consecuencias de la muerte del profesor Jason Arday en la institución.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No hay información disponible en la fuente proporcionada sobre si los medios de derecha han cubierto esta noticia. Sin embargo, es posible que algunos medios de derecha sugieran que la muerte del profesor Jason Arday es un ejemplo de la falta de prioridad en la diversidad en la institución, y que la atención debería centrarse en la mejora de la educación y la capacitación en lugar de en la discriminación racial.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La muerte del profesor Jason Arday plantea preguntas profundas sobre la discriminación racial en la contratación en las instituciones de educación superior. ¿Cómo podemos abordar las barreras que impiden a las personas de origen negro y otras minorías obtener puestos de enseñanza? ¿Cuál es el papel de las instituciones de educación superior en la creación de un entorno inclusivo y diverso? La reflexión sobre este tema nos invita a considerar la complejidad de la discriminación racial y la necesidad de una acción proactiva para promover la igualdad y la justicia en nuestras comunidades educativas.</p>"
         }
       ],
       "rawCount": 9
     },
     "TECH_FRONTIER": {
       "items": [
-        [
-          {
-            "id": "topic-1",
-            "headline": "A.I. se utiliza en diferentes sectores",
-            "summary": "Las empresas están utilizando la inteligencia artificial para diversas finalidades, desde la creación de nuevos productos hasta la mejoramiento de los servicios.",
-            "tags": [
-              "#A.I.",
-              "#industria"
-            ],
-            "source_ids": [
-              0,
-              4
-            ]
-          },
-          {
-            "id": "topic-2",
-            "headline": "La inteligencia artificial en la educación",
-            "summary": "Las herramientas de A.I. están siendo introducidas en las escuelas para mejorar el aprendizaje y la experiencia de los estudiantes.",
-            "tags": [
-              "#educación",
-              "#innovación"
-            ],
-            "source_ids": [
-              3
-            ]
-          },
-          {
-            "id": "topic-3",
-            "headline": "Cambios en la tecnología impulsan la innovación",
-            "summary": "La tecnología de A.I. está impulsando la creación de nuevos productos y servicios en diversas industrias, incluyendo la gastronomía.",
-            "tags": [
-              "#innovación",
-              "#gastronomía"
-            ],
-            "source_ids": [
-              2
-            ]
-          },
-          {
-            "id": "topic-4",
-            "headline": "Las empresas se benefician de la A.I.",
-            "summary": "Las multinacionales como Google y Amazon están experimentando ganancias significativas gracias a la adopción de la inteligencia artificial.",
-            "tags": [
-              "#negocios",
-              "#A.I."
-            ],
-            "source_ids": [
-              4
-            ]
-          },
-          {
-            "id": "topic-5",
-            "headline": "Tecnología de A.I. se utiliza para mejorar la experiencia de lectura",
-            "summary": "Las empresas de libros están reportando un aumento en las ventas de libros usados, posiblemente debido al uso de la A.I. en la producción de libros.",
-            "tags": [
-              "#libros",
-              "#A.I."
-            ],
-            "source_ids": [
-              0
-            ]
-          }
-        ]
+        {
+          "id": "topic-educacion",
+          "headline": "Google habilita características de inteligencia artificial para estudiantes de primaria y secundaria",
+          "summary": "Google ha habilitado características de inteligencia artificial en su plataforma de aula para estudiantes de primaria y secundaria, lo que permite una mayor personalización del proceso de aprendizaje.",
+          "tags": [
+            "#Google",
+            "#Educación"
+          ],
+          "source_ids": [
+            3
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/08/13/multimedia/13Gemini-schools-wgzl/13Gemini-schools-wgzl-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La empresa de búsqueda permite a los estudiantes de primaria y secundaria acceder a características de inteligencia artificial en las aplicaciones educativas.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Según el artículo de The New York Times, Google ha habilitado características de inteligencia artificial en sus aplicaciones educativas para estudiantes de primaria y secundaria, abrenndo nuevas posibilidades para la educación innovadora. Esta decisión muestra un compromiso de apoyo a la educación moderna y tecnológica, que es una posición típica de los medios de izquierda.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Desde una perspectiva imparcial, Google permitiendo a los estudiantes de primaria y secundaria acceder a características de inteligencia artificial en las aplicaciones educativas es un paso positivo para la educación tecnológica. Esto amplía las oportunidades para los estudiantes de aprender y explorar las capacidades de la inteligencia artificial de manera segura. La neutralidad de los medios implica destacar la importancia de la innovación y la educación, sin inclinarse hacia una posición política o ideológica.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Algunos medios de derecha podrían argumentar que la decisión de Google de habilitar características de inteligencia artificial para estudiantes de primaria y secundaria es un ejemplo de cómo el gobierno y las empresas pueden controlar la formación intelectual de los niños. Esto podría verse como una extensión del discurso tradicional de la izquierda que critica el poder de la tecnología y la educación gubernamentalizada. En este contexto, algunos medios de derecha podrían enfatizar los riesgos potenciales de esta decisión y los posibles impactos en la educación.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El tema de la tecnología y la educación ha generado debates intensos en la sociedad durante décadas. En este contexto, el anuncio de Google de habilitar características de inteligencia artificial para estudiantes de primaria y secundaria plantea preguntas importantes sobre el papel del gobierno, las empresas y la sociedad civil en la formación intelectual de los niños. Es importante reflexionar sobre las implicaciones de esta decisión y su impacto en la educación futura de las generaciones venideras. ¿Qué significa el aumento de la influencia de la tecnología en la educación? ¿Cómo podemos asegurarnos de que la educación siga siendo accesible y equitativa para todos los estudiantes? Estas son solo algunas de las reflexiones que deberíamos considerar al examinar los alcances de esta decisión.</p>"
+        },
+        {
+          "id": "topic-tecnologia",
+          "headline": "Tecnología en marcha: nuevos avances en inteligencia artificial y tecnología de la información",
+          "summary": "Se están desarrollando nuevas tecnologías y aplicaciones en inteligencia artificial, así como avances en la gestión de información y la seguridad cibernética.",
+          "tags": [
+            "#Tecnología",
+            "#Infocación"
+          ],
+          "source_ids": [
+            0,
+            1,
+            2,
+            4
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/08/14/multimedia/Biz-Circular-AI-01-mcwg/Biz-Circular-AI-01-mcwg-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Se está produciendo un boom en ventas de libros de segunda mano, y se especula que podría estar relacionado con la inteligencia artificial.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El artículo de The New York Times titulado \"Amazon y Alphabet revelan la naturaleza circular de la explosión del AI\" presenta una visión crítica de la relación entre las inversiones y las ganancias de las empresas de tecnología. Los autores destacan la interconexión creciente de la fortuna de estas empresas, lo que sugiere un ciclo vicioso de inversión en la inteligencia artificial.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales, como BBC Tech, presentan una visión más neutral. En los artículos seleccionados, se informa sobre desarrollaciones relacionadas con la inteligencia artificial, como la explosión de ventas de libros de segunda mano y las declaraciones de los jefes de las empresas de tecnología sobre AI. Aunque estos artículos no toman una postura específica, ofrecen una visión general objetiva de la situación.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No se encontraron artículos de medios de derecha que presentaran una visión específica de este tema. Sin embargo, es posible que los medios de derecha también estuvieran cubriendo el tema, pero sin una postura o perspectiva clara.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La inteligencia artificial ha alcanzado un punto de inflexión en la que se está utilizando para impulsar la economía y mejorar la productividad. Sin embargo, también plantea cuestiones éticas y de sostenibilidad. La explosión de ventas de libros de segunda mano sugiere que la AI podría estar siendo utilizada para automatizar procesos, lo que podría tener consecuencias para la industria editorial. A su vez, las declaraciones de los jefes de las empresas de tecnología sobre AI reflejan una creciente conciencia sobre la importancia de esta tecnología en el futuro de la economía global. En conclusión, la IA es un tema complejo que requiere una reflexión continua sobre sus implicaciones sociales, económicas y éticas.</p>"
+        },
+        {
+          "id": "topic-ingenieria",
+          "headline": "Desarrollo de productos con ingredientes alternativos en la industria de la heladera",
+          "summary": "Las empresas están buscando ingredientes alternativos y más rentables para producir helados de alta calidad, manteniendo la tradición de innovación en este sector.",
+          "tags": [
+            "#Heladeros",
+            "#Ingeniería"
+          ],
+          "source_ids": [
+            2
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/cpsprodpb/1B6F/production/_123177341_gettyimages-1138551331.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La industria de la heladera está experimentando la creación de nuevos productos con ingredientes alternativos.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">En el contexto de la creación de productos alternativos en la industria de la heladera, los medios de izquierda podrían enfocarse en temas como la innovación y los riesgos medioambientales asociados con la producción de alimentos tradicionales.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Según el informe titulado 'Proteína o ajo pickado? ¿Qué es nuevo en la heladera?' de la BBC, los medios imparciales estarían cubriendo la historia de manera objetiva y sin tomar partido, destacando las ventajas y desventajas de la creación de nuevos productos con ingredientes alternativos en la industria de la heladera.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">En la creación de alimentos alternativos en la industria de la heladera, los medios de derecha podrían enfocarse en aspectos como los costos y la eficiencia económica de la producción de estas nuevos productos, así como su impacto en la competencia y la economía local.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>El desarrollo de productos con ingredientes alternativos en la industria de la heladera abre nuevas posibilidades para la innovación y la creatividad, pero también plantea desafíos en términos de producción, distribución y marketing. En última instancia, la verdadera pregunta es: ¿la creación de estos nuevos productos es solo una moda pasajera o marca el comienzo de un cambio más profundo en la forma en que consumimos y percibimos la heladera?</p>"
+        },
+        {
+          "id": "topic-tecnologia-empresa",
+          "headline": "Los beneficios financieros de la inversión en inteligencia artificial",
+          "summary": "La inversión en inteligencia artificial está generando ganancias financieras en empresas como Alphabet y Amazon, reflejando una tendencia creciente de dependencia tecnológica.",
+          "tags": [
+            "#Finanzas",
+            "#Empresa"
+          ],
+          "source_ids": [
+            4
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/08/14/multimedia/Biz-Circular-AI-01-mcwg/Biz-Circular-AI-01-mcwg-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La inversión en inteligencia artificial genera ganancias circulares para empresas tecnológicas.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El artículo del New York Times destaca la relación circular entre las ganancias de la inversión en inteligencia artificial en Amazon y Alphabet, sugiriendo que la industria tecnológica se está volviendo cada vez más interconectada. Este enfoque resalta los beneficios financieros de la inversión en inteligencia artificial y cómo se están volviendo cada vez más esenciales para el éxito de las empresas tecnológicas.</div>\n  </div>\n  <div class=\"bias-box bias-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Un análisis de los beneficios financieros de la inversión en inteligencia artificial muestra que las empresas tecnológicas como Amazon y Alphabet han visto aumento en sus ganancias gracias a inversión en A.I., lo que sugiere que la tecnología es cada vez más importante para el éxito financiero de estas compañías.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">La inversión en inteligencia artificial ha generado una explosión de la riqueza para las empresas líderes en tecnología, y se espera que esta tendencia continúe creciendo a medida que la industria sigue evolucionando. Esto resalta la importancia de la innovación y la inversión en tecnología para mantener la competitividad en el mercado.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La inversión en inteligencia artificial está revolucionando la forma en que las empresas tecnológicas operan y generan ganancias. La relación circular entre las ganancias en Amazon y Alphabet es un claro indicio de que la industria tecnológica se está volviendo cada vez más interconectada y dependiente de la tecnología avanzada. Esto plantea preguntas sobre la futura dirección de la inversión en inteligencia artificial y cómo las empresas pueden aprovechar este cambio para mantener su competitividad y generar ganancias sostenibles.</p>"
+        },
+        {
+          "id": "topic-pruebas",
+          "headline": "Herramientas de detección de contenido fabricado",
+          "summary": "Las herramientas como Pangram están siendo probadas para detectar contenido generado por inteligencia artificial y su efectividad varió según el tipo de contenido.",
+          "tags": [
+            "#Pruebas"
+          ],
+          "source_ids": [
+            5
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/08/15/business/12biz-techfix/12biz-techfix-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_TECH_FRONTIER.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El uso creciente de herramientas de detección de contenido fabricado puede revolucionar la forma en que identificamos y abordamos la desinformación en línea, pero también plantea preocupaciones sobre la privacidad y la confiabilidad.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El artículo publicado por el NYT Tech, titulado \"Probé una herramienta AI de detección de contenido fabricado y me sentí empoderada\", destaca las capacidades de la herramienta Pangram para distinguir palabras generadas por chatbots de escritura humana. Este enfoque de la desinformación sugiere una perspectiva crítica hacia las consecuencias potenciales de la propagación de información falsa en línea, enfatizando la importancia de detectar y abordar este problema.</div>\n  </div>\n  <div class=\"bias-box bias-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">La herramienta de detección de contenido fabricado, como la que se menciona en el artículo, es una solución tecnológica al problema de la desinformación, que busca brindar a los usuarios herramientas para identificar y mitigar el impacto de la información falsa. Esta perspectiva implica una búsqueda por la objetividad y la precisión en la información, resaltando la necesidad de equilibrar la libertad de expresión con la necesidad de proteger la veracidad.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">La herramienta de detección de contenido fabricado representaría un paso importante hacia un mundo más seguro y confiable en línea, donde la información no esté contaminada por la manipulación y la desinformación. Aunque algunos podrían cuestionar la eficacia y la confiabilidad de estas herramientas, su propósito es clarificar y dar forma a un debate más maduro sobre las políticas de información y la responsabilidad de las plataformas en línea.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La creciente adopción de herramientas de detección de contenido fabricado plantea preguntas fundamentales sobre el futuro de la información en línea. ¿Podemos confiar en estas herramientas para detectar y abordar la desinformación de manera eficaz? ¿Qué consecuencias tendría un mundo donde la información esté constantemente verificada y verificada? Y cómo abordaríamos la privacidad y la seguridad en este escenario. Las implicaciones de estas herramientas van más allá de la tecnología en sí misma y cuestionan nuestra comprensión fundamental de la información y su papel en la sociedad.</p>"
+        }
       ],
       "rawCount": 6
     },
     "MARKETS_ECONOMY": {
       "items": [
         {
-          "id": "topic-transporte",
-          "headline": "Aviones se acercan para despegar y aterrizar sin problemas",
-          "summary": "Un controller de tráfico aéreo rápidamente resolvió una confusión entre dos aviones con el mismo número de vuelo en Phoenix.",
+          "id": "aviación-sin-incidentes",
+          "headline": "Aviador evita confusión en aeropuerto de Phoenix",
+          "summary": "Un controlador de tráfico aéreo detectó que dos aviones compartían la misma señal de llamada y tomó medidas rápidas para evitar una posible confusión.",
           "tags": [
             "#aviación",
             "#seguridad"
           ],
           "source_ids": [
-            0,
+            0
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/08/15/multimedia/15xp-airlines-zpgw/15xp-airlines-zpgw-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La vida de un piloto y de muchos pasajeros pudo haber sido alterada debido a una posible confusión en un aeropuerto de Arizona.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El New York Times destaca la hazaña de un controlador de tráfico aéreo que evitó un posible desastre: se dio cuenta de que dos aviones, uno saliendo y otro aterrizando, tenían la misma identificación de vuelo. Actuó rápidamente, evitando la confusión.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Un análisis neutral revela que la confusión en el aeropuerto de Phoenix podría haber tenido consecuencias graves, pero gracias a la intervención del controlador, se evitó un posible desastre. La importancia de la atención de la seguridad en los aeropuertos queda en claro.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Un artículo de un medio de derecha destaca que esta hazaña del controlador de tráfico aéreo fue un claro ejemplo de la eficiencia y la habilidad de los profesionales que trabajan en los aeropuertos. También sugiere que la falta de atención a la seguridad podría ser un tema de preocupación en el ámbito gubernamental.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>A la luz de este incidente en el aeropuerto de Phoenix, resulta evidente que la seguridad en los aeropuertos es un asunto crucial que requiere la atención de las autoridades y de todos los profesionales involucrados en el proceso de despegue y aterrizaje de los aviones. La vida de miles de personas depende de esta seguridad y es esencial que no haya lagunas en el sistema.</p>"
+        },
+        {
+          "id": "equipos-deportivos",
+          "headline": "Vende de equipos de deportes alcanzan precios record",
+          "summary": "El reciente acuerdo por el equipo de baloncesto de Los Ángeles Los Lakers, valorizado en $12,5 mil millones, es el último en una serie de ventas en aumento.",
+          "tags": [
+            "#deportes",
+            "# economía"
+          ],
+          "source_ids": [
+            2,
+            1
+          ],
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/08/15/multimedia/15biz-team-valuations-hfjq/15biz-team-valuations-hfjq-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El valor de los equipos de deportes atrae precios récord en el mercado.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los medios de izquierda, como el NYT Business, han informado sobre el creciente valor de los equipos de deportes en un lenguaje objetivo y profesional. Destacan el récord de $12.5 mil millones logrado en la venta del equipo de los Angeles Lakers.</div>\n  </div>\n  <div class=\"bias-box bias-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Dado que no fue posible encontrar artículo relevante para una fuente imparcial, no podemos emitir un juicio.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No se encontraron noticias relevantes sobre el tema en fuentes de derecha en el momento de la búsqueda.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La creciente valorización de los equipos de deportes plantea interrogantes sobre la naturaleza del deporte y su papel en la cultura contemporánea. ¿Es posible que el crecimiento de los valores de los equipos refuerce la brecha económica entre los aficionados que pueden permitirse pagar por los derechos de los partidos y los que no? ¿Cómo afecta esto el sentido de comunidad y pertenencia en el mundo del deporte? Es importante que las autoridades deportivas consideren estas implicaciones y adopten políticas que promuevan la accesibilidad y la equidad en el acceso al deporte.</p>"
+        },
+        {
+          "id": "tecnología-ambiental",
+          "headline": " Gobierno pone fin temporal a uso de asadores portátiles debido a incendios",
+          "summary": "El gobierno ha impuesto una prohibición temporal a la venta y uso de asadores portátiles debido a la elevada riesgo de incendios provocados por la sequía y el calor extremo.",
+          "tags": [
+            "#medio-ambiente",
+            "#seguridad"
+          ],
+          "source_ids": [
             3
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/08/15/multimedia/15xp-airlines-zpgw/15xp-airlines-zpgw-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption>Este artículo analiza la seguridad de la navegación aérea y cómo se podrían evitar accidentes con un rápido control de controladores aéreos.</div>\n</div>\n\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda (NYT Business)</div>\n    <div class=\"bias-content\">El New York Times Business enfatiza la importancia de la intervención rápida de un controlador aéreo en un incidente en el aeropuerto de Phoenix, donde dos aviones con el mismo identificador podrían haber causado un accidente desastroso. El artículo busca destacar la seguridad de la navegación aérea y la necesidad de precauciones para evitar situaciones de riesgo.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales (BBC Business)</div>\n    <div class=\"bias-content\">El artículo de la BBC Business no está directamente relacionado con la seguridad de la navegación aérea, sino que cubre un tema adyacente, como la situación de los incendios forestales en un área de calor y sequía intensa. Sin embargo, esta información se menciona brevemente como un contexto de alerta en tiempo real en la navegación, que se menciona solo en el contexto de otro tema.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\"></div>\n</div>\n\n<h2>Reflexión</h2>\n<p>La seguridad de la navegación aérea es un asunto crítico que requiere la atención constante de los controladores aéreos, los pilotos y las autoridades de aviación. En un mundo cada vez más conectado y dependiente de las tecnologías de transporte, es esencial que se tomen medidas proactivas para prevenir accidentes e incidentes que puedan tener consecuencias graves. Aunque el incidente en el aeropuerto de Phoenix fue evitado gracias a la rápida reacción de un controlador aéreo, este artículo nos recuerda la importancia de la prevención y la vigilancia continuas en el campo de la aviación.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/cpsprodpb/14B4A/production/_118341441_gettyimages-1218918768.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El gobierno ha establecido una moratoria temporal en el uso de asadores portátiles debido a la inminente amenaza de incendios forestales.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los medios de izquierda están enfatizando la falta de medidas preventivas por parte del gobierno para mitigar los incendios, señalando que la moratoria es un paso insuficiente para garantizar la seguridad de las personas y el medio ambiente.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales están proporcionando una cobertura objetiva de la situación, destacando la necesidad de la moratoria debido a las condiciones climáticas extremas y la alta probabilidad de incendios forestales, sin expresar una opinión explícita.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha están sugiriendo que la moratoria es una medida exagerada y que los asadores portátiles no son la principal causa de los incendios forestales, enfatizando la importancia de las acciones individuales para prevenir los incendios, en lugar de imponer restricciones gubernamentales.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La implementación de una moratoria temporal en el uso de asadores portátiles plantea interrogantes sobre la eficacia de las medidas preventivas en la protección del medio ambiente y las personas. ¿Estamos ante un paso hacia una mayor regulación gubernamental, o simplemente estamos asistiendo a un llamado a la conciencia colectiva para prevenir los incendios forestales?</p>"
         },
         {
-          "id": "topic-technología",
-          "headline": "Empresas se unen a la carrera para integrar datos de dispositivos saludables en el sector médico",
-          "summary": "Google, Apple y Samsung, junto con startups como Oura, se están esforzando por unir sus dispositivos de seguimiento de la salud a los sistemas de atención médica.",
+          "id": "vehículos-electricos",
+          "headline": " Gobierno considera reducir metas de venta de vehículos eléctricos",
+          "summary": "El gobierno británico está considerando reducir su objetivo de que el 80% de las ventas de vehículos sean eléctricos en 2030.",
           "tags": [
-            "#tecnología",
-            "#salud"
+            "#vehículos eléctricos",
+            "#sostenibilidad"
           ],
           "source_ids": [
-            1,
-            2,
             4
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/08/15/business/15db-wearables/15db-wearables-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption>La carrera para integrar datos de dispositivos saludables en el sector médico acelera con participación de gigantes como Google y Apple.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los medios de izquierda, como New York Times, destacan la carrera en la que se encuentran las empresas como Google, Apple, Samsung y empresas emergentes como Oura para integrar datos de los dispositivos de seguimiento de la salud en el sistema de atención médica, destacando la competencia y el avance tecnológico.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales, como BBC, no han abordado directamente esta temática en sus artículos relacionados, enfocándose más en otros temas como las ventas de autos eléctricos.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No se han encontrado articulos en los medios proporcionados que correspondan a la derecha, lo que sugiere que esta temática no ha sido abordada por medios con orientación de derecha.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La integración de datos de dispositivos saludables en el sector médico tiene implicaciones profundas en la forma en que se puede anticipar y abordar las enfermedades. Al permitir una mayor comprensión de los datos subyacentes, los científicos y los profesionales de la salud pueden desarrollar nuevas estrategias para prevenir y tratar condiciones crónicas, mejorando significativamente la calidad de vida de las personas. Esta tecnología también tiene el potencial de reducir costos y mejorar la eficiencia en el sector de la salud, al permitir a los profesionales de la salud tomar decisiones más informadas. En última instancia, la integración de datos de dispositivos saludables en el sector médico tiene el potencial de revolucionar la forma en que nos cuidamos, y es por eso que es tan importante avanzar con cautela y considerar las implicaciones éticas de esta tecnología.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/news/976/scale=1400x/migration/2022/10/27/20221027_electric_car_charging_1.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El gobierno considera reducir las metas de venta de vehículos eléctricos hasta un 50% en 2030.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Es posible que los medios de izquierda no emitan declaraciones inmediatas sobre esta noticia, ya que se centran en las presiones de los fabricantes de automóviles, pero con el tiempo presentarán argumentos a favor de la reducción de las metas de venta de vehículos eléctricos considerándolas demasiado ambiciosas o imposibles de alcanzar.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Los medios imparciales abordarán la noticia informando sobre la posible reducción de las metas de venta de vehículos eléctricos con un equilibrio entre la perspectiva del gobierno y las críticas de la industria automotriz, destacando aspectos positivos y negativos de la decisión potencial.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Los medios de derecha podrían criticar la decisión del gobierno de reducir las metas de venta de vehículos eléctricos, argumentando que esto obstaculiza el objetivo de reducir las emisiones de carbono y promueve la dependencia de combustibles fósiles, en cambio, podrían enfatizar que la industria no está en posición de satisfacer las exigencias actuales.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La consideración de reducir las metas de venta de vehículos eléctricos hasta un 50% en 2030 implica un complejo cálculo sobre la capacidad de la industria automotriz y su impacto en el medio ambiente. La decisión final se deberá al equilibrio entre las necesidades de la industria, las expectativas de los consumidores y la responsabilidad de proteger el planeta. Resulta esencial considerar las implicaciones éticas y económicas de esta decisión a largo plazo, así como la posible influencia en la industria en general y en la sociedad, ya que reflejan la forma en que abordamos los desafíos ambientales del siglo XXI.</p>"
         },
         {
-          "id": "topic-electronica",
-          "headline": "Vehículos eléctricos obtienen precios record para cambiar dueños de equipos deportivos",
-          "summary": "El reciente acuerdo del Los Angeles Lakers es el primero en un patrón de precios cada vez más altos para los equipos deportivos en venta.",
+          "id": "minería-y-recursos",
+          "headline": " Investigadores extraen minerales raros a partir de agua contaminada",
+          "summary": "Los investigadores de la Universidad de Virginia Occidental están desarrollando una técnica para extraer minerales raros críticos a partir de agua contaminada de minas.",
           "tags": [
-            "#electromovilidad",
-            "#deportes"
+            "#minería",
+            "#innovación"
           ],
           "source_ids": [
-            2,
             7
           ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/08/15/multimedia/15biz-team-valuations-hfjq/15biz-team-valuations-hfjq-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption>Los precios de equipos deportivos estadounidenses continúan creciendo a niveles récord, mientras los vehículos eléctricos se convierten en el siguiente foco de las industrias de recursos naturales.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">El medio de izquierda <i>NYT Business</i> destaca la tendencia de precios crecientes en los equipos deportivos, presentando la venta de los Los Angeles Lakers por <span class=\"emphasis\">$12.5</span> mil millones como el ejemplo más reciente de esta tendencia. Al enfocarse en esta noticia, el medio de izquierda muestra que los precios elevados de los equipos deportivos están impactando la economía general y los mercados financieros.</div>\n  </div>\n  <div class=\"bias-box bias-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Aunque no hay medios imparciales en esta lista de noticias, si uno se encontrara disponible, probablemente explicaría cómo los precios crecientes de los equipos deportivos están relacionados con la creciente demanda de vehículos eléctricos, que a su vez están impulsando la extracción de recursos naturales para su producción. El medio imparcial se centraría en la conexión entre estos dos fenómenos económicos e industriales.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Por otro lado, el medio de derecha <i>Fox Business</i> se centra en la investigación de la Universidad de Virginia Occidental que utiliza agua de minas contaminada para extraer minerales raros, lo que podría crear una cadena de suministro de rare earth en Estados Unidos. Esta noticia muestra cómo la creciente demanda de vehículos eléctricos está impulsando la búsqueda de soluciones sostenibles para la extracción de recursos naturales.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La creciente demanda de vehículos eléctricos y los precios récord de los equipos deportivos pueden parecer temas aislados, pero en realidad reflejan cambios mayores en la economía global y la disponibilidad de recursos naturales. En un mundo donde la sostenibilidad y la eficiencia energética se están volviendo cada vez más importantes, la industria automotriz y la extracción de recursos naturales se están adaptando para satisfacer esta nueva realidad. Los precios crecientes de los equipos deportivos y la investigación de los científicos de la Universidad de Virginia Occidental son solo dos ejemplos de cómo estas fuerzas están en marcha, y es importante reflexionar sobre las implicaciones a largo plazo de estos cambios.</p>"
-        },
-        {
-          "id": "topic-ciencia",
-          "headline": "Investigadores de la Universidad de Virginia crean tecnología para extraer minerales raras de agua de mina contaminado",
-          "summary": "Un equipo de la Universidad de Virginia desarrolla una solución para la cadena de suministro de minerales raros de Estados Unidos, extrayendo minerales críticos de agua de mina contaminada.",
-          "tags": [
-            "#ciencia",
-            "#tecnología"
-          ],
-          "source_ids": [
-            7,
-            8
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/screenshot-2026-08-05-at-4.36.33-pm-e1786017986871.png?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Investigadores de la Universidad de Virginia han desarrollado tecnología innovadora para extraer minerales raras de agua de mina contaminado.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">No se encontraron artículos de medios de izquierda relacionados con este tema.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">En un artículo del sitio web de noticias <i>Right (Fox Business)</i>, se destaca la investigación realizada por investigadores de la Universidad de Virginia para extraer minerales raras de agua de mina contaminado.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">Una noticia publicada en <i>Right (Fox Business)</i> menciona la innovadora tecnología desarrollada por la Universidad de Virginia para extraer minerales raras de agua de mina contaminado.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La creación de tecnología para extraer minerales raras de agua de mina contaminado puede tener implicaciones significativas para la sostenibilidad ambiental y la seguridad energética. Si bien es posible que esta tecnología no resuelva todos los problemas relacionados con la contaminación de los suelos y el agua, podría ser un paso importante hacia la reducción de la huella de carbono en la producción de minerales rarios.</p>"
-        },
-        {
-          "id": "topic-ambiental",
-          "headline": "Barbacoas desechables se ven obligadas a una prohibición y la milicia se despliega para luchar contra los incendios",
-          "summary": "El gobierno alerta sobre el peligro que representan las barbacoas desechables en condiciones de sequía y calor extremo.",
-          "tags": [
-            "#desarrollo-sostenible",
-            "#calor"
-          ],
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/08/15/multimedia/15xp-airlines-zpgw/15xp-airlines-zpgw-mediumSquareAt3X.jpg\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La banca de la prohibición de barbacoas desechables y la movilización militar para combatir los incendios forestales son medidas drásticas para proteger a las personas en condiciones de sequía y calor extremo.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los medios de izquierda no tienen artículos relevantes a esta noticia, por lo que no hay perspectiva a ofrecer.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">Un informe de BBC Business titulado \"Prohibición temporal de barbacoas desechables dado que se despliega la milicia para combatir los incendios forestales\" presenta una visión neutra de la situación, informando sobre la prohibición de barbacoas desechables y la movilización militar sin mostrar una perspectiva prejuiciada.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">No hay artículos de los medios de derecha relevantes a esta noticia, por lo que no hay perspectiva a ofrecer.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>La crisis de los incendios forestales es un ejemplo del impacto que puede tener la falta de regulación ambiental y la falta de preparación en la prevención de desastres naturales. La prohibición de barbacoas desechables y la movilización militar son medidas drásticas pero necesarias para proteger a las personas y las comunidades afectadas. Esta crisis sirve como recordatorio de la importancia de la planificación y la acción temprana en la prevención de desastres y la protección del medio ambiente.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/screenshot-2026-08-05-at-4.36.33-pm-e1786017986871.png?ve=1&tl=1\" onerror=\"this.src='./assets/fallback_MARKETS_ECONOMY.jpg'\" class=\"hero-image\" />\n  <div class=\"hero-caption>Los investigadores de la Universidad de Virginia Occidental descubrieron una forma de aprovechar los minerales raros presentes en agua contaminada de minas.</div>\n</div>\n<h2>Desconstrucción del Sesgo</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Medios de Izquierda</div>\n    <div class=\"bias-content\">Los medios de izquierda no tienen mencionados en la actualidad noticias relacionadas con este estudio, por lo que no hay evidencia de sesgo en sus reportes.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Medios Imparciales</div>\n    <div class=\"bias-content\">El artículo de Fox Business ofrece un reporte imparcial sobre el estudio de la Universidad de Virginia Occidental, presentando los hechos de manera objetiva y sin señalar un sesgo explícito.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Medios de Derecha</div>\n    <div class=\"bias-content\">El artículo de Fox Business muestra un tono conservador al destacar la importancia de tener una cadena de suministro de minerales raros dentro de Estados Unidos, lo que podría sugerir un sesgo de derecha, pero no es explícito ni dominante en el contenido.</div>\n  </div>\n</div>\n<h2>Reflexión</h2>\n<p>Aunque la noticia sobre la extracción de minerales raros de agua contaminada puede parecer una innovación aislada, en realidad forma parte de un contexto más amplio de esfuerzos para abordar los retos de la sostenibilidad y la tecnología avances en diferentes sectores. La creciente conciencia sobre el impacto ambiental de las actividades humanas y la creciente importancia de la resolución de conflictos medioambientales llevan a que los científicos y los investigadores busquen nuevas y eficientes formas de obtener los materiales necesarios sin perjudicar el medio ambiente. En este sentido, la noticia sobre los investigadores de la Universidad de Virginia Occidental representa un paso importante en la dirección de la innovación tecnológica y la sostenibilidad.</p>"
         }
       ],
       "rawCount": 9
