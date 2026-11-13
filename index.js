@@ -18,23 +18,67 @@ const groq = new Groq({ apiKey: API_KEY });
 
 const CATEGORY_FEEDS = {
     'GLOBAL_MACRO': [
-        { name: 'Right (Fox)', url: 'http://feeds.foxnews.com/foxnews/world' },
+        { name: 'Right (Fox)', url: 'https://feeds.foxnews.com/foxnews/world' },
         { name: 'Left (NYT)', url: 'https://rss.nytimes.com/services/xml/rss/nyt/World.xml' },
-        { name: 'Neutral (BBC)', url: 'http://feeds.bbci.co.uk/news/world/rss.xml' }
+        { name: 'Neutral (BBC)', url: 'https://feeds.bbci.co.uk/news/world/rss.xml' }
     ],
     'TECH_FRONTIER': [
-        { name: 'Right (Fox Tech)', url: 'http://feeds.foxnews.com/foxnews/tech' },
+        { name: 'Right (Fox Tech)', url: 'https://feeds.foxnews.com/foxnews/tech' },
         { name: 'Left (NYT Tech)', url: 'https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml' },
-        { name: 'Neutral (BBC Tech)', url: 'http://feeds.bbci.co.uk/news/technology/rss.xml' }
+        { name: 'Neutral (BBC Tech)', url: 'https://feeds.bbci.co.uk/news/technology/rss.xml' }
     ],
     'MARKETS_ECONOMY': [
-        { name: 'Right (Fox Business)', url: 'http://feeds.foxnews.com/foxnews/science' },
+        { name: 'Right (Fox Business)', url: 'https://moxie.foxnews.com/google-publisher/economy.xml' },
         { name: 'Left (NYT Business)', url: 'https://rss.nytimes.com/services/xml/rss/nyt/Business.xml' },
-        { name: 'Neutral (BBC Business)', url: 'http://feeds.bbci.co.uk/news/business/rss.xml' }
+        { name: 'Neutral (BBC Business)', url: 'https://feeds.bbci.co.uk/news/business/rss.xml' }
     ]
 };
 
 const sleep = (ms) => new Promise(r => setTimeout(r, ms));
+
+function escapeHtml(value) {
+    return String(value || '')
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#39;');
+}
+
+function renderDeepDiveHtml(deepDive, language, category) {
+    const isEs = language === 'Spanish' || language.toLowerCase().includes('es');
+    const labelLeft = isEs ? 'Medios de Izquierda' : 'Left-Leaning Media';
+    const labelNeutral = isEs ? 'Medios Imparciales' : 'Neutral Media';
+    const labelRight = isEs ? 'Medios de Derecha' : 'Right-Leaning Media';
+    const reflectionTitle = isEs ? 'Reflexión' : 'Reflection';
+    const deconstructionTitle = isEs ? 'Desconstrucción del Sesgo' : 'Bias Deconstruction';
+    const fallbackImage = `./assets/fallback_${category}.jpg`;
+    const imageUrl = (deepDive.imageUrl && /^https:\/\//i.test(deepDive.imageUrl))
+        ? escapeHtml(deepDive.imageUrl)
+        : escapeHtml(fallbackImage);
+
+    return `<div class="hero-container">
+  <img src="${imageUrl}" alt="${escapeHtml(deepDive.caption)}" class="hero-image" />
+  <div class="hero-caption">${escapeHtml(deepDive.caption)}</div>
+</div>
+<h2>${deconstructionTitle}</h2>
+<div class="bias-container">
+  <div class="bias-box bias-box-left">
+    <div class="bias-label">${labelLeft}</div>
+    <div class="bias-content">${escapeHtml(deepDive.biasLeft)}</div>
+  </div>
+  <div class="bias-box bias-box-neutral">
+    <div class="bias-label">${labelNeutral}</div>
+    <div class="bias-content">${escapeHtml(deepDive.biasNeutral)}</div>
+  </div>
+  <div class="bias-box bias-box-right">
+    <div class="bias-label">${labelRight}</div>
+    <div class="bias-content">${escapeHtml(deepDive.biasRight)}</div>
+  </div>
+</div>
+<h2>${reflectionTitle}</h2>
+<p>${escapeHtml(deepDive.reflection)}</p>`;
+}
 
 async function fetchNews(category) {
     const sources = CATEGORY_FEEDS[category];
@@ -48,7 +92,7 @@ async function fetchNews(category) {
                 } else if (item.enclosure && item.enclosure.url) {
                     imageUrl = item.enclosure.url;
                 }
-                
+
                 return {
                     source: source.name,
                     title: item.title,
@@ -99,7 +143,7 @@ async function makeApiCall(prompt, retries = 3) {
 
 async function neutralizeNews(articles, language) {
     if (!articles || articles.length === 0) return [];
-    
+
     const context = articles.map((a, i) => `[ID: ${i}] Source: ${a.source}\nTitle: ${a.title}\nContent: ${a.content}`).join('\n---\n');
     const prompt = `You are an AI designed to prevent doomscrolling and clickbait.
 I am giving you a list of raw news articles from different sources (left, right, neutral). Each article has an [ID: X].
@@ -112,7 +156,7 @@ Return a JSON array of objects with this exact format (no markdown code blocks, 
     "headline": "Neutral factual headline",
     "summary": "2-sentence factual summary of what happened.",
     "tags": ["#tag1", "#tag2"],
-    "source_ids": [0, 2] // List the integer IDs of the articles that cover this topic
+    "source_ids": [0, 2]
   }
 ]
 Do not return more than 5 topics.
@@ -120,88 +164,84 @@ Here are the articles:\n${context}`;
 
     try {
         let response = await makeApiCall(prompt);
-        const match = response.match(/\[[\s\S]*\]/);
+        const match = response.match(/\[\s*\{[\s\S]*\}\s*\]/);
         if (match) response = match[0];
         return JSON.parse(response);
     } catch (error) {
         console.error("Error neutralizing news:", error);
-        // FALLBACK: If AI fails (e.g. quota limit 0), just return the raw articles so the app doesn't break
-        return articles.map((a, i) => ({
-            id: `raw-${i}`,
-            headline: `[${a.source}] ${a.title}`,
-            summary: a.content ? a.content.substring(0, 150) + "..." : "No summary available.",
-            tags: [a.source.split(' ')[0]], // just grab "Right", "Left", or "Neutral"
-            deepDiveHtml: `
-                <h2>AI Analysis Unavailable</h2>
-                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>
-                <p><strong>Original Link:</strong> <a href="${a.link}" target="_blank">${a.title}</a></p>
-                <p>${a.content}</p>
-            `
-        }));
+        return articles.map((a, i) => {
+            const fallbackDeepDive = {
+                imageUrl: a.imageUrl || "",
+                caption: a.title || "Raw news report",
+                biasLeft: "AI Analysis Unavailable (fallback mode).",
+                biasNeutral: a.content || "No summary available.",
+                biasRight: "AI Analysis Unavailable (fallback mode).",
+                reflection: "Displaying raw article because AI processing failed."
+            };
+            return {
+                id: `raw-${i}`,
+                headline: `[${a.source}] ${a.title}`,
+                summary: a.content ? a.content.substring(0, 150) + "..." : "No summary available.",
+                tags: [a.source.split(' ')[0]],
+                source_ids: [i],
+                deepDive: fallbackDeepDive,
+                deepDiveHtml: renderDeepDiveHtml(fallbackDeepDive, language, 'GLOBAL_MACRO')
+            };
+        });
     }
 }
 
-async function deepAnalyze(topicText, allArticles, language, category) {
-    const context = allArticles.map(a => `Source: ${a.source}\nTitle: ${a.title}\nContent: ${a.content}\nImage URL: ${a.imageUrl || ""}`).join('\n---\n');
-    
-    const fallbackImage = `./assets/fallback_${category}.jpg`;
-
-    const isEs = language === 'Spanish' || language.toLowerCase().includes('es');
-    const labelLeft = isEs ? "Medios de Izquierda" : "Left-Leaning Media";
-    const labelNeutral = isEs ? "Medios Imparciales" : "Neutral Media";
-    const labelRight = isEs ? "Medios de Derecha" : "Right-Leaning Media";
-    const reflectionTitle = isEs ? "Reflexión" : "Reflection";
-    const deconstructionTitle = isEs ? "Desconstrucción del Sesgo" : "Bias Deconstruction";
+async function deepAnalyze(topicText, relevantArticles, language, category) {
+    const context = relevantArticles.map(a => `Source: ${a.source}\nTitle: ${a.title}\nContent: ${a.content}\nImage URL: ${a.imageUrl || ""}`).join('\n---\n');
+    const fallbackArticleImage = (relevantArticles.find(a => a && a.imageUrl && /^https:\/\//i.test(a.imageUrl)) || {}).imageUrl || "";
 
     const prompt = `You are a professional, objective AI news analyst. A user selected the following topic to read about: "${topicText}".
 Based on these current articles related to this topic:
 \n${context}\n
-Provide a "Deep Dive" analysis in raw HTML format (no markdown wrappers) that fits a modern, clean, professional dashboard aesthetic.
-Write the ENTIRE analysis and all text strictly in ${language}.
-
-IMPORTANT: Choose the "Image URL" from the specific article above that is most relevant to this topic. Use that EXACT URL for the <img src="...">. If no image URL is provided in the relevant article, use an empty string.
-
-DO NOT wrap the output in a generic <div>. Use exactly this HTML structure. DO NOT translate or change the text inside the <div class="bias-label"> tags or the <h2> tags, leave them EXACTLY as I provide them below:
-<div class="hero-container">
-  <img src="YOUR_SELECTED_IMAGE_URL" onerror="this.src='${fallbackImage}'" class="hero-image" />
-  <div class="hero-caption">Write a short, engaging caption (1 sentence) for this news topic here.</div>
-</div>
-<h2>${deconstructionTitle}</h2>
-<div class="bias-container">
-  <div class="bias-box bias-box-left">
-    <div class="bias-label">${labelLeft}</div>
-    <div class="bias-content">Explain how they are framing this.</div>
-  </div>
-  <div class="bias-box bias-box-neutral">
-    <div class="bias-label">${labelNeutral}</div>
-    <div class="bias-content">Explain how they are framing this.</div>
-  </div>
-  <div class="bias-box bias-box-right">
-    <div class="bias-label">${labelRight}</div>
-    <div class="bias-content">Explain how they are framing this.</div>
-  </div>
-</div>
-<h2>${reflectionTitle}</h2>
-<p>A thoughtful, philosophical reflection on the broader implications of this topic and why it matters.</p>
-Return ONLY the HTML tags for the content. Do not include markdown code blocks.`;
+Return a single JSON object (no markdown code blocks, no HTML tags, raw JSON only) written strictly in ${language} with these exact keys:
+{
+  "imageUrl": "Choose the most relevant https:// Image URL from the articles above, or empty string if none",
+  "caption": "Short, engaging 1-sentence caption for this news topic in ${language}",
+  "biasLeft": "Explain how left-leaning outlets are framing this topic in ${language}",
+  "biasNeutral": "Explain how neutral/impartial outlets are covering this topic in ${language}",
+  "biasRight": "Explain how right-leaning outlets are framing this topic in ${language}",
+  "reflection": "A thoughtful, philosophical reflection on the broader implications of this topic and why it matters in ${language}"
+}`;
 
     try {
         let response = await makeApiCall(prompt);
-        let cleanHtml = response;
-        if (cleanHtml.startsWith('```html')) cleanHtml = cleanHtml.replace(/```html/g, '').replace(/```/g, '').trim();
-        if (cleanHtml.startsWith('```')) cleanHtml = cleanHtml.replace(/```/g, '').trim();
-        cleanHtml = cleanHtml.replace(/<style[^>]*>[\s\S]*?<\/style>/gi, '');
-        cleanHtml = cleanHtml.replace(/<\/?(html|body|head|meta|link)[^>]*>/gi, '');
-        return cleanHtml;
+        const match = response.match(/\{[\s\S]*\}/);
+        if (match) response = match[0];
+        const parsed = JSON.parse(response);
+
+        return {
+            imageUrl: (typeof parsed.imageUrl === 'string' && /^https:\/\//i.test(parsed.imageUrl.trim()))
+                ? parsed.imageUrl.trim()
+                : fallbackArticleImage,
+            caption: String(parsed.caption || topicText),
+            biasLeft: String(parsed.biasLeft || ''),
+            biasNeutral: String(parsed.biasNeutral || ''),
+            biasRight: String(parsed.biasRight || ''),
+            reflection: String(parsed.reflection || '')
+        };
     } catch (error) {
         console.error("Error analyzing deep dive:", error);
-        return `<p style="color:red">Deep Dive generation failed.</p>`;
+        return {
+            imageUrl: fallbackArticleImage,
+            caption: topicText,
+            biasLeft: "",
+            biasNeutral: "",
+            biasRight: "",
+            reflection: language === 'Spanish'
+                ? "El análisis profundo falló temporalmente para este tema."
+                : "Deep Dive generation temporarily failed for this topic."
+        };
     }
 }
 
 async function main() {
     console.log("Starting Prisma Backend Generation...");
-    
+
     const languages = [
         { code: 'en', name: 'English' },
         { code: 'es', name: 'Spanish' }
@@ -210,6 +250,13 @@ async function main() {
     const publicDir = path.join(__dirname, 'public');
     if (!fs.existsSync(publicDir)) {
         fs.mkdirSync(publicDir);
+    }
+
+    // Fetch RSS feeds once per category and share across languages
+    const rawByCategory = {};
+    for (const category of Object.keys(CATEGORY_FEEDS)) {
+        console.log(`Fetching RSS feeds for category: ${category}...`);
+        rawByCategory[category] = await fetchNews(category);
     }
 
     for (const lang of languages) {
@@ -222,31 +269,34 @@ async function main() {
 
         for (const category of Object.keys(CATEGORY_FEEDS)) {
             console.log(`Processing category: ${category} (${lang.name})...`);
-            
-            // 1. Fetch News (same raw articles)
-            const rawArticles = await fetchNews(category);
-            
-            // 2. Neutralize in specific language
-            const neutralItems = await neutralizeNews(rawArticles, lang.name);
-            
-            // 3. Deep Analyze each item in specific language
-            for (const item of neutralItems) {
-                if (!item.deepDiveHtml) {
-                    const safeHeadline = item.headline || item.title || "Untitled";
-                    console.log(`Deep Dive for: ${safeHeadline.substring(0, 30)}...`);
-                    
-                    // The "Light Backpack": Only pass articles that the AI indicated belong to this topic
-                    let relevantArticles = rawArticles;
-                    if (item.source_ids && Array.isArray(item.source_ids) && item.source_ids.length > 0) {
-                        relevantArticles = item.source_ids
-                            .map(id => rawArticles[id])
-                            .filter(a => a !== undefined);
-                    }
-                    if (relevantArticles.length === 0) relevantArticles = rawArticles;
+            const rawArticles = rawByCategory[category] || [];
 
-                    item.deepDiveHtml = await deepAnalyze(safeHeadline, relevantArticles, lang.name, category);
-                    // Delay 1.5 seconds to respect Groq limits
-                    await sleep(1500); 
+            // 1. Neutralize in specific language
+            const neutralItems = await neutralizeNews(rawArticles, lang.name);
+
+            // 2. Deep Analyze each item in specific language using "Light Backpack"
+            for (const item of neutralItems) {
+                const safeHeadline = item.headline || item.title || "Untitled";
+                let relevantArticles = rawArticles;
+                if (item.source_ids && Array.isArray(item.source_ids) && item.source_ids.length > 0) {
+                    relevantArticles = item.source_ids
+                        .map(id => rawArticles[id])
+                        .filter(a => a !== undefined);
+                }
+                if (relevantArticles.length === 0) relevantArticles = rawArticles;
+
+                item.sources = relevantArticles
+                    .filter(a => a && a.link && a.link.startsWith('https://'))
+                    .map(a => ({ source: a.source, title: a.title, url: a.link }));
+
+                if (!item.deepDive) {
+                    console.log(`Deep Dive for: ${safeHeadline.substring(0, 30)}...`);
+                    item.deepDive = await deepAnalyze(safeHeadline, relevantArticles, lang.name, category);
+                    await sleep(1500); // Respect Groq limits
+                }
+
+                if (!item.deepDiveHtml && item.deepDive) {
+                    item.deepDiveHtml = renderDeepDiveHtml(item.deepDive, lang.name, category);
                 }
             }
 
@@ -263,7 +313,7 @@ async function main() {
 
     // Dummy feed.json so cron.yml's hardcoded "git add public/feed.json" doesn't fail
     fs.writeFileSync(path.join(publicDir, 'feed.json'), JSON.stringify({ note: "Legacy file" }));
-    
+
     // Stage all newly generated JSON files so they are included in the upcoming commit
     const { execSync } = require('child_process');
     try {
