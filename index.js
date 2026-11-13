@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const axios = require('axios');
 const Parser = require('rss-parser');
 const { Groq } = require('groq-sdk');
 require('dotenv').config();
@@ -8,10 +9,81 @@ const parser = new Parser({
     customFields: {
         item: [
             ['media:content', 'mediaContent'],
+            ['media:thumbnail', 'mediaThumbnail'],
+            ['content:encoded', 'contentEncoded'],
             ['enclosure', 'enclosure']
         ]
     }
 });
+
+function normalizeHttpImageUrl(rawUrl) {
+    if (typeof rawUrl !== 'string') return '';
+    const trimmed = rawUrl.trim().replace(/&amp;/g, '&');
+    if (!/^https?:\/\//i.test(trimmed)) return '';
+    return trimmed.replace(/^http:\/\//i, 'https://');
+}
+
+function pickMediaUrl(entry) {
+    if (!entry) return '';
+    if (Array.isArray(entry)) {
+        for (const item of entry) {
+            const url = pickMediaUrl(item);
+            if (url) return url;
+        }
+        return '';
+    }
+    return normalizeHttpImageUrl((entry.$ && entry.$.url) || entry.url || '');
+}
+
+async function extractArticleImage(item) {
+    const directCandidates = [
+        pickMediaUrl(item.mediaContent),
+        pickMediaUrl(item.mediaThumbnail),
+        pickMediaUrl(item.enclosure)
+    ];
+    for (const candidate of directCandidates) {
+        if (candidate) return candidate;
+    }
+
+    const htmlBody = item.contentEncoded || item.content || '';
+    if (typeof htmlBody === 'string' && htmlBody) {
+        const imgMatch = htmlBody.match(/<img[^>]+src=["']([^"']+)["']/i);
+        const inlineImg = imgMatch ? normalizeHttpImageUrl(imgMatch[1]) : '';
+        if (inlineImg) return inlineImg;
+    }
+
+    if (typeof item.link === 'string' && /^https?:\/\//i.test(item.link.trim())) {
+        try {
+            const response = await axios.get(item.link.trim(), {
+                timeout: 4500,
+                headers: { 'User-Agent': 'Mozilla/5.0' }
+            });
+            const html = typeof response.data === 'string' ? response.data : '';
+            if (html) {
+                const ogPatterns = [
+                    /<meta[^>]+(?:property|name)=["'](?:og:image|twitter:image)["'][^>]+content=["']([^"']+)["']/i,
+                    /<meta[^>]+content=["']([^"']+)["'][^>]+(?:property|name)=["'](?:og:image|twitter:image)["']/i
+                ];
+                for (const pattern of ogPatterns) {
+                    const metaMatch = html.match(pattern);
+                    if (metaMatch && metaMatch[1]) {
+                        const metaUrl = normalizeHttpImageUrl(metaMatch[1]);
+                        if (metaUrl) return metaUrl;
+                    }
+                }
+            }
+        } catch (_) {
+            return '';
+        }
+    }
+
+    return '';
+}
+
+function buildSmartNewsImageUrl(query) {
+    const clean = String(query || '').trim().replace(/\s+/g, ' ').slice(0, 120);
+    return `https://tse2.mm.bing.net/th?q=${encodeURIComponent((clean ? clean + ' ' : '') + 'news photo')}&w=1000&h=560&c=7&rs=1&p=0`;
+}
 const API_KEY = process.env.GROQ_API_KEY;
 
 const groq = new Groq({ apiKey: API_KEY });
@@ -85,13 +157,8 @@ async function fetchNews(category) {
     const fetchPromises = sources.map(async (source) => {
         try {
             const feed = await parser.parseURL(source.url);
-            return feed.items.slice(0, 5).map(item => {
-                let imageUrl = "";
-                if (item.mediaContent && item.mediaContent.$ && item.mediaContent.$.url) {
-                    imageUrl = item.mediaContent.$.url;
-                } else if (item.enclosure && item.enclosure.url) {
-                    imageUrl = item.enclosure.url;
-                }
+            return await Promise.all(feed.items.slice(0, 5).map(async item => {
+                const imageUrl = await extractArticleImage(item);
 
                 return {
                     source: source.name,
@@ -101,7 +168,7 @@ async function fetchNews(category) {
                     content: item.contentSnippet || item.content || "",
                     imageUrl: imageUrl
                 };
-            });
+            }));
         } catch (error) {
             console.error(`Error fetching from ${source.name}:`, error.message);
             return [];
@@ -215,6 +282,7 @@ If one political side did NOT cover this specific topic in the articles above, s
 Return ONLY a single raw JSON object (no markdown code blocks, no HTML tags) with these exact keys:
 {
   "imageUrl": "The exact https:// Image URL from the most relevant article above, or empty string if none",
+  "imageSearchQuery": "3 to 6 specific English keywords describing the exact news event, person, or place for finding a real news photo",
   "caption": "1 brief, vivid journalistic caption connecting the reader to the scene of this story in ${language}",
   "biasLeft": "2-3 crisp sentences explaining what progressive/left-leaning outlets emphasize here (word choice, human or systemic angle), or honestly note if absent from these articles, in ${language}",
   "biasNeutral": "2-3 crisp sentences explaining what center/wire outlets prioritize (concrete facts, open questions, or caveats), or honestly note if absent, in ${language}",
@@ -228,10 +296,14 @@ Return ONLY a single raw JSON object (no markdown code blocks, no HTML tags) wit
         if (match) response = match[0];
         const parsed = JSON.parse(response);
 
+        const candidateImageUrl = (typeof parsed.imageUrl === 'string' && /^https:\/\//i.test(parsed.imageUrl.trim()))
+            ? parsed.imageUrl.trim()
+            : (/^https:\/\//i.test(String(fallbackArticleImage || '').trim()) ? String(fallbackArticleImage).trim() : '');
+        const resolvedImageUrl = candidateImageUrl || buildSmartNewsImageUrl(parsed.imageSearchQuery || topicText);
+
         return {
-            imageUrl: (typeof parsed.imageUrl === 'string' && /^https:\/\//i.test(parsed.imageUrl.trim()))
-                ? parsed.imageUrl.trim()
-                : fallbackArticleImage,
+            imageUrl: resolvedImageUrl,
+            imageSearchQuery: typeof parsed.imageSearchQuery === 'string' ? parsed.imageSearchQuery.trim() : '',
             caption: String(parsed.caption || topicText),
             biasLeft: String(parsed.biasLeft || ''),
             biasNeutral: String(parsed.biasNeutral || ''),
@@ -240,8 +312,11 @@ Return ONLY a single raw JSON object (no markdown code blocks, no HTML tags) wit
         };
     } catch (error) {
         console.error("Error analyzing deep dive:", error);
+        const safeFallback = /^https:\/\//i.test(String(fallbackArticleImage || '').trim())
+            ? String(fallbackArticleImage).trim()
+            : buildSmartNewsImageUrl(topicText);
         return {
-            imageUrl: fallbackArticleImage,
+            imageUrl: safeFallback,
             caption: topicText,
             biasLeft: "",
             biasNeutral: "",
