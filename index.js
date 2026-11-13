@@ -94,7 +94,7 @@ function buildSmartNewsImageUrl(query) {
 }
 const API_KEY = process.env.GROQ_API_KEY;
 
-const groq = new Groq({ apiKey: API_KEY });
+const groq = new Groq({ apiKey: API_KEY, timeout: 45000, maxRetries: 1 });
 
 const CATEGORY_FEEDS = {
     'GLOBAL_MACRO': [
@@ -266,7 +266,7 @@ async function translateToSpanishFallback(text) {
     return clean;
 }
 
-async function makeApiCall(prompt, retries = 2) {
+async function makeApiCall(prompt, retries = 2, validator = null) {
     if (!API_KEY) throw new Error("GROQ_API_KEY is missing");
 
     const models = await resolveActiveGroqModels();
@@ -287,6 +287,9 @@ async function makeApiCall(prompt, retries = 2) {
                 if (!cleaned) {
                     throw new Error(`Empty response from ${modelName}`);
                 }
+                if (typeof validator === 'function') {
+                    return validator(cleaned);
+                }
                 return cleaned;
             } catch (error) {
                 lastError = error;
@@ -298,19 +301,42 @@ async function makeApiCall(prompt, retries = 2) {
                 }
 
                 const isTransient = status === 429 || status === 500 || status === 502 || status === 503 ||
-                    /429|500|502|503|rate|timeout|econnreset|etimedout/i.test(msg);
+                    error.name === 'SyntaxError' ||
+                    /429|500|502|503|rate|timeout|econnreset|etimedout|json|empty response/i.test(msg);
 
                 if (isTransient && attempt < retries) {
-                    await sleep(2500);
+                    await sleep(1500);
                     continue;
                 }
 
-                console.warn(`Model ${modelName} failed (${status || 'error'}: ${msg.slice(0, 140)}), trying next model...`);
+                console.warn(`Model ${modelName} failed (${status || error.name || 'error'}: ${msg.slice(0, 140)}), trying next model...`);
                 break;
             }
         }
     }
     throw lastError || new Error("All Groq attempts failed.");
+}
+
+function parseJsonArrayResponse(rawText) {
+    let candidate = String(rawText || '');
+    const match = candidate.match(/\[\s*\{[\s\S]*\}\s*\]/);
+    if (match) candidate = match[0];
+    const parsed = JSON.parse(candidate);
+    if (!Array.isArray(parsed) || parsed.length === 0) {
+        throw new Error('Empty JSON array response');
+    }
+    return parsed;
+}
+
+function parseJsonObjectResponse(rawText) {
+    let candidate = String(rawText || '');
+    const match = candidate.match(/\{[\s\S]*\}/);
+    if (match) candidate = match[0];
+    const parsed = JSON.parse(candidate);
+    if (!parsed || typeof parsed !== 'object' || Array.isArray(parsed)) {
+        throw new Error('Invalid JSON object response');
+    }
+    return parsed;
 }
 
 async function neutralizeNews(articles, language, category = 'GLOBAL_MACRO') {
@@ -351,14 +377,7 @@ Return ONLY a raw JSON array (no markdown code blocks, no commentary):
 Here are the articles:\n${context}`;
 
     try {
-        let response = await makeApiCall(prompt);
-        const match = response.match(/\[\s*\{[\s\S]*\}\s*\]/);
-        if (match) response = match[0];
-        const parsed = JSON.parse(response);
-        if (Array.isArray(parsed) && parsed.length > 0) {
-            return parsed;
-        }
-        throw new Error('Empty neutralized stories array');
+        return await makeApiCall(prompt, 2, parseJsonArrayResponse);
     } catch (error) {
         console.error("Error neutralizing news:", error);
         const fallbackSubset = articles.slice(0, 8);
@@ -433,10 +452,7 @@ Return ONLY a single raw JSON object (no markdown code blocks, no HTML tags) wit
 }`;
 
     try {
-        let response = await makeApiCall(prompt);
-        const match = response.match(/\{[\s\S]*\}/);
-        if (match) response = match[0];
-        const parsed = JSON.parse(response);
+        const parsed = await makeApiCall(prompt, 2, parseJsonObjectResponse);
 
         const candidateImageUrl = (typeof parsed.imageUrl === 'string' && /^https:\/\//i.test(parsed.imageUrl.trim()))
             ? parsed.imageUrl.trim()
