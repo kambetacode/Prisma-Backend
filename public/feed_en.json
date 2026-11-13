@@ -1,44 +1,116 @@
 {
-  "last_updated": "2026-11-13T02:25:03.485Z",
+  "last_updated": "2026-11-13T07:56:04.548Z",
   "language": "en",
   "categories": {
     "GLOBAL_MACRO": {
       "items": [
         {
           "id": "raw-0",
-          "headline": "[Neutral (BBC)] Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-          "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU....",
-          "tags": [
-            "Neutral"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks</a></p>\n                <p>The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.</p>\n            "
-        },
-        {
-          "id": "raw-1",
-          "headline": "[Neutral (BBC)] Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
-          "summary": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back....",
-          "tags": [
-            "Neutral"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?</a></p>\n                <p>The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.</p>\n            "
-        },
-        {
-          "id": "raw-2",
-          "headline": "[Neutral (BBC)] Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-          "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy....",
-          "tags": [
-            "Neutral"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil</a></p>\n                <p>US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.</p>\n            "
-        },
-        {
-          "id": "raw-3",
           "headline": "[Left (NYT)] In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
           "summary": "In Dublin, President Volodymyr Zelensky of Ukraine said Europeans would join the next round of talks. Russia has not confirmed that....",
           "tags": [
             "Left"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html\" target=\"_blank\">In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks</a></p>\n                <p>In Dublin, President Volodymyr Zelensky of Ukraine said Europeans would join the next round of talks. Russia has not confirmed that.</p>\n            "
+          "source_ids": [
+            0
+          ],
+          "deepDive": {
+            "imageUrl": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-russia-talks-qwhb/12int-russia-talks-qwhb-mediumSquareAt3X.jpg",
+            "caption": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
+            "biasLeft": "AI Analysis Unavailable (fallback mode).",
+            "biasNeutral": "In Dublin, President Volodymyr Zelensky of Ukraine said Europeans would join the next round of talks. Russia has not confirmed that.",
+            "biasRight": "AI Analysis Unavailable (fallback mode).",
+            "reflection": "Displaying raw article because AI processing failed."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/12/multimedia/12int-russia-talks-qwhb/12int-russia-talks-qwhb-mediumSquareAt3X.jpg\" alt=\"In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks\" class=\"hero-image\" />\n  <div class=\"hero-caption\">In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">AI Analysis Unavailable (fallback mode).</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">In Dublin, President Volodymyr Zelensky of Ukraine said Europeans would join the next round of talks. Russia has not confirmed that.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">AI Analysis Unavailable (fallback mode).</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>Displaying raw article because AI processing failed.</p>",
+          "sources": [
+            {
+              "source": "Left (NYT)",
+              "title": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
+              "url": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html"
+            }
+          ]
+        },
+        {
+          "id": "raw-1",
+          "headline": "[Neutral (BBC)] Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+          "summary": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs....",
+          "tags": [
+            "Neutral"
+          ],
+          "source_ids": [
+            1
+          ],
+          "deepDive": {
+            "imageUrl": "",
+            "caption": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+            "biasLeft": "AI Analysis Unavailable (fallback mode).",
+            "biasNeutral": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
+            "biasRight": "AI Analysis Unavailable (fallback mode).",
+            "reflection": "Displaying raw article because AI processing failed."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"./assets/fallback_GLOBAL_MACRO.jpg\" alt=\"Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">AI Analysis Unavailable (fallback mode).</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Huang abruptly quit on Thursday as head of one of the world&#39;s most valuable companies after revelations of alleged extramarital affairs.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">AI Analysis Unavailable (fallback mode).</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>Displaying raw article because AI processing failed.</p>",
+          "sources": [
+            {
+              "source": "Neutral (BBC)",
+              "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+              "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "id": "raw-2",
+          "headline": "[Neutral (BBC)] North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+          "summary": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months....",
+          "tags": [
+            "Neutral"
+          ],
+          "source_ids": [
+            2
+          ],
+          "deepDive": {
+            "imageUrl": "",
+            "caption": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+            "biasLeft": "AI Analysis Unavailable (fallback mode).",
+            "biasNeutral": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
+            "biasRight": "AI Analysis Unavailable (fallback mode).",
+            "reflection": "Displaying raw article because AI processing failed."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"./assets/fallback_GLOBAL_MACRO.jpg\" alt=\"North Korean hackers used fake video calls in $400m crypto hack, says FBI\" class=\"hero-image\" />\n  <div class=\"hero-caption\">North Korean hackers used fake video calls in $400m crypto hack, says FBI</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">AI Analysis Unavailable (fallback mode).</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">AI Analysis Unavailable (fallback mode).</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>Displaying raw article because AI processing failed.</p>",
+          "sources": [
+            {
+              "source": "Neutral (BBC)",
+              "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+              "url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "id": "raw-3",
+          "headline": "[Neutral (BBC)] Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+          "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU....",
+          "tags": [
+            "Neutral"
+          ],
+          "source_ids": [
+            3
+          ],
+          "deepDive": {
+            "imageUrl": "",
+            "caption": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+            "biasLeft": "AI Analysis Unavailable (fallback mode).",
+            "biasNeutral": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+            "biasRight": "AI Analysis Unavailable (fallback mode).",
+            "reflection": "Displaying raw article because AI processing failed."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"./assets/fallback_GLOBAL_MACRO.jpg\" alt=\"Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">AI Analysis Unavailable (fallback mode).</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">AI Analysis Unavailable (fallback mode).</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>Displaying raw article because AI processing failed.</p>",
+          "sources": [
+            {
+              "source": "Neutral (BBC)",
+              "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+              "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
         },
         {
           "id": "raw-4",
@@ -47,7 +119,25 @@
           "tags": [
             "Right"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/world/irans-shadow-operations-stretch-across-europe-chilling-spy-convictions-expose-tehrans-reach\" target=\"_blank\">Iran's shadow operations stretch across Europe as chilling spy convictions expose Tehran's reach</a></p>\n                <p>Two Iranian men convicted of spying in Britain as France accuses the IRGC of cyberattacks and UAE officials warn of Iranian sleeper cells abroad.</p>\n            "
+          "source_ids": [
+            4
+          ],
+          "deepDive": {
+            "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/iran-military-rally-001.jpg?ve=1&tl=1",
+            "caption": "Iran's shadow operations stretch across Europe as chilling spy convictions expose Tehran's reach",
+            "biasLeft": "AI Analysis Unavailable (fallback mode).",
+            "biasNeutral": "Two Iranian men convicted of spying in Britain as France accuses the IRGC of cyberattacks and UAE officials warn of Iranian sleeper cells abroad.",
+            "biasRight": "AI Analysis Unavailable (fallback mode).",
+            "reflection": "Displaying raw article because AI processing failed."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/iran-military-rally-001.jpg?ve=1&amp;tl=1\" alt=\"Iran&#39;s shadow operations stretch across Europe as chilling spy convictions expose Tehran&#39;s reach\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Iran&#39;s shadow operations stretch across Europe as chilling spy convictions expose Tehran&#39;s reach</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">AI Analysis Unavailable (fallback mode).</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Two Iranian men convicted of spying in Britain as France accuses the IRGC of cyberattacks and UAE officials warn of Iranian sleeper cells abroad.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">AI Analysis Unavailable (fallback mode).</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>Displaying raw article because AI processing failed.</p>",
+          "sources": [
+            {
+              "source": "Right (Fox)",
+              "title": "Iran's shadow operations stretch across Europe as chilling spy convictions expose Tehran's reach",
+              "url": "https://www.foxnews.com/world/irans-shadow-operations-stretch-across-europe-chilling-spy-convictions-expose-tehrans-reach"
+            }
+          ]
         },
         {
           "id": "raw-5",
@@ -56,7 +146,25 @@
           "tags": [
             "Left"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/11/12/world/europe/ukraine-ai-weapons.html\" target=\"_blank\">A.I. Weapons Need Data for Their Training. Ukraine Has a Lot to Offer.</a></p>\n                <p>The Ukrainian government has opened up a trove of five million battlefield videos to defense companies at home and abroad.</p>\n            "
+          "source_ids": [
+            5
+          ],
+          "deepDive": {
+            "imageUrl": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-ukraine-avenger-labs-gftk/12int-ukraine-avenger-labs-gftk-mediumSquareAt3X.jpg",
+            "caption": "A.I. Weapons Need Data for Their Training. Ukraine Has a Lot to Offer.",
+            "biasLeft": "AI Analysis Unavailable (fallback mode).",
+            "biasNeutral": "The Ukrainian government has opened up a trove of five million battlefield videos to defense companies at home and abroad.",
+            "biasRight": "AI Analysis Unavailable (fallback mode).",
+            "reflection": "Displaying raw article because AI processing failed."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/12/multimedia/12int-ukraine-avenger-labs-gftk/12int-ukraine-avenger-labs-gftk-mediumSquareAt3X.jpg\" alt=\"A.I. Weapons Need Data for Their Training. Ukraine Has a Lot to Offer.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">A.I. Weapons Need Data for Their Training. Ukraine Has a Lot to Offer.</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">AI Analysis Unavailable (fallback mode).</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">The Ukrainian government has opened up a trove of five million battlefield videos to defense companies at home and abroad.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">AI Analysis Unavailable (fallback mode).</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>Displaying raw article because AI processing failed.</p>",
+          "sources": [
+            {
+              "source": "Left (NYT)",
+              "title": "A.I. Weapons Need Data for Their Training. Ukraine Has a Lot to Offer.",
+              "url": "https://www.nytimes.com/2026/11/12/world/europe/ukraine-ai-weapons.html"
+            }
+          ]
         },
         {
           "id": "raw-6",
@@ -65,7 +173,25 @@
           "tags": [
             "Left"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/11/12/world/americas/grammys-women-vivir-quintana.html\" target=\"_blank\">She Is Rewriting Mexico’s Ballads, One Woman’s Story at a Time</a></p>\n                <p>Grammy-nominated songwriter Vivir Quintana is known throughout Latin America for giving voice to women who fought back against domestic violence.</p>\n            "
+          "source_ids": [
+            6
+          ],
+          "deepDive": {
+            "imageUrl": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-mexico-singer-profile01-photo-wmtz/11int-mexico-singer-profile01-photo-wmtz-mediumSquareAt3X.jpg",
+            "caption": "She Is Rewriting Mexico’s Ballads, One Woman’s Story at a Time",
+            "biasLeft": "AI Analysis Unavailable (fallback mode).",
+            "biasNeutral": "Grammy-nominated songwriter Vivir Quintana is known throughout Latin America for giving voice to women who fought back against domestic violence.",
+            "biasRight": "AI Analysis Unavailable (fallback mode).",
+            "reflection": "Displaying raw article because AI processing failed."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/11/multimedia/11int-mexico-singer-profile01-photo-wmtz/11int-mexico-singer-profile01-photo-wmtz-mediumSquareAt3X.jpg\" alt=\"She Is Rewriting Mexico’s Ballads, One Woman’s Story at a Time\" class=\"hero-image\" />\n  <div class=\"hero-caption\">She Is Rewriting Mexico’s Ballads, One Woman’s Story at a Time</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">AI Analysis Unavailable (fallback mode).</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Grammy-nominated songwriter Vivir Quintana is known throughout Latin America for giving voice to women who fought back against domestic violence.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">AI Analysis Unavailable (fallback mode).</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>Displaying raw article because AI processing failed.</p>",
+          "sources": [
+            {
+              "source": "Left (NYT)",
+              "title": "She Is Rewriting Mexico’s Ballads, One Woman’s Story at a Time",
+              "url": "https://www.nytimes.com/2026/11/12/world/americas/grammys-women-vivir-quintana.html"
+            }
+          ]
         },
         {
           "id": "raw-7",
@@ -74,7 +200,25 @@
           "tags": [
             "Right"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/world/el-salvador-air-assault-destroys-haiti-gang-headquarters-search-missing-troops\" target=\"_blank\">El Salvador-backed air assault destroys Haiti gang headquarters amid search for missing troops</a></p>\n                <p>Helicopters struck Haiti gang compound, dozens fled and President Bukele touted the assault amid a search for four missing Salvadoran personnel.</p>\n            "
+          "source_ids": [
+            7
+          ],
+          "deepDive": {
+            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/rendered-helicopter-attack-gif-final.gif",
+            "caption": "El Salvador-backed air assault destroys Haiti gang headquarters amid search for missing troops",
+            "biasLeft": "AI Analysis Unavailable (fallback mode).",
+            "biasNeutral": "Helicopters struck Haiti gang compound, dozens fled and President Bukele touted the assault amid a search for four missing Salvadoran personnel.",
+            "biasRight": "AI Analysis Unavailable (fallback mode).",
+            "reflection": "Displaying raw article because AI processing failed."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/11/rendered-helicopter-attack-gif-final.gif\" alt=\"El Salvador-backed air assault destroys Haiti gang headquarters amid search for missing troops\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El Salvador-backed air assault destroys Haiti gang headquarters amid search for missing troops</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">AI Analysis Unavailable (fallback mode).</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Helicopters struck Haiti gang compound, dozens fled and President Bukele touted the assault amid a search for four missing Salvadoran personnel.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">AI Analysis Unavailable (fallback mode).</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>Displaying raw article because AI processing failed.</p>",
+          "sources": [
+            {
+              "source": "Right (Fox)",
+              "title": "El Salvador-backed air assault destroys Haiti gang headquarters amid search for missing troops",
+              "url": "https://www.foxnews.com/world/el-salvador-air-assault-destroys-haiti-gang-headquarters-search-missing-troops"
+            }
+          ]
         },
         {
           "id": "raw-8",
@@ -83,7 +227,25 @@
           "tags": [
             "Right"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/world/iran-escalates-hormuz-claims-strike-omani-island-enemy-uses-us-military-ops\" target=\"_blank\">Iran escalates in Hormuz, claims strike on Omani island it says 'enemy' uses for US military ops</a></p>\n                <p>Iran claims its Revolutionary Guard struck navigation equipment on Oman's Didamar Island in the Strait of Hormuz, but Omani officials dispute damage.</p>\n            "
+          "source_ids": [
+            8
+          ],
+          "deepDive": {
+            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/iran-boat.gif",
+            "caption": "Iran escalates in Hormuz, claims strike on Omani island it says 'enemy' uses for US military ops",
+            "biasLeft": "AI Analysis Unavailable (fallback mode).",
+            "biasNeutral": "Iran claims its Revolutionary Guard struck navigation equipment on Oman's Didamar Island in the Strait of Hormuz, but Omani officials dispute damage.",
+            "biasRight": "AI Analysis Unavailable (fallback mode).",
+            "reflection": "Displaying raw article because AI processing failed."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/11/iran-boat.gif\" alt=\"Iran escalates in Hormuz, claims strike on Omani island it says &#39;enemy&#39; uses for US military ops\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Iran escalates in Hormuz, claims strike on Omani island it says &#39;enemy&#39; uses for US military ops</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">AI Analysis Unavailable (fallback mode).</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Iran claims its Revolutionary Guard struck navigation equipment on Oman&#39;s Didamar Island in the Strait of Hormuz, but Omani officials dispute damage.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">AI Analysis Unavailable (fallback mode).</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>Displaying raw article because AI processing failed.</p>",
+          "sources": [
+            {
+              "source": "Right (Fox)",
+              "title": "Iran escalates in Hormuz, claims strike on Omani island it says 'enemy' uses for US military ops",
+              "url": "https://www.foxnews.com/world/iran-escalates-hormuz-claims-strike-omani-island-enemy-uses-us-military-ops"
+            }
+          ]
         }
       ],
       "rawCount": 9
@@ -92,30 +254,84 @@
       "items": [
         {
           "id": "raw-0",
-          "headline": "[Neutral (BBC Tech)] Microsoft struggling to restore service as global outage affects Outlook and Teams",
-          "summary": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems....",
+          "headline": "[Neutral (BBC Tech)] What we know about the global Microsoft outage",
+          "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful....",
           "tags": [
             "Neutral"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Microsoft struggling to restore service as global outage affects Outlook and Teams</a></p>\n                <p>Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.</p>\n            "
+          "source_ids": [
+            0
+          ],
+          "deepDive": {
+            "imageUrl": "",
+            "caption": "What we know about the global Microsoft outage",
+            "biasLeft": "AI Analysis Unavailable (fallback mode).",
+            "biasNeutral": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+            "biasRight": "AI Analysis Unavailable (fallback mode).",
+            "reflection": "Displaying raw article because AI processing failed."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"./assets/fallback_GLOBAL_MACRO.jpg\" alt=\"What we know about the global Microsoft outage\" class=\"hero-image\" />\n  <div class=\"hero-caption\">What we know about the global Microsoft outage</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">AI Analysis Unavailable (fallback mode).</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">AI Analysis Unavailable (fallback mode).</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>Displaying raw article because AI processing failed.</p>",
+          "sources": [
+            {
+              "source": "Neutral (BBC Tech)",
+              "title": "What we know about the global Microsoft outage",
+              "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
         },
         {
           "id": "raw-1",
-          "headline": "[Neutral (BBC Tech)] The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
-          "summary": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers....",
+          "headline": "[Neutral (BBC Tech)] What happened overnight with the Microsoft global outage",
+          "summary": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\"....",
           "tags": [
             "Neutral"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">The rise of 'housefishing' - when does using AI go from enhancing to misleading?</a></p>\n                <p>Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.</p>\n            "
+          "source_ids": [
+            1
+          ],
+          "deepDive": {
+            "imageUrl": "",
+            "caption": "What happened overnight with the Microsoft global outage",
+            "biasLeft": "AI Analysis Unavailable (fallback mode).",
+            "biasNeutral": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\".",
+            "biasRight": "AI Analysis Unavailable (fallback mode).",
+            "reflection": "Displaying raw article because AI processing failed."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"./assets/fallback_GLOBAL_MACRO.jpg\" alt=\"What happened overnight with the Microsoft global outage\" class=\"hero-image\" />\n  <div class=\"hero-caption\">What happened overnight with the Microsoft global outage</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">AI Analysis Unavailable (fallback mode).</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by &quot;connectivity problems&quot;.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">AI Analysis Unavailable (fallback mode).</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>Displaying raw article because AI processing failed.</p>",
+          "sources": [
+            {
+              "source": "Neutral (BBC Tech)",
+              "title": "What happened overnight with the Microsoft global outage",
+              "url": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
         },
         {
           "id": "raw-2",
-          "headline": "[Neutral (BBC Tech)] Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-          "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy....",
+          "headline": "[Neutral (BBC Tech)] Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+          "summary": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs....",
           "tags": [
             "Neutral"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil</a></p>\n                <p>US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.</p>\n            "
+          "source_ids": [
+            2
+          ],
+          "deepDive": {
+            "imageUrl": "",
+            "caption": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+            "biasLeft": "AI Analysis Unavailable (fallback mode).",
+            "biasNeutral": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
+            "biasRight": "AI Analysis Unavailable (fallback mode).",
+            "reflection": "Displaying raw article because AI processing failed."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"./assets/fallback_GLOBAL_MACRO.jpg\" alt=\"Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">AI Analysis Unavailable (fallback mode).</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Huang abruptly quit on Thursday as head of one of the world&#39;s most valuable companies after revelations of alleged extramarital affairs.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">AI Analysis Unavailable (fallback mode).</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>Displaying raw article because AI processing failed.</p>",
+          "sources": [
+            {
+              "source": "Neutral (BBC Tech)",
+              "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+              "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
         },
         {
           "id": "raw-3",
@@ -124,7 +340,25 @@
           "tags": [
             "Left"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/11/12/technology/nvidia-jensen-huang.html\" target=\"_blank\">Jensen Huang Resigns From Nvidia After Affairs</a></p>\n                <p>The chief executive has been under scrutiny for an affair with a woman said to be a Chinese spy, as well as for a relationship with a subordinate at his A.I. chip company. Nvidia’s finance chief, Colette Kress, was named interim leader.</p>\n            "
+          "source_ids": [
+            3
+          ],
+          "deepDive": {
+            "imageUrl": "https://static01.nyt.com/images/2026/11/11/multimedia/00biz-jensen-huang-gzlb/00biz-jensen-huang-gzlb-mediumSquareAt3X-v2.jpg",
+            "caption": "Jensen Huang Resigns From Nvidia After Affairs",
+            "biasLeft": "AI Analysis Unavailable (fallback mode).",
+            "biasNeutral": "The chief executive has been under scrutiny for an affair with a woman said to be a Chinese spy, as well as for a relationship with a subordinate at his A.I. chip company. Nvidia’s finance chief, Colette Kress, was named interim leader.",
+            "biasRight": "AI Analysis Unavailable (fallback mode).",
+            "reflection": "Displaying raw article because AI processing failed."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/11/multimedia/00biz-jensen-huang-gzlb/00biz-jensen-huang-gzlb-mediumSquareAt3X-v2.jpg\" alt=\"Jensen Huang Resigns From Nvidia After Affairs\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Jensen Huang Resigns From Nvidia After Affairs</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">AI Analysis Unavailable (fallback mode).</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">The chief executive has been under scrutiny for an affair with a woman said to be a Chinese spy, as well as for a relationship with a subordinate at his A.I. chip company. Nvidia’s finance chief, Colette Kress, was named interim leader.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">AI Analysis Unavailable (fallback mode).</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>Displaying raw article because AI processing failed.</p>",
+          "sources": [
+            {
+              "source": "Left (NYT Tech)",
+              "title": "Jensen Huang Resigns From Nvidia After Affairs",
+              "url": "https://www.nytimes.com/2026/11/12/technology/nvidia-jensen-huang.html"
+            }
+          ]
         },
         {
           "id": "raw-4",
@@ -133,7 +367,25 @@
           "tags": [
             "Left"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html\" target=\"_blank\">Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him</a></p>\n                <p>Mr. Huang, Nvidia’s chief executive, is already facing scrutiny over an affair with a Chinese businesswoman who U.S. intelligence determined was a Chinese spy.</p>\n            "
+          "source_ids": [
+            4
+          ],
+          "deepDive": {
+            "imageUrl": "https://static01.nyt.com/images/2026/11/11/multimedia/00Biz-Huang-Relationship-wlgb/00Biz-Huang-Relationship-wlgb-mediumSquareAt3X.jpg",
+            "caption": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+            "biasLeft": "AI Analysis Unavailable (fallback mode).",
+            "biasNeutral": "Mr. Huang, Nvidia’s chief executive, is already facing scrutiny over an affair with a Chinese businesswoman who U.S. intelligence determined was a Chinese spy.",
+            "biasRight": "AI Analysis Unavailable (fallback mode).",
+            "reflection": "Displaying raw article because AI processing failed."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/11/multimedia/00Biz-Huang-Relationship-wlgb/00Biz-Huang-Relationship-wlgb-mediumSquareAt3X.jpg\" alt=\"Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">AI Analysis Unavailable (fallback mode).</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Mr. Huang, Nvidia’s chief executive, is already facing scrutiny over an affair with a Chinese businesswoman who U.S. intelligence determined was a Chinese spy.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">AI Analysis Unavailable (fallback mode).</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>Displaying raw article because AI processing failed.</p>",
+          "sources": [
+            {
+              "source": "Left (NYT Tech)",
+              "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+              "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html"
+            }
+          ]
         },
         {
           "id": "raw-5",
@@ -142,7 +394,25 @@
           "tags": [
             "Left"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-lori-huang.html\" target=\"_blank\">Nvidia Scandal Puts Lori Huang, Jensen Huang’s Wife, In the Spotlight</a></p>\n                <p>Lori Huang, who has been married to the Nvidia chief executive for more than 40 years, stands out among tech titan spouses for how private she has been.</p>\n            "
+          "source_ids": [
+            5
+          ],
+          "deepDive": {
+            "imageUrl": "https://static01.nyt.com/images/2026/11/10/multimedia/jensen-wife-jwtz/jensen-wife-jwtz-mediumSquareAt3X.jpg",
+            "caption": "Nvidia Scandal Puts Lori Huang, Jensen Huang’s Wife, In the Spotlight",
+            "biasLeft": "AI Analysis Unavailable (fallback mode).",
+            "biasNeutral": "Lori Huang, who has been married to the Nvidia chief executive for more than 40 years, stands out among tech titan spouses for how private she has been.",
+            "biasRight": "AI Analysis Unavailable (fallback mode).",
+            "reflection": "Displaying raw article because AI processing failed."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/10/multimedia/jensen-wife-jwtz/jensen-wife-jwtz-mediumSquareAt3X.jpg\" alt=\"Nvidia Scandal Puts Lori Huang, Jensen Huang’s Wife, In the Spotlight\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Nvidia Scandal Puts Lori Huang, Jensen Huang’s Wife, In the Spotlight</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">AI Analysis Unavailable (fallback mode).</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Lori Huang, who has been married to the Nvidia chief executive for more than 40 years, stands out among tech titan spouses for how private she has been.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">AI Analysis Unavailable (fallback mode).</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>Displaying raw article because AI processing failed.</p>",
+          "sources": [
+            {
+              "source": "Left (NYT Tech)",
+              "title": "Nvidia Scandal Puts Lori Huang, Jensen Huang’s Wife, In the Spotlight",
+              "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-lori-huang.html"
+            }
+          ]
         }
       ],
       "rawCount": 6
@@ -151,48 +421,138 @@
       "items": [
         {
           "id": "raw-0",
-          "headline": "[Neutral (BBC Business)] Microsoft struggling to restore service as global outage affects Outlook and Teams",
-          "summary": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems....",
+          "headline": "[Neutral (BBC Business)] What we know about the global Microsoft outage",
+          "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful....",
           "tags": [
             "Neutral"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Microsoft struggling to restore service as global outage affects Outlook and Teams</a></p>\n                <p>Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.</p>\n            "
+          "source_ids": [
+            0
+          ],
+          "deepDive": {
+            "imageUrl": "",
+            "caption": "What we know about the global Microsoft outage",
+            "biasLeft": "AI Analysis Unavailable (fallback mode).",
+            "biasNeutral": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+            "biasRight": "AI Analysis Unavailable (fallback mode).",
+            "reflection": "Displaying raw article because AI processing failed."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"./assets/fallback_GLOBAL_MACRO.jpg\" alt=\"What we know about the global Microsoft outage\" class=\"hero-image\" />\n  <div class=\"hero-caption\">What we know about the global Microsoft outage</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">AI Analysis Unavailable (fallback mode).</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">AI Analysis Unavailable (fallback mode).</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>Displaying raw article because AI processing failed.</p>",
+          "sources": [
+            {
+              "source": "Neutral (BBC Business)",
+              "title": "What we know about the global Microsoft outage",
+              "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
         },
         {
           "id": "raw-1",
+          "headline": "[Neutral (BBC Business)] Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+          "summary": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs....",
+          "tags": [
+            "Neutral"
+          ],
+          "source_ids": [
+            1
+          ],
+          "deepDive": {
+            "imageUrl": "",
+            "caption": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+            "biasLeft": "AI Analysis Unavailable (fallback mode).",
+            "biasNeutral": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
+            "biasRight": "AI Analysis Unavailable (fallback mode).",
+            "reflection": "Displaying raw article because AI processing failed."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"./assets/fallback_GLOBAL_MACRO.jpg\" alt=\"Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">AI Analysis Unavailable (fallback mode).</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Huang abruptly quit on Thursday as head of one of the world&#39;s most valuable companies after revelations of alleged extramarital affairs.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">AI Analysis Unavailable (fallback mode).</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>Displaying raw article because AI processing failed.</p>",
+          "sources": [
+            {
+              "source": "Neutral (BBC Business)",
+              "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+              "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "id": "raw-2",
           "headline": "[Left (NYT Business)] Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew",
           "summary": "Critics say Howard Lutnick, the commerce secretary, and his department have shielded Nvidia as concerns have grown over A.I. chip sales to firms like ...",
           "tags": [
             "Left"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html\" target=\"_blank\">Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew</a></p>\n                <p>Critics say Howard Lutnick, the commerce secretary, and his department have shielded Nvidia as concerns have grown over A.I. chip sales to firms like Megaspeed.</p>\n            "
+          "source_ids": [
+            2
+          ],
+          "deepDive": {
+            "imageUrl": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-commerce-nvidia-fzpt/12dc-commerce-nvidia-fzpt-mediumSquareAt3X.jpg",
+            "caption": "Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew",
+            "biasLeft": "AI Analysis Unavailable (fallback mode).",
+            "biasNeutral": "Critics say Howard Lutnick, the commerce secretary, and his department have shielded Nvidia as concerns have grown over A.I. chip sales to firms like Megaspeed.",
+            "biasRight": "AI Analysis Unavailable (fallback mode).",
+            "reflection": "Displaying raw article because AI processing failed."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/12/multimedia/12dc-commerce-nvidia-fzpt/12dc-commerce-nvidia-fzpt-mediumSquareAt3X.jpg\" alt=\"Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">AI Analysis Unavailable (fallback mode).</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Critics say Howard Lutnick, the commerce secretary, and his department have shielded Nvidia as concerns have grown over A.I. chip sales to firms like Megaspeed.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">AI Analysis Unavailable (fallback mode).</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>Displaying raw article because AI processing failed.</p>",
+          "sources": [
+            {
+              "source": "Left (NYT Business)",
+              "title": "Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew",
+              "url": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html"
+            }
+          ]
         },
         {
-          "id": "raw-2",
+          "id": "raw-3",
           "headline": "[Left (NYT Business)] Huang and Lutnick Summoned to Testify Before Congress",
           "summary": "Senator Tim Scott said he had requested that the Nvidia co-founder and the commerce secretary appear before the Senate Banking Committee....",
           "tags": [
             "Left"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/11/12/business/jensen-huang-howard-lutnick-testify-capitol-hill.html\" target=\"_blank\">Huang and Lutnick Summoned to Testify Before Congress</a></p>\n                <p>Senator Tim Scott said he had requested that the Nvidia co-founder and the commerce secretary appear before the Senate Banking Committee.</p>\n            "
+          "source_ids": [
+            3
+          ],
+          "deepDive": {
+            "imageUrl": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-nvidia-live-hill-testimony-sub-glmz/12biz-nvidia-live-hill-testimony-sub-glmz-mediumSquareAt3X.jpg",
+            "caption": "Huang and Lutnick Summoned to Testify Before Congress",
+            "biasLeft": "AI Analysis Unavailable (fallback mode).",
+            "biasNeutral": "Senator Tim Scott said he had requested that the Nvidia co-founder and the commerce secretary appear before the Senate Banking Committee.",
+            "biasRight": "AI Analysis Unavailable (fallback mode).",
+            "reflection": "Displaying raw article because AI processing failed."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/12/multimedia/12biz-nvidia-live-hill-testimony-sub-glmz/12biz-nvidia-live-hill-testimony-sub-glmz-mediumSquareAt3X.jpg\" alt=\"Huang and Lutnick Summoned to Testify Before Congress\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Huang and Lutnick Summoned to Testify Before Congress</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">AI Analysis Unavailable (fallback mode).</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Senator Tim Scott said he had requested that the Nvidia co-founder and the commerce secretary appear before the Senate Banking Committee.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">AI Analysis Unavailable (fallback mode).</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>Displaying raw article because AI processing failed.</p>",
+          "sources": [
+            {
+              "source": "Left (NYT Business)",
+              "title": "Huang and Lutnick Summoned to Testify Before Congress",
+              "url": "https://www.nytimes.com/2026/11/12/business/jensen-huang-howard-lutnick-testify-capitol-hill.html"
+            }
+          ]
         },
         {
-          "id": "raw-3",
+          "id": "raw-4",
           "headline": "[Neutral (BBC Business)] The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
           "summary": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers....",
           "tags": [
             "Neutral"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss\" target=\"_blank\">The rise of 'housefishing' - when does using AI go from enhancing to misleading?</a></p>\n                <p>Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.</p>\n            "
-        },
-        {
-          "id": "raw-4",
-          "headline": "[Neutral (BBC Business)] Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-          "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy....",
-          "tags": [
-            "Neutral"
+          "source_ids": [
+            4
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss\" target=\"_blank\">Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil</a></p>\n                <p>US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.</p>\n            "
+          "deepDive": {
+            "imageUrl": "",
+            "caption": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+            "biasLeft": "AI Analysis Unavailable (fallback mode).",
+            "biasNeutral": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+            "biasRight": "AI Analysis Unavailable (fallback mode).",
+            "reflection": "Displaying raw article because AI processing failed."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"./assets/fallback_GLOBAL_MACRO.jpg\" alt=\"The rise of &#39;housefishing&#39; - when does using AI go from enhancing to misleading?\" class=\"hero-image\" />\n  <div class=\"hero-caption\">The rise of &#39;housefishing&#39; - when does using AI go from enhancing to misleading?</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">AI Analysis Unavailable (fallback mode).</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">AI Analysis Unavailable (fallback mode).</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>Displaying raw article because AI processing failed.</p>",
+          "sources": [
+            {
+              "source": "Neutral (BBC Business)",
+              "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+              "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
         },
         {
           "id": "raw-5",
@@ -201,37 +561,28 @@
           "tags": [
             "Left"
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html\" target=\"_blank\">Nvidia Scandal Unleashes a Flood of AI-Generated Memes</a></p>\n                <p>The revelations surrounding Jensen Huang, who resigned from Nvidia over extramarital affairs, inspired social media posts using the very technology his company helped develop.</p>\n            "
-        },
-        {
-          "id": "raw-6",
-          "headline": "[Right (Fox Business)] Noise cameras are spreading across America",
-          "summary": "Noise cameras are popping up in at least 10 U.S. cities, using microphones and license plate readers to catch loud vehicles and issue big fines....",
-          "tags": [
-            "Right"
+          "source_ids": [
+            5
           ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/science/noise-cameras-spreading-across-america\" target=\"_blank\">Noise cameras are spreading across America</a></p>\n                <p>Noise cameras are popping up in at least 10 U.S. cities, using microphones and license plate readers to catch loud vehicles and issue big fines.</p>\n            "
-        },
-        {
-          "id": "raw-7",
-          "headline": "[Right (Fox Business)] Roblox shares AI child-safety tools parents should know",
-          "summary": "Roblox is sharing AI safety models that detect online grooming, personal information requests and voice chat violations with other platforms....",
-          "tags": [
-            "Right"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/science/roblox-shares-ai-child-safety-tools-parents-should-know\" target=\"_blank\">Roblox shares AI child-safety tools parents should know</a></p>\n                <p>Roblox is sharing AI safety models that detect online grooming, personal information requests and voice chat violations with other platforms.</p>\n            "
-        },
-        {
-          "id": "raw-8",
-          "headline": "[Right (Fox Business)] Apple spyware warning hits iPhones in 110 countries",
-          "summary": "Apple confirmed to CyberGuy that mercenary spyware alerts were sent to targeted users in 110 countries, now appearing directly on iPhone Lock Screens....",
-          "tags": [
-            "Right"
-          ],
-          "deepDiveHtml": "\n                <h2>AI Analysis Unavailable</h2>\n                <p>The Gemini AI API key failed (likely due to free tier limit 0 in your region or account). Displaying raw article instead.</p>\n                <p><strong>Original Link:</strong> <a href=\"https://www.foxnews.com/science/apple-spyware-warning-hits-iphones-110-countries\" target=\"_blank\">Apple spyware warning hits iPhones in 110 countries</a></p>\n                <p>Apple confirmed to CyberGuy that mercenary spyware alerts were sent to targeted users in 110 countries, now appearing directly on iPhone Lock Screens.</p>\n            "
+          "deepDive": {
+            "imageUrl": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-nvidia-memes-1-hwzb/12int-nvidia-memes-1-hwzb-mediumSquareAt3X.jpg",
+            "caption": "Nvidia Scandal Unleashes a Flood of AI-Generated Memes",
+            "biasLeft": "AI Analysis Unavailable (fallback mode).",
+            "biasNeutral": "The revelations surrounding Jensen Huang, who resigned from Nvidia over extramarital affairs, inspired social media posts using the very technology his company helped develop.",
+            "biasRight": "AI Analysis Unavailable (fallback mode).",
+            "reflection": "Displaying raw article because AI processing failed."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/12/multimedia/12int-nvidia-memes-1-hwzb/12int-nvidia-memes-1-hwzb-mediumSquareAt3X.jpg\" alt=\"Nvidia Scandal Unleashes a Flood of AI-Generated Memes\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Nvidia Scandal Unleashes a Flood of AI-Generated Memes</div>\n</div>\n<h2>Bias Deconstruction</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Left-Leaning Media</div>\n    <div class=\"bias-content\">AI Analysis Unavailable (fallback mode).</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Neutral Media</div>\n    <div class=\"bias-content\">The revelations surrounding Jensen Huang, who resigned from Nvidia over extramarital affairs, inspired social media posts using the very technology his company helped develop.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Right-Leaning Media</div>\n    <div class=\"bias-content\">AI Analysis Unavailable (fallback mode).</div>\n  </div>\n</div>\n<h2>Reflection</h2>\n<p>Displaying raw article because AI processing failed.</p>",
+          "sources": [
+            {
+              "source": "Left (NYT Business)",
+              "title": "Nvidia Scandal Unleashes a Flood of AI-Generated Memes",
+              "url": "https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html"
+            }
+          ]
         }
       ],
-      "rawCount": 9
+      "rawCount": 6
     }
   }
 }
