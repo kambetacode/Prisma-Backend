@@ -47,11 +47,11 @@ function escapeHtml(value) {
 
 function renderDeepDiveHtml(deepDive, language, category) {
     const isEs = language === 'Spanish' || language.toLowerCase().includes('es');
-    const labelLeft = isEs ? 'Medios de Izquierda' : 'Left-Leaning Media';
-    const labelNeutral = isEs ? 'Medios Imparciales' : 'Neutral Media';
-    const labelRight = isEs ? 'Medios de Derecha' : 'Right-Leaning Media';
-    const reflectionTitle = isEs ? 'Reflexión' : 'Reflection';
-    const deconstructionTitle = isEs ? 'Desconstrucción del Sesgo' : 'Bias Deconstruction';
+    const labelLeft = isEs ? 'Enfoque Progresista' : 'Progressive Lens';
+    const labelNeutral = isEs ? 'Enfoque de Centro' : 'Center & Wire Lens';
+    const labelRight = isEs ? 'Enfoque Conservador' : 'Conservative Lens';
+    const reflectionTitle = isEs ? 'Por qué importa realmente' : 'Why It Actually Matters';
+    const deconstructionTitle = isEs ? 'Cómo lo cuenta cada medio' : 'How Each Side Frames It';
     const fallbackImage = `./assets/fallback_${category}.jpg`;
     const imageUrl = (deepDive.imageUrl && /^https:\/\//i.test(deepDive.imageUrl))
         ? escapeHtml(deepDive.imageUrl)
@@ -85,7 +85,7 @@ async function fetchNews(category) {
     const fetchPromises = sources.map(async (source) => {
         try {
             const feed = await parser.parseURL(source.url);
-            return feed.items.slice(0, 3).map(item => {
+            return feed.items.slice(0, 5).map(item => {
                 let imageUrl = "";
                 if (item.mediaContent && item.mediaContent.$ && item.mediaContent.$.url) {
                     imageUrl = item.mediaContent.$.url;
@@ -117,49 +117,59 @@ async function fetchNews(category) {
 async function makeApiCall(prompt, retries = 3) {
     if (!API_KEY) throw new Error("GROQ_API_KEY is missing");
 
-    const modelName = 'llama-3.1-8b-instant';
+    const models = ['llama-3.3-70b-versatile', 'llama-3.1-8b-instant'];
+    let lastError = null;
 
-    for (let attempt = 1; attempt <= retries; attempt++) {
-        try {
-            console.log(`Trying Groq model: ${modelName} (attempt ${attempt})...`);
-            const response = await groq.chat.completions.create({
-                messages: [{ role: 'user', content: prompt }],
-                model: modelName,
-            });
-            return response.choices[0].message.content;
-        } catch (error) {
-            const msg = error.message || "";
-            if (msg.includes('429') || msg.includes('503')) {
-                if (attempt < retries) {
-                    await sleep(3000); // 3 seconds before retry
-                    continue;
+    for (const modelName of models) {
+        for (let attempt = 1; attempt <= retries; attempt++) {
+            try {
+                console.log(`Trying Groq model: ${modelName} (attempt ${attempt})...`);
+                const response = await groq.chat.completions.create({
+                    messages: [{ role: 'user', content: prompt }],
+                    model: modelName,
+                });
+                return response.choices[0].message.content;
+            } catch (error) {
+                lastError = error;
+                const msg = error.message || "";
+                if (msg.includes('429') || msg.includes('503')) {
+                    if (attempt < retries) {
+                        await sleep(2500);
+                        continue;
+                    }
+                    console.warn(`Rate limit/unavailable on ${modelName}, falling back to next model if available...`);
+                    break;
                 }
+                throw error;
             }
-            throw error;
         }
     }
-    throw new Error("All Groq attempts failed.");
+    throw lastError || new Error("All Groq attempts failed.");
 }
 
 async function neutralizeNews(articles, language) {
     if (!articles || articles.length === 0) return [];
 
     const context = articles.map((a, i) => `[ID: ${i}] Source: ${a.source}\nTitle: ${a.title}\nContent: ${a.content}`).join('\n---\n');
-    const prompt = `You are an AI designed to prevent doomscrolling and clickbait.
-I am giving you a list of raw news articles from different sources (left, right, neutral). Each article has an [ID: X].
-Group them by topic. For each major topic, create ONE perfectly neutral, factual, and non-sensationalist headline.
-Write the headline, summary, and tags entirely in ${language}.
-Return a JSON array of objects with this exact format (no markdown code blocks, just raw JSON array):
+    const prompt = `You are a seasoned senior news editor (like Reuters or BBC Mundo) who writes for thoughtful human readers tired of sensationalism, clickbait, and robotic AI phrasing.
+I am giving you raw news articles from different outlets (left, right, neutral). Each article has an [ID: X].
+
+Your task:
+1. Group articles covering the same event or topic together (up to 5 major stories).
+2. Write ONE clear, concrete, human-sounding headline per story. Tell the reader plainly WHAT happened and WHY it is news, without clickbait, alarmism, or stiff bureaucratic filler (NEVER write vague titles like "Desafíos en el ámbito de..." or "Influencia y acciones en...").
+3. Write a natural, fluid 2-sentence summary explaining the real-world stakes and human/practical context without repeating the headline.
+4. Write the headline, summary, and tags entirely in idiomatic, natural ${language}.
+
+Return ONLY a raw JSON array (no markdown code blocks, no commentary):
 [
   {
     "id": "topic-1",
-    "headline": "Neutral factual headline",
-    "summary": "2-sentence factual summary of what happened.",
+    "headline": "Clear, concrete news headline",
+    "summary": "Two natural, engaging sentences explaining what happened and why it matters.",
     "tags": ["#tag1", "#tag2"],
     "source_ids": [0, 2]
   }
 ]
-Do not return more than 5 topics.
 Here are the articles:\n${context}`;
 
     try {
@@ -195,17 +205,21 @@ async function deepAnalyze(topicText, relevantArticles, language, category) {
     const context = relevantArticles.map(a => `Source: ${a.source}\nTitle: ${a.title}\nContent: ${a.content}\nImage URL: ${a.imageUrl || ""}`).join('\n---\n');
     const fallbackArticleImage = (relevantArticles.find(a => a && a.imageUrl && /^https:\/\//i.test(a.imageUrl)) || {}).imageUrl || "";
 
-    const prompt = `You are a professional, objective AI news analyst. A user selected the following topic to read about: "${topicText}".
-Based on these current articles related to this topic:
+    const prompt = `You are a sharp, candid media analyst writing for an intelligent human reader. A user selected this story: "${topicText}".
+Here are the source articles for this story:
 \n${context}\n
-Return a single JSON object (no markdown code blocks, no HTML tags, raw JSON only) written strictly in ${language} with these exact keys:
+Write in natural, conversational, idiomatic ${language}. Be specific, insightful, and grounded strictly in the articles provided above.
+STRICTLY AVOID robotic AI clichés such as: "in an increasingly interconnected world", "serves as a stark reminder", "is not just X, it's a symbol of Y", "en un mundo cada vez más interconectado", "es un recordatorio de la necesidad de", "no es solo X, sino un símbolo de", or "ofreciendo un enfoque imparcial y factual".
+If one political side did NOT cover this specific topic in the articles above, state that honestly in 1 short sentence instead of inventing details or mixing in a different news story.
+
+Return ONLY a single raw JSON object (no markdown code blocks, no HTML tags) with these exact keys:
 {
-  "imageUrl": "Choose the most relevant https:// Image URL from the articles above, or empty string if none",
-  "caption": "Short, engaging 1-sentence caption for this news topic in ${language}",
-  "biasLeft": "Explain how left-leaning outlets are framing this topic in ${language}",
-  "biasNeutral": "Explain how neutral/impartial outlets are covering this topic in ${language}",
-  "biasRight": "Explain how right-leaning outlets are framing this topic in ${language}",
-  "reflection": "A thoughtful, philosophical reflection on the broader implications of this topic and why it matters in ${language}"
+  "imageUrl": "The exact https:// Image URL from the most relevant article above, or empty string if none",
+  "caption": "1 brief, vivid journalistic caption connecting the reader to the scene of this story in ${language}",
+  "biasLeft": "2-3 crisp sentences explaining what progressive/left-leaning outlets emphasize here (word choice, human or systemic angle), or honestly note if absent from these articles, in ${language}",
+  "biasNeutral": "2-3 crisp sentences explaining what center/wire outlets prioritize (concrete facts, open questions, or caveats), or honestly note if absent, in ${language}",
+  "biasRight": "2-3 crisp sentences explaining what conservative/right-leaning outlets highlight (economic, security, or sovereignty impact), or honestly note if absent, in ${language}",
+  "reflection": "2-3 grounded, practical sentences answering: Why does this actually matter to a real person today, and what concrete signal should we watch in the next few days? Written in ${language}"
 }`;
 
     try {
