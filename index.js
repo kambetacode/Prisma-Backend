@@ -103,12 +103,12 @@ const CATEGORY_FEEDS = {
         { name: 'Neutral (BBC)', url: 'https://feeds.bbci.co.uk/news/world/rss.xml' }
     ],
     'TECH_FRONTIER': [
-        { name: 'Right (Fox Tech)', url: 'https://feeds.foxnews.com/foxnews/tech' },
+        { name: 'Right (Fox Tech)', url: 'https://moxie.foxnews.com/google-publisher/tech.xml' },
         { name: 'Left (NYT Tech)', url: 'https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml' },
         { name: 'Neutral (BBC Tech)', url: 'https://feeds.bbci.co.uk/news/technology/rss.xml' }
     ],
     'MARKETS_ECONOMY': [
-        { name: 'Right (Fox Business)', url: 'https://moxie.foxnews.com/google-publisher/economy.xml' },
+        { name: 'Right (Fox Business)', url: 'https://moxie.foxbusiness.com/google-publisher/markets.xml' },
         { name: 'Left (NYT Business)', url: 'https://rss.nytimes.com/services/xml/rss/nyt/Business.xml' },
         { name: 'Neutral (BBC Business)', url: 'https://feeds.bbci.co.uk/news/business/rss.xml' }
     ]
@@ -189,10 +189,87 @@ async function fetchNews(category) {
     return aggregatedNews;
 }
 
-async function makeApiCall(prompt, retries = 3) {
+const PREFERRED_GROQ_MODELS = [
+    'llama-3.3-70b-versatile',
+    'openai/gpt-oss-120b',
+    'meta-llama/llama-4-maverick-17b-128e-instruct',
+    'meta-llama/llama-4-scout-17b-16e-instruct',
+    'qwen/qwen3-32b',
+    'openai/gpt-oss-20b',
+    'llama-3.1-8b-instant'
+];
+
+let cachedGroqModels = null;
+
+function isChatCapableGroqModel(modelId) {
+    if (typeof modelId !== 'string' || !modelId.trim()) return false;
+    return !/whisper|guard|orpheus|tts|playai|embed|prompt-guard|safeguard|allam|compound/i.test(modelId);
+}
+
+async function resolveActiveGroqModels() {
+    if (Array.isArray(cachedGroqModels) && cachedGroqModels.length > 0) {
+        return cachedGroqModels;
+    }
+
+    try {
+        const listResp = await groq.models.list();
+        const available = Array.isArray(listResp && listResp.data)
+            ? listResp.data.map(m => m && m.id).filter(isChatCapableGroqModel)
+            : [];
+
+        if (available.length > 0) {
+            const availableSet = new Set(available);
+            const ordered = [
+                ...PREFERRED_GROQ_MODELS.filter(id => availableSet.has(id)),
+                ...available.filter(id => !PREFERRED_GROQ_MODELS.includes(id))
+            ];
+            cachedGroqModels = ordered;
+            console.log(`Discovered ${ordered.length} active Groq chat models:`, ordered.join(', '));
+            return cachedGroqModels;
+        }
+    } catch (error) {
+        console.warn('Could not list Groq models, using preferred list:', error.message);
+    }
+
+    cachedGroqModels = [...PREFERRED_GROQ_MODELS];
+    return cachedGroqModels;
+}
+
+function cleanGroqOutput(rawText) {
+    return String(rawText || '')
+        .replace(/<think>[\s\S]*?<\/think>/gi, '')
+        .replace(/^```(?:json)?\s*/i, '')
+        .replace(/```\s*$/i, '')
+        .trim();
+}
+
+async function translateToSpanishFallback(text) {
+    const clean = String(text || '').replace(/\s+/g, ' ').trim();
+    if (!clean) return '';
+    try {
+        const res = await axios.get('https://translate.googleapis.com/translate_a/single', {
+            params: {
+                client: 'gtx',
+                sl: 'en',
+                tl: 'es',
+                dt: 't',
+                q: clean.slice(0, 500)
+            },
+            timeout: 6000
+        });
+        if (Array.isArray(res.data) && Array.isArray(res.data[0])) {
+            return res.data[0].map(part => (Array.isArray(part) ? part[0] : '')).join('').trim() || clean;
+        }
+    } catch (err) {
+        console.warn('Fallback translation error:', err.message);
+    }
+    return clean;
+}
+
+async function makeApiCall(prompt, retries = 2) {
     if (!API_KEY) throw new Error("GROQ_API_KEY is missing");
 
-    const models = ['llama-3.3-70b-versatile', 'llama-3.1-8b-instant'];
+    const models = await resolveActiveGroqModels();
     let lastError = null;
 
     for (const modelName of models) {
@@ -203,29 +280,55 @@ async function makeApiCall(prompt, retries = 3) {
                     messages: [{ role: 'user', content: prompt }],
                     model: modelName,
                 });
-                return response.choices[0].message.content;
+                const content = response && response.choices && response.choices[0] && response.choices[0].message
+                    ? response.choices[0].message.content
+                    : '';
+                const cleaned = cleanGroqOutput(content);
+                if (!cleaned) {
+                    throw new Error(`Empty response from ${modelName}`);
+                }
+                return cleaned;
             } catch (error) {
                 lastError = error;
-                const msg = error.message || "";
-                if (msg.includes('429') || msg.includes('503')) {
-                    if (attempt < retries) {
-                        await sleep(2500);
-                        continue;
-                    }
-                    console.warn(`Rate limit/unavailable on ${modelName}, falling back to next model if available...`);
-                    break;
+                const status = Number(error && (error.status || error.statusCode)) || 0;
+                const msg = String((error && error.message) || '');
+
+                if (status === 401 || msg.includes('401') || /invalid_api_key/i.test(msg)) {
+                    throw error;
                 }
-                throw error;
+
+                const isTransient = status === 429 || status === 500 || status === 502 || status === 503 ||
+                    /429|500|502|503|rate|timeout|econnreset|etimedout/i.test(msg);
+
+                if (isTransient && attempt < retries) {
+                    await sleep(2500);
+                    continue;
+                }
+
+                console.warn(`Model ${modelName} failed (${status || 'error'}: ${msg.slice(0, 140)}), trying next model...`);
+                break;
             }
         }
     }
     throw lastError || new Error("All Groq attempts failed.");
 }
 
-async function neutralizeNews(articles, language) {
+async function neutralizeNews(articles, language, category = 'GLOBAL_MACRO') {
     if (!articles || articles.length === 0) return [];
 
-    const context = articles.map((a, i) => `[ID: ${i}] Source: ${a.source}\nTitle: ${a.title}\nContent: ${a.content}`).join('\n---\n');
+    const isSpanish = language === 'Spanish' || String(language).toLowerCase().startsWith('es');
+    const context = articles
+        .slice(0, 15)
+        .map((a, i) => {
+            const snippet = String(a.content || '').replace(/\s+/g, ' ').trim().slice(0, 450);
+            return `[ID: ${i}] Source: ${a.source}\nTitle: ${a.title}\nContent: ${snippet}`;
+        })
+        .join('\n---\n');
+
+    const languageRule = isSpanish
+        ? 'CRITICAL LANGUAGE REQUIREMENT: Even though the source articles are in English, translate and write EVERY JSON value ("headline", "summary", "tags") 100% in natural, idiomatic Spanish. NEVER leave English headlines or sentences.'
+        : 'Write the headline, summary, and tags entirely in idiomatic, natural English.';
+
     const prompt = `You are a seasoned senior news editor (like Reuters or BBC Mundo) who writes for thoughtful human readers tired of sensationalism, clickbait, and robotic AI phrasing.
 I am giving you raw news articles from different outlets (left, right, neutral). Each article has an [ID: X].
 
@@ -233,14 +336,14 @@ Your task:
 1. Group articles covering the same event or topic together (up to 5 major stories).
 2. Write ONE clear, concrete, human-sounding headline per story. Tell the reader plainly WHAT happened and WHY it is news, without clickbait, alarmism, or stiff bureaucratic filler (NEVER write vague titles like "Desafíos en el ámbito de..." or "Influencia y acciones en...").
 3. Write a natural, fluid 2-sentence summary explaining the real-world stakes and human/practical context without repeating the headline.
-4. Write the headline, summary, and tags entirely in idiomatic, natural ${language}.
+4. ${languageRule}
 
 Return ONLY a raw JSON array (no markdown code blocks, no commentary):
 [
   {
     "id": "topic-1",
-    "headline": "Clear, concrete news headline",
-    "summary": "Two natural, engaging sentences explaining what happened and why it matters.",
+    "headline": "Clear, concrete news headline in ${language}",
+    "summary": "Two natural, engaging sentences in ${language} explaining what happened and why it matters.",
     "tags": ["#tag1", "#tag2"],
     "source_ids": [0, 2]
   }
@@ -251,39 +354,70 @@ Here are the articles:\n${context}`;
         let response = await makeApiCall(prompt);
         const match = response.match(/\[\s*\{[\s\S]*\}\s*\]/);
         if (match) response = match[0];
-        return JSON.parse(response);
+        const parsed = JSON.parse(response);
+        if (Array.isArray(parsed) && parsed.length > 0) {
+            return parsed;
+        }
+        throw new Error('Empty neutralized stories array');
     } catch (error) {
         console.error("Error neutralizing news:", error);
-        return articles.map((a, i) => {
+        const fallbackSubset = articles.slice(0, 8);
+        return Promise.all(fallbackSubset.map(async (a, i) => {
+            const rawTitle = String(a.title || (isSpanish ? 'Reporte informativo' : 'Raw news report')).trim();
+            const rawSnippet = String(a.content || '').replace(/\s+/g, ' ').trim().slice(0, 220);
+
+            const localizedTitle = isSpanish ? await translateToSpanishFallback(rawTitle) : rawTitle;
+            const localizedSnippet = rawSnippet
+                ? (isSpanish ? await translateToSpanishFallback(rawSnippet) : rawSnippet)
+                : (isSpanish ? 'Sin resumen disponible.' : 'No summary available.');
+
+            const unavailableLens = isSpanish
+                ? 'Análisis de enfoque temporalmente no disponible.'
+                : 'Perspective analysis temporarily unavailable.';
+            const fallbackReflection = isSpanish
+                ? 'Mostrando la síntesis traducida del reporte original mientras se restablece el análisis profundo con IA.'
+                : 'Showing the source report summary while AI perspective analysis recovers.';
+
             const fallbackDeepDive = {
-                imageUrl: a.imageUrl || "",
-                caption: a.title || "Raw news report",
-                biasLeft: "AI Analysis Unavailable (fallback mode).",
-                biasNeutral: a.content || "No summary available.",
-                biasRight: "AI Analysis Unavailable (fallback mode).",
-                reflection: "Displaying raw article because AI processing failed."
+                imageUrl: a.imageUrl || buildSmartNewsImageUrl(rawTitle),
+                caption: localizedTitle,
+                biasLeft: unavailableLens,
+                biasNeutral: localizedSnippet,
+                biasRight: unavailableLens,
+                reflection: fallbackReflection
             };
             return {
                 id: `raw-${i}`,
-                headline: `[${a.source}] ${a.title}`,
-                summary: a.content ? a.content.substring(0, 150) + "..." : "No summary available.",
+                headline: `[${a.source}] ${localizedTitle}`,
+                summary: localizedSnippet.length > 150 ? localizedSnippet.substring(0, 150) + "..." : localizedSnippet,
                 tags: [a.source.split(' ')[0]],
                 source_ids: [i],
                 deepDive: fallbackDeepDive,
-                deepDiveHtml: renderDeepDiveHtml(fallbackDeepDive, language, 'GLOBAL_MACRO')
+                deepDiveHtml: renderDeepDiveHtml(fallbackDeepDive, language, category)
             };
-        });
+        }));
     }
 }
 
 async function deepAnalyze(topicText, relevantArticles, language, category) {
-    const context = relevantArticles.map(a => `Source: ${a.source}\nTitle: ${a.title}\nContent: ${a.content}\nImage URL: ${a.imageUrl || ""}`).join('\n---\n');
+    const isSpanish = language === 'Spanish' || String(language).toLowerCase().startsWith('es');
+    const context = relevantArticles
+        .slice(0, 6)
+        .map(a => {
+            const snippet = String(a.content || '').replace(/\s+/g, ' ').trim().slice(0, 900);
+            return `Source: ${a.source}\nTitle: ${a.title}\nContent: ${snippet}\nImage URL: ${a.imageUrl || ""}`;
+        })
+        .join('\n---\n');
     const fallbackArticleImage = (relevantArticles.find(a => a && a.imageUrl && /^https:\/\//i.test(a.imageUrl)) || {}).imageUrl || "";
+
+    const languageRule = isSpanish
+        ? 'CRITICAL LANGUAGE REQUIREMENT: Translate and write "caption", "biasLeft", "biasNeutral", "biasRight", and "reflection" 100% in natural, idiomatic Spanish (only "imageSearchQuery" should stay in English keywords for photo search).'
+        : 'Write in natural, conversational, idiomatic English.';
 
     const prompt = `You are a sharp, candid media analyst writing for an intelligent human reader. A user selected this story: "${topicText}".
 Here are the source articles for this story:
 \n${context}\n
-Write in natural, conversational, idiomatic ${language}. Be specific, insightful, and grounded strictly in the articles provided above.
+${languageRule} Be specific, insightful, and grounded strictly in the articles provided above.
 STRICTLY AVOID robotic AI clichés such as: "in an increasingly interconnected world", "serves as a stark reminder", "is not just X, it's a symbol of Y", "en un mundo cada vez más interconectado", "es un recordatorio de la necesidad de", "no es solo X, sino un símbolo de", or "ofreciendo un enfoque imparcial y factual".
 If one political side did NOT cover this specific topic in the articles above, state that honestly in 1 short sentence instead of inventing details or mixing in a different news story.
 
@@ -329,7 +463,7 @@ Return ONLY a single raw JSON object (no markdown code blocks, no HTML tags) wit
             biasLeft: "",
             biasNeutral: "",
             biasRight: "",
-            reflection: language === 'Spanish'
+            reflection: isSpanish
                 ? "El análisis profundo falló temporalmente para este tema."
                 : "Deep Dive generation temporarily failed for this topic."
         };
@@ -369,7 +503,7 @@ async function main() {
             const rawArticles = rawByCategory[category] || [];
 
             // 1. Neutralize in specific language
-            const neutralItems = await neutralizeNews(rawArticles, lang.name);
+            const neutralItems = await neutralizeNews(rawArticles, lang.name, category);
 
             // 2. Deep Analyze each item in specific language using "Light Backpack"
             for (const item of neutralItems) {
