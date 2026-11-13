@@ -18,9 +18,17 @@ const parser = new Parser({
 
 function normalizeHttpImageUrl(rawUrl) {
     if (typeof rawUrl !== 'string') return '';
-    const trimmed = rawUrl.trim().replace(/&amp;/g, '&');
+    let trimmed = rawUrl.trim().replace(/&amp;/g, '&');
     if (!/^https?:\/\//i.test(trimmed)) return '';
-    return trimmed.replace(/^http:\/\//i, 'https://');
+    trimmed = trimmed.replace(/^http:\/\//i, 'https://');
+    if (/ichef\.bbci\.co\.uk/i.test(trimmed)) {
+        trimmed = trimmed.replace(/\/(standard|news)\/\d+\//i, '/$1/1024/');
+    }
+    if (/static01\.nyt\.com/i.test(trimmed)) {
+        trimmed = trimmed.replace(/-(?:moth|thumbStandard|thumbLarge|mediumThreeByTwo210|mediumThreeByTwo440|articleInline)(-v\d+)?\.(jpg|jpeg|png|webp)/i, '-superJumbo$1.$2');
+    }
+    trimmed = trimmed.replace(/([?&](?:w|width)=)(?:1\d\d|2\d\d|3\d\d|4\d\d)\b/i, '$11200');
+    return trimmed;
 }
 
 function pickMediaUrl(entry) {
@@ -36,22 +44,6 @@ function pickMediaUrl(entry) {
 }
 
 async function extractArticleImage(item) {
-    const directCandidates = [
-        pickMediaUrl(item.mediaContent),
-        pickMediaUrl(item.mediaThumbnail),
-        pickMediaUrl(item.enclosure)
-    ];
-    for (const candidate of directCandidates) {
-        if (candidate) return candidate;
-    }
-
-    const htmlBody = item.contentEncoded || item.content || '';
-    if (typeof htmlBody === 'string' && htmlBody) {
-        const imgMatch = htmlBody.match(/<img[^>]+src=["']([^"']+)["']/i);
-        const inlineImg = imgMatch ? normalizeHttpImageUrl(imgMatch[1]) : '';
-        if (inlineImg) return inlineImg;
-    }
-
     if (typeof item.link === 'string' && /^https?:\/\//i.test(item.link.trim())) {
         try {
             const response = await axios.get(item.link.trim(), {
@@ -73,8 +65,24 @@ async function extractArticleImage(item) {
                 }
             }
         } catch (_) {
-            return '';
+            // Fall through to RSS media fields if article scraping fails
         }
+    }
+
+    const directCandidates = [
+        pickMediaUrl(item.mediaContent),
+        pickMediaUrl(item.mediaThumbnail),
+        pickMediaUrl(item.enclosure)
+    ];
+    for (const candidate of directCandidates) {
+        if (candidate) return candidate;
+    }
+
+    const htmlBody = item.contentEncoded || item.content || '';
+    if (typeof htmlBody === 'string' && htmlBody) {
+        const imgMatch = htmlBody.match(/<img[^>]+src=["']([^"']+)["']/i);
+        const inlineImg = imgMatch ? normalizeHttpImageUrl(imgMatch[1]) : '';
+        if (inlineImg) return inlineImg;
     }
 
     return '';
@@ -82,7 +90,7 @@ async function extractArticleImage(item) {
 
 function buildSmartNewsImageUrl(query) {
     const clean = String(query || '').trim().replace(/\s+/g, ' ').slice(0, 120);
-    return `https://tse2.mm.bing.net/th?q=${encodeURIComponent((clean ? clean + ' ' : '') + 'news photo')}&w=1000&h=560&c=7&rs=1&p=0`;
+    return `https://tse2.mm.bing.net/th?q=${encodeURIComponent((clean ? clean + ' ' : '') + 'news photo')}&w=1280&h=720&rs=1&pid=ImgDetMain`;
 }
 const API_KEY = process.env.GROQ_API_KEY;
 
