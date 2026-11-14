@@ -1,62 +1,134 @@
 {
-  "last_updated": "2026-11-14T00:40:48.458Z",
+  "last_updated": "2026-11-14T08:39:05.036Z",
   "language": "en",
   "categories": {
     "GLOBAL_MACRO": {
       "items": [
         {
           "id": "topic-1",
-          "headline": "Microsoft outage disrupts Outlook, Teams and Copilot for nearly a day",
-          "summary": "The cloud‑service failure left millions unable to access email, collaboration tools and AI features, prompting a public apology and highlighting dependence on a handful of tech providers.",
+          "headline": "A series of transport incidents – US air‑traffic ground stop, Mississippi cruise collision, and Haiti air raid – raise safety concerns",
+          "summary": "The Federal Aviation Administration halted flights nationwide after old equipment overloaded, a Mississippi river cruise ship collided with a barge but rescued all passengers, and El Salvador‑backed helicopters attacked a gang compound in Haiti. Together they underscore the need for tighter oversight and emergency preparedness across air, sea and land travel.",
           "tags": [
-            "#Microsoft",
-            "#Outage",
-            "#CloudComputing"
+            "#aviation",
+            "#maritime",
+            "#safety"
           ],
           "source_ids": [
+            0,
             4,
-            5,
-            7
+            11
           ],
           "sources": [
             {
               "source": "Neutral (BBC)",
-              "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+              "title": "What we know about the longest ground stop since 9/11",
+              "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "Neutral (BBC)",
+              "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+              "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "Right (Fox)",
+              "title": "El Salvador-backed air assault destroys Haiti gang headquarters amid search for missing troops",
+              "url": "https://www.foxnews.com/world/el-salvador-air-assault-destroys-haiti-gang-headquarters-search-missing-troops"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg",
+            "imageSearchQuery": "air traffic ground stop equipment overload",
+            "caption": "Air traffic controllers watch as a massive ground halt freezes the nation’s skies, echoing a similar scramble on the Mississippi River and over Haiti.",
+            "biasLeft": "None of the supplied articles come from progressive or left‑leaning outlets, so a left‑leaning perspective is absent.",
+            "biasNeutral": "The BBC pieces stick to the facts: the U.S. ground stop was traced to aging radar equipment that overloaded, the Mississippi collision left 32 people in hospital but no fatalities, and the rescue operation was completed without missing persons. They note the absence of a cyber‑attack claim and frame the events as technical failures and fortunate outcomes.",
+            "biasRight": "Fox News frames the Haiti raid as a decisive security victory, emphasizing Salvadoran‑backed helicopters crushing a gang stronghold and President Bukele’s leadership. The tone leans toward praising the operation’s effectiveness and the geopolitical partnership.",
+            "reflection": "For commuters, the ground stop shows how aging infrastructure can instantly cripple travel, prompting airlines to review equipment upgrades. In the coming days watch for FAA statements on remediation and any diplomatic fallout from the Haiti strike, which could affect regional security dynamics."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg\" alt=\"Air traffic controllers watch as a massive ground halt freezes the nation’s skies, echoing a similar scramble on the Mississippi River and over Haiti.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Air traffic controllers watch as a massive ground halt freezes the nation’s skies, echoing a similar scramble on the Mississippi River and over Haiti.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">None of the supplied articles come from progressive or left‑leaning outlets, so a left‑leaning perspective is absent.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC pieces stick to the facts: the U.S. ground stop was traced to aging radar equipment that overloaded, the Mississippi collision left 32 people in hospital but no fatalities, and the rescue operation was completed without missing persons. They note the absence of a cyber‑attack claim and frame the events as technical failures and fortunate outcomes.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Fox News frames the Haiti raid as a decisive security victory, emphasizing Salvadoran‑backed helicopters crushing a gang stronghold and President Bukele’s leadership. The tone leans toward praising the operation’s effectiveness and the geopolitical partnership.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For commuters, the ground stop shows how aging infrastructure can instantly cripple travel, prompting airlines to review equipment upgrades. In the coming days watch for FAA statements on remediation and any diplomatic fallout from the Haiti strike, which could affect regional security dynamics.</p>"
+        },
+        {
+          "id": "topic-2",
+          "headline": "Microsoft restores global services after outage; SpaceX aborts Starship booster‑catch test",
+          "summary": "Microsoft said its Outlook, Teams and Copilot platforms are back online following a day‑long worldwide outage that affected millions of users. At the same time, SpaceX halted an attempted ocean recovery of a Starship booster, sending the stage into the water and highlighting the technical hurdles of next‑generation spaceflight.",
+          "tags": [
+            "#technology",
+            "#outage",
+            "#space"
+          ],
+          "source_ids": [
+            1,
+            3
+          ],
+          "sources": [
+            {
+              "source": "Neutral (BBC)",
+              "title": "Microsoft says services fully restored after day-long global outage",
               "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
             },
             {
               "source": "Neutral (BBC)",
-              "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-              "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "Neutral (BBC)",
-              "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
-              "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss"
+              "title": "Setback for SpaceX Starship rocket's double-catch test",
+              "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
             }
           ],
           "deepDive": {
             "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg",
-            "imageSearchQuery": "Microsoft global outage Outlook Teams Copilot 2024",
-            "caption": "Microsoft's global outage leaves Outlook, Teams and Copilot offline for nearly a day.",
-            "biasLeft": "No progressive/left‑leaning coverage appears in the supplied articles.",
-            "biasNeutral": "The neutral BBC pieces focus on the factual timeline: Microsoft’s apology, the roughly 24‑hour downtime, and the ongoing restoration of Outlook, Teams and Copilot. They also quote experts warning that the incident highlights how much society depends on a handful of big‑tech services.",
-            "biasRight": "No conservative/right‑leaning coverage appears in the supplied articles.",
-            "reflection": "For most people the outage meant missed emails, stalled meetings and interrupted workflow, underscoring how essential these tools have become. Watch the next few days for any updates on service reliability and whether Microsoft adjusts its redundancy or communication practices."
+            "imageSearchQuery": "Microsoft global outage Outlook Teams Copilot restoration",
+            "caption": "Microsoft engineers bring Outlook, Teams and Copilot back online after a worldwide service blackout.",
+            "biasLeft": "The supplied articles do not include coverage from progressive outlets, so no direct left‑leaning framing is present. If covered, progressive media would likely stress how dependence on a single corporate platform exposes users to systemic risk and question the concentration of power in big‑tech firms.",
+            "biasNeutral": "Both BBC pieces stick to the basics: Microsoft confirmed full restoration of its cloud‑based services after a day‑long outage, and SpaceX reported an aborted booster‑catch that sent the stage into the ocean. They quote the companies’ statements and avoid editorializing, leaving readers with the core facts and the companies’ next steps. No speculative analysis or partisan language is introduced.",
+            "biasRight": "The supplied articles do not contain coverage from conservative outlets, so no right‑leaning angle can be extracted. In a typical right‑leaning take, the Microsoft outage might be framed as a reminder of the economic cost of over‑reliance on cloud services, while the SpaceX miss could be portrayed as a technical hurdle that underscores the challenges of ambitious private‑sector space programs.",
+            "reflection": "For most people, the Microsoft outage mattered because millions depend on Outlook and Teams for work and communication, so any disruption ripples into daily productivity. The Starship test slip signals that SpaceX’s timeline for orbital flights may shift, affecting investors and the emerging commercial launch market. Watch for Microsoft’s technical post‑mortem and SpaceX’s announced date for the next catch test to gauge how quickly each issue is being resolved."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg\" alt=\"Microsoft&#39;s global outage leaves Outlook, Teams and Copilot offline for nearly a day.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Microsoft&#39;s global outage leaves Outlook, Teams and Copilot offline for nearly a day.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">No progressive/left‑leaning coverage appears in the supplied articles.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The neutral BBC pieces focus on the factual timeline: Microsoft’s apology, the roughly 24‑hour downtime, and the ongoing restoration of Outlook, Teams and Copilot. They also quote experts warning that the incident highlights how much society depends on a handful of big‑tech services.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No conservative/right‑leaning coverage appears in the supplied articles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For most people the outage meant missed emails, stalled meetings and interrupted workflow, underscoring how essential these tools have become. Watch the next few days for any updates on service reliability and whether Microsoft adjusts its redundancy or communication practices.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg\" alt=\"Microsoft engineers bring Outlook, Teams and Copilot back online after a worldwide service blackout.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Microsoft engineers bring Outlook, Teams and Copilot back online after a worldwide service blackout.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The supplied articles do not include coverage from progressive outlets, so no direct left‑leaning framing is present. If covered, progressive media would likely stress how dependence on a single corporate platform exposes users to systemic risk and question the concentration of power in big‑tech firms.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">Both BBC pieces stick to the basics: Microsoft confirmed full restoration of its cloud‑based services after a day‑long outage, and SpaceX reported an aborted booster‑catch that sent the stage into the ocean. They quote the companies’ statements and avoid editorializing, leaving readers with the core facts and the companies’ next steps. No speculative analysis or partisan language is introduced.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">The supplied articles do not contain coverage from conservative outlets, so no right‑leaning angle can be extracted. In a typical right‑leaning take, the Microsoft outage might be framed as a reminder of the economic cost of over‑reliance on cloud services, while the SpaceX miss could be portrayed as a technical hurdle that underscores the challenges of ambitious private‑sector space programs.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For most people, the Microsoft outage mattered because millions depend on Outlook and Teams for work and communication, so any disruption ripples into daily productivity. The Starship test slip signals that SpaceX’s timeline for orbital flights may shift, affecting investors and the emerging commercial launch market. Watch for Microsoft’s technical post‑mortem and SpaceX’s announced date for the next catch test to gauge how quickly each issue is being resolved.</p>"
         },
         {
-          "id": "topic-2",
-          "headline": "Israeli defense chief Eisenkot accuses Netanyahu of stoking anti‑Arab rhetoric",
-          "summary": "Gadi Eisenkot’s criticism of the prime minister’s speech has intensified debate over Israel’s treatment of its Arab minority and raised questions about the country’s diplomatic ties with the United States.",
+          "id": "topic-3",
+          "headline": "Trump, Putin and Xi to meet in China as Europe prepares delegation for Ukraine negotiations",
+          "summary": "The White House confirmed that President Trump will join Presidents Putin and Xi in Beijing next week to discuss nuclear‑arms reduction, an unprecedented three‑way summit. Meanwhile, European foreign ministers have agreed on a six‑member team to represent the continent in upcoming talks with Russia over the Ukraine war, signaling heightened diplomatic activity on security matters.",
           "tags": [
-            "#Israel",
-            "#Politics",
-            "#Eisenkot"
+            "#diplomacy",
+            "#nuclear",
+            "#Ukraine"
           ],
           "source_ids": [
-            3,
+            2,
+            5
+          ],
+          "sources": [
+            {
+              "source": "Neutral (BBC)",
+              "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+              "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "Left (NYT)",
+              "title": "Europe Agrees on a Team to Represent It in Talks With Russia",
+              "url": "https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg",
+            "imageSearchQuery": "Trump Putin Xi Beijing summit nuclear reduction Europe Ukraine delegation",
+            "caption": "Trump, Putin and Xi convene in Beijing for a historic summit on nuclear arms reduction while Europe lines up a six‑member team for Ukraine talks.",
+            "biasLeft": "The New York Times piece spotlights Europe's push to secure a seat at the Ukraine negotiating table, framing the six‑member delegation as a collective, democratic voice for the continent. It underscores the moral weight of European unity and the need for a balanced, multilateral approach to the war. The tone leans toward optimism about diplomatic inclusion and the continent’s role in shaping a peaceful resolution.",
+            "biasNeutral": "The BBC report sticks to the facts: a joint meeting of Trump, Putin and Xi in China next week, with the White House saying the agenda will include nuclear weapons reduction. It provides the basic who‑what‑when‑where without editorializing, noting the historic nature of the summit but leaving analysis for later.",
+            "biasRight": "No right‑leaning outlet coverage of this specific topic is present in the supplied articles.",
+            "reflection": "For everyday readers, the summit could reshape nuclear risk calculations and impact global security, while Europe's new delegation signals a more active role in shaping the Ukraine peace process. Watch for any concrete agreements from the Beijing talks and the European team's statements in the coming days to gauge shifts in diplomatic momentum."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg\" alt=\"Trump, Putin and Xi convene in Beijing for a historic summit on nuclear arms reduction while Europe lines up a six‑member team for Ukraine talks.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Trump, Putin and Xi convene in Beijing for a historic summit on nuclear arms reduction while Europe lines up a six‑member team for Ukraine talks.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The New York Times piece spotlights Europe&#39;s push to secure a seat at the Ukraine negotiating table, framing the six‑member delegation as a collective, democratic voice for the continent. It underscores the moral weight of European unity and the need for a balanced, multilateral approach to the war. The tone leans toward optimism about diplomatic inclusion and the continent’s role in shaping a peaceful resolution.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC report sticks to the facts: a joint meeting of Trump, Putin and Xi in China next week, with the White House saying the agenda will include nuclear weapons reduction. It provides the basic who‑what‑when‑where without editorializing, noting the historic nature of the summit but leaving analysis for later.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No right‑leaning outlet coverage of this specific topic is present in the supplied articles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday readers, the summit could reshape nuclear risk calculations and impact global security, while Europe&#39;s new delegation signals a more active role in shaping the Ukraine peace process. Watch for any concrete agreements from the Beijing talks and the European team&#39;s statements in the coming days to gauge shifts in diplomatic momentum.</p>"
+        },
+        {
+          "id": "topic-4",
+          "headline": "Israeli defence chief Eisenkot rebukes Netanyahu and outlines a plan to mend US‑Israel ties",
+          "summary": "Gadi Eisenkot sharply criticized Prime Minister Benjamin Netanyahu’s recent speech targeting Arab lawmakers, accusing him of stoking racist hostility. Eisenkot, who hopes to become prime minister, has outlined a risky set of steps that former ambassadors say could repair the strained relationship between Israel and the United States.",
+          "tags": [
+            "#Israel",
+            "#politics",
+            "#USrelations"
+          ],
+          "source_ids": [
+            6,
             9
           ],
           "sources": [
@@ -73,104 +145,71 @@
           ],
           "deepDive": {
             "imageUrl": "https://static01.nyt.com/images/2026/11/13/multimedia/13-eisenkot-arab-citizens-gjqv/13-eisenkot-arab-citizens-gjqv-videoSixteenByNineJumbo1600-v2.jpg",
-            "imageSearchQuery": "Gadi Eisenkot Netanyahu anti-Arab speech Israel Knesset 2026",
-            "caption": "Defense chief Gadi Eisenkot condemns Prime Minister Benjamin Netanyahu’s recent remarks as stoking racist hostility toward Arab citizens.",
-            "biasLeft": "Left‑leaning coverage frames Netanyahu’s speech as a deliberately divisive, racist attack on Arab Israelis, emphasizing the systemic marginalization of Arab citizens. It highlights Eisenkot’s rebuke as a moral stand against rising xenophobia and calls for accountability within Israel’s leadership. The language underscores the human‑rights dimension and the danger of normalizing hate.",
-            "biasNeutral": "Neutral/center outlets are not represented in the supplied articles, so no balanced factual framing can be extracted here.",
-            "biasRight": "Conservative outlets are not represented in the supplied articles, so no security‑or economic‑focused narrative is available.",
-            "reflection": "The clash matters because it signals potential shifts in Israel’s internal politics and could affect how Arab citizens are treated and how the U.S. views its ally’s governance. Watch for Eisenkot’s next moves—whether he leverages this criticism into policy proposals or a leadership bid—in the coming days."
+            "imageSearchQuery": "Gadi Eisenkot Netanyahu Arab lawmakers speech controversy",
+            "caption": "Defence chief Gadi Eisenkot condemns Netanyahu’s remarks as stoking anti‑Arab hatred.",
+            "biasLeft": "Left‑leaning coverage frames Eisenkot’s rebuke as a moral stand against rising racism, highlighting Netanyahu’s “divisive” speech and the broader pattern of hostility toward Arab citizens. It stresses the human‑rights dimension, portraying the clash as a test of Israel’s democratic values. The language leans on terms like \"fueling racist hostility\" to underline systemic prejudice.",
+            "biasNeutral": "No neutral or wire‑service article on this specific rebuke was provided in the source set.",
+            "biasRight": "No conservative‑leaning article on this specific rebuke was provided in the source set.",
+            "reflection": "The fallout matters because it could reshape Israel’s foreign aid and security coordination with the United States, especially if Eisenkot seeks a political role. Watch for any official statements from Washington or moves in the Israeli coalition that signal a shift toward repairing the partnership in the coming days."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/13/multimedia/13-eisenkot-arab-citizens-gjqv/13-eisenkot-arab-citizens-gjqv-videoSixteenByNineJumbo1600-v2.jpg\" alt=\"Defense chief Gadi Eisenkot condemns Prime Minister Benjamin Netanyahu’s recent remarks as stoking racist hostility toward Arab citizens.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Defense chief Gadi Eisenkot condemns Prime Minister Benjamin Netanyahu’s recent remarks as stoking racist hostility toward Arab citizens.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left‑leaning coverage frames Netanyahu’s speech as a deliberately divisive, racist attack on Arab Israelis, emphasizing the systemic marginalization of Arab citizens. It highlights Eisenkot’s rebuke as a moral stand against rising xenophobia and calls for accountability within Israel’s leadership. The language underscores the human‑rights dimension and the danger of normalizing hate.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">Neutral/center outlets are not represented in the supplied articles, so no balanced factual framing can be extracted here.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Conservative outlets are not represented in the supplied articles, so no security‑or economic‑focused narrative is available.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>The clash matters because it signals potential shifts in Israel’s internal politics and could affect how Arab citizens are treated and how the U.S. views its ally’s governance. Watch for Eisenkot’s next moves—whether he leverages this criticism into policy proposals or a leadership bid—in the coming days.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/13/multimedia/13-eisenkot-arab-citizens-gjqv/13-eisenkot-arab-citizens-gjqv-videoSixteenByNineJumbo1600-v2.jpg\" alt=\"Defence chief Gadi Eisenkot condemns Netanyahu’s remarks as stoking anti‑Arab hatred.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Defence chief Gadi Eisenkot condemns Netanyahu’s remarks as stoking anti‑Arab hatred.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left‑leaning coverage frames Eisenkot’s rebuke as a moral stand against rising racism, highlighting Netanyahu’s “divisive” speech and the broader pattern of hostility toward Arab citizens. It stresses the human‑rights dimension, portraying the clash as a test of Israel’s democratic values. The language leans on terms like &quot;fueling racist hostility&quot; to underline systemic prejudice.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">No neutral or wire‑service article on this specific rebuke was provided in the source set.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No conservative‑leaning article on this specific rebuke was provided in the source set.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>The fallout matters because it could reshape Israel’s foreign aid and security coordination with the United States, especially if Eisenkot seeks a political role. Watch for any official statements from Washington or moves in the Israeli coalition that signal a shift toward repairing the partnership in the coming days.</p>"
         },
         {
-          "id": "topic-3",
-          "headline": "SpaceX aborts Starship booster catch, booster lands in ocean",
-          "summary": "During a high‑profile test, the company’s ground‑based net failed to snag the returning booster, underscoring the technical challenges that still face the next‑generation launch system.",
+          "id": "topic-5",
+          "headline": "Ebola surge in Congo, Iran spy convictions, Hormuz strike claim, Spanish strike violence and Canadian bear attack illustrate global security challenges",
+          "summary": "Health workers are battling a fast‑spreading Ebola outbreak in a rebel‑plagued region of the Democratic Republic of Congo, while Europe prosecutes two Iranian spies and Iran claims to have struck navigation equipment on Oman's Didamar Island. In Spain, the first general strike in 14 years erupted into clashes and arson, and Canadian authorities linked a fatal bear attack to four grizzlies, highlighting a worldwide mix of health, geopolitical and public‑safety pressures.",
           "tags": [
-            "#SpaceX",
-            "#Starship",
-            "#SpaceLaunch"
+            "#health",
+            "#security",
+            "#Ebola",
+            "#Iran",
+            "#Spain",
+            "#Canada"
           ],
           "source_ids": [
-            0
-          ],
-          "sources": [
-            {
-              "source": "Neutral (BBC)",
-              "title": "Setback for SpaceX Starship rocket's double-catch test",
-              "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1b1a/live/3f2ee680-dfbc-11f1-9e98-11d1980367a2.jpg",
-            "imageSearchQuery": "SpaceX Starship booster ocean landing abort catch test",
-            "caption": "SpaceX’s Starship booster splashes into the Atlantic after the company aborts a planned catch during a double‑catch trial.",
-            "biasLeft": "No progressive or left‑leaning outlets are represented in the supplied material.",
-            "biasNeutral": "The BBC sticks to the basics: it reports that the booster was deliberately let go into the ocean after the catch‑ship aborted, notes the test was part of a “double‑catch” program, and refrains from speculation about longer‑term implications.",
-            "biasRight": "No conservative or right‑leaning outlets are represented in the supplied material.",
-            "reflection": "The abort pushes back SpaceX’s schedule for a fully reusable Starship, which could delay commercial launch contracts and the company’s Mars timeline. In the coming days, watch for SpaceX’s official briefing and any revised test dates that signal whether the setback is a hiccup or a deeper engineering issue."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1b1a/live/3f2ee680-dfbc-11f1-9e98-11d1980367a2.jpg\" alt=\"SpaceX’s Starship booster splashes into the Atlantic after the company aborts a planned catch during a double‑catch trial.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">SpaceX’s Starship booster splashes into the Atlantic after the company aborts a planned catch during a double‑catch trial.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">No progressive or left‑leaning outlets are represented in the supplied material.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC sticks to the basics: it reports that the booster was deliberately let go into the ocean after the catch‑ship aborted, notes the test was part of a “double‑catch” program, and refrains from speculation about longer‑term implications.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No conservative or right‑leaning outlets are represented in the supplied material.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>The abort pushes back SpaceX’s schedule for a fully reusable Starship, which could delay commercial launch contracts and the company’s Mars timeline. In the coming days, watch for SpaceX’s official briefing and any revised test dates that signal whether the setback is a hiccup or a deeper engineering issue.</p>"
-        },
-        {
-          "id": "topic-4",
-          "headline": "EU selects six‑person delegation to join Ukraine war negotiations",
-          "summary": "European leaders agreed on a small team to represent the bloc in forthcoming diplomatic talks with Russia, aiming to coordinate a unified stance amid the ongoing conflict.",
-          "tags": [
-            "#EU",
-            "#UkraineWar",
-            "#Diplomacy"
-          ],
-          "source_ids": [
-            2
+            7,
+            10,
+            12,
+            13,
+            14
           ],
           "sources": [
             {
               "source": "Left (NYT)",
-              "title": "Europe Agrees on a Team to Represent It in Talks With Russia",
-              "url": "https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://static01.nyt.com/images/2026/11/13/multimedia/13int-europe-ukraine-01-jlht/13int-europe-ukraine-01-jlht-videoSixteenByNine3000.jpg",
-            "imageSearchQuery": "EU delegation six-member team Ukraine war negotiations",
-            "caption": "EU officials assemble a six‑person team to take Europe’s seat at the Ukraine‑Russia peace talks.",
-            "biasLeft": "The left‑leaning coverage frames the move as Europe finally stepping up to a moral responsibility, emphasizing solidarity with Kyiv and the need for a unified European voice in the peace process. It highlights the team as a tool for multilateralism and for pressuring Russia on human‑rights and democratic standards. The language stresses collective action over national self‑interest.",
-            "biasNeutral": "Neutral outlets did not cover this specific topic in the provided articles.",
-            "biasRight": "Conservative/right‑leaning outlets did not cover this specific topic in the provided articles.",
-            "reflection": "For ordinary Europeans, the composition of the EU delegation could shape the trajectory of the war, influencing everything from security guarantees to energy prices. In the coming days, watch for the official roster and any public statements from the EU foreign policy chief, as they will signal how aggressively Brussels intends to steer the negotiations."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/13/multimedia/13int-europe-ukraine-01-jlht/13int-europe-ukraine-01-jlht-videoSixteenByNine3000.jpg\" alt=\"EU officials assemble a six‑person team to take Europe’s seat at the Ukraine‑Russia peace talks.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">EU officials assemble a six‑person team to take Europe’s seat at the Ukraine‑Russia peace talks.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The left‑leaning coverage frames the move as Europe finally stepping up to a moral responsibility, emphasizing solidarity with Kyiv and the need for a unified European voice in the peace process. It highlights the team as a tool for multilateralism and for pressuring Russia on human‑rights and democratic standards. The language stresses collective action over national self‑interest.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">Neutral outlets did not cover this specific topic in the provided articles.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Conservative/right‑leaning outlets did not cover this specific topic in the provided articles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For ordinary Europeans, the composition of the EU delegation could shape the trajectory of the war, influencing everything from security guarantees to energy prices. In the coming days, watch for the official roster and any public statements from the EU foreign policy chief, as they will signal how aggressively Brussels intends to steer the negotiations.</p>"
-        },
-        {
-          "id": "topic-5",
-          "headline": "All passengers rescued after cruise ship collides with tanker on Mississippi River",
-          "summary": "The accident left 32 people in hospital with minor injuries but no missing persons, prompting investigations into river traffic safety near New Orleans.",
-          "tags": [
-            "#MaritimeAccident",
-            "#NewOrleans",
-            "#CruiseShip"
-          ],
-          "source_ids": [
-            1
-          ],
-          "sources": [
+              "title": "Caught Between Killers: Ebola on One Side, Islamic State on the Other",
+              "url": "https://www.nytimes.com/2026/11/13/world/africa/ebola-congo-isis.html"
+            },
             {
-              "source": "Neutral (BBC)",
-              "title": "'Miracle on Mississippi' - All rescued after cruise ship hit by tanker in New Orleans",
-              "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss"
+              "source": "Right (Fox)",
+              "title": "Iran's shadow operations stretch across Europe as chilling spy convictions expose Tehran's reach",
+              "url": "https://www.foxnews.com/world/irans-shadow-operations-stretch-across-europe-chilling-spy-convictions-expose-tehrans-reach"
+            },
+            {
+              "source": "Right (Fox)",
+              "title": "Iran escalates in Hormuz, claims strike on Omani island it says 'enemy' uses for US military ops",
+              "url": "https://www.foxnews.com/world/iran-escalates-hormuz-claims-strike-omani-island-enemy-uses-us-military-ops"
+            },
+            {
+              "source": "Right (Fox)",
+              "title": "Fiery chaos erupts across Spain as protesters clash with police during massive nationwide strike",
+              "url": "https://www.foxnews.com/world/fiery-chaos-erupts-spain-protesters-clash-police-massive-nationwide-strike"
+            },
+            {
+              "source": "Right (Fox)",
+              "title": "DNA links 4 grizzly bears to deadly attack on mother and daughter in Canada, officials say",
+              "url": "https://www.foxnews.com/world/dna-links-4-grizzly-bears-deadly-attack-mother-daughter-canada-officials-say"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg",
-            "imageSearchQuery": "cruise ship tanker collision Mississippi River New Orleans rescue",
-            "caption": "All aboard rescued after a cruise ship slammed into a tanker on the Mississippi River near New Orleans.",
-            "biasLeft": "Left-leaning outlets did not cover this story in the provided sources.",
-            "biasNeutral": "The BBC sticks to the basics: a collision left 32 people in hospital with non‑critical injuries, all passengers rescued and no one missing. It notes the location, the vessels involved, and the immediate aftermath without speculation.",
-            "biasRight": "Right‑leaning outlets did not cover this story in the provided sources.",
-            "reflection": "The incident highlights the vulnerability of busy inland waterways and may prompt tighter safety checks for commercial vessels. Keep an eye on upcoming investigations or regulatory responses that could affect river traffic and local economies."
+            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/iran-military-rally-001.jpg",
+            "imageSearchQuery": "Iran spy convictions Britain 2026 court hearing",
+            "caption": "Two Iranian men stand trial in a London courtroom as prosecutors allege they worked for Tehran’s intelligence service.",
+            "biasLeft": "The New York Times frames the Congo Ebola crisis as a humanitarian disaster exacerbated by rebel violence and chronic neglect of health infrastructure. It stresses the human toll on already vulnerable communities and calls for a stronger, coordinated international response.",
+            "biasNeutral": "No centrist or wire‑service article was provided for these topics, so a neutral framing is absent from the source set.",
+            "biasRight": "Fox News spotlights the security dimension, portraying Iran’s spy network and alleged Hormuz strike as evidence of Tehran’s aggressive, covert operations abroad. It also emphasizes law‑and‑order concerns in Spain’s strike‑related riots and the danger posed by grizzly bears in Canada, linking each incident to public safety and national sovereignty.",
+            "reflection": "These stories matter because they each ripple into everyday life: a new Ebola hotspot threatens global health, Iranian espionage raises questions about foreign influence in Western democracies, and the unrest in Spain signals potential labor‑policy volatility. Watch for official health updates from the WHO, court outcomes in the UK spy case, and any diplomatic responses to Iran’s Hormuz claim in the coming days."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg\" alt=\"All aboard rescued after a cruise ship slammed into a tanker on the Mississippi River near New Orleans.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">All aboard rescued after a cruise ship slammed into a tanker on the Mississippi River near New Orleans.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left-leaning outlets did not cover this story in the provided sources.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC sticks to the basics: a collision left 32 people in hospital with non‑critical injuries, all passengers rescued and no one missing. It notes the location, the vessels involved, and the immediate aftermath without speculation.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Right‑leaning outlets did not cover this story in the provided sources.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>The incident highlights the vulnerability of busy inland waterways and may prompt tighter safety checks for commercial vessels. Keep an eye on upcoming investigations or regulatory responses that could affect river traffic and local economies.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/01/iran-military-rally-001.jpg\" alt=\"Two Iranian men stand trial in a London courtroom as prosecutors allege they worked for Tehran’s intelligence service.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Two Iranian men stand trial in a London courtroom as prosecutors allege they worked for Tehran’s intelligence service.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The New York Times frames the Congo Ebola crisis as a humanitarian disaster exacerbated by rebel violence and chronic neglect of health infrastructure. It stresses the human toll on already vulnerable communities and calls for a stronger, coordinated international response.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">No centrist or wire‑service article was provided for these topics, so a neutral framing is absent from the source set.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Fox News spotlights the security dimension, portraying Iran’s spy network and alleged Hormuz strike as evidence of Tehran’s aggressive, covert operations abroad. It also emphasizes law‑and‑order concerns in Spain’s strike‑related riots and the danger posed by grizzly bears in Canada, linking each incident to public safety and national sovereignty.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>These stories matter because they each ripple into everyday life: a new Ebola hotspot threatens global health, Iranian espionage raises questions about foreign influence in Western democracies, and the unrest in Spain signals potential labor‑policy volatility. Watch for official health updates from the WHO, court outcomes in the UK spy case, and any diplomatic responses to Iran’s Hormuz claim in the coming days.</p>"
         }
       ],
       "rawCount": 15
@@ -179,19 +218,25 @@
       "items": [
         {
           "id": "topic-1",
-          "headline": "Microsoft restores global Outlook, Teams and other services after a 24‑hour outage",
-          "summary": "A technical failure knocked out the company's email, messaging and productivity tools for nearly a day, affecting businesses and consumers worldwide. The firm apologized and detailed steps to prevent similar disruptions.",
+          "headline": "Microsoft restores Outlook, Teams and Copilot after a global outage that lasted a day",
+          "summary": "The company confirmed that services were fully back online following a technical failure that disrupted email, messaging and AI tools for millions of users worldwide. The incident highlights the dependence of businesses on cloud platforms and the pressure on Microsoft to prevent similar interruptions.",
           "tags": [
             "#Microsoft",
-            "#Outage",
-            "#CloudServices"
+            "#outage",
+            "#cloud",
+            "#productivity"
           ],
           "source_ids": [
-            3,
+            0,
             4,
             5
           ],
           "sources": [
+            {
+              "source": "Neutral (BBC Tech)",
+              "title": "Microsoft says services fully restored after day-long global outage",
+              "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+            },
             {
               "source": "Left (NYT Tech)",
               "title": "Microsoft’s Global Outage and Fixes: What We Know",
@@ -201,36 +246,32 @@
               "source": "Neutral (BBC Tech)",
               "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
               "url": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "Neutral (BBC Tech)",
-              "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-              "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://static01.nyt.com/images/2026/11/13/multimedia/13xp-microsoftWWK-1-lfcv/13xp-microsoftWWK-1-lfcv-videoSixteenByNine3000.jpg",
-            "imageSearchQuery": "Microsoft Outlook Teams global outage 24-hour November 2026",
-            "caption": "Microsoft engineers restore Outlook, Teams and other services after a full‑day blackout.",
-            "biasLeft": "The NYT frames the incident as a systemic hiccup, stressing the company's \"encouraging\" progress in fixing a \"second day of disruptions\". It highlights the human cost of a digital outage and the pressure on big tech to keep essential services running. The tone leans toward accountability and the need for resilient infrastructure.",
-            "biasNeutral": "BBC reports stick to the facts: Microsoft apologized, blamed a technical failure, and noted the outage as a reminder of how dependent the world is on a handful of providers. The coverage is straightforward, quoting experts without editorializing. It underscores the scale of the disruption without assigning blame beyond the technical glitch.",
-            "biasRight": "No right‑leaning coverage appears in the provided articles.",
-            "reflection": "For most users, the outage meant missed meetings, delayed work and a sudden glimpse of how much daily life hinges on a single platform. Watch for Microsoft’s follow‑up on root‑cause analysis and any policy changes; recurring reliability issues could push enterprises to diversify their communication tools."
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg",
+            "imageSearchQuery": "Microsoft Outlook Teams Copilot global outage restoration",
+            "caption": "Microsoft engineers pull the plug on a day‑long outage, bringing Outlook, Teams and Copilot back online for millions of users.",
+            "biasLeft": "The New York Times frames the incident as a \"second day of disruptions\" and stresses the \"encouraging\" progress in fixing the services, underscoring how such outages affect everyday workers and hinting at the fragility of the tech infrastructure we depend on.",
+            "biasNeutral": "BBC reports stick to the facts: the outage lasted a day, Microsoft has restored all services, and the company blamed a technical failure while apologising to users. The coverage notes the event as a reminder of our reliance on these tools without assigning blame.",
+            "biasRight": "No right‑leaning outlet coverage is present in the provided articles.",
+            "reflection": "For most people, the outage meant missed emails, delayed meetings and stalled collaboration, so its quick resolution matters for daily productivity. Keep an eye on Microsoft's follow‑up communications for any longer‑term fixes or policy changes that could affect service reliability."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/13/multimedia/13xp-microsoftWWK-1-lfcv/13xp-microsoftWWK-1-lfcv-videoSixteenByNine3000.jpg\" alt=\"Microsoft engineers restore Outlook, Teams and other services after a full‑day blackout.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Microsoft engineers restore Outlook, Teams and other services after a full‑day blackout.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The NYT frames the incident as a systemic hiccup, stressing the company&#39;s &quot;encouraging&quot; progress in fixing a &quot;second day of disruptions&quot;. It highlights the human cost of a digital outage and the pressure on big tech to keep essential services running. The tone leans toward accountability and the need for resilient infrastructure.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">BBC reports stick to the facts: Microsoft apologized, blamed a technical failure, and noted the outage as a reminder of how dependent the world is on a handful of providers. The coverage is straightforward, quoting experts without editorializing. It underscores the scale of the disruption without assigning blame beyond the technical glitch.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No right‑leaning coverage appears in the provided articles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For most users, the outage meant missed meetings, delayed work and a sudden glimpse of how much daily life hinges on a single platform. Watch for Microsoft’s follow‑up on root‑cause analysis and any policy changes; recurring reliability issues could push enterprises to diversify their communication tools.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg\" alt=\"Microsoft engineers pull the plug on a day‑long outage, bringing Outlook, Teams and Copilot back online for millions of users.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Microsoft engineers pull the plug on a day‑long outage, bringing Outlook, Teams and Copilot back online for millions of users.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The New York Times frames the incident as a &quot;second day of disruptions&quot; and stresses the &quot;encouraging&quot; progress in fixing the services, underscoring how such outages affect everyday workers and hinting at the fragility of the tech infrastructure we depend on.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">BBC reports stick to the facts: the outage lasted a day, Microsoft has restored all services, and the company blamed a technical failure while apologising to users. The coverage notes the event as a reminder of our reliance on these tools without assigning blame.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No right‑leaning outlet coverage is present in the provided articles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For most people, the outage meant missed emails, delayed meetings and stalled collaboration, so its quick resolution matters for daily productivity. Keep an eye on Microsoft&#39;s follow‑up communications for any longer‑term fixes or policy changes that could affect service reliability.</p>"
         },
         {
           "id": "topic-2",
-          "headline": "Nvidia’s leadership turmoil and alleged chip‑trade scandal raise questions for the AI hardware market",
-          "summary": "Jensen Huang’s resignation and a controversy over alleged illicit chip transactions have drawn scrutiny from regulators in Singapore and the U.S., while investors worry about the impact on Nvidia’s sprawling portfolio of AI start‑up stakes. The episode highlights the growing geopolitical pressure on semiconductor supply chains.",
+          "headline": "Nvidia’s founder Jensen Huang resigns amid scandal, prompting scrutiny of the chip maker’s ties in Singapore and U.S. export controls",
+          "summary": "Huang’s departure raises questions about Nvidia’s role in supporting AI start‑ups and its involvement in alleged illicit trade, while U.S. officials consider adding related entities to the export blacklist. Stakeholders are watching how the leadership change will affect Nvidia’s massive investment portfolio and the broader AI hardware market.",
           "tags": [
             "#Nvidia",
             "#JensenHuang",
             "#AI",
-            "#ChipIndustry"
+            "#chipindustry",
+            "#Singapore"
           ],
           "source_ids": [
-            2,
+            3,
             6,
             10,
             12
@@ -259,30 +300,28 @@
           ],
           "deepDive": {
             "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c559/live/a40793d0-df4a-11f1-a48c-75dd2efdacb5.jpg",
-            "imageSearchQuery": "Jensen Huang resignation Singapore chip trade scandal Nvidia AI hardware",
-            "caption": "Nvidia co‑founder Jensen Huang steps down as a probe into illicit chip trading puts Singapore’s semiconductor hub in the spotlight.",
-            "biasLeft": "The NYT pieces stress how Huang’s exit rattles the AI start‑up ecosystem, noting Nvidia’s $48 billion stakes in 229 private firms and warning that losing a visionary founder could destabilise fledgling companies. They frame the issue as a systemic risk to innovation and call for a capable tech‑savvy successor to keep momentum.",
-            "biasNeutral": "BBC reports stick to the facts: Singapore’s chip hub is under scrutiny for alleged illicit trade, and U.S. officials have pushed to place the related firm on the entity list. The coverage highlights the geopolitical tug‑of‑war without assigning blame.",
-            "biasRight": "No right‑leaning outlet covered this topic in the supplied articles.",
-            "reflection": "For investors and AI entrepreneurs, the story signals potential supply‑chain disruptions and regulatory headwinds that could affect product timelines and valuations. Watch for any official entity‑list action and for Nvidia’s next leadership move in the coming days."
+            "imageSearchQuery": "Jensen Huang resignation Nvidia scandal Singapore chip hub export controls",
+            "caption": "Jensen Huang steps down as Nvidia’s scandal drags Singapore’s chip hub and U.S. export controls into the spotlight.",
+            "biasLeft": "Progressive outlets stress how Huang’s exit threatens the AI start‑up ecosystem, noting Nvidia’s $48 billion stakes in dozens of young companies and warning that losing a visionary could stall inclusive innovation. The coverage frames the fallout as a systemic risk to the broader AI community rather than just a corporate hiccup. It also hints that the scandal reveals deeper governance gaps in tech power structures.",
+            "biasNeutral": "Center‑leaned reporting sticks to the facts: Singapore’s reputation as a chip hub is now under scrutiny, and multiple U.S. agencies have pushed to place the implicated entity on the export‑control blacklist. The articles name the players, cite statements from officials, and leave the consequences open‑ended without editorial judgment.",
+            "biasRight": "No right‑leaning sources are present among the supplied articles, so a conservative angle cannot be identified here.",
+            "reflection": "For everyday investors, customers, and engineers, the story matters because export‑control decisions could delay or limit access to Nvidia’s next‑gen chips, affecting product prices and project timelines. In the coming days watch for an official U.S. Commerce Department ruling on the entity list and any policy response from Singapore’s trade ministry."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c559/live/a40793d0-df4a-11f1-a48c-75dd2efdacb5.jpg\" alt=\"Nvidia co‑founder Jensen Huang steps down as a probe into illicit chip trading puts Singapore’s semiconductor hub in the spotlight.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Nvidia co‑founder Jensen Huang steps down as a probe into illicit chip trading puts Singapore’s semiconductor hub in the spotlight.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The NYT pieces stress how Huang’s exit rattles the AI start‑up ecosystem, noting Nvidia’s $48 billion stakes in 229 private firms and warning that losing a visionary founder could destabilise fledgling companies. They frame the issue as a systemic risk to innovation and call for a capable tech‑savvy successor to keep momentum.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">BBC reports stick to the facts: Singapore’s chip hub is under scrutiny for alleged illicit trade, and U.S. officials have pushed to place the related firm on the entity list. The coverage highlights the geopolitical tug‑of‑war without assigning blame.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No right‑leaning outlet covered this topic in the supplied articles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For investors and AI entrepreneurs, the story signals potential supply‑chain disruptions and regulatory headwinds that could affect product timelines and valuations. Watch for any official entity‑list action and for Nvidia’s next leadership move in the coming days.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c559/live/a40793d0-df4a-11f1-a48c-75dd2efdacb5.jpg\" alt=\"Jensen Huang steps down as Nvidia’s scandal drags Singapore’s chip hub and U.S. export controls into the spotlight.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Jensen Huang steps down as Nvidia’s scandal drags Singapore’s chip hub and U.S. export controls into the spotlight.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Progressive outlets stress how Huang’s exit threatens the AI start‑up ecosystem, noting Nvidia’s $48 billion stakes in dozens of young companies and warning that losing a visionary could stall inclusive innovation. The coverage frames the fallout as a systemic risk to the broader AI community rather than just a corporate hiccup. It also hints that the scandal reveals deeper governance gaps in tech power structures.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">Center‑leaned reporting sticks to the facts: Singapore’s reputation as a chip hub is now under scrutiny, and multiple U.S. agencies have pushed to place the implicated entity on the export‑control blacklist. The articles name the players, cite statements from officials, and leave the consequences open‑ended without editorial judgment.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No right‑leaning sources are present among the supplied articles, so a conservative angle cannot be identified here.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday investors, customers, and engineers, the story matters because export‑control decisions could delay or limit access to Nvidia’s next‑gen chips, affecting product prices and project timelines. In the coming days watch for an official U.S. Commerce Department ruling on the entity list and any policy response from Singapore’s trade ministry.</p>"
         },
         {
           "id": "topic-3",
-          "headline": "AI startups face funding strain as industry leaders clash over safety and costs",
-          "summary": "Anthropic’s CEO Dario Amodei has publicly warned about AI risks, sparking tension with OpenAI, while the company’s rising expenses and employee stock plans worry Wall Street. Meanwhile, new AI tools promise to slash logistics times, showing both the promise and the financial pressures of rapid AI adoption.",
+          "headline": "Anthropic faces mounting financial pressure as CEO Dario Amodei warns of AI risks and investors grow wary",
+          "summary": "The AI startup’s costly employee stock plans and soaring compute expenses are prompting Wall Street analysts to question its long‑term profitability, while Amodei’s public criticism of industry peers has sparked a debate over responsible development. The outcome could shape funding trends for next‑generation language models.",
           "tags": [
-            "#ArtificialIntelligence",
             "#Anthropic",
-            "#AIApplications",
-            "#TechIndustry"
+            "#AI",
+            "#finance",
+            "#leadership"
           ],
           "source_ids": [
-            1,
-            9,
-            11,
-            13
+            2,
+            9
           ],
           "sources": [
             {
@@ -294,95 +333,80 @@
               "source": "Left (NYT Tech)",
               "title": "Wall Street Braces for Anthropic’s Spending",
               "url": "https://www.nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html"
-            },
-            {
-              "source": "Right (Fox Tech)",
-              "title": "Could AI reduce shipping costs and grocery bills?",
-              "url": "https://www.foxnews.com/tech/could-ai-reduce-shipping-costs-grocery-bills"
-            },
-            {
-              "source": "Right (Fox Tech)",
-              "title": "Fox News AI Newsletter: 'Godfather of AI' resigns, testing American juggernaut",
-              "url": "https://www.foxnews.com/tech/fox-news-ai-newsletter-godfather-ai-resigns-testing-american-juggernaut"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-anthropic-reality-kzlm/12biz-anthropic-reality-kzlm-videoSixteenByNine3000.jpg",
-            "imageSearchQuery": "Anthropic funding strain AI startup costs Dario Amodei",
-            "caption": "Anthropic executives stare at a wall of financial charts as the company wrestles with soaring AI‑compute bills and mounting safety debates.",
-            "biasLeft": "Progressive outlets stress the clash between Anthropic’s safety‑first rhetoric and the profit‑driven culture of rivals like OpenAI, framing it as a systemic risk to society. They spotlight Dario Amodei’s public warnings and the company’s precarious balance sheet, especially the tangled employee‑stock compensation that could dilute investor confidence. The narrative leans toward a call for stronger regulation and collective responsibility.",
-            "biasNeutral": "None of the supplied sources provide a centrist, fact‑only account of the funding squeeze; no wire‑service style article is present.",
-            "biasRight": "The right‑leaning pieces do not address Anthropic’s funding woes at all; they focus on AI’s cost‑cutting potential in logistics and headline‑driven personnel moves, leaving the startup‑finance angle untouched.",
-            "reflection": "For everyday workers and investors, Anthropic’s cash crunch could delay or raise the price of next‑gen AI tools, affecting everything from office software to consumer apps. Keep an eye on any new financing announcements or quarterly earnings that signal whether the company can sustain its safety agenda without a bailout."
+            "imageUrl": "https://static01.nyt.com/images/2026/09/03/business/00anthropic-knives-out/00anthropic-knives-out-videoSixteenByNine3000.jpg",
+            "imageSearchQuery": "Anthropic Dario Amodei AI risk warning investors",
+            "caption": "Anthropic CEO Dario Amodei raises alarm over AI dangers as the startup scrambles for cash.",
+            "biasLeft": "The left‑leaning coverage frames Amodei’s warnings as a moral stand against unchecked AI, highlighting the ethical stakes and the friction with rivals like OpenAI. It also stresses the company’s mounting financial strain, pointing to employee stock compensation and ballooning operating costs as evidence that the AI boom is not a free‑ride. The tone suggests that profit‑first pressures risk sidelining safety concerns.",
+            "biasNeutral": "Neutral outlets are not represented in the supplied articles, so no centrist framing can be reported.",
+            "biasRight": "Right‑leaning outlets are not present in the provided sources, so no conservative emphasis can be described.",
+            "reflection": "For everyday investors and tech workers, Anthropic’s cash crunch signals that AI startups may soon face tighter funding and could cut back on hiring or R&D. Watch for any announced financing round or a shift in employee equity terms in the next few days—it will hint at whether the market still backs high‑risk AI bets."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/12/multimedia/12biz-anthropic-reality-kzlm/12biz-anthropic-reality-kzlm-videoSixteenByNine3000.jpg\" alt=\"Anthropic executives stare at a wall of financial charts as the company wrestles with soaring AI‑compute bills and mounting safety debates.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Anthropic executives stare at a wall of financial charts as the company wrestles with soaring AI‑compute bills and mounting safety debates.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Progressive outlets stress the clash between Anthropic’s safety‑first rhetoric and the profit‑driven culture of rivals like OpenAI, framing it as a systemic risk to society. They spotlight Dario Amodei’s public warnings and the company’s precarious balance sheet, especially the tangled employee‑stock compensation that could dilute investor confidence. The narrative leans toward a call for stronger regulation and collective responsibility.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">None of the supplied sources provide a centrist, fact‑only account of the funding squeeze; no wire‑service style article is present.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">The right‑leaning pieces do not address Anthropic’s funding woes at all; they focus on AI’s cost‑cutting potential in logistics and headline‑driven personnel moves, leaving the startup‑finance angle untouched.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday workers and investors, Anthropic’s cash crunch could delay or raise the price of next‑gen AI tools, affecting everything from office software to consumer apps. Keep an eye on any new financing announcements or quarterly earnings that signal whether the company can sustain its safety agenda without a bailout.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/09/03/business/00anthropic-knives-out/00anthropic-knives-out-videoSixteenByNine3000.jpg\" alt=\"Anthropic CEO Dario Amodei raises alarm over AI dangers as the startup scrambles for cash.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Anthropic CEO Dario Amodei raises alarm over AI dangers as the startup scrambles for cash.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The left‑leaning coverage frames Amodei’s warnings as a moral stand against unchecked AI, highlighting the ethical stakes and the friction with rivals like OpenAI. It also stresses the company’s mounting financial strain, pointing to employee stock compensation and ballooning operating costs as evidence that the AI boom is not a free‑ride. The tone suggests that profit‑first pressures risk sidelining safety concerns.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">Neutral outlets are not represented in the supplied articles, so no centrist framing can be reported.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Right‑leaning outlets are not present in the provided sources, so no conservative emphasis can be described.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday investors and tech workers, Anthropic’s cash crunch signals that AI startups may soon face tighter funding and could cut back on hiring or R&amp;D. Watch for any announced financing round or a shift in employee equity terms in the next few days—it will hint at whether the market still backs high‑risk AI bets.</p>"
         },
         {
           "id": "topic-4",
-          "headline": "Robotic combat units and drone‑pilot training programs bring military tech into civilian and veteran spheres",
-          "summary": "A former Trump‑linked company unveiled humanoid robots equipped with machine guns for use in Ukraine, while a nonprofit is certifying former service members as commercial drone pilots. Both developments illustrate how battlefield technology is spilling over into broader employment and ethical debates.",
+          "headline": "Google reports malware in 1.3 million Android TV boxes, turning them into a criminal botnet",
+          "summary": "The Videostrong software inserted a backdoor that allowed attackers to commandeer the devices for illicit activities, exposing a large consumer‑grade hardware market to cyber threats. Users are urged to update firmware or replace affected units to protect personal data and network security.",
           "tags": [
-            "#MilitaryTech",
-            "#Robotics",
-            "#Veterans",
-            "#DroneTraining"
+            "#malware",
+            "#AndroidTV",
+            "#botnet",
+            "#cybersecurity"
           ],
           "source_ids": [
-            8,
-            14
+            7
+          ],
+          "sources": [
+            {
+              "source": "Right (Fox Tech)",
+              "title": "Android TV box malware found in 1.3M devices",
+              "url": "https://www.foxnews.com/tech/android-tv-box-malware-found-devices"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/family-watching-tv-fox-news-001.jpeg",
+            "imageSearchQuery": "Android TV box malware 1.3 million botnet",
+            "caption": "A cheap Android TV box sits on a living‑room shelf, unknowingly hosting a backdoor that lets criminals hijack it.",
+            "biasLeft": "No progressive or left‑leaning outlet covered this story in the supplied articles.",
+            "biasNeutral": "No centrist or wire service outlet covered this story in the supplied articles.",
+            "biasRight": "The Fox Tech piece stresses the security danger of a deliberately inserted backdoor, framing it as a criminal enterprise that threatens everyday consumers. It hints at economic fallout, warning that compromised boxes could drain bandwidth and expose personal data. The article also calls for tougher oversight of manufacturers that ship vulnerable hardware.",
+            "reflection": "If you own an inexpensive Android TV box, your device could already be part of a botnet, risking privacy breaches and slower performance. Keep an eye on Google’s security bulletins and any firmware updates in the coming days, and consider swapping out or disabling network access for suspect units."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/05/family-watching-tv-fox-news-001.jpeg\" alt=\"A cheap Android TV box sits on a living‑room shelf, unknowingly hosting a backdoor that lets criminals hijack it.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">A cheap Android TV box sits on a living‑room shelf, unknowingly hosting a backdoor that lets criminals hijack it.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">No progressive or left‑leaning outlet covered this story in the supplied articles.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">No centrist or wire service outlet covered this story in the supplied articles.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">The Fox Tech piece stresses the security danger of a deliberately inserted backdoor, framing it as a criminal enterprise that threatens everyday consumers. It hints at economic fallout, warning that compromised boxes could drain bandwidth and expose personal data. The article also calls for tougher oversight of manufacturers that ship vulnerable hardware.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>If you own an inexpensive Android TV box, your device could already be part of a botnet, risking privacy breaches and slower performance. Keep an eye on Google’s security bulletins and any firmware updates in the coming days, and consider swapping out or disabling network access for suspect units.</p>"
+        },
+        {
+          "id": "topic-5",
+          "headline": "Robotics firm partnered with Eric Trump unveils combat‑ready humanoid robot for Ukraine’s front lines",
+          "summary": "The MK‑2 humanoid, equipped with machine‑gun mounts, is being shipped to the war zone after the company’s co‑founder dismissed fears of a “Terminator” scenario. Its deployment raises ethical questions about autonomous weapons and the role of private firms in modern conflicts.",
+          "tags": [
+            "#robotics",
+            "#Ukraine",
+            "#militaryAI",
+            "#EricTrump"
+          ],
+          "source_ids": [
+            8
           ],
           "sources": [
             {
               "source": "Right (Fox Tech)",
               "title": "Eric Trump-partnered robotics CEO addresses 'Terminator' fears as he sends combat humanoids into war zones",
               "url": "https://www.foxnews.com/tech/eric-trump-partnered-robotics-ceo-addresses-terminator-fears-sends-combat-humanoids-warzones"
-            },
-            {
-              "source": "Right (Fox Tech)",
-              "title": "Nonprofit offers veterans second career through commercial drone pilot training",
-              "url": "https://www.foxnews.com/tech/nonprofit-offers-veterans-second-career-through-commercial-drone-pilot-training"
             }
           ],
           "deepDive": {
             "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/Foundation-Photo-3_001.jpg",
-            "imageSearchQuery": "MK 2 humanoid combat robot Ukraine",
-            "caption": "Foundation Future Robotics' MK‑2 humanoid, machine‑gun armed, rolls into a Ukrainian combat zone as veterans train to become certified drone pilots.",
-            "biasLeft": "Left‑leaning outlets did not cover this specific topic in the provided articles.",
-            "biasNeutral": "Center‑leaning outlets did not cover this specific topic in the provided articles.",
-            "biasRight": "Conservative coverage highlights the partnership with Eric Trump and frames the MK‑2 as a needed deterrent on the Ukraine front. It stresses how the drone‑pilot program gives veterans a marketable skill and a steady post‑service income. The pieces also underscore American technological leadership and national security benefits.",
-            "reflection": "The story matters because it shows how cutting‑edge military gear is being repurposed for civilian jobs, giving veterans a concrete career path while also normalizing combat robots in public life. In the coming days watch for any policy announcements on export controls for the MK‑2 and enrollment numbers for the Vets to Drones program."
+            "imageSearchQuery": "Eric Trump robotics combat humanoid Ukraine MK2",
+            "caption": "Mike LeBlanc poses with the MK‑2 combat humanoid, its machine‑gun‑armed limbs poised for deployment on Ukraine’s front lines.",
+            "biasLeft": "Left‑leaning outlets do not cover this story in the provided sources.",
+            "biasNeutral": "Neutral or mainstream outlets are absent from the supplied material.",
+            "biasRight": "The Fox Tech piece highlights the partnership with Eric Trump, frames the robot as a practical response to battlefield needs, and downplays any \"Terminator\" dystopia by stressing security and sovereignty benefits for Ukraine.",
+            "reflection": "The rollout of armed humanoid robots signals a new tier of warfare that could reshape civilian safety and geopolitical risk. Watch for official statements from the U.S. government and Ukraine on deployment numbers and any regulatory pushback in the coming days."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/08/Foundation-Photo-3_001.jpg\" alt=\"Foundation Future Robotics&#39; MK‑2 humanoid, machine‑gun armed, rolls into a Ukrainian combat zone as veterans train to become certified drone pilots.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Foundation Future Robotics&#39; MK‑2 humanoid, machine‑gun armed, rolls into a Ukrainian combat zone as veterans train to become certified drone pilots.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left‑leaning outlets did not cover this specific topic in the provided articles.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">Center‑leaning outlets did not cover this specific topic in the provided articles.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Conservative coverage highlights the partnership with Eric Trump and frames the MK‑2 as a needed deterrent on the Ukraine front. It stresses how the drone‑pilot program gives veterans a marketable skill and a steady post‑service income. The pieces also underscore American technological leadership and national security benefits.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>The story matters because it shows how cutting‑edge military gear is being repurposed for civilian jobs, giving veterans a concrete career path while also normalizing combat robots in public life. In the coming days watch for any policy announcements on export controls for the MK‑2 and enrollment numbers for the Vets to Drones program.</p>"
-        },
-        {
-          "id": "topic-5",
-          "headline": "Rockstar Games says even its original GTA creators have not yet played the unreleased GTA 6",
-          "summary": "The upcoming title, billed as the biggest video‑game launch ever, remains inaccessible to the series’ founding team, underscoring the secrecy and high expectations surrounding the long‑awaited sequel.",
-          "tags": [
-            "#Gaming",
-            "#GTA6",
-            "#RockstarGames"
-          ],
-          "source_ids": [
-            0
-          ],
-          "sources": [
-            {
-              "source": "Neutral (BBC Tech)",
-              "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
-              "url": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/05c7/live/ef232fd0-df7e-11f1-a701-fddedf244c16.jpg",
-            "imageSearchQuery": "GTA 6 unreleased original creators Rockstar Games",
-            "caption": "Rockstar admits even the franchise’s founding team hasn’t gotten a hands‑on look at GTA 6.",
-            "biasLeft": "No left‑leaning coverage appears in the supplied material.",
-            "biasNeutral": "The BBC piece sticks to the facts: Rockstar says the series’ original designers still haven’t played the unreleased game, and it notes the title is set to become the biggest video‑game launch ever.",
-            "biasRight": "No right‑leaning coverage appears in the supplied material.",
-            "reflection": "For gamers and investors alike, the delay in internal play‑testing hints at possible development hurdles, which could shift launch timing or pricing. Watch for any official update from Rockstar in the coming days that might clarify the release window or reveal why the original team is still locked out."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/05c7/live/ef232fd0-df7e-11f1-a701-fddedf244c16.jpg\" alt=\"Rockstar admits even the franchise’s founding team hasn’t gotten a hands‑on look at GTA 6.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Rockstar admits even the franchise’s founding team hasn’t gotten a hands‑on look at GTA 6.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">No left‑leaning coverage appears in the supplied material.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC piece sticks to the facts: Rockstar says the series’ original designers still haven’t played the unreleased game, and it notes the title is set to become the biggest video‑game launch ever.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No right‑leaning coverage appears in the supplied material.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For gamers and investors alike, the delay in internal play‑testing hints at possible development hurdles, which could shift launch timing or pricing. Watch for any official update from Rockstar in the coming days that might clarify the release window or reveal why the original team is still locked out.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/08/Foundation-Photo-3_001.jpg\" alt=\"Mike LeBlanc poses with the MK‑2 combat humanoid, its machine‑gun‑armed limbs poised for deployment on Ukraine’s front lines.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Mike LeBlanc poses with the MK‑2 combat humanoid, its machine‑gun‑armed limbs poised for deployment on Ukraine’s front lines.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left‑leaning outlets do not cover this story in the provided sources.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">Neutral or mainstream outlets are absent from the supplied material.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">The Fox Tech piece highlights the partnership with Eric Trump, frames the robot as a practical response to battlefield needs, and downplays any &quot;Terminator&quot; dystopia by stressing security and sovereignty benefits for Ukraine.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>The rollout of armed humanoid robots signals a new tier of warfare that could reshape civilian safety and geopolitical risk. Watch for official statements from the U.S. government and Ukraine on deployment numbers and any regulatory pushback in the coming days.</p>"
         }
       ],
       "rawCount": 15
@@ -391,96 +415,28 @@
       "items": [
         {
           "id": "topic-1",
-          "headline": "US delays Medicaid work‑requirement rule, giving states until July to enforce",
-          "summary": "The Biden administration has pushed back the start date for a rule that would cut Medicaid coverage for adults who cannot prove employment, moving the deadline from Jan. 1 to July. The pause eases immediate pressure on low‑income households while states scramble to adjust their eligibility systems.",
-          "tags": [
-            "#USpolicy",
-            "#Medicaid",
-            "#healthcare"
-          ],
-          "source_ids": [
-            0
-          ],
-          "sources": [
-            {
-              "source": "Left (NYT Business)",
-              "title": "Trump Administration Delays Enforcement of Medicaid Work Requirement",
-              "url": "https://www.nytimes.com/2026/11/13/us/politics/medicaid-work-requirement-delay.html"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-medicaid-qmwz/13dc-medicaid-qmwz-videoSixteenByNine3000.jpg",
-            "imageSearchQuery": "Medicaid work requirement delay July 2026",
-            "caption": "Federal officials pause the rollout of a work‑test for Medicaid, pushing the July deadline further into the future.",
-            "biasLeft": "Progressive coverage frames the delay as a relief for vulnerable adults who would have faced coverage loss, emphasizing the human cost of the work‑requirement rule. It stresses that the policy would have penalized the poor and that the postponement is a small victory for health‑care equity.",
-            "biasNeutral": "No centrist or wire‑service article was provided in the source set, so a neutral perspective is absent.",
-            "biasRight": "No conservative outlet article was provided in the source set, so a right‑leaning perspective is absent.",
-            "reflection": "For anyone relying on Medicaid, the postponement means they can keep their benefits for at least another six months, buying time to avoid a sudden loss of coverage. Watch for the upcoming July deadline and any further statements from the administration about whether the rule will be enforced or abandoned."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/13/multimedia/13dc-medicaid-qmwz/13dc-medicaid-qmwz-videoSixteenByNine3000.jpg\" alt=\"Federal officials pause the rollout of a work‑test for Medicaid, pushing the July deadline further into the future.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Federal officials pause the rollout of a work‑test for Medicaid, pushing the July deadline further into the future.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Progressive coverage frames the delay as a relief for vulnerable adults who would have faced coverage loss, emphasizing the human cost of the work‑requirement rule. It stresses that the policy would have penalized the poor and that the postponement is a small victory for health‑care equity.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">No centrist or wire‑service article was provided in the source set, so a neutral perspective is absent.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No conservative outlet article was provided in the source set, so a right‑leaning perspective is absent.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For anyone relying on Medicaid, the postponement means they can keep their benefits for at least another six months, buying time to avoid a sudden loss of coverage. Watch for the upcoming July deadline and any further statements from the administration about whether the rule will be enforced or abandoned.</p>"
-        },
-        {
-          "id": "topic-2",
-          "headline": "Wall Street banks launch roadshow for Anthropic’s anticipated IPO",
-          "summary": "Investment banks are courting investors in a coordinated pitch for Anthropic, the AI startup behind Claude, as the company eyes what could become one of the largest public offerings this year. The effort reflects heightened market uncertainty and the premium placed on generative‑AI assets.",
-          "tags": [
-            "#Anthropic",
-            "#IPO",
-            "#AI",
-            "#finance"
-          ],
-          "source_ids": [
-            1
-          ],
-          "sources": [
-            {
-              "source": "Left (NYT Business)",
-              "title": "Wall Street Makes Its Pitch for Anthropic’s I.P.O.",
-              "url": "https://www.nytimes.com/2026/11/13/business/anthropic-ipo-roadshow.html"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://static01.nyt.com/images/2026/11/13/multimedia/13biz-Anthropic-roadshow-01-mhbc/13biz-Anthropic-roadshow-01-mhbc-videoSixteenByNineJumbo1600.jpg",
-            "imageSearchQuery": "Anthropic IPO roadshow Wall Street banks investors pitch",
-            "caption": "Bankers parade through conference rooms, trying to convince wary investors that Anthropic’s AI IPO is worth the gamble.",
-            "biasLeft": "The New York Times frames the roadshow against a backdrop of market anxiety, stressing how speculative AI valuations could widen wealth gaps. It hints that the frenzy may distract from broader economic inequities and regulatory gaps in the AI sector.",
-            "biasNeutral": "No center‑leaning source was provided for this story, so a neutral framing is absent from the supplied material.",
-            "biasRight": "No right‑leaning outlet was included in the provided articles, so a conservative perspective is not represented here.",
-            "reflection": "For everyday investors, the Anthropic IPO could set a price ceiling for AI stocks, influencing retirement accounts and personal portfolios. Keep an eye on the pricing range the banks finally settle on and whether the offering draws enough institutional money to signal confidence in the broader tech market."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/13/multimedia/13biz-Anthropic-roadshow-01-mhbc/13biz-Anthropic-roadshow-01-mhbc-videoSixteenByNineJumbo1600.jpg\" alt=\"Bankers parade through conference rooms, trying to convince wary investors that Anthropic’s AI IPO is worth the gamble.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Bankers parade through conference rooms, trying to convince wary investors that Anthropic’s AI IPO is worth the gamble.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The New York Times frames the roadshow against a backdrop of market anxiety, stressing how speculative AI valuations could widen wealth gaps. It hints that the frenzy may distract from broader economic inequities and regulatory gaps in the AI sector.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">No center‑leaning source was provided for this story, so a neutral framing is absent from the supplied material.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No right‑leaning outlet was included in the provided articles, so a conservative perspective is not represented here.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday investors, the Anthropic IPO could set a price ceiling for AI stocks, influencing retirement accounts and personal portfolios. Keep an eye on the pricing range the banks finally settle on and whether the offering draws enough institutional money to signal confidence in the broader tech market.</p>"
-        },
-        {
-          "id": "topic-3",
-          "headline": "Microsoft apologises after nearly 24‑hour global outage disrupts Outlook, Teams and more",
-          "summary": "A cascade of technical failures knocked out core Microsoft 365 services for almost a day, leaving businesses and millions of users without email and collaboration tools. The incident highlighted the concentration of global digital infrastructure in a few tech firms and spurred a race to restore functionality.",
+          "headline": "Microsoft restores Outlook, Teams and Copilot after worldwide outage",
+          "summary": "A day‑long glitch knocked out email, video calls and AI assistance for millions of users, prompting frantic recovery efforts. The service restoration underscores both the fragility and the essential role of a handful of tech providers in daily work life.",
           "tags": [
             "#Microsoft",
             "#Outage",
-            "#Cloud",
-            "#TechReliability"
+            "#TechInfrastructure"
           ],
           "source_ids": [
-            2,
-            3,
+            0,
             4,
             8
           ],
           "sources": [
             {
-              "source": "Left (NYT Business)",
-              "title": "Microsoft’s Global Outage and Fixes: What We Know",
-              "url": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html"
+              "source": "Neutral (BBC Business)",
+              "title": "Microsoft says services fully restored after day-long global outage",
+              "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
             },
             {
               "source": "Left (NYT Business)",
               "title": "Inside Microsoft’s Rush to Get Back Online After a Global Outage",
               "url": "https://www.nytimes.com/2026/11/13/business/microsoft-outage.html"
-            },
-            {
-              "source": "Neutral (BBC Business)",
-              "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-              "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
             },
             {
               "source": "Neutral (BBC Business)",
@@ -490,25 +446,24 @@
           ],
           "deepDive": {
             "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg",
-            "imageSearchQuery": "Microsoft global outage Outlook Teams November 2026",
-            "caption": "Microsoft’s network goes dark, leaving millions without email and chat as the clock ticks past 24 hours.",
-            "biasLeft": "The New York Times frames the incident as a symptom of systemic over‑reliance on a handful of tech giants, stressing corporate responsibility and the need for broader infrastructure resilience. It highlights the \"encouraging\" progress on fixes but keeps the focus on the broader implications for users and the tech ecosystem. Language leans toward critiquing the concentration of power in the industry.",
-            "biasNeutral": "BBC coverage sticks to the facts: Microsoft’s apology, the timeline of the outage, and expert commentary that the event underscores how dependent the world is on a few big‑tech providers. It reports the ongoing restoration of Outlook, Teams, and other services without editorializing, and notes the practical impact on users.",
-            "biasRight": "No right‑leaning outlets are represented in the provided articles.",
-            "reflection": "For most people the outage meant missed meetings, delayed work, and a stark reminder that their daily tools can vanish in an instant. Watch for Microsoft’s next communication on service stability and any regulatory scrutiny that could affect pricing or competition in cloud services."
+            "imageSearchQuery": "Microsoft Outlook Teams global outage November 2026",
+            "caption": "Microsoft engineers scramble to bring Outlook, Teams and Copilot back online after a day‑long blackout.",
+            "biasLeft": "The New York Times frames the outage as a warning about how much modern life depends on a handful of tech giants, highlighting systemic vulnerability and the concentration of power. It stresses the human impact—workers stuck without email and video calls—and suggests the incident exposes broader corporate risk. The language hints at the need for greater oversight and diversification of digital infrastructure.",
+            "biasNeutral": "The BBC sticks to the facts: it reports that Microsoft has fully restored the affected services and notes the ongoing effort to prevent data loss. It mentions the lingering question of whether any emails were lost, offering a straightforward update without editorializing. The tone is calm, focusing on the timeline and the technical response.",
+            "biasRight": "No right‑leaning outlet covered this story in the supplied articles.",
+            "reflection": "For most people, the outage meant missed meetings, delayed work and a reminder that their digital tools can disappear in a flash. Watching Microsoft's next communication will show whether they’ve fixed the root cause or just patched a symptom, which matters for any business that relies on Outlook or Teams for daily operations."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg\" alt=\"Microsoft’s network goes dark, leaving millions without email and chat as the clock ticks past 24 hours.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Microsoft’s network goes dark, leaving millions without email and chat as the clock ticks past 24 hours.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The New York Times frames the incident as a symptom of systemic over‑reliance on a handful of tech giants, stressing corporate responsibility and the need for broader infrastructure resilience. It highlights the &quot;encouraging&quot; progress on fixes but keeps the focus on the broader implications for users and the tech ecosystem. Language leans toward critiquing the concentration of power in the industry.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">BBC coverage sticks to the facts: Microsoft’s apology, the timeline of the outage, and expert commentary that the event underscores how dependent the world is on a few big‑tech providers. It reports the ongoing restoration of Outlook, Teams, and other services without editorializing, and notes the practical impact on users.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No right‑leaning outlets are represented in the provided articles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For most people the outage meant missed meetings, delayed work, and a stark reminder that their daily tools can vanish in an instant. Watch for Microsoft’s next communication on service stability and any regulatory scrutiny that could affect pricing or competition in cloud services.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg\" alt=\"Microsoft engineers scramble to bring Outlook, Teams and Copilot back online after a day‑long blackout.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Microsoft engineers scramble to bring Outlook, Teams and Copilot back online after a day‑long blackout.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The New York Times frames the outage as a warning about how much modern life depends on a handful of tech giants, highlighting systemic vulnerability and the concentration of power. It stresses the human impact—workers stuck without email and video calls—and suggests the incident exposes broader corporate risk. The language hints at the need for greater oversight and diversification of digital infrastructure.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC sticks to the facts: it reports that Microsoft has fully restored the affected services and notes the ongoing effort to prevent data loss. It mentions the lingering question of whether any emails were lost, offering a straightforward update without editorializing. The tone is calm, focusing on the timeline and the technical response.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No right‑leaning outlet covered this story in the supplied articles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For most people, the outage meant missed meetings, delayed work and a reminder that their digital tools can disappear in a flash. Watching Microsoft&#39;s next communication will show whether they’ve fixed the root cause or just patched a symptom, which matters for any business that relies on Outlook or Teams for daily operations.</p>"
         },
         {
-          "id": "topic-4",
-          "headline": "Nvidia faces leadership crisis and stock tumble after Jensen Huang’s sudden resignation",
-          "summary": "The abrupt departure of co‑founder Jensen Huang triggered a $20 billion erosion in market value and prompted CFO Colette Kress to step in as interim CEO amid a scandal involving a personal relationship and government scrutiny. Investors and regulators are watching how the AI‑chip maker will navigate the transition and sustain its growth momentum.",
+          "id": "topic-2",
+          "headline": "Nvidia shares tumble as co‑founder Jensen Huang resigns and CFO Colette Kress steps in as interim CEO",
+          "summary": "Huang's abrupt departure sent the AI‑chip maker's stock down about 14%, wiping out tens of billions in market value and sparking political scrutiny over a related personal scandal. Investors now watch how the interim leadership will steer Nvidia through its next earnings report and ongoing regulatory pressure.",
           "tags": [
             "#Nvidia",
-            "#LeadershipChange",
-            "#StockMarket",
             "#AI",
-            "#Regulation"
+            "#Leadership",
+            "#StockMarket"
           ],
           "source_ids": [
             5,
@@ -564,44 +519,105 @@
           ],
           "deepDive": {
             "imageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/nvidia-chief-financial-officer-colette-kress.jpg?ve=1&tl=1",
-            "imageSearchQuery": "Jensen Huang resignation Nvidia Colette Kress interim CEO",
-            "caption": "CFO Colette Kress steps into the hot seat as Nvidia reels from Jensen Huang’s sudden exit.",
-            "biasLeft": "The New York Times stresses that Huang was the engine behind Nvidia’s meteoric AI rise, highlighting his hands‑on leadership, 60 direct reports, and the glaring lack of a succession plan. It frames the crisis as a systemic vulnerability in a company built around one visionary founder.",
-            "biasNeutral": "BBC pieces sidestep the leadership vacuum, instead reporting the surrounding scandal and its political fallout, noting government agencies’ interest and the pressure on the White House. The coverage stays factual and avoids editorializing the corporate impact.",
-            "biasRight": "Fox Business zeroes in on the market fallout, noting a $20 billion wipe‑out of Huang’s holdings and the plunge in Nvidia’s share price. It portrays the interim CEO appointment as a test of the firm’s resilience and hints at broader economic and security stakes for the AI sector.",
-            "reflection": "For everyday investors and tech workers, the shake‑up could ripple through AI product pipelines and stock portfolios, making short‑term volatility likely. Watch Nvidia’s upcoming earnings release and any announcement of a permanent CEO as the next clear signal of stability."
+            "imageSearchQuery": "Jensen Huang resignation Nvidia interim CEO Colette Kress",
+            "caption": "CFO Colette Kress steps up as interim CEO after co‑founder Jensen Huang abruptly departs, sending Nvidia shares into a steep slide.",
+            "biasLeft": "Progressive outlets stress how Huang’s hands‑on, visionary leadership was the engine behind Nvidia’s AI dominance and note the lack of a clear succession plan as a governance lapse. They frame his exit as a systemic risk to the broader AI ecosystem, not just a corporate shuffle.",
+            "biasNeutral": "Center‑leaning coverage sticks to the facts: the resignation, the appointment of Kress, and the immediate market fallout, while also mentioning unrelated scandals that have drawn government scrutiny. The tone is descriptive with little editorializing.",
+            "biasRight": "Conservative business sources zero in on the market impact – a 14% plunge erasing $20 billion of Huang’s holdings and heightened investor anxiety ahead of earnings. They spotlight Kress as a steady‑hand CFO who can protect shareholder value.",
+            "reflection": "For everyday investors and tech workers, the leadership vacuum could translate into volatility in Nvidia’s stock and uncertainty over AI product roadmaps. Watch the upcoming earnings release and any strategic guidance from Kress as the next barometer of stability."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/nvidia-chief-financial-officer-colette-kress.jpg?ve=1&amp;tl=1\" alt=\"CFO Colette Kress steps into the hot seat as Nvidia reels from Jensen Huang’s sudden exit.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">CFO Colette Kress steps into the hot seat as Nvidia reels from Jensen Huang’s sudden exit.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The New York Times stresses that Huang was the engine behind Nvidia’s meteoric AI rise, highlighting his hands‑on leadership, 60 direct reports, and the glaring lack of a succession plan. It frames the crisis as a systemic vulnerability in a company built around one visionary founder.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">BBC pieces sidestep the leadership vacuum, instead reporting the surrounding scandal and its political fallout, noting government agencies’ interest and the pressure on the White House. The coverage stays factual and avoids editorializing the corporate impact.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Fox Business zeroes in on the market fallout, noting a $20 billion wipe‑out of Huang’s holdings and the plunge in Nvidia’s share price. It portrays the interim CEO appointment as a test of the firm’s resilience and hints at broader economic and security stakes for the AI sector.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday investors and tech workers, the shake‑up could ripple through AI product pipelines and stock portfolios, making short‑term volatility likely. Watch Nvidia’s upcoming earnings release and any announcement of a permanent CEO as the next clear signal of stability.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/nvidia-chief-financial-officer-colette-kress.jpg?ve=1&amp;tl=1\" alt=\"CFO Colette Kress steps up as interim CEO after co‑founder Jensen Huang abruptly departs, sending Nvidia shares into a steep slide.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">CFO Colette Kress steps up as interim CEO after co‑founder Jensen Huang abruptly departs, sending Nvidia shares into a steep slide.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Progressive outlets stress how Huang’s hands‑on, visionary leadership was the engine behind Nvidia’s AI dominance and note the lack of a clear succession plan as a governance lapse. They frame his exit as a systemic risk to the broader AI ecosystem, not just a corporate shuffle.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">Center‑leaning coverage sticks to the facts: the resignation, the appointment of Kress, and the immediate market fallout, while also mentioning unrelated scandals that have drawn government scrutiny. The tone is descriptive with little editorializing.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Conservative business sources zero in on the market impact – a 14% plunge erasing $20 billion of Huang’s holdings and heightened investor anxiety ahead of earnings. They spotlight Kress as a steady‑hand CFO who can protect shareholder value.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday investors and tech workers, the leadership vacuum could translate into volatility in Nvidia’s stock and uncertainty over AI product roadmaps. Watch the upcoming earnings release and any strategic guidance from Kress as the next barometer of stability.</p>"
         },
         {
-          "id": "topic-5",
-          "headline": "Experts warn AI‑enhanced property photos risk misleading home buyers",
-          "summary": "Real‑estate listings increasingly use artificial‑intelligence tools to brighten and stage rooms, blurring the line between marketing and deception. Regulators and consumer groups are calling for clearer disclosure to protect buyers from inflated expectations.",
+          "id": "topic-3",
+          "headline": "Federal government postpones Medicaid work‑requirement rule until July",
+          "summary": "The Trump administration has delayed the enforcement of a rule that would have cut benefits for childless adults who cannot prove employment, giving states additional time to prepare. The pause keeps health coverage in place for thousands of low‑income Americans while the policy debate continues.",
           "tags": [
-            "#AI",
-            "#RealEstate",
-            "#ConsumerProtection"
+            "#Medicaid",
+            "#HealthPolicy",
+            "#USPolitics"
           ],
           "source_ids": [
-            10
+            2
           ],
           "sources": [
             {
-              "source": "Neutral (BBC Business)",
-              "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
-              "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss"
+              "source": "Left (NYT Business)",
+              "title": "Trump Administration Delays Enforcement of Medicaid Work Requirement",
+              "url": "https://www.nytimes.com/2026/11/13/us/politics/medicaid-work-requirement-delay.html"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8436/live/9852bb70-d6a6-11f1-b441-2b33b063138f.png",
-            "imageSearchQuery": "AI property photo enhancement housefishing real estate listings",
-            "caption": "AI‑tweaked home photos risk turning glossy brochures into deceptive ads, experts warn.",
-            "biasLeft": "No left‑leaning outlets are represented in the supplied material, so no progressive framing is evident.",
-            "biasNeutral": "The BBC piece sticks to the facts, outlining how AI tools can exaggerate room size, lighting and décor. It quotes industry experts warning that such 'housefishing' could mislead buyers and erode trust in listings. The article also raises the question of where regulation should begin.",
-            "biasRight": "No right‑leaning outlets are represented in the supplied material, so no conservative framing is evident.",
-            "reflection": "For anyone shopping for a house, the risk is paying for space that isn’t there, which could derail budgets and negotiations. Keep an eye on whether real‑estate platforms start flagging AI‑enhanced images or introduce disclosure rules in the coming days."
+            "imageUrl": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-medicaid-qmwz/13dc-medicaid-qmwz-videoSixteenByNine3000.jpg",
+            "imageSearchQuery": "Medicaid work requirement delayed July federal government",
+            "caption": "Federal officials announce the July deadline for states to enforce the Medicaid work‑requirement rule, postponing the Jan. 1 cutoff that would have stripped coverage from many low‑income adults.",
+            "biasLeft": "Progressive coverage frames the delay as a win for vulnerable Americans who would have faced loss of health insurance under a punitive work‑requirement. It highlights the human cost of the original policy and underscores the administration’s willingness to backtrack when faced with public pressure. The language stresses systemic inequities and the need to protect a safety net for the poor.",
+            "biasNeutral": "No neutral or centrist outlet was provided among the source articles.",
+            "biasRight": "No conservative/right‑leaning outlet was provided among the source articles.",
+            "reflection": "For anyone relying on Medicaid, the postponement buys several months of continued coverage, but the July deadline still looms, so beneficiaries should monitor state announcements about eligibility verification. Watch for state‑level guidance in the next few days to see whether the work‑requirement will be enforced or further delayed."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8436/live/9852bb70-d6a6-11f1-b441-2b33b063138f.png\" alt=\"AI‑tweaked home photos risk turning glossy brochures into deceptive ads, experts warn.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">AI‑tweaked home photos risk turning glossy brochures into deceptive ads, experts warn.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">No left‑leaning outlets are represented in the supplied material, so no progressive framing is evident.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC piece sticks to the facts, outlining how AI tools can exaggerate room size, lighting and décor. It quotes industry experts warning that such &#39;housefishing&#39; could mislead buyers and erode trust in listings. The article also raises the question of where regulation should begin.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No right‑leaning outlets are represented in the supplied material, so no conservative framing is evident.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For anyone shopping for a house, the risk is paying for space that isn’t there, which could derail budgets and negotiations. Keep an eye on whether real‑estate platforms start flagging AI‑enhanced images or introduce disclosure rules in the coming days.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/13/multimedia/13dc-medicaid-qmwz/13dc-medicaid-qmwz-videoSixteenByNine3000.jpg\" alt=\"Federal officials announce the July deadline for states to enforce the Medicaid work‑requirement rule, postponing the Jan. 1 cutoff that would have stripped coverage from many low‑income adults.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Federal officials announce the July deadline for states to enforce the Medicaid work‑requirement rule, postponing the Jan. 1 cutoff that would have stripped coverage from many low‑income adults.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Progressive coverage frames the delay as a win for vulnerable Americans who would have faced loss of health insurance under a punitive work‑requirement. It highlights the human cost of the original policy and underscores the administration’s willingness to backtrack when faced with public pressure. The language stresses systemic inequities and the need to protect a safety net for the poor.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">No neutral or centrist outlet was provided among the source articles.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No conservative/right‑leaning outlet was provided among the source articles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For anyone relying on Medicaid, the postponement buys several months of continued coverage, but the July deadline still looms, so beneficiaries should monitor state announcements about eligibility verification. Watch for state‑level guidance in the next few days to see whether the work‑requirement will be enforced or further delayed.</p>"
+        },
+        {
+          "id": "topic-4",
+          "headline": "France and other European nations see protests over pension reforms as retirees demand more funding",
+          "summary": "Longer life expectancies are stretching public pension systems, prompting governments to consider higher contributions or lower benefits. The resulting street demonstrations highlight a growing generational clash that could influence upcoming elections across the continent.",
+          "tags": [
+            "#Europe",
+            "#Pensions",
+            "#Protests"
+          ],
+          "source_ids": [
+            1
+          ],
+          "sources": [
+            {
+              "source": "Left (NYT Business)",
+              "title": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
+              "url": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-europe-generations-01-lkbm/11int-europe-generations-01-lkbm-videoSixteenByNine3000.jpg",
+            "imageSearchQuery": "France pension reform protests retirees 2024",
+            "caption": "Retirees gather in Paris demanding higher pension funding as the government confronts an ageing population.",
+            "biasLeft": "Progressive coverage frames the protests as a generational clash, stressing that longer life spans force governments to reckon with inadequate pension systems. It highlights the social equity angle, arguing that cutting pensions hurts the most vulnerable seniors. The narrative points to systemic fiscal imbalances that prioritize short‑term cuts over long‑term welfare.",
+            "biasNeutral": "No neutral/center outlet coverage of this specific protest is present in the supplied articles.",
+            "biasRight": "No conservative/right‑leaning outlet coverage of this specific protest is present in the supplied articles.",
+            "reflection": "The issue matters because pension shortfalls directly affect retirees’ living standards and can spill over into tax hikes or cuts to other public services for ordinary citizens. Watch the size of the upcoming protests and any immediate policy response as early signals of how governments will balance fiscal pressure with social demand."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/11/multimedia/11int-europe-generations-01-lkbm/11int-europe-generations-01-lkbm-videoSixteenByNine3000.jpg\" alt=\"Retirees gather in Paris demanding higher pension funding as the government confronts an ageing population.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Retirees gather in Paris demanding higher pension funding as the government confronts an ageing population.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Progressive coverage frames the protests as a generational clash, stressing that longer life spans force governments to reckon with inadequate pension systems. It highlights the social equity angle, arguing that cutting pensions hurts the most vulnerable seniors. The narrative points to systemic fiscal imbalances that prioritize short‑term cuts over long‑term welfare.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">No neutral/center outlet coverage of this specific protest is present in the supplied articles.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No conservative/right‑leaning outlet coverage of this specific protest is present in the supplied articles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>The issue matters because pension shortfalls directly affect retirees’ living standards and can spill over into tax hikes or cuts to other public services for ordinary citizens. Watch the size of the upcoming protests and any immediate policy response as early signals of how governments will balance fiscal pressure with social demand.</p>"
+        },
+        {
+          "id": "topic-5",
+          "headline": "Wall Street banks launch roadshow to market Anthropic's planned AI IPO",
+          "summary": "Investment banks are courting investors for what could become the sector's largest public offering, despite broader market uncertainty. The move signals that capital markets still see strong growth potential in AI‑focused startups.",
+          "tags": [
+            "#Anthropic",
+            "#IPO",
+            "#AI",
+            "#Finance"
+          ],
+          "source_ids": [
+            3
+          ],
+          "sources": [
+            {
+              "source": "Left (NYT Business)",
+              "title": "Wall Street Makes Its Pitch for Anthropic’s I.P.O.",
+              "url": "https://www.nytimes.com/2026/11/13/business/anthropic-ipo-roadshow.html"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://static01.nyt.com/images/2026/11/13/multimedia/13biz-Anthropic-roadshow-01-mhbc/13biz-Anthropic-roadshow-01-mhbc-videoSixteenByNineJumbo1600.jpg",
+            "imageSearchQuery": "Anthropic IPO roadshow Wall Street banks",
+            "caption": "Wall Street firms line up, pitching Anthropic’s AI IPO as the biggest public offering on the horizon",
+            "biasLeft": "The NYT Business piece frames the roadshow as a showcase for AI’s promise amid market uncertainty, noting how investment banks are banking on AI to drive growth. It highlights the potential societal impact of AI democratization and stresses the need for responsible regulation, framing the IPO as a test of tech industry accountability.",
+            "biasNeutral": "The article offers a straightforward overview of the IPO’s scale and the banks involved, pointing out that it could be the largest public offering ever. It signals open questions about valuation and market appetite without delving deeply into ideological angles.",
+            "biasRight": "Conservative or right‑leaning outlets are not represented in the provided articles, so no specific angle can be reported.",
+            "reflection": "For anyone watching the market, Anthropic’s IPO could reshape the AI funding landscape and influence how quickly new tech gets to the public. In the next few days, keep an eye on the pricing guidance released by the banks and any investor reaction that may signal broader appetite for AI‑driven ventures."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/13/multimedia/13biz-Anthropic-roadshow-01-mhbc/13biz-Anthropic-roadshow-01-mhbc-videoSixteenByNineJumbo1600.jpg\" alt=\"Wall Street firms line up, pitching Anthropic’s AI IPO as the biggest public offering on the horizon\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Wall Street firms line up, pitching Anthropic’s AI IPO as the biggest public offering on the horizon</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The NYT Business piece frames the roadshow as a showcase for AI’s promise amid market uncertainty, noting how investment banks are banking on AI to drive growth. It highlights the potential societal impact of AI democratization and stresses the need for responsible regulation, framing the IPO as a test of tech industry accountability.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The article offers a straightforward overview of the IPO’s scale and the banks involved, pointing out that it could be the largest public offering ever. It signals open questions about valuation and market appetite without delving deeply into ideological angles.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Conservative or right‑leaning outlets are not represented in the provided articles, so no specific angle can be reported.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For anyone watching the market, Anthropic’s IPO could reshape the AI funding landscape and influence how quickly new tech gets to the public. In the next few days, keep an eye on the pricing guidance released by the banks and any investor reaction that may signal broader appetite for AI‑driven ventures.</p>"
         }
       ],
       "rawCount": 15
