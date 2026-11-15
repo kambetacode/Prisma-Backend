@@ -1,52 +1,96 @@
 {
-  "last_updated": "2026-11-14T22:00:16.554Z",
+  "last_updated": "2026-11-15T05:00:23.754Z",
   "language": "en",
   "categories": {
     "GLOBAL_MACRO": {
       "items": [
         {
-          "id": "topic-1",
-          "headline": "SpaceX attempts second recovery of Starship booster after ocean splashdown",
-          "summary": "After the first attempt failed, SpaceX fired the Starship's booster back toward Earth for a second catch, hoping to demonstrate the reusability that could lower launch costs. The outcome will influence the company's schedule for future deep‑space missions.",
+          "id": "trump-controversies",
+          "headline": "U.S. courts block Trump's plan to close DC golf course as his Venezuelan oil claim sparks diplomatic pushback",
+          "summary": "A judge has temporarily halted President Donald Trump's effort to shut East Potomac Golf Links for renovation, while his administration's attempt to claim Venezuela's oil reserves has drawn sharp criticism from Caracas and raised questions about U.S. foreign policy. The two disputes illustrate how legal challenges and international disputes are converging around the president’s agenda.",
           "tags": [
-            "#SpaceX",
-            "#Starship",
-            "#Aerospace"
+            "#Trump",
+            "#Legal",
+            "#Venezuela",
+            "#USPolitics"
           ],
           "source_ids": [
-            0
+            0,
+            12
           ],
           "sources": [
             {
               "source": "Neutral (BBC)",
-              "title": "Second catch attempt as SpaceX Starship rocket heads back to Earth",
-              "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
+              "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+              "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "Left (NYT)",
+              "title": "Trump’s Oil Grab in Venezuela Is Testing the Country’s National Identity",
+              "url": "https://www.nytimes.com/2026/11/14/world/americas/trump-venezuela-oil.html"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0e6d/live/64bc2ef0-e03c-11f1-b441-2b33b063138f.jpg",
-            "imageSearchQuery": "SpaceX Starship booster ocean splashdown recovery attempt",
-            "caption": "SpaceX watches its massive Starship booster bobbing in the Atlantic as engineers gear up for a second drone‑ship catch.",
-            "biasLeft": "Left‑leaning outlets did not cover this specific topic in the provided articles.",
-            "biasNeutral": "The BBC report sticks to the facts: after the booster missed the first catch and landed in the sea, SpaceX is staging a second recovery attempt. It notes the technical challenge of snatching a 1,000‑tonne vehicle from the ocean and the implications for the company's reusable‑rocket strategy. The piece also mentions the timing of the next launch window.",
-            "biasRight": "Right‑leaning outlets did not cover this specific topic in the provided articles.",
-            "reflection": "Successful sea recovery would cut launch costs and speed up satellite deployment, directly affecting the price of services that everyday users rely on, like broadband and GPS. Keep an eye on whether the second catch works; it will be a concrete barometer of how quickly Starship can become a routine, cost‑effective launch system."
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4be0/live/054b94d0-e09e-11f1-a701-fddedf244c16.jpg",
+            "imageSearchQuery": "Trump Washington DC East Potomac Golf Links court injunction",
+            "caption": "A judge’s temporary injunction stalls Donald Trump’s effort to shutter the historic East Potomac Golf Links for renovation.",
+            "biasLeft": "The New York Times frames the oil claim as an aggressive U.S. power grab that threatens Venezuela’s sense of national identity and sovereignty. It highlights the human impact on Venezuelans, portraying the move as an affront to a country still scarred by external interference. Language leans toward criticism of American imperialism and the erosion of Venezuela’s control over its resources.",
+            "biasNeutral": "The BBC sticks to the procedural facts: a federal judge issued a temporary order preventing Trump from closing the DC golf course. It notes the legal basis, the timing of the renovation plan, and the broader context of ongoing challenges to the president’s proposals. The report avoids editorializing, focusing on the court’s decision and its immediate effect.",
+            "biasRight": "No right‑leaning outlet covering this specific combination of topics was provided.",
+            "reflection": "For everyday Americans, the injunction shows how the judiciary can check presidential actions that affect public lands, reminding citizens that even high‑profile projects are subject to legal scrutiny. In the coming days watch for any appellate rulings or a revised renovation proposal, and for diplomatic statements from Venezuela responding to the oil claim, as both could shift policy momentum."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0e6d/live/64bc2ef0-e03c-11f1-b441-2b33b063138f.jpg\" alt=\"SpaceX watches its massive Starship booster bobbing in the Atlantic as engineers gear up for a second drone‑ship catch.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">SpaceX watches its massive Starship booster bobbing in the Atlantic as engineers gear up for a second drone‑ship catch.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left‑leaning outlets did not cover this specific topic in the provided articles.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC report sticks to the facts: after the booster missed the first catch and landed in the sea, SpaceX is staging a second recovery attempt. It notes the technical challenge of snatching a 1,000‑tonne vehicle from the ocean and the implications for the company&#39;s reusable‑rocket strategy. The piece also mentions the timing of the next launch window.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Right‑leaning outlets did not cover this specific topic in the provided articles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>Successful sea recovery would cut launch costs and speed up satellite deployment, directly affecting the price of services that everyday users rely on, like broadband and GPS. Keep an eye on whether the second catch works; it will be a concrete barometer of how quickly Starship can become a routine, cost‑effective launch system.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4be0/live/054b94d0-e09e-11f1-a701-fddedf244c16.jpg\" alt=\"A judge’s temporary injunction stalls Donald Trump’s effort to shutter the historic East Potomac Golf Links for renovation.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">A judge’s temporary injunction stalls Donald Trump’s effort to shutter the historic East Potomac Golf Links for renovation.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The New York Times frames the oil claim as an aggressive U.S. power grab that threatens Venezuela’s sense of national identity and sovereignty. It highlights the human impact on Venezuelans, portraying the move as an affront to a country still scarred by external interference. Language leans toward criticism of American imperialism and the erosion of Venezuela’s control over its resources.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC sticks to the procedural facts: a federal judge issued a temporary order preventing Trump from closing the DC golf course. It notes the legal basis, the timing of the renovation plan, and the broader context of ongoing challenges to the president’s proposals. The report avoids editorializing, focusing on the court’s decision and its immediate effect.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No right‑leaning outlet covering this specific combination of topics was provided.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday Americans, the injunction shows how the judiciary can check presidential actions that affect public lands, reminding citizens that even high‑profile projects are subject to legal scrutiny. In the coming days watch for any appellate rulings or a revised renovation proposal, and for diplomatic statements from Venezuela responding to the oil claim, as both could shift policy momentum.</p>"
         },
         {
-          "id": "topic-2",
-          "headline": "Ukrainian leader says US floated Donbas concession for NATO entry while drone‑guidance system faces new restrictions",
-          "summary": "President Zelensky reported that Washington hinted Ukraine might give up the Donbas region in exchange for NATO membership, a claim the State Department has not confirmed. At the same time, Kyiv says access to the Starshield satellite network used to control drones is being throttled, raising concerns over operational capacity in occupied territories.",
+          "id": "bukele-haiti",
+          "headline": "El Salvador's Bukele deploys armed robot dogs and air strikes in Haiti's gang crackdown",
+          "summary": "President Nayib Bukele released footage of rifle‑mounted robot dogs entering a stadium and later ordered helicopter attacks on a gang compound, deepening the joint Salvadoran‑Haitian operation aimed at dismantling powerful criminal networks. The use of advanced robotics and air power marks a new, controversial phase in Haiti's fight against entrenched gangs.",
+          "tags": [
+            "#Haiti",
+            "#Bukele",
+            "#GangWar",
+            "#RoboticWeapons"
+          ],
+          "source_ids": [
+            2,
+            14
+          ],
+          "sources": [
+            {
+              "source": "Right (Fox)",
+              "title": "Robot dogs mounted with rifles deployed in anti-gang stadium operation in Haiti",
+              "url": "https://www.foxnews.com/world/robot-dogs-mounted-rifles-deployed-anti-gang-stadium-operation-haiti"
+            },
+            {
+              "source": "Right (Fox)",
+              "title": "El Salvador-backed air assault destroys Haiti gang headquarters amid search for missing troops",
+              "url": "https://www.foxnews.com/world/el-salvador-air-assault-destroys-haiti-gang-headquarters-search-missing-troops"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/robot-el-salvdor.gif",
+            "imageSearchQuery": "Bukele robot dogs Haiti stadium crackdown",
+            "caption": "Armed robot dogs roll into Sylvio Cator Stadium as Salvadoran forces join Haitian police in a high‑tech gang raid.",
+            "biasLeft": "Left‑leaning outlets did not cover this story in the provided articles.",
+            "biasNeutral": "Center or wire services did not cover this story in the provided articles.",
+            "biasRight": "Conservative coverage frames the deployment as a bold, decisive security move, emphasizing Bukele's willingness to use cutting‑edge technology and air power to restore order and protect sovereignty. It highlights the effectiveness of the strike that smashed a gang headquarters and the rescue narrative of missing Salvadoran troops. Economic angles are downplayed in favor of a narrative about law‑and‑order triumph.",
+            "reflection": "For ordinary Haitians, the presence of armed robot dogs and air strikes signals a dramatic escalation that could either curb gang violence or deepen civilian fear. Watch for any statements from Haitian authorities about civilian safety and for follow‑up reports on the missing Salvadoran personnel, which will indicate how sustainable this foreign‑led intervention is."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/11/robot-el-salvdor.gif\" alt=\"Armed robot dogs roll into Sylvio Cator Stadium as Salvadoran forces join Haitian police in a high‑tech gang raid.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Armed robot dogs roll into Sylvio Cator Stadium as Salvadoran forces join Haitian police in a high‑tech gang raid.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left‑leaning outlets did not cover this story in the provided articles.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">Center or wire services did not cover this story in the provided articles.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Conservative coverage frames the deployment as a bold, decisive security move, emphasizing Bukele&#39;s willingness to use cutting‑edge technology and air power to restore order and protect sovereignty. It highlights the effectiveness of the strike that smashed a gang headquarters and the rescue narrative of missing Salvadoran troops. Economic angles are downplayed in favor of a narrative about law‑and‑order triumph.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For ordinary Haitians, the presence of armed robot dogs and air strikes signals a dramatic escalation that could either curb gang violence or deepen civilian fear. Watch for any statements from Haitian authorities about civilian safety and for follow‑up reports on the missing Salvadoran personnel, which will indicate how sustainable this foreign‑led intervention is.</p>"
+        },
+        {
+          "id": "ukraine-diplomacy-military",
+          "headline": "U.S. discusses Donbas concession for NATO entry as Ukraine reports Starshield drone‑guidance restrictions",
+          "summary": "Washington is reportedly weighing a proposal that Ukraine cede the Donbas region in exchange for NATO membership, while Kyiv says its Starshield satellite system for guiding drones is being throttled—a claim SpaceX denies. The twin diplomatic and technical hurdles underscore the complexity of securing Ukraine's long‑term security.",
           "tags": [
             "#Ukraine",
             "#NATO",
-            "#USPolicy",
+            "#Donbas",
             "#Starshield"
           ],
           "source_ids": [
-            1,
-            9
+            3,
+            10
           ],
           "sources": [
             {
@@ -61,30 +105,29 @@
             }
           ],
           "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
-            "imageSearchQuery": "Zelensky Donbas NATO concession US",
-            "caption": "Zelensky says the United States hinted Ukraine must surrender the Donbas to join NATO, even as its Starshield drone‑guidance system is hit with new limits.",
-            "biasLeft": "The NYT piece frames the Starshield throttling as another symptom of Western tech being weaponised against Ukraine, emphasizing the human cost of losing drone‑guidance capability. It leans on SpaceX’s denial to underline a narrative of opaque decision‑making that harms Ukraine’s defense. The language hints at a systemic pattern of pressure on Kyiv from both Russia and reluctant allies.",
-            "biasNeutral": "The BBC report sticks to the facts: Zelensky’s claim, the lack of official US confirmation, and the context of recent talks with Moscow. It highlights the diplomatic ambiguity and leaves the reader with unanswered questions about any concrete policy shift. The tone remains descriptive without taking a side.",
-            "biasRight": "No right‑leaning outlet coverage of these specific points is present in the supplied articles.",
-            "reflection": "For ordinary citizens, the debate over a Donbas concession touches on national sovereignty, while the Starshield restriction directly affects Ukraine’s ability to defend its skies. Watch for any official US clarification on the concession idea and for updates on the operational status of the drone‑guidance system in the coming days."
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fc82/live/f8afbeb0-e087-11f1-b780-31cc9daf154a.jpg",
+            "imageSearchQuery": "US Ukraine Donbas NATO concession Zelensky Starshield",
+            "caption": "Zelensky pushes a Donbas concession for NATO entry while Ukraine battles satellite‑linked drone‑guidance throttling.",
+            "biasLeft": "The New York Times frames the Starshield issue as a humanitarian and strategic vulnerability, stressing how the throttling hampers Ukraine’s defense and hinting at corporate pressure on SpaceX. It underscores the human cost of losing drone‑guidance capability over occupied territories. The tone is critical of any constraints that weaken Kyiv’s resistance.",
+            "biasNeutral": "The BBC sticks to the facts: a U.S. official said “many ideas continue to be discussed” after Zelensky claimed the U.S. floated a Donbas concession for NATO membership, but the U.S. has not confirmed it. The piece avoids speculation and simply reports the lack of official confirmation.",
+            "biasRight": "No right‑leaning outlet coverage of this specific combination of topics was provided.",
+            "reflection": "For ordinary citizens, the two issues affect both security and daily life: a NATO accession could reshape regional stability, while reduced Starshield access directly limits Ukraine’s ability to defend its cities. Watch for any official U.S. statement on the Donbas proposal and for updates from SpaceX or the Pentagon on the satellite‑link restrictions in the coming days."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg\" alt=\"Zelensky says the United States hinted Ukraine must surrender the Donbas to join NATO, even as its Starshield drone‑guidance system is hit with new limits.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Zelensky says the United States hinted Ukraine must surrender the Donbas to join NATO, even as its Starshield drone‑guidance system is hit with new limits.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The NYT piece frames the Starshield throttling as another symptom of Western tech being weaponised against Ukraine, emphasizing the human cost of losing drone‑guidance capability. It leans on SpaceX’s denial to underline a narrative of opaque decision‑making that harms Ukraine’s defense. The language hints at a systemic pattern of pressure on Kyiv from both Russia and reluctant allies.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC report sticks to the facts: Zelensky’s claim, the lack of official US confirmation, and the context of recent talks with Moscow. It highlights the diplomatic ambiguity and leaves the reader with unanswered questions about any concrete policy shift. The tone remains descriptive without taking a side.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No right‑leaning outlet coverage of these specific points is present in the supplied articles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For ordinary citizens, the debate over a Donbas concession touches on national sovereignty, while the Starshield restriction directly affects Ukraine’s ability to defend its skies. Watch for any official US clarification on the concession idea and for updates on the operational status of the drone‑guidance system in the coming days.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fc82/live/f8afbeb0-e087-11f1-b780-31cc9daf154a.jpg\" alt=\"Zelensky pushes a Donbas concession for NATO entry while Ukraine battles satellite‑linked drone‑guidance throttling.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Zelensky pushes a Donbas concession for NATO entry while Ukraine battles satellite‑linked drone‑guidance throttling.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The New York Times frames the Starshield issue as a humanitarian and strategic vulnerability, stressing how the throttling hampers Ukraine’s defense and hinting at corporate pressure on SpaceX. It underscores the human cost of losing drone‑guidance capability over occupied territories. The tone is critical of any constraints that weaken Kyiv’s resistance.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC sticks to the facts: a U.S. official said “many ideas continue to be discussed” after Zelensky claimed the U.S. floated a Donbas concession for NATO membership, but the U.S. has not confirmed it. The piece avoids speculation and simply reports the lack of official confirmation.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No right‑leaning outlet coverage of this specific combination of topics was provided.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For ordinary citizens, the two issues affect both security and daily life: a NATO accession could reshape regional stability, while reduced Starshield access directly limits Ukraine’s ability to defend its cities. Watch for any official U.S. statement on the Donbas proposal and for updates from SpaceX or the Pentagon on the satellite‑link restrictions in the coming days.</p>"
         },
         {
-          "id": "topic-3",
-          "headline": "Iranian operatives convicted in Europe as Tehran claims strike on Omani island in Hormuz",
-          "summary": "British courts sentenced two men for spying for Iran, while France accused the IRGC of cyber attacks, highlighting Tehran's covert campaign across the continent. Iran also announced that its Revolutionary Guard damaged navigation equipment on Oman's Didamar Island, a claim Omani officials deny, underscoring rising tensions in a key shipping lane.",
+          "id": "iran-europe-operations",
+          "headline": "Iranian agents implicated in a series of attacks and spy convictions across Europe",
+          "summary": "Prosecutors have detailed a coordinated campaign in which Iran targeted European sites and conducted cyber‑espionage, leading to the conviction of two men in Britain and accusations of IRGC involvement in France. The revelations heighten security concerns among U.S. allies and underscore Tehran's expanding covert reach.",
           "tags": [
             "#Iran",
             "#Espionage",
-            "#MiddleEast",
-            "#Hormuz"
+            "#Europe",
+            "#Security"
           ],
           "source_ids": [
-            2,
-            12,
-            14
+            4,
+            13
           ],
           "sources": [
             {
@@ -96,129 +139,49 @@
               "source": "Right (Fox)",
               "title": "Iran's shadow operations stretch across Europe as chilling spy convictions expose Tehran's reach",
               "url": "https://www.foxnews.com/world/irans-shadow-operations-stretch-across-europe-chilling-spy-convictions-expose-tehrans-reach"
-            },
-            {
-              "source": "Right (Fox)",
-              "title": "Iran escalates in Hormuz, claims strike on Omani island it says 'enemy' uses for US military ops",
-              "url": "https://www.foxnews.com/world/iran-escalates-hormuz-claims-strike-omani-island-enemy-uses-us-military-ops"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/iran-boat.gif",
-            "imageSearchQuery": "Didamar Island Iran Revolutionary Guard strike navigation equipment Hormuz Strait",
-            "caption": "Iranian Revolutionary Guard vessels allegedly fire on navigation gear on Oman's Didamar Island, a flashpoint in the Hormuz Strait.",
-            "biasLeft": "The NYT piece frames Iran’s covert operations as a systematic campaign that spreads fear across Europe and targets U.S. allies, emphasizing the human impact of the assaults and portraying Tehran as a destabilizing force. It uses language that highlights victimhood and the broader geopolitical menace posed by Iranian agents.",
-            "biasNeutral": "No explicitly centrist or wire‑service article was provided among the sources, so a neutral perspective is absent from this set.",
-            "biasRight": "Fox News stresses the security and sovereignty implications, spotlighting the spy convictions in Britain and accusing Iran of cyber‑attacks, sleeper cells, and a bold strike on Didamar Island. The coverage leans on the threat to Western interests and the potential economic fallout in the vital oil corridor.",
-            "reflection": "For everyday citizens, the convergence of European spy convictions and a claimed strike in Hormuz signals that Iran’s covert reach could affect both local safety and global energy prices. Watch for official statements from Britain, France, and Oman in the coming days to gauge whether diplomatic pressure or retaliatory measures are forthcoming."
+            "imageUrl": "https://static01.nyt.com/images/2026/11/14/multimedia/14uk-iran-attacks-02-fqwm/14uk-iran-attacks-02-fqwm-videoSixteenByNine3000.jpg",
+            "imageSearchQuery": "Iranian agents attacks Europe London 2026 spy convictions",
+            "caption": "Iranian operatives linked to a string of spring assaults across Britain and the continent, fueling new security alerts.",
+            "biasLeft": "The NYT story underscores how Iran's covert operations sowed fear among ordinary Europeans and framed the attacks as part of a broader pattern of targeting U.S. allies. It leans into the human impact and the systemic threat to liberal democracies. The tone suggests a moral indictment of Tehran’s state‑sponsored violence.",
+            "biasNeutral": "Both pieces lay out the basic facts: a wave of assaults in the spring, two men convicted of spying in Britain, and accusations from France and the UAE of IRGC cyber‑attacks and sleeper cells. They note the prosecutors' revelations and the cross‑national nature of the investigations without overt editorializing.",
+            "biasRight": "The Fox article spotlights the security and sovereignty risks, stressing that Iran’s “shadow operations” jeopardize national safety and economic stability. It highlights the need for tougher counter‑espionage measures and frames the spy convictions as a vindication of law‑enforcement vigilance.",
+            "reflection": "For everyday citizens, the story signals that Iran’s covert reach could affect travel safety, digital privacy, and even job markets tied to defense contracts. In the coming days watch for official travel advisories from the UK and France and any parliamentary moves on tightening espionage laws."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/11/iran-boat.gif\" alt=\"Iranian Revolutionary Guard vessels allegedly fire on navigation gear on Oman&#39;s Didamar Island, a flashpoint in the Hormuz Strait.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Iranian Revolutionary Guard vessels allegedly fire on navigation gear on Oman&#39;s Didamar Island, a flashpoint in the Hormuz Strait.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The NYT piece frames Iran’s covert operations as a systematic campaign that spreads fear across Europe and targets U.S. allies, emphasizing the human impact of the assaults and portraying Tehran as a destabilizing force. It uses language that highlights victimhood and the broader geopolitical menace posed by Iranian agents.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">No explicitly centrist or wire‑service article was provided among the sources, so a neutral perspective is absent from this set.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Fox News stresses the security and sovereignty implications, spotlighting the spy convictions in Britain and accusing Iran of cyber‑attacks, sleeper cells, and a bold strike on Didamar Island. The coverage leans on the threat to Western interests and the potential economic fallout in the vital oil corridor.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday citizens, the convergence of European spy convictions and a claimed strike in Hormuz signals that Iran’s covert reach could affect both local safety and global energy prices. Watch for official statements from Britain, France, and Oman in the coming days to gauge whether diplomatic pressure or retaliatory measures are forthcoming.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/14/multimedia/14uk-iran-attacks-02-fqwm/14uk-iran-attacks-02-fqwm-videoSixteenByNine3000.jpg\" alt=\"Iranian operatives linked to a string of spring assaults across Britain and the continent, fueling new security alerts.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Iranian operatives linked to a string of spring assaults across Britain and the continent, fueling new security alerts.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The NYT story underscores how Iran&#39;s covert operations sowed fear among ordinary Europeans and framed the attacks as part of a broader pattern of targeting U.S. allies. It leans into the human impact and the systemic threat to liberal democracies. The tone suggests a moral indictment of Tehran’s state‑sponsored violence.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">Both pieces lay out the basic facts: a wave of assaults in the spring, two men convicted of spying in Britain, and accusations from France and the UAE of IRGC cyber‑attacks and sleeper cells. They note the prosecutors&#39; revelations and the cross‑national nature of the investigations without overt editorializing.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">The Fox article spotlights the security and sovereignty risks, stressing that Iran’s “shadow operations” jeopardize national safety and economic stability. It highlights the need for tougher counter‑espionage measures and frames the spy convictions as a vindication of law‑enforcement vigilance.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday citizens, the story signals that Iran’s covert reach could affect travel safety, digital privacy, and even job markets tied to defense contracts. In the coming days watch for official travel advisories from the UK and France and any parliamentary moves on tightening espionage laws.</p>"
         },
         {
-          "id": "topic-4",
-          "headline": "Europe grapples with pension‑funding protests and rising security fears, while EU fines Meta for photo‑data misuse",
-          "summary": "Long‑standing pension reforms have sparked mass demonstrations in France and elsewhere, as aging populations strain public finances. Concurrently, the European Commission levied an €805 million fine on Meta for accessing users' photos without consent, reflecting growing scrutiny of tech giants' data practices.",
+          "id": "pope-visit",
+          "headline": "Pope Francis visits remote Andes town, speaks of community suffering",
+          "summary": "During a stop in Santa Cruz de Succhabamba, the pontiff highlighted the hardships endured by residents and recalled his years as bishop of the Chiclayo diocese, urging greater solidarity and support for the isolated community. The visit aims to bring global attention to the region’s social and economic challenges.",
           "tags": [
-            "#Europe",
-            "#Pensions",
-            "#Protests",
-            "#Meta",
-            "#Privacy"
+            "#PopeFrancis",
+            "#Andes",
+            "#Peru",
+            "#CatholicChurch"
           ],
           "source_ids": [
-            5,
-            10,
-            6
-          ],
-          "sources": [
-            {
-              "source": "Left (NYT)",
-              "title": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
-              "url": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html"
-            },
-            {
-              "source": "Right (Fox)",
-              "title": "Inside Arab nation's battle against radicalism as top official warns of threat brewing on Europe's streets",
-              "url": "https://www.foxnews.com/world/inside-arab-nations-battle-against-radicalism-top-official-warns-threat-brewing-europes-streets"
-            },
-            {
-              "source": "Neutral (BBC)",
-              "title": "Italy fines Meta €805m over accessing users' photos",
-              "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://static01.nyt.com/images/2026/11/14/multimedia/14int-europe-generations-vjbt/14int-europe-generations-vjbt-videoSixteenByNine3000.jpg",
-            "imageSearchQuery": "Europe pension protests Meta fine Italy",
-            "caption": "Protesters march through French streets demanding pension reform while EU regulators move to fine Meta €805 million for covertly accessing users' photos.",
-            "biasLeft": "Progressive outlets frame the unrest as a symptom of an aging population bearing the brunt of fiscal short‑changes, stressing intergenerational equity and the need for stronger social safety nets. They portray retirees as victims of austerity and call for systemic reform rather than isolated policy tweaks.",
-            "biasNeutral": "The BBC sticks to the hard facts: Italy has imposed an €805 million penalty on Meta for collecting photos without informing roughly 20 million users, outlining the alleged breach and the legal basis. It refrains from editorializing, simply presenting the regulatory action and its scope.",
-            "biasRight": "Conservative coverage pivots to security, citing a UAE official who warns that the wave of European protests could spill over into radical threats, urging education on coexistence. The narrative ties civil unrest to broader national‑security concerns and the need for vigilance.",
-            "reflection": "For everyday citizens, the pension protests could translate into delayed or reduced retirement benefits, while the Meta fine highlights ongoing privacy risks on platforms they use daily. Watch for any new EU legislation on pension funding and for further regulatory steps against tech firms in the coming week."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/14/multimedia/14int-europe-generations-vjbt/14int-europe-generations-vjbt-videoSixteenByNine3000.jpg\" alt=\"Protesters march through French streets demanding pension reform while EU regulators move to fine Meta €805 million for covertly accessing users&#39; photos.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Protesters march through French streets demanding pension reform while EU regulators move to fine Meta €805 million for covertly accessing users&#39; photos.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Progressive outlets frame the unrest as a symptom of an aging population bearing the brunt of fiscal short‑changes, stressing intergenerational equity and the need for stronger social safety nets. They portray retirees as victims of austerity and call for systemic reform rather than isolated policy tweaks.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC sticks to the hard facts: Italy has imposed an €805 million penalty on Meta for collecting photos without informing roughly 20 million users, outlining the alleged breach and the legal basis. It refrains from editorializing, simply presenting the regulatory action and its scope.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Conservative coverage pivots to security, citing a UAE official who warns that the wave of European protests could spill over into radical threats, urging education on coexistence. The narrative ties civil unrest to broader national‑security concerns and the need for vigilance.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday citizens, the pension protests could translate into delayed or reduced retirement benefits, while the Meta fine highlights ongoing privacy risks on platforms they use daily. Watch for any new EU legislation on pension funding and for further regulatory steps against tech firms in the coming week.</p>"
-        },
-        {
-          "id": "topic-5",
-          "headline": "From US flight shutdown to Bahamas drownings, Philippines Eurovision win and South Sudan election delay, global headlines span safety, culture and democracy",
-          "summary": "A faulty copper‑wire upgrade forced the US Federal Aviation Administration to halt nationwide flights, prompting calls for accountability. Meanwhile, two American tourists drowned in the Bahamas, the Philippines celebrated its first Eurovision victory, South Sudan postponed its long‑overdue national election, and a US‑backed Salvadoran airstrike targeted a Haitian gang stronghold, illustrating a week of diverse international challenges.",
-          "tags": [
-            "#Aviation",
-            "#Bahamas",
-            "#Eurovision",
-            "#SouthSudan",
-            "#Haiti"
-          ],
-          "source_ids": [
-            3,
-            4,
-            7,
-            8,
-            11,
-            13
+            1
           ],
           "sources": [
             {
               "source": "Neutral (BBC)",
-              "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-              "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "Right (Fox)",
-              "title": "Two Americans drown after Caribbean current pulls them out to sea",
-              "url": "https://www.foxnews.com/world/two-americans-drowned-strong-current-ripped-them-bahaman-sea-police-say"
-            },
-            {
-              "source": "Neutral (BBC)",
-              "title": "Philippines wins first Eurovision Song Contest Asia ",
-              "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "Left (NYT)",
-              "title": "South Sudan’s National Election, Its First, Will Be Delayed",
-              "url": "https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html"
-            },
-            {
-              "source": "Left (NYT)",
-              "title": "Trump’s Oil Grab in Venezuela Is Testing the Country’s National Identity",
-              "url": "https://www.nytimes.com/2026/11/14/world/americas/trump-venezuela-oil.html"
-            },
-            {
-              "source": "Right (Fox)",
-              "title": "El Salvador-backed air assault destroys Haiti gang headquarters amid search for missing troops",
-              "url": "https://www.foxnews.com/world/el-salvador-air-assault-destroys-haiti-gang-headquarters-search-missing-troops"
+              "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+              "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea11/live/3adfb390-e05f-11f1-9e26-b3b65586122f.jpg",
-            "imageSearchQuery": "US flight suspension copper wire upgrade chaos",
-            "caption": "Air traffic across the United States stalled after a copper‑wire upgrade sparked a nationwide grounding, leaving travelers stranded and regulators scrambling for answers.",
-            "biasLeft": "Progressive outlets frame South Sudan's postponed election as a symptom of a deeper legitimacy crisis, stressing the need for inclusive, transparent voting after more than a decade of political void. They also portray Trump's claim on Venezuela's oil as an assault on sovereign rights, highlighting the historic importance of national control over natural resources.",
-            "biasNeutral": "Center‑leaning reports stick to the facts: the FAA is probing whether the flight shutdown was caused by human error or faulty equipment, and the Philippines' Eurovision victory is presented as a cultural milestone with a focus on the winning song’s theme of women's empowerment. Both pieces note open questions without taking a partisan stance.",
-            "biasRight": "Conservative coverage zeroes in on personal safety and security: the Bahamas incident is framed as a tragic reminder to respect warning signs and strong currents, while the El Salvador‑backed air strike in Haiti is highlighted as decisive action against gangs and a display of regional security cooperation. Economic and sovereignty angles are foregrounded in the Venezuelan oil story, casting U.S. claims as a strategic move.",
-            "reflection": "These headlines matter because they affect everyday life—whether you’re booking a flight, vacationing abroad, or watching a global music contest. In the coming days watch for the FAA’s findings on the flight shutdown, any policy shifts after the Philippines win, and diplomatic signals from South Sudan and Venezuela that could reshape regional stability."
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/80df/live/ea970890-e09d-11f1-a298-b1f4784d44cc.jpg",
+            "imageSearchQuery": "Pope Francis Santa Cruz de Succhabamba Andes visit",
+            "caption": "Pope Francis stands before modest homes in Santa Cruz de Succhabamba, listening to locals describe their hardships.",
+            "biasLeft": "No progressive/left-leaning coverage is present in the supplied articles.",
+            "biasNeutral": "The BBC piece sticks to the facts: it notes the town’s location, its link to the Diocese of Chiclayo, and the Pope’s previous role as bishop there, while quoting his comment on community suffering.",
+            "biasRight": "No conservative/right‑leaning coverage is present in the supplied articles.",
+            "reflection": "The visit puts a remote Andean community into the global spotlight, which could translate into concrete aid or policy focus. Watch for any announcements from the Vatican or Chilean authorities in the coming days regarding support for the area."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea11/live/3adfb390-e05f-11f1-9e26-b3b65586122f.jpg\" alt=\"Air traffic across the United States stalled after a copper‑wire upgrade sparked a nationwide grounding, leaving travelers stranded and regulators scrambling for answers.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Air traffic across the United States stalled after a copper‑wire upgrade sparked a nationwide grounding, leaving travelers stranded and regulators scrambling for answers.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Progressive outlets frame South Sudan&#39;s postponed election as a symptom of a deeper legitimacy crisis, stressing the need for inclusive, transparent voting after more than a decade of political void. They also portray Trump&#39;s claim on Venezuela&#39;s oil as an assault on sovereign rights, highlighting the historic importance of national control over natural resources.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">Center‑leaning reports stick to the facts: the FAA is probing whether the flight shutdown was caused by human error or faulty equipment, and the Philippines&#39; Eurovision victory is presented as a cultural milestone with a focus on the winning song’s theme of women&#39;s empowerment. Both pieces note open questions without taking a partisan stance.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Conservative coverage zeroes in on personal safety and security: the Bahamas incident is framed as a tragic reminder to respect warning signs and strong currents, while the El Salvador‑backed air strike in Haiti is highlighted as decisive action against gangs and a display of regional security cooperation. Economic and sovereignty angles are foregrounded in the Venezuelan oil story, casting U.S. claims as a strategic move.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>These headlines matter because they affect everyday life—whether you’re booking a flight, vacationing abroad, or watching a global music contest. In the coming days watch for the FAA’s findings on the flight shutdown, any policy shifts after the Philippines win, and diplomatic signals from South Sudan and Venezuela that could reshape regional stability.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/80df/live/ea970890-e09d-11f1-a298-b1f4784d44cc.jpg\" alt=\"Pope Francis stands before modest homes in Santa Cruz de Succhabamba, listening to locals describe their hardships.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Pope Francis stands before modest homes in Santa Cruz de Succhabamba, listening to locals describe their hardships.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">No progressive/left-leaning coverage is present in the supplied articles.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC piece sticks to the facts: it notes the town’s location, its link to the Diocese of Chiclayo, and the Pope’s previous role as bishop there, while quoting his comment on community suffering.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No conservative/right‑leaning coverage is present in the supplied articles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>The visit puts a remote Andean community into the global spotlight, which could translate into concrete aid or policy focus. Watch for any announcements from the Vatican or Chilean authorities in the coming days regarding support for the area.</p>"
         }
       ],
       "rawCount": 15
@@ -227,12 +190,12 @@
       "items": [
         {
           "id": "topic-1",
-          "headline": "Nvidia co‑founder Jensen Huang resigns after undisclosed relationship controversy",
-          "summary": "Huang stepped down after it emerged he had hidden a personal relationship with a customer, prompting board action and sparking debate in Silicon Valley about leadership ethics. The episode also puts pressure on Singapore, a key hub for Nvidia’s chip operations, to address governance concerns.",
+          "headline": "Nvidia CEO Jensen Huang resigns after undisclosed relationship scandal, shaking Silicon Valley and Singapore’s chip hub",
+          "summary": "The revelation that Huang had hidden a personal relationship with a customer led to his abrupt departure from the company he founded, prompting an outpouring of support from fellow tech leaders while raising questions about corporate governance in the global chip industry, especially in Singapore where many chip firms operate. The episode underscores how personal conduct can reverberate through the tightly knit tech ecosystem.",
           "tags": [
             "#Nvidia",
-            "#Leadership",
-            "#SiliconValley",
+            "#JensenHuang",
+            "#TechScandal",
             "#Singapore"
           ],
           "source_ids": [
@@ -264,25 +227,25 @@
             }
           ],
           "deepDive": {
-            "imageUrl": "https://static01.nyt.com/images/2026/11/13/multimedia/BIZ-JENSEN-CRASH-1-01-ljmc/BIZ-JENSEN-CRASH-1-01-ljmc-videoSixteenByNine3000.jpg",
-            "imageSearchQuery": "Jensen Huang resignation scandal Nvidia cofounder relationship controversy",
-            "caption": "Nvidia’s founder Jensen Huang steps down amid a concealed relationship that sparked a boardroom shake‑up.",
-            "biasLeft": "Left‑leaning coverage frames the episode as a moral failure, emphasizing Huang’s secrecy and the broader pattern of powerful men hiding personal misconduct. The narrative leans on language like “downfall” and “stupidly” to spotlight systemic issues of entitlement in Silicon Valley. It also spotlights the outpouring of support from tech peers as a contrast to the scandal’s gravity.",
-            "biasNeutral": "Neutral reporting zeroes in on the geopolitical fallout, noting how the scandal throws a spotlight on Singapore’s role as a chip hub and raises questions about illicit trade links. It sticks to concrete facts about the resignation and its immediate business ramifications without moralizing.",
-            "biasRight": "No right‑leaning sources are represented in the provided articles.",
-            "reflection": "The resignation shakes investor confidence in Nvidia, a linchpin of the AI hardware market, and could ripple through chip supply chains. Watch for the board’s successor announcement and any share‑price volatility in the next few days, as they will signal how quickly the market digests the leadership vacuum."
+            "imageUrl": "https://static01.nyt.com/images/2026/11/13/multimedia/BIZ-JENSEN-CRASH-1-01-ljmc/BIZ-JENSEN-CRASH-1-01-ljmc-videoSixteenByNine3000-v2.jpg",
+            "imageSearchQuery": "Jensen Huang resignation scandal Nvidia Singapore chip hub",
+            "caption": "Nvidia’s founder Jensen Huang walks away after a hidden affair toppled the company and rattled Singapore’s chip ambitions.",
+            "biasLeft": "The NYT pieces frame Huang’s fall as a personal betrayal that exposed a culture of secrecy at the top of a tech empire. They stress the human cost, questioning why powerful men repeatedly make reckless, self‑serving choices. The tone is moralistic, casting the scandal as a symptom of broader elite misconduct.",
+            "biasNeutral": "The BBC report shifts the lens to the geopolitical fallout, noting how the scandal dents Singapore’s reputation as a clean, business‑friendly chip hub and raises doubts about illicit trade links. It sticks to concrete facts and highlights the policy headache for Singapore’s government. The article remains descriptive, without moral judgment.",
+            "biasRight": "No right‑leaning outlets are represented in the supplied articles.",
+            "reflection": "For investors and workers, Huang’s exit could trigger volatility in Nvidia’s stock and shake confidence in the broader AI supply chain. In the next few days watch the board’s successor appointment, any regulatory probes in Singapore, and market reactions to Nvidia’s leadership transition."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/13/multimedia/BIZ-JENSEN-CRASH-1-01-ljmc/BIZ-JENSEN-CRASH-1-01-ljmc-videoSixteenByNine3000.jpg\" alt=\"Nvidia’s founder Jensen Huang steps down amid a concealed relationship that sparked a boardroom shake‑up.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Nvidia’s founder Jensen Huang steps down amid a concealed relationship that sparked a boardroom shake‑up.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left‑leaning coverage frames the episode as a moral failure, emphasizing Huang’s secrecy and the broader pattern of powerful men hiding personal misconduct. The narrative leans on language like “downfall” and “stupidly” to spotlight systemic issues of entitlement in Silicon Valley. It also spotlights the outpouring of support from tech peers as a contrast to the scandal’s gravity.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">Neutral reporting zeroes in on the geopolitical fallout, noting how the scandal throws a spotlight on Singapore’s role as a chip hub and raises questions about illicit trade links. It sticks to concrete facts about the resignation and its immediate business ramifications without moralizing.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No right‑leaning sources are represented in the provided articles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>The resignation shakes investor confidence in Nvidia, a linchpin of the AI hardware market, and could ripple through chip supply chains. Watch for the board’s successor announcement and any share‑price volatility in the next few days, as they will signal how quickly the market digests the leadership vacuum.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/13/multimedia/BIZ-JENSEN-CRASH-1-01-ljmc/BIZ-JENSEN-CRASH-1-01-ljmc-videoSixteenByNine3000-v2.jpg\" alt=\"Nvidia’s founder Jensen Huang walks away after a hidden affair toppled the company and rattled Singapore’s chip ambitions.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Nvidia’s founder Jensen Huang walks away after a hidden affair toppled the company and rattled Singapore’s chip ambitions.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The NYT pieces frame Huang’s fall as a personal betrayal that exposed a culture of secrecy at the top of a tech empire. They stress the human cost, questioning why powerful men repeatedly make reckless, self‑serving choices. The tone is moralistic, casting the scandal as a symptom of broader elite misconduct.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC report shifts the lens to the geopolitical fallout, noting how the scandal dents Singapore’s reputation as a clean, business‑friendly chip hub and raises doubts about illicit trade links. It sticks to concrete facts and highlights the policy headache for Singapore’s government. The article remains descriptive, without moral judgment.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No right‑leaning outlets are represented in the supplied articles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For investors and workers, Huang’s exit could trigger volatility in Nvidia’s stock and shake confidence in the broader AI supply chain. In the next few days watch the board’s successor appointment, any regulatory probes in Singapore, and market reactions to Nvidia’s leadership transition.</p>"
         },
         {
           "id": "topic-2",
-          "headline": "Microsoft restores Outlook, Teams and Copilot after a 36‑hour global outage",
-          "summary": "A technical failure knocked down the company's core productivity services, disrupting businesses worldwide before engineers restored them. The incident highlights the dependence on a few cloud providers for daily operations.",
+          "headline": "Microsoft restores Outlook, Teams and Copilot after a 36‑hour global outage that disrupted businesses worldwide",
+          "summary": "A technical failure knocked out key Microsoft 365 services for a day and a half, leaving millions of users without email and collaboration tools, highlighting the reliance on a few cloud providers. The company says it has fixed the underlying issue and is reviewing safeguards to prevent future interruptions.",
           "tags": [
             "#Microsoft",
             "#Outage",
-            "#Cloud",
-            "#Productivity"
+            "#CloudReliability",
+            "#TechInfrastructure"
           ],
           "source_ids": [
             3,
@@ -314,24 +277,24 @@
           ],
           "deepDive": {
             "imageUrl": "https://static01.nyt.com/images/2026/11/13/multimedia/13xp-microsoftWWK-1-lfcv/13xp-microsoftWWK-1-lfcv-videoSixteenByNine3000.jpg",
-            "imageSearchQuery": "Microsoft Outlook Teams Copilot outage 36 hours",
-            "caption": "Outlook, Teams and Copilot panels go dark as Microsoft scrambles to restore services after a 36‑hour global outage.",
-            "biasLeft": "The NYT pieces stress how the blackout exposed the fragility of a digital ecosystem dominated by a handful of firms, framing the outage as a systemic risk. They underline the real‑world knock‑on effects on businesses that depend on these tools for daily operations. The language leans toward a critique of corporate concentration and the need for more resilient infrastructure.",
-            "biasNeutral": "BBC coverage sticks to the basics: Microsoft confirmed the services are fully back online and attributed the incident to a technical failure. The reports note the company's apology but avoid deeper analysis, focusing on the timeline and the fact that the fix is complete. The tone is straightforward and fact‑driven.",
-            "biasRight": "No right‑leaning outlets are represented in the supplied articles.",
-            "reflection": "For most of us, the outage meant missed emails, stalled meetings and disrupted workflows—something that directly hits productivity and revenue. In the coming days, watch for Microsoft’s detailed post‑mortem and any policy or compensation announcements that could affect service reliability and pricing."
+            "imageSearchQuery": "Microsoft Outlook Teams Copilot 36 hour outage",
+            "caption": "Microsoft engineers race to revive Outlook, Teams and Copilot after a 36‑hour blackout that left offices worldwide in the dark.",
+            "biasLeft": "The New York Times frames the outage as a reminder that the global digital economy hinges on a handful of megacorp infrastructures, stressing systemic vulnerability. It highlights how the disruption rippled through everyday work, underscoring a broader critique of corporate concentration in tech. The language leans toward a human‑impact angle, portraying workers scrambling without email or chat.",
+            "biasNeutral": "The BBC sticks to the facts: services are now fully restored after a day‑long global failure, and Microsoft has issued an apology. It notes the cause as a technical failure and mentions that remediation efforts are complete, without delving into deeper analysis or assigning blame.",
+            "biasRight": "No right‑leaning outlet covered this story in the provided articles.",
+            "reflection": "For most professionals, the outage meant missed deadlines, stalled communications, and a sudden loss of productivity, making reliability of cloud services a personal concern. In the coming days watch for any follow‑up from Microsoft about root‑cause findings or changes to service‑level guarantees, which could affect budgeting and contingency planning."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/13/multimedia/13xp-microsoftWWK-1-lfcv/13xp-microsoftWWK-1-lfcv-videoSixteenByNine3000.jpg\" alt=\"Outlook, Teams and Copilot panels go dark as Microsoft scrambles to restore services after a 36‑hour global outage.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Outlook, Teams and Copilot panels go dark as Microsoft scrambles to restore services after a 36‑hour global outage.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The NYT pieces stress how the blackout exposed the fragility of a digital ecosystem dominated by a handful of firms, framing the outage as a systemic risk. They underline the real‑world knock‑on effects on businesses that depend on these tools for daily operations. The language leans toward a critique of corporate concentration and the need for more resilient infrastructure.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">BBC coverage sticks to the basics: Microsoft confirmed the services are fully back online and attributed the incident to a technical failure. The reports note the company&#39;s apology but avoid deeper analysis, focusing on the timeline and the fact that the fix is complete. The tone is straightforward and fact‑driven.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No right‑leaning outlets are represented in the supplied articles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For most of us, the outage meant missed emails, stalled meetings and disrupted workflows—something that directly hits productivity and revenue. In the coming days, watch for Microsoft’s detailed post‑mortem and any policy or compensation announcements that could affect service reliability and pricing.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/13/multimedia/13xp-microsoftWWK-1-lfcv/13xp-microsoftWWK-1-lfcv-videoSixteenByNine3000.jpg\" alt=\"Microsoft engineers race to revive Outlook, Teams and Copilot after a 36‑hour blackout that left offices worldwide in the dark.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Microsoft engineers race to revive Outlook, Teams and Copilot after a 36‑hour blackout that left offices worldwide in the dark.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The New York Times frames the outage as a reminder that the global digital economy hinges on a handful of megacorp infrastructures, stressing systemic vulnerability. It highlights how the disruption rippled through everyday work, underscoring a broader critique of corporate concentration in tech. The language leans toward a human‑impact angle, portraying workers scrambling without email or chat.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC sticks to the facts: services are now fully restored after a day‑long global failure, and Microsoft has issued an apology. It notes the cause as a technical failure and mentions that remediation efforts are complete, without delving into deeper analysis or assigning blame.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No right‑leaning outlet covered this story in the provided articles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For most professionals, the outage meant missed deadlines, stalled communications, and a sudden loss of productivity, making reliability of cloud services a personal concern. In the coming days watch for any follow‑up from Microsoft about root‑cause findings or changes to service‑level guarantees, which could affect budgeting and contingency planning.</p>"
         },
         {
           "id": "topic-3",
-          "headline": "EU regulator fines Meta €805 million for secretly harvesting users’ photos",
-          "summary": "The privacy authority says the social‑media giant accessed images of about 20 million people without clear consent, breaching data‑protection rules. The penalty underscores growing scrutiny of tech firms’ handling of personal content.",
+          "headline": "EU court upholds €805 million fine on Meta for secretly accessing photos of 20 million users in Italy",
+          "summary": "Italian regulators claim Meta collected and stored users’ images without clear consent, violating privacy rules, and the hefty penalty reflects growing enforcement of data‑protection laws across Europe. The case may force the social‑media giant to overhaul its data‑handling practices for billions of global users.",
           "tags": [
             "#Meta",
             "#Privacy",
-            "#EU",
-            "#DataProtection"
+            "#EURegulation",
+            "#Italy"
           ],
           "source_ids": [
             2
@@ -345,60 +308,36 @@
           ],
           "deepDive": {
             "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg",
-            "imageSearchQuery": "Meta €805 million fine Italy photo harvesting 20 million users",
-            "caption": "EU regulators slap Meta with an €805 million fine for secretly scanning millions of Italians' personal photos.",
-            "biasLeft": "Left-leaning outlets are not represented in the provided sources, so no progressive framing can be described.",
-            "biasNeutral": "The neutral coverage stresses the factual core: the European Commission fined Meta €805 million after discovering the company accessed the photo libraries of about 20 million users without consent. It notes the alleged breach of privacy rules and the scale of the penalty, while leaving open how Meta will respond or appeal.",
-            "biasRight": "Right-leaning outlets are not represented in the provided sources, so no conservative angle can be described.",
-            "reflection": "For everyday users, the fine highlights that personal data—down to every picture you store—can be harvested without permission, underscoring the need to audit app permissions. Watch for Meta’s legal response and whether regulators push for stricter enforcement across the EU in the coming days."
+            "imageSearchQuery": "Meta €805 million fine Italy photos privacy",
+            "caption": "Italian authorities slap Meta with an €805 million penalty for secretly scanning millions of users' photos.",
+            "biasLeft": "Left‑leaning outlets are not represented in the supplied material, so no progressive framing can be reported.",
+            "biasNeutral": "Neutral coverage focuses on the concrete facts: an EU court upheld Italy's €805 million fine against Meta for covertly accessing the photos of about 20 million Italian users, emphasizing the legal basis and the scale of the penalty.",
+            "biasRight": "Right‑leaning outlets are not represented in the supplied material, so no conservative angle can be reported.",
+            "reflection": "For everyday users, the case highlights that personal images stored on social platforms can be accessed without consent, underscoring real privacy risks. The next few days will reveal whether Meta appeals the ruling and if regulators tighten oversight on data‑scraping practices."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg\" alt=\"EU regulators slap Meta with an €805 million fine for secretly scanning millions of Italians&#39; personal photos.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">EU regulators slap Meta with an €805 million fine for secretly scanning millions of Italians&#39; personal photos.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left-leaning outlets are not represented in the provided sources, so no progressive framing can be described.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The neutral coverage stresses the factual core: the European Commission fined Meta €805 million after discovering the company accessed the photo libraries of about 20 million users without consent. It notes the alleged breach of privacy rules and the scale of the penalty, while leaving open how Meta will respond or appeal.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Right-leaning outlets are not represented in the provided sources, so no conservative angle can be described.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday users, the fine highlights that personal data—down to every picture you store—can be harvested without permission, underscoring the need to audit app permissions. Watch for Meta’s legal response and whether regulators push for stricter enforcement across the EU in the coming days.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg\" alt=\"Italian authorities slap Meta with an €805 million penalty for secretly scanning millions of users&#39; photos.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Italian authorities slap Meta with an €805 million penalty for secretly scanning millions of users&#39; photos.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left‑leaning outlets are not represented in the supplied material, so no progressive framing can be reported.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">Neutral coverage focuses on the concrete facts: an EU court upheld Italy&#39;s €805 million fine against Meta for covertly accessing the photos of about 20 million Italian users, emphasizing the legal basis and the scale of the penalty.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Right‑leaning outlets are not represented in the supplied material, so no conservative angle can be reported.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday users, the case highlights that personal images stored on social platforms can be accessed without consent, underscoring real privacy risks. The next few days will reveal whether Meta appeals the ruling and if regulators tighten oversight on data‑scraping practices.</p>"
         },
         {
           "id": "topic-4",
-          "headline": "Ford pledges not to sell connected‑car data, but limits may affect vehicle features",
-          "summary": "The automaker announced a new privacy policy that blocks insurers and brokers from buying driving‑behavior data, yet disabling data sharing could also disable services like remote diagnostics and over‑the‑air updates. Consumers must weigh privacy against functionality.",
+          "headline": "Ford pledges not to sell car‑data while a malware campaign hijacks over a million Android TV boxes, raising consumer privacy alarms",
+          "summary": "Ford’s new privacy promise aims to keep driving data out of insurers’ hands, but critics warn that limiting data sharing could strip owners of useful vehicle features. At the same time, Google disclosed a malicious backdoor installed on 1.3 million TV devices, turning them into a botnet, illustrating how data‑related threats span both automotive and home‑entertainment markets.",
           "tags": [
             "#Ford",
-            "#AutoData",
-            "#Privacy",
-            "#ConnectedCars"
+            "#CarData",
+            "#AndroidTV",
+            "#Malware",
+            "#Privacy"
           ],
           "source_ids": [
-            4
+            4,
+            11
           ],
           "sources": [
             {
               "source": "Right (Fox Tech)",
               "title": "Ford privacy promise raises questions about your car data",
               "url": "https://www.foxnews.com/tech/ford-privacy-promise-raises-questions-car-data"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/7e9eec51-news-image-fox-news_052.jpg",
-            "imageSearchQuery": "Ford connected car data privacy pledge",
-            "caption": "Ford promises not to sell driving data, but warns that turning off data sharing could strip owners of certain tech features.",
-            "biasLeft": "No left‑leaning outlets covered this story in the supplied material.",
-            "biasNeutral": "No centrist or wire service outlets covered this story in the supplied material.",
-            "biasRight": "The Fox Tech piece stresses Ford's market‑driven rationale: protecting driver privacy while warning that disabling data sharing may cripple infotainment, safety updates, and other convenience functions, framing the move as a trade‑off that could affect consumer satisfaction and brand loyalty.",
-            "reflection": "For everyday drivers, the promise means their mileage and location won’t be sold to insurers, but they might lose real‑time traffic alerts or over‑the‑air software upgrades if they opt out. Watch for Ford’s next firmware update notes or dealer statements that clarify which features actually depend on data sharing."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/11/7e9eec51-news-image-fox-news_052.jpg\" alt=\"Ford promises not to sell driving data, but warns that turning off data sharing could strip owners of certain tech features.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Ford promises not to sell driving data, but warns that turning off data sharing could strip owners of certain tech features.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">No left‑leaning outlets covered this story in the supplied material.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">No centrist or wire service outlets covered this story in the supplied material.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">The Fox Tech piece stresses Ford&#39;s market‑driven rationale: protecting driver privacy while warning that disabling data sharing may cripple infotainment, safety updates, and other convenience functions, framing the move as a trade‑off that could affect consumer satisfaction and brand loyalty.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday drivers, the promise means their mileage and location won’t be sold to insurers, but they might lose real‑time traffic alerts or over‑the‑air software upgrades if they opt out. Watch for Ford’s next firmware update notes or dealer statements that clarify which features actually depend on data sharing.</p>"
-        },
-        {
-          "id": "topic-5",
-          "headline": "Google discovers backdoor malware in over 1.3 million Android TV boxes, creating a botnet",
-          "summary": "Security researchers identified the Videostrong firmware as embedding a remote‑access tool that could be exploited by criminal networks, raising concerns about the security of cheap streaming devices. Users are urged to update or replace affected hardware.",
-          "tags": [
-            "#AndroidTV",
-            "#Malware",
-            "#Security",
-            "#Botnet"
-          ],
-          "source_ids": [
-            11
-          ],
-          "sources": [
+            },
             {
               "source": "Right (Fox Tech)",
               "title": "Android TV box malware found in 1.3M devices",
@@ -407,14 +346,58 @@
           ],
           "deepDive": {
             "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/family-watching-tv-fox-news-001.jpeg",
-            "imageSearchQuery": "Android TV box malware botnet Videostrong Google",
-            "caption": "A hacked Android TV box silently powers a criminal botnet after Videostrong slipped in backdoor code.",
-            "biasLeft": "No progressive or left‑leaning outlets are represented in the supplied sources.",
-            "biasNeutral": "No centrist or wire service coverage is present in the supplied sources.",
-            "biasRight": "The Fox Tech piece frames the story as a security breach that endangers consumers and enables criminal activity, underscoring the threat to personal data and the need for tighter device vetting. It also hints at the economic fallout for manufacturers whose products become vectors for fraud. The tone stresses the urgency of protecting national digital infrastructure from rogue firmware.",
-            "reflection": "For everyday users, this means any cheap Android TV box could be spying on you or siphoning bandwidth for illicit purposes, so check that your device is from a reputable source and keep it updated. In the coming days watch for Google or regulator advisories about recalls, firmware patches, or consumer warnings."
+            "imageSearchQuery": "Android TV box malware botnet 1.3 million devices",
+            "caption": "A hacked Android TV box turns a living‑room screen into a foothold for cyber‑criminals, just as Ford promises to keep your car data out of insurers’ hands.",
+            "biasLeft": "No left‑leaning coverage of these topics appears in the provided sources.",
+            "biasNeutral": "No neutral/center coverage appears in the provided sources.",
+            "biasRight": "The Ford piece stresses that refusing to sell driving data could deprive owners of premium features, framing the promise as a trade‑off for convenience. The Android TV story highlights the scale of the botnet threat, warning that the malware could be weaponized for fraud or espionage. Both outlets present the issues as practical security and economic concerns for consumers.",
+            "reflection": "For everyday users, the take‑away is that personal data—whether from a car or a TV box—remains a target, so you should verify firmware sources and read privacy settings carefully. Watch for follow‑up statements from Ford about feature limitations and any Google or law‑enforcement alerts about the compromised TV devices in the coming days."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/05/family-watching-tv-fox-news-001.jpeg\" alt=\"A hacked Android TV box silently powers a criminal botnet after Videostrong slipped in backdoor code.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">A hacked Android TV box silently powers a criminal botnet after Videostrong slipped in backdoor code.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">No progressive or left‑leaning outlets are represented in the supplied sources.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">No centrist or wire service coverage is present in the supplied sources.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">The Fox Tech piece frames the story as a security breach that endangers consumers and enables criminal activity, underscoring the threat to personal data and the need for tighter device vetting. It also hints at the economic fallout for manufacturers whose products become vectors for fraud. The tone stresses the urgency of protecting national digital infrastructure from rogue firmware.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday users, this means any cheap Android TV box could be spying on you or siphoning bandwidth for illicit purposes, so check that your device is from a reputable source and keep it updated. In the coming days watch for Google or regulator advisories about recalls, firmware patches, or consumer warnings.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/05/family-watching-tv-fox-news-001.jpeg\" alt=\"A hacked Android TV box turns a living‑room screen into a foothold for cyber‑criminals, just as Ford promises to keep your car data out of insurers’ hands.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">A hacked Android TV box turns a living‑room screen into a foothold for cyber‑criminals, just as Ford promises to keep your car data out of insurers’ hands.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">No left‑leaning coverage of these topics appears in the provided sources.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">No neutral/center coverage appears in the provided sources.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">The Ford piece stresses that refusing to sell driving data could deprive owners of premium features, framing the promise as a trade‑off for convenience. The Android TV story highlights the scale of the botnet threat, warning that the malware could be weaponized for fraud or espionage. Both outlets present the issues as practical security and economic concerns for consumers.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday users, the take‑away is that personal data—whether from a car or a TV box—remains a target, so you should verify firmware sources and read privacy settings carefully. Watch for follow‑up statements from Ford about feature limitations and any Google or law‑enforcement alerts about the compromised TV devices in the coming days.</p>"
+        },
+        {
+          "id": "topic-5",
+          "headline": "New AI‑driven technologies from combat robots to ultra‑fast truck check‑ins signal rapid expansion of automation in defense and logistics",
+          "summary": "A US robotics firm showcased a humanoid equipped with machine guns for use in Ukraine, while an AI camera system claims to cut truck inspection times from ten minutes to under thirty seconds, promising cost savings for supply chains. These developments reflect a broader push to embed artificial intelligence in both battlefield and commercial settings, sparking debate over ethics and impact.",
+          "tags": [
+            "#Robotics",
+            "#AI",
+            "#Defense",
+            "#Logistics",
+            "#Automation"
+          ],
+          "source_ids": [
+            12,
+            13,
+            14
+          ],
+          "sources": [
+            {
+              "source": "Right (Fox Tech)",
+              "title": "Eric Trump-partnered robotics CEO addresses 'Terminator' fears as he sends combat humanoids into war zones",
+              "url": "https://www.foxnews.com/tech/eric-trump-partnered-robotics-ceo-addresses-terminator-fears-sends-combat-humanoids-warzones"
+            },
+            {
+              "source": "Right (Fox Tech)",
+              "title": "Could AI reduce shipping costs and grocery bills?",
+              "url": "https://www.foxnews.com/tech/could-ai-reduce-shipping-costs-grocery-bills"
+            },
+            {
+              "source": "Right (Fox Tech)",
+              "title": "Fox News AI Newsletter: 'Godfather of AI' resigns, testing American juggernaut",
+              "url": "https://www.foxnews.com/tech/fox-news-ai-newsletter-godfather-ai-resigns-testing-american-juggernaut"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/Foundation-Photo-3_001.jpg",
+            "imageSearchQuery": "combat humanoid robot MK2 Ukraine warzone",
+            "caption": "Foundation Future Robotics' MK 2 humanoid stands ready with a mounted machine gun as it rolls into a Ukrainian combat zone.",
+            "biasLeft": "Left-leaning outlets did not cover this topic in the provided articles.",
+            "biasNeutral": "Center or neutral outlets did not cover this topic in the provided articles.",
+            "biasRight": "Conservative sources highlight the security boost from deploying AI‑driven combat humanoids and the economic upside of AI camera check‑ins that slash truck dwell times, framing them as wins for national defense and supply‑chain efficiency.",
+            "reflection": "For everyday citizens, faster truck check‑ins could mean lower fuel costs and cheaper groceries, while armed AI robots raise questions about battlefield escalation. Watch for any regulatory or policy statements in the next few days that could curb or accelerate these deployments."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/08/Foundation-Photo-3_001.jpg\" alt=\"Foundation Future Robotics&#39; MK 2 humanoid stands ready with a mounted machine gun as it rolls into a Ukrainian combat zone.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Foundation Future Robotics&#39; MK 2 humanoid stands ready with a mounted machine gun as it rolls into a Ukrainian combat zone.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left-leaning outlets did not cover this topic in the provided articles.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">Center or neutral outlets did not cover this topic in the provided articles.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Conservative sources highlight the security boost from deploying AI‑driven combat humanoids and the economic upside of AI camera check‑ins that slash truck dwell times, framing them as wins for national defense and supply‑chain efficiency.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday citizens, faster truck check‑ins could mean lower fuel costs and cheaper groceries, while armed AI robots raise questions about battlefield escalation. Watch for any regulatory or policy statements in the next few days that could curb or accelerate these deployments.</p>"
         }
       ],
       "rawCount": 15
@@ -423,52 +406,83 @@
       "items": [
         {
           "id": "topic-1",
-          "headline": "Nationwide FAA ground stop exposes aging air‑traffic system",
-          "summary": "The Federal Aviation Administration imposed a country‑wide halt to departures after a technical failure, highlighting how outdated radar and communication equipment can cause widespread disruption for travelers and airlines.",
+          "headline": "FAA emergency ground stop highlights chronic weaknesses in U.S. air‑traffic control system",
+          "summary": "On Friday the FAA halted all departures nationwide, yet dozens of international flights and some West Coast services still left the country, exposing how fragile the aging control network is. The incident has renewed calls for accelerated modernization of the system to prevent future disruptions.",
           "tags": [
-            "#aviation",
+            "#Aviation",
             "#FAA",
-            "#infrastructure"
+            "#Infrastructure"
           ],
           "source_ids": [
             0,
+            4
+          ],
+          "sources": [
+            {
+              "source": "Left (NYT Business)",
+              "title": "How Some Flights Were Exempt From the Ground Stop",
+              "url": "https://www.nytimes.com/2026/11/14/business/faa-ground-stop-exceptions-airlines.html"
+            },
+            {
+              "source": "Left (NYT Business)",
+              "title": "Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System",
+              "url": "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://static01.nyt.com/images/2026/11/13/multimedia/13faa-groundstop-fiberoptics-hzkb/13faa-groundstop-fiberoptics-hzkb-videoSixteenByNineJumbo1600.jpg",
+            "imageSearchQuery": "FAA emergency ground stop November 2026 air traffic control outage",
+            "caption": "Air traffic controllers stare at screens as a nationwide ground stop forces every U.S. flight to pause in mid‑air.",
+            "biasLeft": "Progressive outlets stress that the incident exposes a decades‑old, under‑funded ATC system that has been ignored by policymakers. They frame the outage as a symptom of broader infrastructure decay and call for sweeping federal investment. The language leans toward blaming systemic neglect rather than isolated technical glitches.",
+            "biasNeutral": "No neutral or wire service coverage is present in the supplied articles.",
+            "biasRight": "No conservative or right‑leaning coverage is present in the supplied articles.",
+            "reflection": "For travelers, the ground stop means sudden delays, missed connections, and potential extra costs, making the reliability of daily commutes a tangible concern. Watch for FAA updates in the coming days; another outage or a clear roadmap for modernization would signal whether the system is being fixed or left to flounder."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/13/multimedia/13faa-groundstop-fiberoptics-hzkb/13faa-groundstop-fiberoptics-hzkb-videoSixteenByNineJumbo1600.jpg\" alt=\"Air traffic controllers stare at screens as a nationwide ground stop forces every U.S. flight to pause in mid‑air.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Air traffic controllers stare at screens as a nationwide ground stop forces every U.S. flight to pause in mid‑air.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Progressive outlets stress that the incident exposes a decades‑old, under‑funded ATC system that has been ignored by policymakers. They frame the outage as a symptom of broader infrastructure decay and call for sweeping federal investment. The language leans toward blaming systemic neglect rather than isolated technical glitches.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">No neutral or wire service coverage is present in the supplied articles.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No conservative or right‑leaning coverage is present in the supplied articles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For travelers, the ground stop means sudden delays, missed connections, and potential extra costs, making the reliability of daily commutes a tangible concern. Watch for FAA updates in the coming days; another outage or a clear roadmap for modernization would signal whether the system is being fixed or left to flounder.</p>"
+        },
+        {
+          "id": "topic-2",
+          "headline": "SpaceX successfully catches Starship on landing pad after orbital flight",
+          "summary": "The Starship prototype returned from orbit and was snagged by the launch‑site’s giant net in Texas, demonstrating a key step toward fully reusable rockets. The milestone moves SpaceX closer to its goal of reducing launch costs and expanding deep‑space missions.",
+          "tags": [
+            "#SpaceX",
+            "#Starship",
+            "#Space"
+          ],
+          "source_ids": [
             1
           ],
           "sources": [
             {
               "source": "Left (NYT Business)",
-              "title": "Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System",
-              "url": "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html"
-            },
-            {
-              "source": "Left (NYT Business)",
-              "title": "How Some Flights Were Exempt From the Ground Stop",
-              "url": "https://www.nytimes.com/2026/11/14/business/faa-ground-stop-exceptions-airlines.html"
+              "title": "SpaceX Makes History With Successful Rocket Catch in Texas",
+              "url": "https://www.nytimes.com/2026/11/14/science/spacex-starship-first-catch.html"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://static01.nyt.com/images/2026/11/13/multimedia/13faa-groundstop-fiberoptics-hzkb/13faa-groundstop-fiberoptics-hzkb-videoSixteenByNineJumbo1600.jpg",
-            "imageSearchQuery": "FAA nationwide ground stop November 2026 air traffic control outage",
-            "caption": "Air traffic controllers watch screens as a nationwide ground stop halts departures across the United States.",
-            "biasLeft": "The left‑leaning coverage frames the incident as a symptom of a chronically underfunded, aging ATC system, stressing how decades‑old hardware and software bottlenecks jeopardize safety and convenience. It highlights the human cost—stranded passengers, delayed families, and the pressure on workers scrambling to keep the sky moving. The tone pushes for accelerated federal investment and systemic overhaul.",
-            "biasNeutral": "Neutral outlets are not represented in the supplied articles, so no neutral framing can be extracted.",
-            "biasRight": "Conservative outlets are not represented in the supplied articles, so no right‑leaning framing can be extracted.",
-            "reflection": "For everyday travelers, the ground stop means missed connections, lost work hours, and unexpected expenses—real‑world fallout from a brittle system. In the coming days, watch for FAA statements on upgrade timelines and any congressional funding moves; another outage would signal that the underlying infrastructure problems remain unresolved."
+            "imageUrl": "https://static01.nyt.com/images/2026/11/14/multimedia/14starship-header-01-vgzq/14starship-header-01-vgzq-videoSixteenByNine3000-v2.jpg",
+            "imageSearchQuery": "SpaceX Starship landing Texas 2026",
+            "caption": "Starship touches down on its Texas launch pad, the first orbital vehicle to land exactly where it lifted off.",
+            "biasLeft": "Left‑leaning coverage frames the catch as a breakthrough for sustainable space travel, stressing how full reusability could cut waste and lower the carbon footprint of launches. It highlights SpaceX’s role in democratizing access to space and advancing climate‑friendly technology. The tone is optimistic about the broader societal benefits of a reusable rocket fleet.",
+            "biasNeutral": "Neutral outlets did not provide coverage of this specific event in the supplied material.",
+            "biasRight": "Conservative outlets did not cover this specific event in the supplied material.",
+            "reflection": "For everyday people, cheaper, reusable rockets could translate into lower costs for satellite services, global internet, and eventually space tourism. Keep an eye on SpaceX’s next flight schedule and any regulatory updates, as they’ll indicate how quickly the cost savings might start affecting consumer markets."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/13/multimedia/13faa-groundstop-fiberoptics-hzkb/13faa-groundstop-fiberoptics-hzkb-videoSixteenByNineJumbo1600.jpg\" alt=\"Air traffic controllers watch screens as a nationwide ground stop halts departures across the United States.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Air traffic controllers watch screens as a nationwide ground stop halts departures across the United States.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The left‑leaning coverage frames the incident as a symptom of a chronically underfunded, aging ATC system, stressing how decades‑old hardware and software bottlenecks jeopardize safety and convenience. It highlights the human cost—stranded passengers, delayed families, and the pressure on workers scrambling to keep the sky moving. The tone pushes for accelerated federal investment and systemic overhaul.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">Neutral outlets are not represented in the supplied articles, so no neutral framing can be extracted.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Conservative outlets are not represented in the supplied articles, so no right‑leaning framing can be extracted.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday travelers, the ground stop means missed connections, lost work hours, and unexpected expenses—real‑world fallout from a brittle system. In the coming days, watch for FAA statements on upgrade timelines and any congressional funding moves; another outage would signal that the underlying infrastructure problems remain unresolved.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/14/multimedia/14starship-header-01-vgzq/14starship-header-01-vgzq-videoSixteenByNine3000-v2.jpg\" alt=\"Starship touches down on its Texas launch pad, the first orbital vehicle to land exactly where it lifted off.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Starship touches down on its Texas launch pad, the first orbital vehicle to land exactly where it lifted off.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left‑leaning coverage frames the catch as a breakthrough for sustainable space travel, stressing how full reusability could cut waste and lower the carbon footprint of launches. It highlights SpaceX’s role in democratizing access to space and advancing climate‑friendly technology. The tone is optimistic about the broader societal benefits of a reusable rocket fleet.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">Neutral outlets did not provide coverage of this specific event in the supplied material.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Conservative outlets did not cover this specific event in the supplied material.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday people, cheaper, reusable rockets could translate into lower costs for satellite services, global internet, and eventually space tourism. Keep an eye on SpaceX’s next flight schedule and any regulatory updates, as they’ll indicate how quickly the cost savings might start affecting consumer markets.</p>"
         },
         {
-          "id": "topic-2",
-          "headline": "Microsoft restores Outlook, Teams after a global outage",
-          "summary": "A widespread service failure left millions unable to send email or join video calls, but the company says the underlying issue has been fixed and data is intact.",
+          "id": "topic-3",
+          "headline": "Microsoft confirms full restoration of Outlook, Teams and Copilot after worldwide outage",
+          "summary": "A technical fault knocked out the tech giant’s core productivity services for several hours, disrupting millions of users in offices and schools. The company says the issue has been resolved and is working to prevent a repeat.",
           "tags": [
             "#Microsoft",
-            "#outage",
-            "#cloudservices"
+            "#Outlook",
+            "#Teams",
+            "#TechOutage"
           ],
           "source_ids": [
-            5,
-            8
+            6,
+            10
           ],
           "sources": [
             {
@@ -484,28 +498,28 @@
           ],
           "deepDive": {
             "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg",
-            "imageSearchQuery": "Microsoft global outage Outlook Teams 2024",
-            "caption": "Microsoft's cloud services flicker back to life after a day‑long worldwide blackout.",
-            "biasLeft": "Left‑leaning coverage is not present in the supplied articles.",
-            "biasNeutral": "The BBC pieces stick to the facts: they note the scale of the outage, confirm that Outlook, Teams and Copilot have been fully restored, and mention that work to fix the underlying issue is complete.",
-            "biasRight": "Right‑leaning coverage is not present in the supplied articles.",
-            "reflection": "For anyone who depends on Outlook or Teams for work, the outage shows how vulnerable daily operations are to cloud failures. Watch for any follow‑up from Microsoft on root‑cause analysis and whether they’ll add redundancy measures in the coming days."
+            "imageSearchQuery": "Microsoft Outlook Teams outage global restoration",
+            "caption": "Microsoft’s cloud services flicker back on after a day‑long global blackout.",
+            "biasLeft": "No progressive/left-leaning coverage of this outage appears in the supplied articles.",
+            "biasNeutral": "Neutral outlets report the facts: Outlook, Teams and Copilot went down worldwide, Microsoft worked through the day, and today it says the services are fully restored while still addressing the root cause.",
+            "biasRight": "No conservative/right‑leaning coverage of this outage appears in the supplied articles.",
+            "reflection": "For most of us, the outage meant missed emails and stalled meetings, underscoring how much daily work now hinges on a single vendor’s cloud. Keep an eye on any follow‑up notices from Microsoft about lingering glitches or security patches in the next few days."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg\" alt=\"Microsoft&#39;s cloud services flicker back to life after a day‑long worldwide blackout.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Microsoft&#39;s cloud services flicker back to life after a day‑long worldwide blackout.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left‑leaning coverage is not present in the supplied articles.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC pieces stick to the facts: they note the scale of the outage, confirm that Outlook, Teams and Copilot have been fully restored, and mention that work to fix the underlying issue is complete.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Right‑leaning coverage is not present in the supplied articles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For anyone who depends on Outlook or Teams for work, the outage shows how vulnerable daily operations are to cloud failures. Watch for any follow‑up from Microsoft on root‑cause analysis and whether they’ll add redundancy measures in the coming days.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg\" alt=\"Microsoft’s cloud services flicker back on after a day‑long global blackout.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Microsoft’s cloud services flicker back on after a day‑long global blackout.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">No progressive/left-leaning coverage of this outage appears in the supplied articles.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">Neutral outlets report the facts: Outlook, Teams and Copilot went down worldwide, Microsoft worked through the day, and today it says the services are fully restored while still addressing the root cause.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No conservative/right‑leaning coverage of this outage appears in the supplied articles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For most of us, the outage meant missed emails and stalled meetings, underscoring how much daily work now hinges on a single vendor’s cloud. Keep an eye on any follow‑up notices from Microsoft about lingering glitches or security patches in the next few days.</p>"
         },
         {
-          "id": "topic-3",
-          "headline": "Nvidia turmoil: stock plunge, scandal and leadership shake‑up",
-          "summary": "A personal scandal involving CEO Jensen Huang triggered regulatory scrutiny, wiping billions from the chipmaker’s market value and prompting Huang’s resignation, with CFO Colette Kress named interim chief as investors brace for the next earnings report.",
+          "id": "topic-4",
+          "headline": "Nvidia grapples with leadership crisis, stock plunge and regulatory pressure after founder quits",
+          "summary": "Jensen Huang’s sudden resignation triggered a 14% drop in Nvidia’s share price, wiping billions from his personal stake and prompting the appointment of CFO Colette Kress as interim CEO. Simultaneously, investigations in Singapore and U.S. agencies have raised questions about the company’s business practices, adding further uncertainty for investors.",
           "tags": [
             "#Nvidia",
-            "#AIchips",
-            "#stockmarket",
-            "#leadership"
+            "#AI",
+            "#Stocks",
+            "#Regulation"
           ],
           "source_ids": [
-            6,
             7,
+            8,
             9,
             11,
             12,
@@ -515,6 +529,11 @@
           "sources": [
             {
               "source": "Neutral (BBC Business)",
+              "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+              "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "Neutral (BBC Business)",
               "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
               "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
             },
@@ -522,11 +541,6 @@
               "source": "Right (Fox Business)",
               "title": "Nvidia stock slide wipes out more than $20B in value for Jensen Huang over 5 days",
               "url": "https://www.foxbusiness.com/markets/nvidia-stock-slide-wipes-out-billions-value-jensen-huang-days"
-            },
-            {
-              "source": "Neutral (BBC Business)",
-              "title": "How a sex scandal at Nvidia is putting pressure on the White House",
-              "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss"
             },
             {
               "source": "Right (Fox Business)",
@@ -550,83 +564,58 @@
             }
           ],
           "deepDive": {
-            "imageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/former-nvidia-ceo-jensen-huang.jpg?ve=1&tl=1",
-            "imageSearchQuery": "Jensen Huang resignation Nvidia scandal stock plunge",
-            "caption": "Jensen Huang exits Nvidia’s campus as the AI chipmaker reels from a share‑price collapse and a personal scandal.",
-            "biasLeft": "Left‑leaning outlets are not represented among the supplied articles, so no progressive framing can be observed.",
-            "biasNeutral": "BBC pieces focus on the political fallout, noting that agencies have pressed to put the controversial Megaspeed chip on an entity list and that the sex scandal is reaching the White House. They present the facts without taking a stance, highlighting both regulatory pressure and the personal dimension of the crisis.",
-            "biasRight": "Fox Business zeroes in on the market impact, reporting a $20 billion wipe‑out of Jensen Huang’s holdings and the 14% share plunge. It stresses the leadership vacuum, the appointment of CFO Colette Kress as interim CEO, and even President Trump’s suggestion of Tim Cook as a replacement, framing the story as an economic and security concern.",
-            "reflection": "For investors and employees, the turbulence signals real‑world risk: a volatile stock and an uncertain strategic direction could affect portfolios and jobs. Watch Nvidia’s upcoming earnings report and any U.S. export‑control decisions in the next few days for clues on whether the company can steady the ship."
+            "imageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/nvidia-chief-financial-officer-colette-kress.jpg?ve=1&tl=1",
+            "imageSearchQuery": "Nvidia interim CEO Colette Kress resignation Jensen Huang stock plunge",
+            "caption": "CFO Colette Kress steps into the breach as Nvidia’s founder walks away, sending shares tumbling.",
+            "biasLeft": "Progressive outlets are not represented in the supplied set, so no left‑leaning framing can be reported.",
+            "biasNeutral": "The BBC pieces stick to the basics: they note Singapore’s chip‑hub reputation being tested by the scandal and that U.S. agencies have been lobbying to put Nvidia‑linked entities on the export blacklist. Both articles stay factual and avoid speculation about the company’s future.",
+            "biasRight": "Fox Business zeroes in on the market fallout – a $20 billion wipe‑out of Jensen Huang’s holdings – and frames the leadership shuffle as a risk to investors. It also drapes the story in political colour, highlighting Trump’s endorsement of Tim Cook and portraying the regulatory pressure as a security‑oriented showdown.",
+            "reflection": "For anyone holding Nvidia shares or betting on AI stocks, the leadership vacuum and looming export‑control actions could swing valuations sharply in the coming days. Watch the next earnings release and any official entity‑list announcements as the clearest gauges of where the market and regulators are heading."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/former-nvidia-ceo-jensen-huang.jpg?ve=1&amp;tl=1\" alt=\"Jensen Huang exits Nvidia’s campus as the AI chipmaker reels from a share‑price collapse and a personal scandal.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Jensen Huang exits Nvidia’s campus as the AI chipmaker reels from a share‑price collapse and a personal scandal.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left‑leaning outlets are not represented among the supplied articles, so no progressive framing can be observed.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">BBC pieces focus on the political fallout, noting that agencies have pressed to put the controversial Megaspeed chip on an entity list and that the sex scandal is reaching the White House. They present the facts without taking a stance, highlighting both regulatory pressure and the personal dimension of the crisis.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Fox Business zeroes in on the market impact, reporting a $20 billion wipe‑out of Jensen Huang’s holdings and the 14% share plunge. It stresses the leadership vacuum, the appointment of CFO Colette Kress as interim CEO, and even President Trump’s suggestion of Tim Cook as a replacement, framing the story as an economic and security concern.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For investors and employees, the turbulence signals real‑world risk: a volatile stock and an uncertain strategic direction could affect portfolios and jobs. Watch Nvidia’s upcoming earnings report and any U.S. export‑control decisions in the next few days for clues on whether the company can steady the ship.</p>"
-        },
-        {
-          "id": "topic-4",
-          "headline": "U.S. tech CEOs travel to Shenzhen for Trump‑led summit",
-          "summary": "President Donald Trump will meet top American technology executives in China to discuss the stalled trade war, new export controls and alleged espionage concerns, a meeting that could shape future market access for U.S. firms.",
-          "tags": [
-            "#Trump",
-            "#China",
-            "#techsummit",
-            "#trade"
-          ],
-          "source_ids": [
-            4
-          ],
-          "sources": [
-            {
-              "source": "Left (NYT Business)",
-              "title": "5 Big Questions as C.E.O.s Meet in China",
-              "url": "https://www.nytimes.com/2026/11/14/business/dealbook/questions-china-us-apec-summit.html"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://static01.nyt.com/images/2026/11/14/multimedia/14DB-China-CEOs-wjlv/14DB-China-CEOs-wjlv-videoSixteenByNineJumbo1600.jpg",
-            "imageSearchQuery": "Trump tech CEOs Shenzhen summit 2026",
-            "caption": "Trump shakes hands with Silicon Valley leaders on a Shenzhen stage as trade tensions simmer.",
-            "biasLeft": "The New York Times frames the meeting as a flashpoint for workers and consumers, warning that a stalled trade war could raise prices and hurt labor. It highlights export controls as a systemic choke on innovation and raises concerns about alleged spy activities eroding privacy and democratic norms. The piece asks whether the summit will address the broader social costs of the U.S.-China tech rivalry.",
-            "biasNeutral": "No neutral or centrist source was included among the supplied articles.",
-            "biasRight": "No conservative/right‑leaning source was included among the supplied articles.",
-            "reflection": "The summit could directly affect the price and availability of the gadgets you buy, as any new tariffs or export limits will ripple through supply chains. Watch for any announcements on tightened export rules or joint statements from CEOs in the coming days—they’ll signal how the trade fight will play out for everyday consumers."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/14/multimedia/14DB-China-CEOs-wjlv/14DB-China-CEOs-wjlv-videoSixteenByNineJumbo1600.jpg\" alt=\"Trump shakes hands with Silicon Valley leaders on a Shenzhen stage as trade tensions simmer.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Trump shakes hands with Silicon Valley leaders on a Shenzhen stage as trade tensions simmer.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The New York Times frames the meeting as a flashpoint for workers and consumers, warning that a stalled trade war could raise prices and hurt labor. It highlights export controls as a systemic choke on innovation and raises concerns about alleged spy activities eroding privacy and democratic norms. The piece asks whether the summit will address the broader social costs of the U.S.-China tech rivalry.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">No neutral or centrist source was included among the supplied articles.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No conservative/right‑leaning source was included among the supplied articles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>The summit could directly affect the price and availability of the gadgets you buy, as any new tariffs or export limits will ripple through supply chains. Watch for any announcements on tightened export rules or joint statements from CEOs in the coming days—they’ll signal how the trade fight will play out for everyday consumers.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/nvidia-chief-financial-officer-colette-kress.jpg?ve=1&amp;tl=1\" alt=\"CFO Colette Kress steps into the breach as Nvidia’s founder walks away, sending shares tumbling.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">CFO Colette Kress steps into the breach as Nvidia’s founder walks away, sending shares tumbling.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Progressive outlets are not represented in the supplied set, so no left‑leaning framing can be reported.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC pieces stick to the basics: they note Singapore’s chip‑hub reputation being tested by the scandal and that U.S. agencies have been lobbying to put Nvidia‑linked entities on the export blacklist. Both articles stay factual and avoid speculation about the company’s future.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Fox Business zeroes in on the market fallout – a $20 billion wipe‑out of Jensen Huang’s holdings – and frames the leadership shuffle as a risk to investors. It also drapes the story in political colour, highlighting Trump’s endorsement of Tim Cook and portraying the regulatory pressure as a security‑oriented showdown.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For anyone holding Nvidia shares or betting on AI stocks, the leadership vacuum and looming export‑control actions could swing valuations sharply in the coming days. Watch the next earnings release and any official entity‑list announcements as the clearest gauges of where the market and regulators are heading.</p>"
         },
         {
           "id": "topic-5",
-          "headline": "Veteran journalist Linda Mason dies; Eurovision stays apolitical in Europe",
-          "summary": "The media world mourns the passing of pioneering CBS news producer Linda Mason, while the European song contest continues to avoid geopolitical tensions despite pressure, underscoring the fragile line between culture and politics.",
+          "headline": "Consumer and media roundup: Family Dollar faces $63 million settlement, beauty advent calendars spark price debate, and veteran CBS journalist Linda Mason dies at 84",
+          "summary": "Federal regulators allege the discount retailer overcharged shoppers for months, leading to a multimillion‑dollar settlement, while luxury beauty calendar kits command steep holiday prices that many consumers question. The week also marked the passing of pioneering journalist Linda Mason, who broke gender barriers at CBS.",
           "tags": [
-            "#journalism",
-            "#obituary",
-            "#Eurovision",
-            "#culture"
+            "#Retail",
+            "#Consumer",
+            "#Media",
+            "#Business"
           ],
           "source_ids": [
             2,
-            3
+            3,
+            5
           ],
           "sources": [
+            {
+              "source": "Neutral (BBC Business)",
+              "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+              "url": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "Left (NYT Business)",
+              "title": "Family Dollar to Pay $63 Million Settlement for Overcharging Customers",
+              "url": "https://www.nytimes.com/2026/11/14/business/family-dollar-overcharging-settlement.html"
+            },
             {
               "source": "Left (NYT Business)",
               "title": "She Was a CBS News Producer When Few Women Were",
               "url": "https://www.nytimes.com/2026/11/14/business/media/linda-mason-dead-cbs-news.html"
-            },
-            {
-              "source": "Left (NYT Business)",
-              "title": "Geopolitics Looms Over Eurovision, but Not Its Asian Edition",
-              "url": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-politics.html"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://static01.nyt.com/images/2026/11/13/multimedia/13obit-mason-jctp/13obit-mason-jctp-videoSixteenByNineJumbo1600.jpg",
-            "imageSearchQuery": "Linda Mason journalist obituary CBS senior vice president",
-            "caption": "Linda Mason, the trailblazing CBS news veteran who shattered glass ceilings, dies at 84 just as Eurovision keeps the focus on song, not geopolitics.",
-            "biasLeft": "Left‑leaning coverage frames Mason’s career as a feminist breakthrough, emphasizing how few women held senior news roles when she started and the systemic barriers she helped dismantle. The Eurovision piece stresses the cultural importance of keeping politics offstage, casting the contest as a space for European solidarity amid rising tensions. Both stories underline progress against entrenched power structures.",
-            "biasNeutral": "Neutral outlets would spell out the basic facts: Mason began at CBS Radio in 1966, rose to senior vice president, and was 84 when she passed away. They would also note that Eurovision organizers have deliberately kept the European edition free of overt political statements, while the Asian edition faces different challenges. The reporting would stay descriptive, leaving interpretation to the reader.",
-            "biasRight": "Right‑leaning outlets did not cover this specific topic in the supplied articles.",
-            "reflection": "Mason’s death reminds us that pioneering individuals still shape the media landscape, highlighting the ongoing need for gender equity in newsrooms. Eurovision’s apolitical stance signals that even in a fraught geopolitical climate, cultural events can serve as a neutral arena—watch for any political flashpoints in the upcoming contest, especially after the Asian edition’s experience."
+            "imageUrl": "https://static01.nyt.com/images/2026/11/14/multimedia/14xp-settlement-topart-02-zvcf/14xp-settlement-topart-02-zvcf-videoSixteenByNine3000.jpg",
+            "imageSearchQuery": "Family Dollar $63 million settlement overcharging",
+            "caption": "A Family Dollar checkout scanner beeps as regulators announce a $63 million settlement for overcharging shoppers.",
+            "biasLeft": "The New York Times frames the settlement as a win for consumer protection, stressing how the retailer’s pricing practices ripped millions from low‑income shoppers. It highlights the role of federal regulators and the 17 states that sued, casting the case as part of a broader fight against corporate greed. The language leans toward accountability and systemic reform.",
+            "biasNeutral": "The BBC piece simply reports the price range of beauty advent calendars and notes their popularity without assigning blame. It presents shoppers’ questions about value for money as a consumer trend, offering no judgment. The story sticks to observable facts and leaves the assessment to readers.",
+            "biasRight": "No right‑leaning outlet covered these particular stories in the supplied sources.",
+            "reflection": "For everyday shoppers, the settlement means they may be eligible for refunds and should monitor Family Dollar communications for claim instructions. Keep an eye on whether the retailer rolls out stricter pricing audits or if other discount chains face similar scrutiny in the coming weeks."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/13/multimedia/13obit-mason-jctp/13obit-mason-jctp-videoSixteenByNineJumbo1600.jpg\" alt=\"Linda Mason, the trailblazing CBS news veteran who shattered glass ceilings, dies at 84 just as Eurovision keeps the focus on song, not geopolitics.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Linda Mason, the trailblazing CBS news veteran who shattered glass ceilings, dies at 84 just as Eurovision keeps the focus on song, not geopolitics.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left‑leaning coverage frames Mason’s career as a feminist breakthrough, emphasizing how few women held senior news roles when she started and the systemic barriers she helped dismantle. The Eurovision piece stresses the cultural importance of keeping politics offstage, casting the contest as a space for European solidarity amid rising tensions. Both stories underline progress against entrenched power structures.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">Neutral outlets would spell out the basic facts: Mason began at CBS Radio in 1966, rose to senior vice president, and was 84 when she passed away. They would also note that Eurovision organizers have deliberately kept the European edition free of overt political statements, while the Asian edition faces different challenges. The reporting would stay descriptive, leaving interpretation to the reader.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Right‑leaning outlets did not cover this specific topic in the supplied articles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>Mason’s death reminds us that pioneering individuals still shape the media landscape, highlighting the ongoing need for gender equity in newsrooms. Eurovision’s apolitical stance signals that even in a fraught geopolitical climate, cultural events can serve as a neutral arena—watch for any political flashpoints in the upcoming contest, especially after the Asian edition’s experience.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/14/multimedia/14xp-settlement-topart-02-zvcf/14xp-settlement-topart-02-zvcf-videoSixteenByNine3000.jpg\" alt=\"A Family Dollar checkout scanner beeps as regulators announce a $63 million settlement for overcharging shoppers.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">A Family Dollar checkout scanner beeps as regulators announce a $63 million settlement for overcharging shoppers.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The New York Times frames the settlement as a win for consumer protection, stressing how the retailer’s pricing practices ripped millions from low‑income shoppers. It highlights the role of federal regulators and the 17 states that sued, casting the case as part of a broader fight against corporate greed. The language leans toward accountability and systemic reform.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC piece simply reports the price range of beauty advent calendars and notes their popularity without assigning blame. It presents shoppers’ questions about value for money as a consumer trend, offering no judgment. The story sticks to observable facts and leaves the assessment to readers.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No right‑leaning outlet covered these particular stories in the supplied sources.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday shoppers, the settlement means they may be eligible for refunds and should monitor Family Dollar communications for claim instructions. Keep an eye on whether the retailer rolls out stricter pricing audits or if other discount chains face similar scrutiny in the coming weeks.</p>"
         }
       ],
       "rawCount": 15

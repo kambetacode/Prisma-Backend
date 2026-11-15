@@ -1,27 +1,93 @@
 {
-  "last_updated": "2026-11-14T22:03:20.901Z",
+  "last_updated": "2026-11-15T05:03:14.617Z",
   "language": "es",
   "categories": {
     "GLOBAL_MACRO": {
       "items": [
         {
           "id": "topic-1",
-          "headline": "Los proyectos de SpaceX enfrentan reveses: falla al recuperar el Starship y restricciones al sistema Starshield en Ucrania",
-          "summary": "Un intento de atrapar el propulsor del cohete Starship de SpaceX terminó con el vehículo cayendo al océano, mientras que Ucrania denuncia que el sistema de guía de drones Starshield está siendo limitado nuevamente, acusando a SpaceX y a autoridades rusas. Ambos episodios destacan los desafíos técnicos y políticos que enfrenta la compañía en sus proyectos espaciales.",
+          "headline": "Un juez impide temporalmente que Trump cierre el campo de golf de Washington DC para reformas",
+          "summary": "Un tribunal federal ordenó la suspensión del plan del presidente para cerrar el East Potomac Golf Links mientras se llevan a cabo obras de renovación. La medida frena una estrategia que buscaba transformar el espacio público en beneficio de su negocio inmobiliario.",
           "tags": [
-            "#SpaceX",
-            "#tecnología",
-            "#Ucrania"
+            "#EEUU",
+            "#Trump",
+            "#Justicia"
           ],
           "source_ids": [
-            0,
-            9
+            0
           ],
           "sources": [
             {
               "source": "Neutral (BBC)",
-              "title": "Second catch attempt as SpaceX Starship rocket heads back to Earth",
-              "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
+              "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+              "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4be0/live/054b94d0-e09e-11f1-a701-fddedf244c16.jpg",
+            "imageSearchQuery": "Trump Washington DC golf course closure judge block",
+            "caption": "Un juez federal ordena a Trump mantener abierto el campo de golf East Potomac en Washington mientras se decide su futuro.",
+            "biasLeft": "Los medios progresistas no aparecen en los textos suministrados, por lo que no hay cobertura de izquierda sobre este tema.",
+            "biasNeutral": "Los medios centristas informan que un juez federal emitió una orden provisional que impide a Trump cerrar el campo de golf de Washington DC para reformas, destacando el procedimiento legal y la ausencia de una decisión definitiva.",
+            "biasRight": "Los medios conservadores no aparecen en los textos suministrados, por lo que no hay cobertura de derecha sobre este tema.",
+            "reflection": "Para los vecinos de la zona, la medida preserva un espacio de ocio mientras se resuelve la disputa. En los próximos días se esperan audiencias que definirán si el campo será cerrado o reformado, señalando el rumbo de la gestión del terreno público."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4be0/live/054b94d0-e09e-11f1-a701-fddedf244c16.jpg\" alt=\"Un juez federal ordena a Trump mantener abierto el campo de golf East Potomac en Washington mientras se decide su futuro.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Un juez federal ordena a Trump mantener abierto el campo de golf East Potomac en Washington mientras se decide su futuro.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no aparecen en los textos suministrados, por lo que no hay cobertura de izquierda sobre este tema.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas informan que un juez federal emitió una orden provisional que impide a Trump cerrar el campo de golf de Washington DC para reformas, destacando el procedimiento legal y la ausencia de una decisión definitiva.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no aparecen en los textos suministrados, por lo que no hay cobertura de derecha sobre este tema.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para los vecinos de la zona, la medida preserva un espacio de ocio mientras se resuelve la disputa. En los próximos días se esperan audiencias que definirán si el campo será cerrado o reformado, señalando el rumbo de la gestión del terreno público.</p>"
+        },
+        {
+          "id": "topic-2",
+          "headline": "El presidente salvadoreño Nayib Bukele despliega perros‑robot armados y helicópteros contra pandillas en Haití",
+          "summary": "Bukele compartió un video en el que perros robóticos equipados con armas irrumpen en el estadio Sylvio Cator, mientras helicópteros atacan un cuartel de pandilleros, como parte de la ofensiva conjunta con la policía haitiana. La operación, que dejó varios fugitivos y la búsqueda de cuatro soldados salvadoreños desaparecidos, intensifica la polémica sobre la intervención extranjera en el país caribeño.",
+          "tags": [
+            "#Haití",
+            "#Bukele",
+            "#Seguridad"
+          ],
+          "source_ids": [
+            2,
+            14
+          ],
+          "sources": [
+            {
+              "source": "Right (Fox)",
+              "title": "Robot dogs mounted with rifles deployed in anti-gang stadium operation in Haiti",
+              "url": "https://www.foxnews.com/world/robot-dogs-mounted-rifles-deployed-anti-gang-stadium-operation-haiti"
+            },
+            {
+              "source": "Right (Fox)",
+              "title": "El Salvador-backed air assault destroys Haiti gang headquarters amid search for missing troops",
+              "url": "https://www.foxnews.com/world/el-salvador-air-assault-destroys-haiti-gang-headquarters-search-missing-troops"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/robot-el-salvdor.gif",
+            "imageSearchQuery": "robot dogs Haiti gang crackdown stadium Bukele",
+            "caption": "Los perros‑robot armados de Bukele irrumpen en el Estadio Sylvio Cator mientras helicópteros salvadoreños atacan un cuartel de pandillas.",
+            "biasLeft": "Los medios progresistas no cubren este tema en los artículos suministrados.",
+            "biasNeutral": "Los medios centristas no aparecen en los artículos suministrados.",
+            "biasRight": "Fox destaca la capacidad militar de Bukele, resaltando la rapidez y el éxito de la operación contra pandillas, y la imagen de Salvador como un actor fuerte que protege la seguridad regional.",
+            "reflection": "Para la gente en Haití, la intervención extranjera plantea preguntas de soberanía y posible escalada de violencia. En los próximos días habrá que vigilar la respuesta de la comunidad internacional y si aparecen más incidentes de personal salvadoreño desaparecido."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/11/robot-el-salvdor.gif\" alt=\"Los perros‑robot armados de Bukele irrumpen en el Estadio Sylvio Cator mientras helicópteros salvadoreños atacan un cuartel de pandillas.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Los perros‑robot armados de Bukele irrumpen en el Estadio Sylvio Cator mientras helicópteros salvadoreños atacan un cuartel de pandillas.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no cubren este tema en los artículos suministrados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas no aparecen en los artículos suministrados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Fox destaca la capacidad militar de Bukele, resaltando la rapidez y el éxito de la operación contra pandillas, y la imagen de Salvador como un actor fuerte que protege la seguridad regional.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para la gente en Haití, la intervención extranjera plantea preguntas de soberanía y posible escalada de violencia. En los próximos días habrá que vigilar la respuesta de la comunidad internacional y si aparecen más incidentes de personal salvadoreño desaparecido.</p>"
+        },
+        {
+          "id": "topic-3",
+          "headline": "EE.UU. contempla ceder el Donbás a Ucrania a cambio de su ingreso a la OTAN, mientras Zelenski acusa restricciones al sistema Starshield",
+          "summary": "Funcionarios estadounidenses han mencionado la posibilidad de discutir una cesión del territorio del Donbás para facilitar la adhesión de Ucrania a la Alianza Atlántica, aunque el gobierno de Washington no ha confirmado la idea. Por otro lado, el presidente Zelenski denunció que el acceso a la herramienta satelital Starshield, usada para guiar drones, está siendo limitado, lo que complica la defensa ucraniana.",
+          "tags": [
+            "#Ucrania",
+            "#OTAN",
+            "#Donbás"
+          ],
+          "source_ids": [
+            3,
+            10
+          ],
+          "sources": [
+            {
+              "source": "Neutral (BBC)",
+              "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+              "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
             },
             {
               "source": "Left (NYT)",
@@ -30,59 +96,28 @@
             }
           ],
           "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0e6d/live/64bc2ef0-e03c-11f1-b441-2b33b063138f.jpg",
-            "imageSearchQuery": "SpaceX Starship booster ocean recovery",
-            "caption": "El booster del Starship cae sobre el océano tras fallar la segunda prueba de captura",
-            "biasLeft": "Los medios progresistas destacan que las restricciones al sistema Starshield limitan la capacidad de Ucrania para defenderse, citando las quejas de Zelensky y la negativa de SpaceX, y llaman a una respuesta internacional más firme.",
-            "biasNeutral": "La cobertura neutra presenta los hechos: el primer intento falló y la segunda vez se intenta capturar el booster sin emitir juicios políticos, dejando abierta la cuestión de la eficacia de la técnica.",
-            "biasRight": "Este tema no aparece cubierto por fuentes conservadoras en los artículos proporcionados.",
-            "reflection": "Para los civiles, la falla de la recuperación del booster impacta los costos y la percepción de la tecnología espacial, mientras que la limitación de Starshield puede afectar la seguridad regional; observarás los resultados de la segunda captura y las negociaciones sobre el acceso de Ucrania a la tecnología."
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fc82/live/f8afbeb0-e087-11f1-b780-31cc9daf154a.jpg",
+            "imageSearchQuery": "Donbas NATO Ukraine Zelensky Starshield drones",
+            "caption": "Zelensky denuncia que EE. UU le pide ceder el Donbás a cambio de la OTAN mientras su sistema de drones Starshield sufre nuevas limitaciones.",
+            "biasLeft": "Los medios progresistas resaltan la presión estadounidense como una forma de coaccionar a Ucrania, subrayando el costo humanitario de ceder territorio y la vulnerabilidad que supone la restricción de Starshield para la defensa civil. Además, critican la falta de transparencia de SpaceX y la posible politización de la tecnología de vigilancia.",
+            "biasNeutral": "Los informes neutrales señalan que un funcionario estadounidense confirmó que “se siguen discutiendo muchas ideas”, sin confirmar la propuesta concreta. También reportan la queja de Zelensky sobre limitaciones al Starshield y la negación de SpaceX, sin adoptar una posición.",
+            "biasRight": "Los medios conservadores no cubren este tema en los artículos proporcionados.",
+            "reflection": "Para la gente en Ucrania y los países vecinos, la posible cesión del Donbás afecta directamente la seguridad y el futuro económico de la región. En los próximos días, vigile si Washington emite una declaración oficial o si SpaceX aclara su postura sobre Starshield, pues ambos indicadores marcarán la dirección de la ayuda militar y diplomática."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0e6d/live/64bc2ef0-e03c-11f1-b441-2b33b063138f.jpg\" alt=\"El booster del Starship cae sobre el océano tras fallar la segunda prueba de captura\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El booster del Starship cae sobre el océano tras fallar la segunda prueba de captura</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas destacan que las restricciones al sistema Starshield limitan la capacidad de Ucrania para defenderse, citando las quejas de Zelensky y la negativa de SpaceX, y llaman a una respuesta internacional más firme.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">La cobertura neutra presenta los hechos: el primer intento falló y la segunda vez se intenta capturar el booster sin emitir juicios políticos, dejando abierta la cuestión de la eficacia de la técnica.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Este tema no aparece cubierto por fuentes conservadoras en los artículos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para los civiles, la falla de la recuperación del booster impacta los costos y la percepción de la tecnología espacial, mientras que la limitación de Starshield puede afectar la seguridad regional; observarás los resultados de la segunda captura y las negociaciones sobre el acceso de Ucrania a la tecnología.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fc82/live/f8afbeb0-e087-11f1-b780-31cc9daf154a.jpg\" alt=\"Zelensky denuncia que EE. UU le pide ceder el Donbás a cambio de la OTAN mientras su sistema de drones Starshield sufre nuevas limitaciones.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Zelensky denuncia que EE. UU le pide ceder el Donbás a cambio de la OTAN mientras su sistema de drones Starshield sufre nuevas limitaciones.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas resaltan la presión estadounidense como una forma de coaccionar a Ucrania, subrayando el costo humanitario de ceder territorio y la vulnerabilidad que supone la restricción de Starshield para la defensa civil. Además, critican la falta de transparencia de SpaceX y la posible politización de la tecnología de vigilancia.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los informes neutrales señalan que un funcionario estadounidense confirmó que “se siguen discutiendo muchas ideas”, sin confirmar la propuesta concreta. También reportan la queja de Zelensky sobre limitaciones al Starshield y la negación de SpaceX, sin adoptar una posición.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no cubren este tema en los artículos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para la gente en Ucrania y los países vecinos, la posible cesión del Donbás afecta directamente la seguridad y el futuro económico de la región. En los próximos días, vigile si Washington emite una declaración oficial o si SpaceX aclara su postura sobre Starshield, pues ambos indicadores marcarán la dirección de la ayuda militar y diplomática.</p>"
         },
         {
-          "id": "topic-2",
-          "headline": "EE.UU. plantea ceder el Donbás a cambio de la adhesión de Ucrania a la OTAN, según comentarios de Zelenski",
-          "summary": "Estados Unidos habría sugerido a Kiev la entrega del territorio del Donbás a Rusia como condición para que Ucrania se una a la OTAN, una propuesta que el presidente Zelenski ha mencionado pero que Washington no ha confirmado. El posible intercambio subraya la complejidad de las negociaciones de seguridad en Europa del Este.",
-          "tags": [
-            "#Ucrania",
-            "#OTAN",
-            "#Donbás"
-          ],
-          "source_ids": [
-            1
-          ],
-          "sources": [
-            {
-              "source": "Neutral (BBC)",
-              "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-              "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
-            "imageSearchQuery": "Zelensky Donbas NATO US talks",
-            "caption": "Zelensky sugiere que EE.UU. podría ofrecer el Donbás a cambio de que Ucrania entre en la OTAN.",
-            "biasLeft": "Los medios de izquierda no aparecen en los artículos proporcionados; por lo tanto no hay énfasis identificable desde esa perspectiva.",
-            "biasNeutral": "Los medios centrados, como la BBC, resaltan la falta de confirmación oficial de EE.UU., describen los encuentros entre Zelensky, envoys estadounidenses y Putin, y subrayan la incertidumbre que rodea la supuesta oferta. También destacan la complejidad diplomática y la ausencia de una posición clara del Kremlin.",
-            "biasRight": "Los medios conservadores no están presentes en los artículos suministrados, de modo que no se observan énfasis en aspectos como la seguridad nacional o el impacto económico de la propuesta.",
-            "reflection": "Para la gente común, la posible cesión del Donbás y la entrada a la OTAN podrían redefinir la seguridad regional y abrir nuevas rutas de ayuda occidental. En los próximos días, hay que vigilar cualquier declaración oficial de EE.UU. o de la OTAN que confirme o rechace la propuesta, ya que marcaría la dirección de las negociaciones de paz."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg\" alt=\"Zelensky sugiere que EE.UU. podría ofrecer el Donbás a cambio de que Ucrania entre en la OTAN.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Zelensky sugiere que EE.UU. podría ofrecer el Donbás a cambio de que Ucrania entre en la OTAN.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios de izquierda no aparecen en los artículos proporcionados; por lo tanto no hay énfasis identificable desde esa perspectiva.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centrados, como la BBC, resaltan la falta de confirmación oficial de EE.UU., describen los encuentros entre Zelensky, envoys estadounidenses y Putin, y subrayan la incertidumbre que rodea la supuesta oferta. También destacan la complejidad diplomática y la ausencia de una posición clara del Kremlin.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no están presentes en los artículos suministrados, de modo que no se observan énfasis en aspectos como la seguridad nacional o el impacto económico de la propuesta.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para la gente común, la posible cesión del Donbás y la entrada a la OTAN podrían redefinir la seguridad regional y abrir nuevas rutas de ayuda occidental. En los próximos días, hay que vigilar cualquier declaración oficial de EE.UU. o de la OTAN que confirme o rechace la propuesta, ya que marcaría la dirección de las negociaciones de paz.</p>"
-        },
-        {
-          "id": "topic-3",
-          "headline": "Operaciones encubiertas de Irán en Europa se revelan con nuevas condenas y acusaciones de ataques en el estrecho de Ormuz",
-          "summary": "Tribunales británicos condenaron a dos hombres iraníes por espionaje, mientras Francia acusó al Cuerpo de la Guardia Revolucionaria Islámica de ciberataques y Irán afirmó haber dañado equipos de navegación en la isla omaní de Didamar. Estas revelaciones ponen de relieve la amplitud de la actividad clandestina de Irán y su impacto en la seguridad europea y del Golfo.",
+          "id": "topic-4",
+          "headline": "Operaciones clandestinas de Irán en Europa se revelan tras asaltos y condenas por espionaje",
+          "summary": "Una serie de ataques contra objetivos europeos y la reciente condena de dos iraníes por espionaje en Reino Unido han sacado a la luz una red de actividades encubiertas del Irán revolucionario en el continente. Las revelaciones han avivado las tensiones diplomáticas y generado alertas de seguridad en varios países aliados de Estados Unidos.",
           "tags": [
             "#Irán",
-            "#espionaje",
-            "#Ormuz"
+            "#Espionaje",
+            "#Europa"
           ],
           "source_ids": [
-            2,
-            12,
-            14
+            4,
+            13
           ],
           "sources": [
             {
@@ -94,128 +129,48 @@
               "source": "Right (Fox)",
               "title": "Iran's shadow operations stretch across Europe as chilling spy convictions expose Tehran's reach",
               "url": "https://www.foxnews.com/world/irans-shadow-operations-stretch-across-europe-chilling-spy-convictions-expose-tehrans-reach"
-            },
-            {
-              "source": "Right (Fox)",
-              "title": "Iran escalates in Hormuz, claims strike on Omani island it says 'enemy' uses for US military ops",
-              "url": "https://www.foxnews.com/world/iran-escalates-hormuz-claims-strike-omani-island-enemy-uses-us-military-ops"
             }
           ],
           "deepDive": {
             "imageUrl": "https://static01.nyt.com/images/2026/11/14/multimedia/14uk-iran-attacks-02-fqwm/14uk-iran-attacks-02-fqwm-videoSixteenByNine3000.jpg",
-            "imageSearchQuery": "Iran spy network Europe London attacks Didamar Strait of Hormuz",
-            "caption": "Agentes iraníes desatan una ola de ataques en Londres y otras capitales europeas mientras reclaman haber golpeado equipos de navegación en la isla de Didamar, en el estrecho de Ormuz.",
-            "biasLeft": "Los medios progresistas enfatizan la dimensión política de los ataques, señalando que Irán persigue castigar a los aliados de EE. UU. y sembrar temor en la población europea. Subrayan el trabajo de los fiscales que desvelan una red operativa que vulnera derechos humanos y la seguridad colectiva.",
-            "biasNeutral": "No se incluyó ninguna fuente considerada neutral o de centro en los materiales proporcionados.",
-            "biasRight": "Los conservadores centran su cobertura en la amenaza a la seguridad nacional, destacando las condenas por espionaje, los ciberataques atribuidos al IRGC en Francia y la advertencia de Emiratos sobre células durmientes. También ponen de relieve la supuesta acción militar iraní en Hormuz como prueba de una política agresiva que pone en riesgo el comercio marítimo.",
-            "reflection": "Para la gente corriente, el riesgo se traduce en posibles restricciones de viaje, mayor vigilancia y la amenaza de interrupciones en el tráfico de petróleo que pueden elevar los precios de la energía. En los próximos días conviene vigilar los comunicados de los gobiernos europeos y de EE. UU. sobre respuestas de seguridad y cualquier señal de escalada en el estrecho de Ormuz."
+            "imageSearchQuery": "Iran espionage Europe London attacks 2026",
+            "caption": "Operativos iraníes atacan Londres y otras capitales, mientras jueces británicos condenan a dos espías.",
+            "biasLeft": "Los medios progresistas subrayan el temor que generó la ola de asaltos en Londres y otras ciudades, presentando a los agresores como parte de una campaña del régimen iraní contra los aliados de EE. UU. También resaltan el papel de los fiscales al revelar la magnitud de la operación clandestina y sus implicaciones para los derechos humanos.",
+            "biasNeutral": "No se incluye cobertura de medios centristas en los documentos analizados.",
+            "biasRight": "Los conservadores ponen el acento en la amenaza a la seguridad nacional, citando las condenas de dos iraníes por espionaje y las acusaciones de ciberataques del IRGC. Señalan la necesidad de reforzar la vigilancia y proteger la soberanía frente a posibles células durmientes en Europa. Además, advierten sobre posibles repercusiones económicas si Irán continúa su campaña de desestabilización.",
+            "reflection": "Para el ciudadano medio, estos incidentes significan un riesgo directo a la seguridad y posibles restricciones en viajes o negocios con Irán. En los próximos días convendrá seguir las decisiones judiciales y cualquier anuncio de medidas de seguridad adicionales por parte de Reino Unido y Francia."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/14/multimedia/14uk-iran-attacks-02-fqwm/14uk-iran-attacks-02-fqwm-videoSixteenByNine3000.jpg\" alt=\"Agentes iraníes desatan una ola de ataques en Londres y otras capitales europeas mientras reclaman haber golpeado equipos de navegación en la isla de Didamar, en el estrecho de Ormuz.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Agentes iraníes desatan una ola de ataques en Londres y otras capitales europeas mientras reclaman haber golpeado equipos de navegación en la isla de Didamar, en el estrecho de Ormuz.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas enfatizan la dimensión política de los ataques, señalando que Irán persigue castigar a los aliados de EE. UU. y sembrar temor en la población europea. Subrayan el trabajo de los fiscales que desvelan una red operativa que vulnera derechos humanos y la seguridad colectiva.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">No se incluyó ninguna fuente considerada neutral o de centro en los materiales proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los conservadores centran su cobertura en la amenaza a la seguridad nacional, destacando las condenas por espionaje, los ciberataques atribuidos al IRGC en Francia y la advertencia de Emiratos sobre células durmientes. También ponen de relieve la supuesta acción militar iraní en Hormuz como prueba de una política agresiva que pone en riesgo el comercio marítimo.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para la gente corriente, el riesgo se traduce en posibles restricciones de viaje, mayor vigilancia y la amenaza de interrupciones en el tráfico de petróleo que pueden elevar los precios de la energía. En los próximos días conviene vigilar los comunicados de los gobiernos europeos y de EE. UU. sobre respuestas de seguridad y cualquier señal de escalada en el estrecho de Ormuz.</p>"
-        },
-        {
-          "id": "topic-4",
-          "headline": "Protestas por pensiones y advertencias sobre radicalismo ponen a prueba la cohesión social en Europa",
-          "summary": "En Francia y otros países, la ampliación de la edad de jubilación ha desencadenado protestas masivas que ponen presión sobre los presupuestos públicos. Simultáneamente, autoridades de los Emiratos Árabes Unidos advierten que la radicalización extranjera podría convertirse en una amenaza de seguridad en las calles europeas.",
-          "tags": [
-            "#Europa",
-            "#protestas",
-            "#seguridad"
-          ],
-          "source_ids": [
-            5,
-            10
-          ],
-          "sources": [
-            {
-              "source": "Left (NYT)",
-              "title": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
-              "url": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html"
-            },
-            {
-              "source": "Right (Fox)",
-              "title": "Inside Arab nation's battle against radicalism as top official warns of threat brewing on Europe's streets",
-              "url": "https://www.foxnews.com/world/inside-arab-nations-battle-against-radicalism-top-official-warns-threat-brewing-europes-streets"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://static01.nyt.com/images/2026/11/14/multimedia/14int-europe-generations-vjbt/14int-europe-generations-vjbt-videoSixteenByNine3000.jpg",
-            "imageSearchQuery": "Europe pension protests France generational clash",
-            "caption": "Manifestantes franceses exigen pensiones dignas mientras voces de Oriente advierten sobre la radicalización en las calles europeas.",
-            "biasLeft": "Los medios progresistas centran su cobertura en la disputa generacional que subyace a las protestas, resaltando que la mayor longevidad de los jubilados obliga a los gobiernos a reforzar los sistemas de pensiones, a costa de otros servicios públicos. Enfatizan la dimensión social y la necesidad de una política redistributiva que garantice una vejez sin pobreza.",
-            "biasNeutral": "Los medios centristas no aparecen en los artículos proporcionados, por lo que no hay una cobertura neutral identificable.",
-            "biasRight": "Los medios conservadores ponen el foco en la posible amenaza a la seguridad, citando a un alto funcionario de los Emiratos Árabes Unidos que advierte que las protestas podrían alimentar el radicalismo. Subrayan la urgencia de medidas de educación para la convivencia y presentan las manifestaciones como un riesgo para la estabilidad europea.",
-            "reflection": "Para el ciudadano de a pie, la cuestión de las pensiones afecta directamente su futuro financiero y el de sus familiares mayores, mientras que la alerta de radicalismo implica un entorno más inseguro. En los próximos días conviene seguir los anuncios de reforma pensional y cualquier respuesta policial o legislativa a las protestas, ya que indicarán la dirección que tomará la cohesión social."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/14/multimedia/14int-europe-generations-vjbt/14int-europe-generations-vjbt-videoSixteenByNine3000.jpg\" alt=\"Manifestantes franceses exigen pensiones dignas mientras voces de Oriente advierten sobre la radicalización en las calles europeas.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Manifestantes franceses exigen pensiones dignas mientras voces de Oriente advierten sobre la radicalización en las calles europeas.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas centran su cobertura en la disputa generacional que subyace a las protestas, resaltando que la mayor longevidad de los jubilados obliga a los gobiernos a reforzar los sistemas de pensiones, a costa de otros servicios públicos. Enfatizan la dimensión social y la necesidad de una política redistributiva que garantice una vejez sin pobreza.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas no aparecen en los artículos proporcionados, por lo que no hay una cobertura neutral identificable.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores ponen el foco en la posible amenaza a la seguridad, citando a un alto funcionario de los Emiratos Árabes Unidos que advierte que las protestas podrían alimentar el radicalismo. Subrayan la urgencia de medidas de educación para la convivencia y presentan las manifestaciones como un riesgo para la estabilidad europea.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el ciudadano de a pie, la cuestión de las pensiones afecta directamente su futuro financiero y el de sus familiares mayores, mientras que la alerta de radicalismo implica un entorno más inseguro. En los próximos días conviene seguir los anuncios de reforma pensional y cualquier respuesta policial o legislativa a las protestas, ya que indicarán la dirección que tomará la cohesión social.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/14/multimedia/14uk-iran-attacks-02-fqwm/14uk-iran-attacks-02-fqwm-videoSixteenByNine3000.jpg\" alt=\"Operativos iraníes atacan Londres y otras capitales, mientras jueces británicos condenan a dos espías.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Operativos iraníes atacan Londres y otras capitales, mientras jueces británicos condenan a dos espías.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan el temor que generó la ola de asaltos en Londres y otras ciudades, presentando a los agresores como parte de una campaña del régimen iraní contra los aliados de EE. UU. También resaltan el papel de los fiscales al revelar la magnitud de la operación clandestina y sus implicaciones para los derechos humanos.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">No se incluye cobertura de medios centristas en los documentos analizados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los conservadores ponen el acento en la amenaza a la seguridad nacional, citando las condenas de dos iraníes por espionaje y las acusaciones de ciberataques del IRGC. Señalan la necesidad de reforzar la vigilancia y proteger la soberanía frente a posibles células durmientes en Europa. Además, advierten sobre posibles repercusiones económicas si Irán continúa su campaña de desestabilización.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el ciudadano medio, estos incidentes significan un riesgo directo a la seguridad y posibles restricciones en viajes o negocios con Irán. En los próximos días convendrá seguir las decisiones judiciales y cualquier anuncio de medidas de seguridad adicionales por parte de Reino Unido y Francia.</p>"
         },
         {
           "id": "topic-5",
-          "headline": "Una serie de incidentes globales — desde suspensión de vuelos en EE. UU. hasta una victoria musical en Asia y tensiones políticas en Haití y Sudán del Sur",
-          "summary": "Una falla en una actualización de cables de cobre provocó la suspensión nacional de vuelos en EE. UU., mientras dos turistas estadounidenses se ahogaron en las Bahamas y Meta recibió una multa récord de 805 millones de euros por acceder a fotos de usuarios. En otros continentes, Filipinas celebró su primera victoria en Eurovisión, Sudán del Sur pospuso su primera elección nacional y El Salvador respaldó un asalto aéreo contra una banda haitiana, reflejando la variedad de crisis y logros que afectan a distintas regiones.",
+          "headline": "Italia impone una multa de 805 millones de euros a Meta por acceder a fotos de usuarios sin permiso",
+          "summary": "El regulador italiano sancionó a la empresa de redes sociales por haber utilizado sin autorización imágenes de aproximadamente 20 millones de usuarios, violando normas de privacidad. La multa histórica subraya la creciente presión europea sobre las plataformas digitales para que respeten la protección de datos personales.",
           "tags": [
-            "#Vuelos",
             "#Meta",
-            "#Eurovisión",
-            "#SudánDelSur",
-            "#Haití",
-            "#Bahamas"
+            "#Privacidad",
+            "#Italia"
           ],
           "source_ids": [
-            3,
-            4,
-            6,
-            7,
-            8,
-            11,
-            13
+            8
           ],
           "sources": [
-            {
-              "source": "Neutral (BBC)",
-              "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-              "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "Right (Fox)",
-              "title": "Two Americans drown after Caribbean current pulls them out to sea",
-              "url": "https://www.foxnews.com/world/two-americans-drowned-strong-current-ripped-them-bahaman-sea-police-say"
-            },
             {
               "source": "Neutral (BBC)",
               "title": "Italy fines Meta €805m over accessing users' photos",
               "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "Neutral (BBC)",
-              "title": "Philippines wins first Eurovision Song Contest Asia ",
-              "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "Left (NYT)",
-              "title": "South Sudan’s National Election, Its First, Will Be Delayed",
-              "url": "https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html"
-            },
-            {
-              "source": "Left (NYT)",
-              "title": "Trump’s Oil Grab in Venezuela Is Testing the Country’s National Identity",
-              "url": "https://www.nytimes.com/2026/11/14/world/americas/trump-venezuela-oil.html"
-            },
-            {
-              "source": "Right (Fox)",
-              "title": "El Salvador-backed air assault destroys Haiti gang headquarters amid search for missing troops",
-              "url": "https://www.foxnews.com/world/el-salvador-air-assault-destroys-haiti-gang-headquarters-search-missing-troops"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea11/live/3adfb390-e05f-11f1-9e26-b3b65586122f.jpg",
-            "imageSearchQuery": "US flight suspension copper wire upgrade",
-            "caption": "Mientras un cable defectuoso paraliza el tráfico aéreo nacional, una voz filipina celebra la victoria en Eurovisión y Sudán del Sur pospone su histórica elección.",
-            "biasLeft": "Los medios progresistas subrayan la crisis de legitimidad de la elección en Sudán del Sur, señalando que la demora profundiza la vulnerabilidad institucional y el riesgo de conflicto. Además, el artículo de NYT sobre Venezuela critica la intervención estadounidense como una agresión al soberano control de recursos, enmarcándola dentro de una narrativa de imperialismo.",
-            "biasNeutral": "BBC se limita a describir los hechos: el problema técnico del cable que provocó la suspensión de vuelos, la multa a Meta por el acceso a fotos y el triunfo de Carmelle en Eurovisión con su canción de empoderamiento femenino. Se mencionan preguntas abiertas sobre la causa del fallo y las repercusiones regulatorias.",
-            "biasRight": "Los medios de derecha no cubren ninguno de estos acontecimientos en los artículos proporcionados.",
-            "reflection": "Para el ciudadano, la suspensión de vuelos afecta la movilidad y la economía doméstica, mientras que la victoria en Eurovisión muestra el alcance cultural de Asia. En los próximos días habrá que observar si el Departamento de Transporte esclarece la falla del cable y si Sudán del Sur logra fijar una nueva fecha electoral, indicadores clave de estabilidad."
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg",
+            "imageSearchQuery": "Meta Italy fine photos privacy 805 million",
+            "caption": "Italia multa a Meta con 805 millones de euros por escanear fotos de 20 millones de usuarios sin su consentimiento.",
+            "biasLeft": "Los medios progresistas no aparecen en los artículos proporcionados; por lo tanto, no se observan énfasis de izquierda sobre la protección de datos o la responsabilidad corporativa.",
+            "biasNeutral": "Los medios centrados presentan los hechos: la autoridad italiana impuso una multa récord de 805 millones de euros a Meta por acceder a imágenes de 20 millones de usuarios sin informarles. Señalan la posible violación de la normativa de privacidad y la repercusión en la confianza del público.",
+            "biasRight": "Los medios conservadores no aparecen en los artículos proporcionados; por tanto, no se detectan énfasis en los costos económicos, la seguridad nacional o la soberanía digital.",
+            "reflection": "Esta sanción afecta a cualquier usuario que confía en que sus fotos están protegidas; muestra que los reguladores europeos están dispuestos a castigar a gigantes tecnológicos. En los próximos días, vigile si Meta ajusta sus políticas de acceso a datos o si aparecen más multas en la UE."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea11/live/3adfb390-e05f-11f1-9e26-b3b65586122f.jpg\" alt=\"Mientras un cable defectuoso paraliza el tráfico aéreo nacional, una voz filipina celebra la victoria en Eurovisión y Sudán del Sur pospone su histórica elección.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Mientras un cable defectuoso paraliza el tráfico aéreo nacional, una voz filipina celebra la victoria en Eurovisión y Sudán del Sur pospone su histórica elección.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan la crisis de legitimidad de la elección en Sudán del Sur, señalando que la demora profundiza la vulnerabilidad institucional y el riesgo de conflicto. Además, el artículo de NYT sobre Venezuela critica la intervención estadounidense como una agresión al soberano control de recursos, enmarcándola dentro de una narrativa de imperialismo.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">BBC se limita a describir los hechos: el problema técnico del cable que provocó la suspensión de vuelos, la multa a Meta por el acceso a fotos y el triunfo de Carmelle en Eurovisión con su canción de empoderamiento femenino. Se mencionan preguntas abiertas sobre la causa del fallo y las repercusiones regulatorias.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios de derecha no cubren ninguno de estos acontecimientos en los artículos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el ciudadano, la suspensión de vuelos afecta la movilidad y la economía doméstica, mientras que la victoria en Eurovisión muestra el alcance cultural de Asia. En los próximos días habrá que observar si el Departamento de Transporte esclarece la falla del cable y si Sudán del Sur logra fijar una nueva fecha electoral, indicadores clave de estabilidad.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg\" alt=\"Italia multa a Meta con 805 millones de euros por escanear fotos de 20 millones de usuarios sin su consentimiento.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Italia multa a Meta con 805 millones de euros por escanear fotos de 20 millones de usuarios sin su consentimiento.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no aparecen en los artículos proporcionados; por lo tanto, no se observan énfasis de izquierda sobre la protección de datos o la responsabilidad corporativa.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centrados presentan los hechos: la autoridad italiana impuso una multa récord de 805 millones de euros a Meta por acceder a imágenes de 20 millones de usuarios sin informarles. Señalan la posible violación de la normativa de privacidad y la repercusión en la confianza del público.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no aparecen en los artículos proporcionados; por tanto, no se detectan énfasis en los costos económicos, la seguridad nacional o la soberanía digital.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Esta sanción afecta a cualquier usuario que confía en que sus fotos están protegidas; muestra que los reguladores europeos están dispuestos a castigar a gigantes tecnológicos. En los próximos días, vigile si Meta ajusta sus políticas de acceso a datos o si aparecen más multas en la UE.</p>"
         }
       ],
       "rawCount": 15
@@ -224,12 +179,12 @@
       "items": [
         {
           "id": "topic-1",
-          "headline": "El CEO de Nvidia, Jensen Huang, renuncia tras revelarse una relación oculta con una clienta",
-          "summary": "El fundador de Nvidia dimitió después de que se descubriera que mantenía una relación personal con una cliente, bajo la excusa de que era solo profesional. El escándalo ha sacudido al sector de los semiconductores y plantea dudas sobre la cultura corporativa en Silicon Valley.",
+          "headline": "Jensen Huang renuncia a Nvidia tras escándalo de relación secreta",
+          "summary": "El fundador y director ejecutivo de Nvidia abandonó la compañía después de que se revelara una relación encubierta con una clienta, generando incertidumbre en el sector de los semiconductores y cuestionando la cultura de poder en Silicon Valley. El caso también ha puesto bajo presión a Singapur, que busca consolidarse como centro de fabricación de chips.",
           "tags": [
             "#Nvidia",
-            "#Escándalo",
-            "#Tecnología"
+            "#JensenHuang",
+            "#SiliconValley"
           ],
           "source_ids": [
             0,
@@ -260,24 +215,24 @@
             }
           ],
           "deepDive": {
-            "imageUrl": "https://static01.nyt.com/images/2026/11/13/multimedia/BIZ-JENSEN-CRASH-1-01-ljmc/BIZ-JENSEN-CRASH-1-01-ljmc-videoSixteenByNine3000.jpg",
-            "imageSearchQuery": "Jensen Huang resignation scandal",
-            "caption": "Jensen Huang deja Nvidia después de que se revelara su relación oculta con una clienta.",
-            "biasLeft": "Los medios progresistas subrayan la dimensión de poder y género del caso, señalando cómo la conducta personal de Huang expone una cultura empresarial que tolera abusos. Insisten en la necesidad de una rendición de cuentas más estricta y en la revisión de las políticas de relaciones con clientes. También plantean la pregunta de por qué figuras tan influyentes siguen evadiendo normas éticas.",
-            "biasNeutral": "Los reportes neutrales se concentran en los efectos inmediatos para Singapore, que ve amenazada su reputación como hub de chips ante la asociación del escándalo con presuntos intercambios ilícitos. Informan sobre la caída del precio de las acciones y la incertidumbre en la cadena de suministro. Además, mencionan que el consejo de Nvidia buscará un sucesor mientras se evalúan posibles investigaciones regulatorias.",
+            "imageUrl": "https://static01.nyt.com/images/2026/11/13/multimedia/BIZ-JENSEN-CRASH-1-01-ljmc/BIZ-JENSEN-CRASH-1-01-ljmc-videoSixteenByNine3000-v2.jpg",
+            "imageSearchQuery": "Jensen Huang resignation scandal Singapore chip hub",
+            "caption": "Jensen Huang abandona Nvidia tras que se revelara una relación encubierta con una cliente.",
+            "biasLeft": "Los medios progresistas subrayan el abuso de poder y la cultura de secreto que permitió a Huang ocultar una relación personal bajo la excusa de negocios. Señalan la falta de rendición de cuentas en la alta dirección tecnológica y cuestionan cómo esas dinámicas perpetúan desigualdades de género. Además, utilizan el caso para reflexionar sobre la tendencia de los líderes exitosos a cometer errores éticos graves.",
+            "biasNeutral": "Los reportes neutrales describen los hechos: la renuncia de Huang y el escándalo que afecta la imagen de Singapur como centro de fabricación de chips. Señalan que la polémica plantea interrogantes sobre la seguridad de la cadena de suministro y la posible implicación de actividades ilícitas. Se limitan a presentar datos y a indicar que la situación genera incertidumbre para inversores y socios.",
             "biasRight": "Los medios conservadores no cubrieron este tema en los artículos proporcionados.",
-            "reflection": "Para los inversores y profesionales de la cadena de suministro, la salida de Huang implica posibles cambios estratégicos y volatilidad en el mercado de GPUs. Es crucial observar la designación del nuevo CEO y cualquier medida regulatoria que surja. En los próximos días, el movimiento del precio de Nvidia y los comunicados oficiales del consejo serán los indicadores más reveladores."
+            "reflection": "Para el ciudadano corriente, la caída de Huang podría traducirse en volatilidad del precio de las acciones de Nvidia y posibles retrasos en la entrega de productos clave. También pone en tela de juicio la estabilidad del ecosistema de chips en Singapur, lo que podría afectar empleos locales. En los próximos días, vigile los comunicados del consejo de Nvidia y cualquier anuncio regulatorio en Singapur."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/13/multimedia/BIZ-JENSEN-CRASH-1-01-ljmc/BIZ-JENSEN-CRASH-1-01-ljmc-videoSixteenByNine3000.jpg\" alt=\"Jensen Huang deja Nvidia después de que se revelara su relación oculta con una clienta.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Jensen Huang deja Nvidia después de que se revelara su relación oculta con una clienta.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan la dimensión de poder y género del caso, señalando cómo la conducta personal de Huang expone una cultura empresarial que tolera abusos. Insisten en la necesidad de una rendición de cuentas más estricta y en la revisión de las políticas de relaciones con clientes. También plantean la pregunta de por qué figuras tan influyentes siguen evadiendo normas éticas.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los reportes neutrales se concentran en los efectos inmediatos para Singapore, que ve amenazada su reputación como hub de chips ante la asociación del escándalo con presuntos intercambios ilícitos. Informan sobre la caída del precio de las acciones y la incertidumbre en la cadena de suministro. Además, mencionan que el consejo de Nvidia buscará un sucesor mientras se evalúan posibles investigaciones regulatorias.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no cubrieron este tema en los artículos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para los inversores y profesionales de la cadena de suministro, la salida de Huang implica posibles cambios estratégicos y volatilidad en el mercado de GPUs. Es crucial observar la designación del nuevo CEO y cualquier medida regulatoria que surja. En los próximos días, el movimiento del precio de Nvidia y los comunicados oficiales del consejo serán los indicadores más reveladores.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/13/multimedia/BIZ-JENSEN-CRASH-1-01-ljmc/BIZ-JENSEN-CRASH-1-01-ljmc-videoSixteenByNine3000-v2.jpg\" alt=\"Jensen Huang abandona Nvidia tras que se revelara una relación encubierta con una cliente.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Jensen Huang abandona Nvidia tras que se revelara una relación encubierta con una cliente.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan el abuso de poder y la cultura de secreto que permitió a Huang ocultar una relación personal bajo la excusa de negocios. Señalan la falta de rendición de cuentas en la alta dirección tecnológica y cuestionan cómo esas dinámicas perpetúan desigualdades de género. Además, utilizan el caso para reflexionar sobre la tendencia de los líderes exitosos a cometer errores éticos graves.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los reportes neutrales describen los hechos: la renuncia de Huang y el escándalo que afecta la imagen de Singapur como centro de fabricación de chips. Señalan que la polémica plantea interrogantes sobre la seguridad de la cadena de suministro y la posible implicación de actividades ilícitas. Se limitan a presentar datos y a indicar que la situación genera incertidumbre para inversores y socios.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no cubrieron este tema en los artículos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el ciudadano corriente, la caída de Huang podría traducirse en volatilidad del precio de las acciones de Nvidia y posibles retrasos en la entrega de productos clave. También pone en tela de juicio la estabilidad del ecosistema de chips en Singapur, lo que podría afectar empleos locales. En los próximos días, vigile los comunicados del consejo de Nvidia y cualquier anuncio regulatorio en Singapur.</p>"
         },
         {
           "id": "topic-2",
-          "headline": "Microsoft restaura globalmente sus servicios después de una caída de 36 horas que paralizó correo y Teams",
-          "summary": "Una falla técnica provocó la interrupción de Outlook, Teams y Copilot durante más de un día, afectando a empresas y usuarios en todo el mundo. La compañía asegura que los sistemas ya están operativos y trabaja para evitar incidentes similares.",
+          "headline": "Microsoft restablece Outlook, Teams y Copilot tras caída global de 36 horas",
+          "summary": "Una falla técnica provocó la interrupción de los servicios de correo y colaboración de Microsoft, afectando a empresas y usuarios en todo el mundo durante más de un día. La compañía informó que los sistemas ya están operativos y está investigando la causa para evitar futuras interrupciones.",
           "tags": [
             "#Microsoft",
-            "#CorteDeServicio",
-            "#Nube"
+            "#Outage",
+            "#TechInfrastructure"
           ],
           "source_ids": [
             3,
@@ -309,23 +264,23 @@
           ],
           "deepDive": {
             "imageUrl": "https://static01.nyt.com/images/2026/11/13/multimedia/13xp-microsoftWWK-1-lfcv/13xp-microsoftWWK-1-lfcv-videoSixteenByNine3000.jpg",
-            "imageSearchQuery": "Microsoft global outage Teams Outlook 2026",
-            "caption": "Los servidores de Microsoft vuelven a la vida tras 36 horas de oscuridad que dejaron a millones sin correo y sin Teams.",
-            "biasLeft": "Los medios progresistas subrayan la fragilidad de la infraestructura digital al depender de unas cuantas corporaciones gigantes, señalando que el apagón expone vulnerabilidades sistémicas y afecta a trabajadores y pequeñas empresas. También resaltan el impacto humano, describiendo cómo la falta de acceso a herramientas de comunicación paralizó la actividad diaria.",
-            "biasNeutral": "Los medios centristas se concentran en los hechos: la interrupción duró aproximadamente 36 horas, afectó a Outlook, Teams y Copilot, y la compañía ya ha restaurado los servicios tras resolver el problema técnico. Informan del comunicado de disculpa de Microsoft y de que se han completado las acciones correctivas.",
+            "imageSearchQuery": "Microsoft global outage Outlook Teams Copilot 36 hours",
+            "caption": "Después de 36 horas sin correo ni chats, Microsoft vuelve a poner en línea Outlook, Teams y Copilot.",
+            "biasLeft": "Los medios progresistas subrayan la vulnerabilidad de depender de unas cuantas empresas tecnológicas, señalando que la caída evidencia fallas estructurales y la necesidad de mayor regulación. También ponen énfasis en cómo la interrupción afectó a trabajadores y pequeñas empresas que dependen de esas herramientas para operar.",
+            "biasNeutral": "Los reportes neutrales se centran en los hechos: la duración del apagón, la restauración completa de los servicios y la disculpa de Microsoft por un fallo técnico. No ofrecen opiniones, solo describen la secuencia de eventos y la respuesta de la compañía.",
             "biasRight": "No se dispone de cobertura de medios conservadores o de derechas en los artículos proporcionados.",
-            "reflection": "Para la gente corriente, la caída significó perder acceso a correo y a la colaboración diaria, lo que repercute en la productividad y en la comunicación personal. En los próximos días, conviene observar si Microsoft anuncia cambios estructurales o inversiones para reforzar la resiliencia de sus plataformas."
+            "reflection": "Para cualquier usuario, la interrupción mostró cuánto depende la vida laboral cotidiana de estos servicios; una nueva caída podría paralizar actividades de nuevo. En los próximos días conviene vigilar comunicados de Microsoft sobre mejoras de infraestructura y posibles cambios en los acuerdos de servicio."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/13/multimedia/13xp-microsoftWWK-1-lfcv/13xp-microsoftWWK-1-lfcv-videoSixteenByNine3000.jpg\" alt=\"Los servidores de Microsoft vuelven a la vida tras 36 horas de oscuridad que dejaron a millones sin correo y sin Teams.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Los servidores de Microsoft vuelven a la vida tras 36 horas de oscuridad que dejaron a millones sin correo y sin Teams.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan la fragilidad de la infraestructura digital al depender de unas cuantas corporaciones gigantes, señalando que el apagón expone vulnerabilidades sistémicas y afecta a trabajadores y pequeñas empresas. También resaltan el impacto humano, describiendo cómo la falta de acceso a herramientas de comunicación paralizó la actividad diaria.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas se concentran en los hechos: la interrupción duró aproximadamente 36 horas, afectó a Outlook, Teams y Copilot, y la compañía ya ha restaurado los servicios tras resolver el problema técnico. Informan del comunicado de disculpa de Microsoft y de que se han completado las acciones correctivas.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">No se dispone de cobertura de medios conservadores o de derechas en los artículos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para la gente corriente, la caída significó perder acceso a correo y a la colaboración diaria, lo que repercute en la productividad y en la comunicación personal. En los próximos días, conviene observar si Microsoft anuncia cambios estructurales o inversiones para reforzar la resiliencia de sus plataformas.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/13/multimedia/13xp-microsoftWWK-1-lfcv/13xp-microsoftWWK-1-lfcv-videoSixteenByNine3000.jpg\" alt=\"Después de 36 horas sin correo ni chats, Microsoft vuelve a poner en línea Outlook, Teams y Copilot.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Después de 36 horas sin correo ni chats, Microsoft vuelve a poner en línea Outlook, Teams y Copilot.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan la vulnerabilidad de depender de unas cuantas empresas tecnológicas, señalando que la caída evidencia fallas estructurales y la necesidad de mayor regulación. También ponen énfasis en cómo la interrupción afectó a trabajadores y pequeñas empresas que dependen de esas herramientas para operar.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los reportes neutrales se centran en los hechos: la duración del apagón, la restauración completa de los servicios y la disculpa de Microsoft por un fallo técnico. No ofrecen opiniones, solo describen la secuencia de eventos y la respuesta de la compañía.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">No se dispone de cobertura de medios conservadores o de derechas en los artículos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para cualquier usuario, la interrupción mostró cuánto depende la vida laboral cotidiana de estos servicios; una nueva caída podría paralizar actividades de nuevo. En los próximos días conviene vigilar comunicados de Microsoft sobre mejoras de infraestructura y posibles cambios en los acuerdos de servicio.</p>"
         },
         {
           "id": "topic-3",
-          "headline": "Italia impone a Meta una multa de 805 millones de euros por acceder sin permiso a fotos de 20 millones de usuarios",
-          "summary": "La autoridad de protección de datos italiana sancionó a la red social por recopilar imágenes sin informar a sus usuarios, violando la normativa de privacidad. La medida busca reforzar el control sobre el uso de datos personales en plataformas digitales.",
+          "headline": "Meta multada con 805 millones de euros en Italia por acceder a fotos de usuarios sin permiso",
+          "summary": "La autoridad de protección de datos italiana sancionó a la red social por haber recopilado imágenes de unos 20 millones de usuarios sin informarles, lo que plantea dudas sobre la privacidad en plataformas digitales. La multa es una de las más altas impuestas a una empresa tecnológica en Europa.",
           "tags": [
             "#Meta",
             "#Privacidad",
-            "#Multa"
+            "#Italia"
           ],
           "source_ids": [
             2
@@ -339,23 +294,23 @@
           ],
           "deepDive": {
             "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg",
-            "imageSearchQuery": "Meta fine Italy photos privacy",
-            "caption": "Italia multa a Meta con 805 millones de euros por acceder sin autorización a fotos de 20 millones de usuarios.",
-            "biasLeft": "Los medios de tendencia progresista no aparecen en los artículos proporcionados.",
-            "biasNeutral": "La autoridad italiana de comunicaciones (AGCOM) impuso una multa récord de 805 millones de euros a Meta por haber accedido a las fotos de 20 millones de usuarios sin su consentimiento ni información previa. La sanción subraya la obligación de las plataformas de respetar la privacidad y notificar cualquier acceso a datos personales. Meta aún no ha respondido públicamente a la acusación.",
-            "biasRight": "Los medios conservadores no aparecen en los artículos proporcionados.",
-            "reflection": "Para los usuarios la noticia implica que sus imágenes pueden haber sido examinadas sin su permiso, lo que refuerza la necesidad de revisar la configuración de privacidad y considerar alternativas de almacenamiento. En los próximos días habrá que seguir si Meta apela la multa o modifica sus políticas, lo que podría marcar un precedente para otras sanciones en Europa."
+            "imageSearchQuery": "Meta Italy fine 805 million euros photos",
+            "caption": "Meta recibe una multa de 805 millones de euros en Italia por haber revisado fotos de usuarios sin su consentimiento.",
+            "biasLeft": "Los medios progresistas no aparecen en los artículos suministrados, por lo que no hay cobertura de su perspectiva.",
+            "biasNeutral": "Los medios centristas describen la sanción como una respuesta regulatoria a la práctica de Meta de acceder a imágenes sin informar a los 20 millones de usuarios afectados, destacando la magnitud de la multa y el número de usuarios involucrados.",
+            "biasRight": "Los medios conservadores no aparecen en los artículos suministrados, por lo que no hay cobertura de su punto de vista.",
+            "reflection": "Esta multa afecta a los usuarios italianos que ahora pueden exigir mayor transparencia sobre sus datos. En los próximos días, observar la reacción de la Comisión de Protección de Datos de la UE será clave para anticipar posibles acciones similares en otros países."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg\" alt=\"Italia multa a Meta con 805 millones de euros por acceder sin autorización a fotos de 20 millones de usuarios.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Italia multa a Meta con 805 millones de euros por acceder sin autorización a fotos de 20 millones de usuarios.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios de tendencia progresista no aparecen en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">La autoridad italiana de comunicaciones (AGCOM) impuso una multa récord de 805 millones de euros a Meta por haber accedido a las fotos de 20 millones de usuarios sin su consentimiento ni información previa. La sanción subraya la obligación de las plataformas de respetar la privacidad y notificar cualquier acceso a datos personales. Meta aún no ha respondido públicamente a la acusación.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no aparecen en los artículos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para los usuarios la noticia implica que sus imágenes pueden haber sido examinadas sin su permiso, lo que refuerza la necesidad de revisar la configuración de privacidad y considerar alternativas de almacenamiento. En los próximos días habrá que seguir si Meta apela la multa o modifica sus políticas, lo que podría marcar un precedente para otras sanciones en Europa.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg\" alt=\"Meta recibe una multa de 805 millones de euros en Italia por haber revisado fotos de usuarios sin su consentimiento.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Meta recibe una multa de 805 millones de euros en Italia por haber revisado fotos de usuarios sin su consentimiento.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no aparecen en los artículos suministrados, por lo que no hay cobertura de su perspectiva.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas describen la sanción como una respuesta regulatoria a la práctica de Meta de acceder a imágenes sin informar a los 20 millones de usuarios afectados, destacando la magnitud de la multa y el número de usuarios involucrados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no aparecen en los artículos suministrados, por lo que no hay cobertura de su punto de vista.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Esta multa afecta a los usuarios italianos que ahora pueden exigir mayor transparencia sobre sus datos. En los próximos días, observar la reacción de la Comisión de Protección de Datos de la UE será clave para anticipar posibles acciones similares en otros países.</p>"
         },
         {
           "id": "topic-4",
-          "headline": "Ford promete no vender datos de conducción a aseguradoras, pero advierte que limitará funciones conectadas del coche",
-          "summary": "El fabricante anunció una política de no comercializar la información de manejo, respondiendo a la creciente preocupación por la vigilancia de los vehículos. Sin embargo, la restricción podría desactivar servicios como navegación en tiempo real y diagnósticos remotos.",
+          "headline": "Ford promete no vender datos de conducción, pero advierte la pérdida de funciones conectadas",
+          "summary": "El fabricante de automóviles anunció que no comercializará la información de los vehículos a aseguradoras ni corredores, aunque la desactivación del intercambio de datos podría desactivar servicios como navegación en tiempo real o diagnóstico remoto. Los consumidores deben sopesar la privacidad frente a la comodidad de las características conectadas.",
           "tags": [
             "#Ford",
             "#Privacidad",
-            "#Automóviles"
+            "#CochesConectados"
           ],
           "source_ids": [
             4
@@ -369,44 +324,62 @@
           ],
           "deepDive": {
             "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/7e9eec51-news-image-fox-news_052.jpg",
-            "imageSearchQuery": "Ford connected car data insurance privacy promise",
-            "caption": "Ford anuncia que no venderá datos de conducción a aseguradoras, pero advierte que algunas funciones conectadas podrían quedar inactivas.",
+            "imageSearchQuery": "Ford connected car data privacy feature loss",
+            "caption": "Un conductor revisa la pantalla de su Ford mientras la marca anuncia que no venderá datos de conducción, pero advierte la pérdida de funciones conectadas.",
             "biasLeft": "Los medios progresistas no cubrieron este tema en los artículos proporcionados.",
-            "biasNeutral": "Los medios centristas no aparecen en los textos suministrados.",
-            "biasRight": "Fox Tech destaca que la promesa de privacidad de Ford responde a la presión pública, pero advierte que limitar el intercambio de datos podría desactivar servicios como la asistencia en carretera o actualizaciones OTA, afectando la experiencia del usuario. El enfoque se centra en la tensión entre proteger la información personal y mantener la funcionalidad completa del vehículo, subrayando el costo potencial para los conductores que elijan la privacidad.",
-            "reflection": "Para un conductor, la decisión de Ford implica sopesar la protección de sus datos contra la posible pérdida de funcionalidades que mejoran la seguridad y conveniencia. En los próximos días, habrá que observar cómo Ford implementa las restricciones y si los usuarios reciben notificaciones sobre funciones desactivadas."
+            "biasNeutral": "Los medios centristas no abordaron el tema en los artículos proporcionados.",
+            "biasRight": "Los sitios conservadores resaltan que la promesa de Ford de no vender datos responde a la presión regulatoria, pero advierten que al desactivar la transmisión de información el usuario perderá funciones clave como actualizaciones OTA y asistencia remota, lo que puede reducir la utilidad y el valor del vehículo.",
+            "reflection": "Esto importa porque los conductores deben decidir si prefieren mantener la privacidad a costa de funcionalidades que hacen al coche más útil. En los próximos días habrá que observar cómo Ford implementa la restricción y si surgen reacciones de los usuarios o de los reguladores que puedan forzar ajustes en la oferta de servicios conectados."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/11/7e9eec51-news-image-fox-news_052.jpg\" alt=\"Ford anuncia que no venderá datos de conducción a aseguradoras, pero advierte que algunas funciones conectadas podrían quedar inactivas.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Ford anuncia que no venderá datos de conducción a aseguradoras, pero advierte que algunas funciones conectadas podrían quedar inactivas.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no cubrieron este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas no aparecen en los textos suministrados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Fox Tech destaca que la promesa de privacidad de Ford responde a la presión pública, pero advierte que limitar el intercambio de datos podría desactivar servicios como la asistencia en carretera o actualizaciones OTA, afectando la experiencia del usuario. El enfoque se centra en la tensión entre proteger la información personal y mantener la funcionalidad completa del vehículo, subrayando el costo potencial para los conductores que elijan la privacidad.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para un conductor, la decisión de Ford implica sopesar la protección de sus datos contra la posible pérdida de funcionalidades que mejoran la seguridad y conveniencia. En los próximos días, habrá que observar cómo Ford implementa las restricciones y si los usuarios reciben notificaciones sobre funciones desactivadas.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/11/7e9eec51-news-image-fox-news_052.jpg\" alt=\"Un conductor revisa la pantalla de su Ford mientras la marca anuncia que no venderá datos de conducción, pero advierte la pérdida de funciones conectadas.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Un conductor revisa la pantalla de su Ford mientras la marca anuncia que no venderá datos de conducción, pero advierte la pérdida de funciones conectadas.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no cubrieron este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas no abordaron el tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los sitios conservadores resaltan que la promesa de Ford de no vender datos responde a la presión regulatoria, pero advierten que al desactivar la transmisión de información el usuario perderá funciones clave como actualizaciones OTA y asistencia remota, lo que puede reducir la utilidad y el valor del vehículo.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Esto importa porque los conductores deben decidir si prefieren mantener la privacidad a costa de funcionalidades que hacen al coche más útil. En los próximos días habrá que observar cómo Ford implementa la restricción y si surgen reacciones de los usuarios o de los reguladores que puedan forzar ajustes en la oferta de servicios conectados.</p>"
         },
         {
           "id": "topic-5",
-          "headline": "Más de 1,3 millones de cajas Android TV infectadas con malware que crea una botnet controlada por criminales",
-          "summary": "Google identificó que el software Videostrong instaló puertas traseras en dispositivos Android TV, convirtiéndolos en nodos de una red de bots utilizada para ataques cibernéticos. La empresa insta a los usuarios a actualizar el firmware y a revisar la procedencia de sus equipos.",
+          "headline": "Problemas de seguridad y armas autónomas marcan la agenda tecnológica",
+          "summary": "Se descubrió malware en más de un millón de decodificadores Android TV, mientras una empresa estadounidense prueba robots humanoides armados en Ucrania y otra firma de IA afirma reducir costos logísticos con visión artificial. Además, la renuncia de un influyente ejecutivo de IA ha generado debate sobre el futuro de la industria. Estos eventos resaltan tanto los riesgos como las oportunidades de la innovación rápida.",
           "tags": [
             "#Seguridad",
-            "#AndroidTV",
-            "#Malware"
+            "#Robótica",
+            "#InteligenciaArtificial"
           ],
           "source_ids": [
-            11
+            11,
+            12,
+            13,
+            14
           ],
           "sources": [
             {
               "source": "Right (Fox Tech)",
               "title": "Android TV box malware found in 1.3M devices",
               "url": "https://www.foxnews.com/tech/android-tv-box-malware-found-devices"
+            },
+            {
+              "source": "Right (Fox Tech)",
+              "title": "Eric Trump-partnered robotics CEO addresses 'Terminator' fears as he sends combat humanoids into war zones",
+              "url": "https://www.foxnews.com/tech/eric-trump-partnered-robotics-ceo-addresses-terminator-fears-sends-combat-humanoids-warzones"
+            },
+            {
+              "source": "Right (Fox Tech)",
+              "title": "Could AI reduce shipping costs and grocery bills?",
+              "url": "https://www.foxnews.com/tech/could-ai-reduce-shipping-costs-grocery-bills"
+            },
+            {
+              "source": "Right (Fox Tech)",
+              "title": "Fox News AI Newsletter: 'Godfather of AI' resigns, testing American juggernaut",
+              "url": "https://www.foxnews.com/tech/fox-news-ai-newsletter-godfather-ai-resigns-testing-american-juggernaut"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/family-watching-tv-fox-news-001.jpeg",
-            "imageSearchQuery": "Android TV box malware botnet 1.3 million",
-            "caption": "Más de 1,3 millones de cajas Android TV infectadas convierten el salón en una zona de riesgo digital.",
-            "biasLeft": "Los medios progresistas no abordaron este tema en los artículos suministrados.",
-            "biasNeutral": "Los medios centristas o neutrales no publicaron ninguna cobertura sobre este suceso en los documentos proporcionados.",
-            "biasRight": "Los medios conservadores destacan la amenaza a la seguridad nacional y a los consumidores, señalando que la instalación deliberada de malware por parte de Videostrong pone en riesgo la privacidad y la integridad de millones de hogares. También subrayan la necesidad de una mayor vigilancia de las plataformas de hardware y de una acción rápida de Google y las autoridades para frenar la creación de botnets.",
-            "reflection": "Para el usuario medio, una caja Android TV comprometida puede ralentizar su conexión, exponer datos y ser usada en ataques sin que lo note. En los próximos días convendrá seguir los avisos de Google y de los fabricantes sobre actualizaciones de seguridad o instrucciones para desinstalar el software sospechoso."
+            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/Foundation-Photo-3_001.jpg",
+            "imageSearchQuery": "combat humanoid robot Ukraine autonomous weapon",
+            "caption": "El robot MK‑2, armado y listo para el frente ucraniano, simboliza la nueva frontera de la guerra automatizada.",
+            "biasLeft": "Los medios de izquierda no cubren este tema en los artículos proporcionados.",
+            "biasNeutral": "Los medios centristas no aparecen en los artículos proporcionados, por lo que no hay cobertura neutral disponible.",
+            "biasRight": "Los medios conservadores resaltan el riesgo de seguridad que implica el malware en dispositivos de consumo y, a la vez, destacan la ventaja estratégica de contar con robots de combate autónomos como una forma de reforzar la defensa y la competitividad tecnológica de EE. UU. y sus aliados.",
+            "reflection": "Para el ciudadano medio, la amenaza de botnets en televisores y la posibilidad de que máquinas letales operen sin control directo representan riesgos tangibles en la privacidad y la seguridad pública. En los próximos días, habrá que observar cualquier anuncio de regulación de IA militar o de ciberseguridad que apunte a limitar estos desarrollos."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/05/family-watching-tv-fox-news-001.jpeg\" alt=\"Más de 1,3 millones de cajas Android TV infectadas convierten el salón en una zona de riesgo digital.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Más de 1,3 millones de cajas Android TV infectadas convierten el salón en una zona de riesgo digital.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no abordaron este tema en los artículos suministrados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas o neutrales no publicaron ninguna cobertura sobre este suceso en los documentos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores destacan la amenaza a la seguridad nacional y a los consumidores, señalando que la instalación deliberada de malware por parte de Videostrong pone en riesgo la privacidad y la integridad de millones de hogares. También subrayan la necesidad de una mayor vigilancia de las plataformas de hardware y de una acción rápida de Google y las autoridades para frenar la creación de botnets.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el usuario medio, una caja Android TV comprometida puede ralentizar su conexión, exponer datos y ser usada en ataques sin que lo note. En los próximos días convendrá seguir los avisos de Google y de los fabricantes sobre actualizaciones de seguridad o instrucciones para desinstalar el software sospechoso.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/08/Foundation-Photo-3_001.jpg\" alt=\"El robot MK‑2, armado y listo para el frente ucraniano, simboliza la nueva frontera de la guerra automatizada.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El robot MK‑2, armado y listo para el frente ucraniano, simboliza la nueva frontera de la guerra automatizada.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios de izquierda no cubren este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas no aparecen en los artículos proporcionados, por lo que no hay cobertura neutral disponible.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores resaltan el riesgo de seguridad que implica el malware en dispositivos de consumo y, a la vez, destacan la ventaja estratégica de contar con robots de combate autónomos como una forma de reforzar la defensa y la competitividad tecnológica de EE. UU. y sus aliados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el ciudadano medio, la amenaza de botnets en televisores y la posibilidad de que máquinas letales operen sin control directo representan riesgos tangibles en la privacidad y la seguridad pública. En los próximos días, habrá que observar cualquier anuncio de regulación de IA militar o de ciberseguridad que apunte a limitar estos desarrollos.</p>"
         }
       ],
       "rawCount": 15
@@ -415,104 +388,103 @@
       "items": [
         {
           "id": "topic-1",
-          "headline": "El paro nacional de vuelos revela fallas crónicas en el control del tráfico aéreo de EE. UU.",
-          "summary": "Un cese de vuelos a nivel nacional obligó a la FAA a detener cientos de despegues, evidenciando la antigüedad e insuficiencia de su infraestructura de control. Algunas aerolíneas internacionales y vuelos a Hawái recibieron excepciones, lo que generó confusión entre pasajeros y operadores.",
+          "headline": "Aterrizaje de vuelos en EE. UU. expone fallas crónicas del control aéreo",
+          "summary": "El paro nacional del tráfico aéreo dejó fuera de la pista a decenas de vuelos internacionales, mientras algunos aviones escaparon a Hawái. El episodio pone de relieve la infraestructura obsoleta de la FAA y la urgencia de modernizar el sistema de control.",
           "tags": [
             "#aviación",
             "#FAA",
-            "#infraestructura"
+            "#seguridad"
           ],
           "source_ids": [
             0,
+            4
+          ],
+          "sources": [
+            {
+              "source": "Left (NYT Business)",
+              "title": "How Some Flights Were Exempt From the Ground Stop",
+              "url": "https://www.nytimes.com/2026/11/14/business/faa-ground-stop-exceptions-airlines.html"
+            },
+            {
+              "source": "Left (NYT Business)",
+              "title": "Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System",
+              "url": "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://static01.nyt.com/images/2026/11/13/multimedia/13faa-groundstop-fiberoptics-hzkb/13faa-groundstop-fiberoptics-hzkb-videoSixteenByNineJumbo1600.jpg",
+            "imageSearchQuery": "US air traffic control ground stop November 2026 FAA outage",
+            "caption": "Aviones varados en los aeropuertos mientras la FAA enfrenta fallas crónicas en su sistema de control aéreo.",
+            "biasLeft": "Los medios progresistas subrayan la obsolescencia de la infraestructura de la FAA y la falta de inversión pública, señalando que las interrupciones ponen en riesgo a pasajeros y trabajadores. Enfatizan la necesidad de una modernización urgente y de políticas que prioricen la seguridad y la equidad en el transporte aéreo.",
+            "biasNeutral": "No se encontró cobertura neutral o de centro en los artículos proporcionados.",
+            "biasRight": "No se encontró cobertura conservadora o de derecha en los artículos proporcionados.",
+            "reflection": "Este problema afecta directamente a los viajeros que pueden enfrentar retrasos y cancelaciones inesperadas, además de repercutir en la economía regional al interrumpir el flujo de personas y mercancías. En los próximos días habrá que observar si la FAA anuncia nuevos fondos o un plan de modernización concreto para evitar futuras paralizaciones."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/13/multimedia/13faa-groundstop-fiberoptics-hzkb/13faa-groundstop-fiberoptics-hzkb-videoSixteenByNineJumbo1600.jpg\" alt=\"Aviones varados en los aeropuertos mientras la FAA enfrenta fallas crónicas en su sistema de control aéreo.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Aviones varados en los aeropuertos mientras la FAA enfrenta fallas crónicas en su sistema de control aéreo.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan la obsolescencia de la infraestructura de la FAA y la falta de inversión pública, señalando que las interrupciones ponen en riesgo a pasajeros y trabajadores. Enfatizan la necesidad de una modernización urgente y de políticas que prioricen la seguridad y la equidad en el transporte aéreo.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">No se encontró cobertura neutral o de centro en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">No se encontró cobertura conservadora o de derecha en los artículos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Este problema afecta directamente a los viajeros que pueden enfrentar retrasos y cancelaciones inesperadas, además de repercutir en la economía regional al interrumpir el flujo de personas y mercancías. En los próximos días habrá que observar si la FAA anuncia nuevos fondos o un plan de modernización concreto para evitar futuras paralizaciones.</p>"
+        },
+        {
+          "id": "topic-2",
+          "headline": "SpaceX logra que Starship vuelva al mismo punto de lanzamiento en Texas",
+          "summary": "El cohete Starship completó su regreso desde órbita aterrizando exactamente donde despegó, un hito clave para la visión de SpaceX de cohetes totalmente reutilizables. El éxito abre la puerta a misiones más baratas y frecuentes en el futuro cercano.",
+          "tags": [
+            "#SpaceX",
+            "#Starship",
+            "#cohetería"
+          ],
+          "source_ids": [
             1
           ],
           "sources": [
             {
               "source": "Left (NYT Business)",
-              "title": "Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System",
-              "url": "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html"
-            },
-            {
-              "source": "Left (NYT Business)",
-              "title": "How Some Flights Were Exempt From the Ground Stop",
-              "url": "https://www.nytimes.com/2026/11/14/business/faa-ground-stop-exceptions-airlines.html"
+              "title": "SpaceX Makes History With Successful Rocket Catch in Texas",
+              "url": "https://www.nytimes.com/2026/11/14/science/spacex-starship-first-catch.html"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://static01.nyt.com/images/2026/11/13/multimedia/13faa-groundstop-fiberoptics-hzkb/13faa-groundstop-fiberoptics-hzkb-videoSixteenByNineJumbo1600.jpg",
-            "caption": "El paro nacional de vuelos revela fallas crónicas en el control del tráfico aéreo de EE. UU.",
-            "biasLeft": "",
-            "biasNeutral": "",
-            "biasRight": "",
-            "reflection": "El análisis profundo falló temporalmente para este tema."
+            "imageUrl": "https://static01.nyt.com/images/2026/11/14/multimedia/14starship-header-01-vgzq/14starship-header-01-vgzq-videoSixteenByNine3000-v2.jpg",
+            "imageSearchQuery": "SpaceX Starship return Texas launch site",
+            "caption": "El Starship de SpaceX aterriza de nuevo en el sitio de lanzamiento de Boca Chica, Texas, tras su vuelo orbital.",
+            "biasLeft": "Los medios progresistas resaltan que el aterrizaje demuestra el avance de la reutilización total de cohetes, subrayando la reducción de residuos espaciales y el potencial de democratizar el acceso al espacio.",
+            "biasNeutral": "Los medios centrados no publicaron cobertura de este suceso.",
+            "biasRight": "Los medios conservadores no publicaron cobertura de este suceso.",
+            "reflection": "Para el público, el éxito refuerza la promesa de vuelos espaciales más baratos, lo que podría traducirse en nuevos servicios de satélite o turismo. En los próximos días, hay que observar si SpaceX programa otro intento de aterrizaje y si las autoridades regulatorias comentan sobre la seguridad del sitio."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/13/multimedia/13faa-groundstop-fiberoptics-hzkb/13faa-groundstop-fiberoptics-hzkb-videoSixteenByNineJumbo1600.jpg\" alt=\"El paro nacional de vuelos revela fallas crónicas en el control del tráfico aéreo de EE. UU.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El paro nacional de vuelos revela fallas crónicas en el control del tráfico aéreo de EE. UU.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\"></div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\"></div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\"></div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>El análisis profundo falló temporalmente para este tema.</p>"
-        },
-        {
-          "id": "topic-2",
-          "headline": "Microsoft restaura por completo sus servicios tras una interrupción global de Outlook y Teams.",
-          "summary": "Durante más de un día, millones de usuarios en todo el mundo quedaron sin acceso a correo electrónico, videoconferencias y herramientas de productividad, afectando tanto a empresas como a particulares. La compañía informó que los sistemas críticos ya están operativos y que no se perdieron datos.",
-          "tags": [
-            "#tecnología",
-            "#Microsoft",
-            "#ciberincidencia"
-          ],
-          "source_ids": [
-            5,
-            8
-          ],
-          "sources": [
-            {
-              "source": "Neutral (BBC Business)",
-              "title": "Microsoft says services fully restored after day-long global outage",
-              "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "Neutral (BBC Business)",
-              "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-              "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg",
-            "imageSearchQuery": "Microsoft Outlook Teams outage 2024",
-            "caption": "Los servidores de Microsoft vuelven a operar tras una caída global que dejó sin correo y videollamadas a millones.",
-            "biasLeft": "Los artículos proporcionados no incluyen cobertura de medios progresistas sobre este tema.",
-            "biasNeutral": "Los medios centristas informan que Microsoft ha restaurado por completo Outlook, Teams y Copilot después de una interrupción de casi un día. También mencionan que, mientras se reactivan los servicios, persiste la incertidumbre sobre la posible pérdida de correos electrónicos. El enfoque está en los hechos y en la comunicación oficial de la compañía.",
-            "biasRight": "Los artículos proporcionados no incluyen cobertura de medios conservadores sobre este tema.",
-            "reflection": "Para los usuarios, la restauración significa volver a trabajar sin interrupciones en sus comunicaciones diarias. En los próximos días, conviene observar si Microsoft confirma que no se han perdido datos y cómo responde a las preguntas de seguridad de los clientes."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg\" alt=\"Los servidores de Microsoft vuelven a operar tras una caída global que dejó sin correo y videollamadas a millones.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Los servidores de Microsoft vuelven a operar tras una caída global que dejó sin correo y videollamadas a millones.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los artículos proporcionados no incluyen cobertura de medios progresistas sobre este tema.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas informan que Microsoft ha restaurado por completo Outlook, Teams y Copilot después de una interrupción de casi un día. También mencionan que, mientras se reactivan los servicios, persiste la incertidumbre sobre la posible pérdida de correos electrónicos. El enfoque está en los hechos y en la comunicación oficial de la compañía.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los artículos proporcionados no incluyen cobertura de medios conservadores sobre este tema.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para los usuarios, la restauración significa volver a trabajar sin interrupciones en sus comunicaciones diarias. En los próximos días, conviene observar si Microsoft confirma que no se han perdido datos y cómo responde a las preguntas de seguridad de los clientes.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/14/multimedia/14starship-header-01-vgzq/14starship-header-01-vgzq-videoSixteenByNine3000-v2.jpg\" alt=\"El Starship de SpaceX aterriza de nuevo en el sitio de lanzamiento de Boca Chica, Texas, tras su vuelo orbital.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El Starship de SpaceX aterriza de nuevo en el sitio de lanzamiento de Boca Chica, Texas, tras su vuelo orbital.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas resaltan que el aterrizaje demuestra el avance de la reutilización total de cohetes, subrayando la reducción de residuos espaciales y el potencial de democratizar el acceso al espacio.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centrados no publicaron cobertura de este suceso.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no publicaron cobertura de este suceso.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el público, el éxito refuerza la promesa de vuelos espaciales más baratos, lo que podría traducirse en nuevos servicios de satélite o turismo. En los próximos días, hay que observar si SpaceX programa otro intento de aterrizaje y si las autoridades regulatorias comentan sobre la seguridad del sitio.</p>"
         },
         {
           "id": "topic-3",
-          "headline": "Nvidia sufre caída de acciones y presión política tras la renuncia inesperada de Jensen Huang.",
-          "summary": "El anuncio de la salida del fundador y CEO provocó una caída de cerca del 14 % en el valor de la compañía y la designación del CFO Colette Kress como directora interina. Al mismo tiempo, investigadores y funcionarios de EE. UU. examinan un escándalo personal y posibles violaciones comerciales, elevando la incertidumbre sobre el futuro del gigante de la IA.",
+          "headline": "Crisis en Nvidia tras la renuncia de Jensen Huang: caída de acciones y cambio de liderazgo",
+          "summary": "La inesperada salida del fundador de Nvidia provocó una caída de más de 20 000 millones de dólares en su capitalización y la designación de la CFO Colette Kress como directora interina. El episodio ha generado presión política en EE. UU. y dudas sobre el futuro de la compañía de chips de IA.",
           "tags": [
             "#Nvidia",
-            "#tecnología",
             "#IA",
-            "#política"
+            "#mercado"
           ],
           "source_ids": [
             7,
+            8,
             9,
             11,
             12,
             13,
-            14,
-            6
+            14
           ],
           "sources": [
+            {
+              "source": "Neutral (BBC Business)",
+              "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+              "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "Neutral (BBC Business)",
+              "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
+              "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
+            },
             {
               "source": "Right (Fox Business)",
               "title": "Nvidia stock slide wipes out more than $20B in value for Jensen Huang over 5 days",
               "url": "https://www.foxbusiness.com/markets/nvidia-stock-slide-wipes-out-billions-value-jensen-huang-days"
-            },
-            {
-              "source": "Neutral (BBC Business)",
-              "title": "How a sex scandal at Nvidia is putting pressure on the White House",
-              "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss"
             },
             {
               "source": "Right (Fox Business)",
@@ -533,84 +505,96 @@
               "source": "Right (Fox Business)",
               "title": "Nvidia shares sell off as CEO Jensen Huang resigns",
               "url": "https://www.foxbusiness.com/markets/nvidia-shares-plunge-more-7-premarket-trading-ceo-uncertainty-rattles-ai-stocks"
-            },
-            {
-              "source": "Neutral (BBC Business)",
-              "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
-              "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
             }
           ],
           "deepDive": {
             "imageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/jensen-huang.jpg?ve=1&tl=1",
-            "imageSearchQuery": "Jensen Huang resignation Nvidia stock drop",
-            "caption": "La renuncia inesperada de Jensen Huang desencadena una caída del 14% en Nvidia, borrando $20 mil millones en valor.",
-            "biasLeft": "Los medios de izquierda no abordaron este tema en los artículos suministrados.",
-            "biasNeutral": "BBC Business se centra en el escándalo sexual que rodea a Huang y cómo este asunto llega a la Casa Blanca, ofreciendo datos sin juicios. Señala la presión política sin atribuir culpabilidad, y plantea preguntas sobre la gestión de Nvidia bajo la nueva dirección interina.",
-            "biasRight": "Fox Business enfatiza la caída del precio de las acciones y la pérdida de $20 mil millones para Huang, subrayando la incertidumbre para los inversores. También destaca la intervención de Donald Trump, sugiriendo que la sucesión de Huang tiene implicaciones de liderazgo nacional. La cobertura insiste en el riesgo económico y la necesidad de una transición rápida.",
-            "reflection": "Para cualquier accionista o trabajador del sector tecnológico, la volatilidad de Nvidia impacta directamente sus carteras y oportunidades laborales. En los próximos días, el foco está en los resultados trimestrales y en la designación definitiva del CEO, que indicarán si la empresa puede estabilizar su valor."
+            "imageSearchQuery": "Jensen Huang resignation Nvidia stock plunge",
+            "caption": "La renuncia de Jensen Huang envía a Nvidia a una caída abrupta mientras Colette Kress asume el timón temporalmente.",
+            "biasLeft": "Los medios progresistas no aparecen entre las fuentes proporcionadas; por lo tanto, no hay cobertura de tendencia izquierda sobre este tema.",
+            "biasNeutral": "Los canales neutrales (BBC Business) centran la atención en el escándalo que afecta la reputación de Singapur como hub de chips y describen la presión sobre el secretario de Comercio de EE. UU. por la posible inclusión de Megaspeed en la lista de entidades, resaltando implicaciones regulatorias internacionales.",
+            "biasRight": "Los medios de derecha (Fox Business) destacan la pérdida de más de 20 mil millones de dólares en el patrimonio de Huang, el nombramiento de la CFO Colette Kress como CEO interina y la intervención de Donald Trump, quien sugiere a Tim Cook como sucesor, subrayando el impacto económico y de liderazgo en el sector tecnológico.",
+            "reflection": "Para los inversores y consumidores, la incertidumbre en el liderazgo de Nvidia puede traducirse en volatilidad del mercado y posibles retrasos en productos de IA que usamos a diario. En los próximos días, vigila la evolución del precio de la acción y cualquier anuncio concreto sobre el sucesor permanente de Huang; eso indicará si la empresa estabiliza su rumbo o si el caos persiste."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/jensen-huang.jpg?ve=1&amp;tl=1\" alt=\"La renuncia inesperada de Jensen Huang desencadena una caída del 14% en Nvidia, borrando $20 mil millones en valor.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La renuncia inesperada de Jensen Huang desencadena una caída del 14% en Nvidia, borrando $20 mil millones en valor.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios de izquierda no abordaron este tema en los artículos suministrados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">BBC Business se centra en el escándalo sexual que rodea a Huang y cómo este asunto llega a la Casa Blanca, ofreciendo datos sin juicios. Señala la presión política sin atribuir culpabilidad, y plantea preguntas sobre la gestión de Nvidia bajo la nueva dirección interina.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Fox Business enfatiza la caída del precio de las acciones y la pérdida de $20 mil millones para Huang, subrayando la incertidumbre para los inversores. También destaca la intervención de Donald Trump, sugiriendo que la sucesión de Huang tiene implicaciones de liderazgo nacional. La cobertura insiste en el riesgo económico y la necesidad de una transición rápida.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para cualquier accionista o trabajador del sector tecnológico, la volatilidad de Nvidia impacta directamente sus carteras y oportunidades laborales. En los próximos días, el foco está en los resultados trimestrales y en la designación definitiva del CEO, que indicarán si la empresa puede estabilizar su valor.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/jensen-huang.jpg?ve=1&amp;tl=1\" alt=\"La renuncia de Jensen Huang envía a Nvidia a una caída abrupta mientras Colette Kress asume el timón temporalmente.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La renuncia de Jensen Huang envía a Nvidia a una caída abrupta mientras Colette Kress asume el timón temporalmente.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no aparecen entre las fuentes proporcionadas; por lo tanto, no hay cobertura de tendencia izquierda sobre este tema.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los canales neutrales (BBC Business) centran la atención en el escándalo que afecta la reputación de Singapur como hub de chips y describen la presión sobre el secretario de Comercio de EE. UU. por la posible inclusión de Megaspeed en la lista de entidades, resaltando implicaciones regulatorias internacionales.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios de derecha (Fox Business) destacan la pérdida de más de 20 mil millones de dólares en el patrimonio de Huang, el nombramiento de la CFO Colette Kress como CEO interina y la intervención de Donald Trump, quien sugiere a Tim Cook como sucesor, subrayando el impacto económico y de liderazgo en el sector tecnológico.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para los inversores y consumidores, la incertidumbre en el liderazgo de Nvidia puede traducirse en volatilidad del mercado y posibles retrasos en productos de IA que usamos a diario. En los próximos días, vigila la evolución del precio de la acción y cualquier anuncio concreto sobre el sucesor permanente de Huang; eso indicará si la empresa estabiliza su rumbo o si el caos persiste.</p>"
         },
         {
           "id": "topic-4",
-          "headline": "Presidente Trump y altos ejecutivos estadounidenses se reunirán con autoridades chinas en Shenzhen para discutir comercio y seguridad.",
-          "summary": "La cumbre programada para la próxima semana busca aliviar la guerra comercial estancada, revisar controles de exportación y abordar sospechas de espionaje industrial. Los participantes esperan negociar un marco que permita la continuidad de la cadena de suministro tecnológica.",
+          "headline": "Microsoft restablece completamente sus servicios tras la interrupción global de Outlook y Teams",
+          "summary": "Tras una caída que afectó a Outlook, Teams y Copilot durante varias horas, la empresa confirmó que ya ha recuperado la operatividad total de sus plataformas. El incidente dejó a millones de usuarios sin correo ni colaboración, pero los datos se mantuvieron seguros.",
           "tags": [
-            "#EEUU",
-            "#China",
-            "#comercio",
+            "#Microsoft",
+            "#corte",
             "#tecnología"
           ],
           "source_ids": [
-            4
+            6,
+            10
           ],
           "sources": [
             {
-              "source": "Left (NYT Business)",
-              "title": "5 Big Questions as C.E.O.s Meet in China",
-              "url": "https://www.nytimes.com/2026/11/14/business/dealbook/questions-china-us-apec-summit.html"
+              "source": "Neutral (BBC Business)",
+              "title": "Microsoft says services fully restored after day-long global outage",
+              "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "Neutral (BBC Business)",
+              "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+              "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://static01.nyt.com/images/2026/11/14/multimedia/14DB-China-CEOs-wjlv/14DB-China-CEOs-wjlv-videoSixteenByNineJumbo1600.jpg",
-            "imageSearchQuery": "President Trump Shenzhen summit Chinese officials trade security",
-            "caption": "El presidente Trump y ejecutivos estadounidenses se reúnen en Shenzhen bajo la sombra de la guerra comercial y los temores de espionaje.",
-            "biasLeft": "Los medios progresistas subrayan cómo la reunión podría profundizar la presión sobre China en temas de derechos humanos y seguridad tecnológica, señalando los riesgos de una escalada del espionaje económico. También resaltan que los controles de exportación pueden afectar a trabajadores y consumidores estadounidenses, agravando la desigualdad.",
-            "biasNeutral": "Los medios centristas no cubrieron este tema en los artículos proporcionados.",
-            "biasRight": "Los medios conservadores no abordaron este tema en los artículos proporcionados.",
-            "reflection": "Para el ciudadano de a pie, la cumbre define si habrá nuevas restricciones a productos tecnológicos o aumentos de aranceles que repercutirán en los precios de gadgets y servicios digitales. En los próximos días, la clave será observar cualquier anuncio de medidas de control de exportaciones o acuerdos comerciales que alteren la cadena de suministro."
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg",
+            "imageSearchQuery": "Microsoft Outlook Teams outage 2024",
+            "caption": "Microsoft confirma que Outlook y Teams vuelven a operar tras una caída mundial de más de 24 horas.",
+            "biasLeft": "Los medios de tendencia progresista no abordaron este tema en los artículos suministrados.",
+            "biasNeutral": "Los informes de la BBC Business se centran en los hechos: la interrupción global de Outlook, Teams y Copilot, y la restauración total de los servicios. Señalan que el problema subyacente ya se ha corregido y que se sigue trabajando en la recuperación completa. No se menciona pérdida de correos ni impacto prolongado.",
+            "biasRight": "Los medios de tendencia conservadora no cubrieron este asunto en los artículos proporcionados.",
+            "reflection": "Para los usuarios, la normalización significa volver a enviar y recibir correos y reuniones sin interrupciones. El reto será observar si Microsoft comunica mejoras para evitar futuras caídas y si aparecen incidentes en otras plataformas. Mantenga atención a actualizaciones oficiales en los próximos días."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/14/multimedia/14DB-China-CEOs-wjlv/14DB-China-CEOs-wjlv-videoSixteenByNineJumbo1600.jpg\" alt=\"El presidente Trump y ejecutivos estadounidenses se reúnen en Shenzhen bajo la sombra de la guerra comercial y los temores de espionaje.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El presidente Trump y ejecutivos estadounidenses se reúnen en Shenzhen bajo la sombra de la guerra comercial y los temores de espionaje.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan cómo la reunión podría profundizar la presión sobre China en temas de derechos humanos y seguridad tecnológica, señalando los riesgos de una escalada del espionaje económico. También resaltan que los controles de exportación pueden afectar a trabajadores y consumidores estadounidenses, agravando la desigualdad.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas no cubrieron este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no abordaron este tema en los artículos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el ciudadano de a pie, la cumbre define si habrá nuevas restricciones a productos tecnológicos o aumentos de aranceles que repercutirán en los precios de gadgets y servicios digitales. En los próximos días, la clave será observar cualquier anuncio de medidas de control de exportaciones o acuerdos comerciales que alteren la cadena de suministro.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg\" alt=\"Microsoft confirma que Outlook y Teams vuelven a operar tras una caída mundial de más de 24 horas.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Microsoft confirma que Outlook y Teams vuelven a operar tras una caída mundial de más de 24 horas.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios de tendencia progresista no abordaron este tema en los artículos suministrados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los informes de la BBC Business se centran en los hechos: la interrupción global de Outlook, Teams y Copilot, y la restauración total de los servicios. Señalan que el problema subyacente ya se ha corregido y que se sigue trabajando en la recuperación completa. No se menciona pérdida de correos ni impacto prolongado.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios de tendencia conservadora no cubrieron este asunto en los artículos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para los usuarios, la normalización significa volver a enviar y recibir correos y reuniones sin interrupciones. El reto será observar si Microsoft comunica mejoras para evitar futuras caídas y si aparecen incidentes en otras plataformas. Mantenga atención a actualizaciones oficiales en los próximos días.</p>"
         },
         {
           "id": "topic-5",
-          "headline": "El concurso Eurovision mantiene la política fuera del escenario mientras su versión asiática enfrenta desafíos geopolíticos.",
-          "summary": "Los organizadores del Eurovision europeo han logrado excluir la polémica política de la presentación del espectáculo, a diferencia de la edición asiática donde tensiones internacionales influyen en la participación. El contraste pone de relieve la dificultad de separar cultura y diplomacia en eventos musicales globales.",
+          "headline": "Noticias de consumo y retail: calendario de belleza caro, multa a Family Dollar y homenaje a pionera de la TV",
+          "summary": "Los calendarios de belleza de lujo siguen costando cientos de dólares, mientras que Family Dollar acordó pagar 63 millones de dólares por sobrecargos a clientes. En otro plano, el mundo del periodismo recordó a Linda Mason, pionera que rompió barreras de género en la televisión.",
           "tags": [
-            "#Eurovision",
-            "#cultura",
-            "#política"
+            "#consumo",
+            "#retail",
+            "#periodismo"
           ],
           "source_ids": [
-            3
+            2,
+            3,
+            5
           ],
           "sources": [
             {
+              "source": "Neutral (BBC Business)",
+              "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+              "url": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss"
+            },
+            {
               "source": "Left (NYT Business)",
-              "title": "Geopolitics Looms Over Eurovision, but Not Its Asian Edition",
-              "url": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-politics.html"
+              "title": "Family Dollar to Pay $63 Million Settlement for Overcharging Customers",
+              "url": "https://www.nytimes.com/2026/11/14/business/family-dollar-overcharging-settlement.html"
+            },
+            {
+              "source": "Left (NYT Business)",
+              "title": "She Was a CBS News Producer When Few Women Were",
+              "url": "https://www.nytimes.com/2026/11/14/business/media/linda-mason-dead-cbs-news.html"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://static01.nyt.com/images/2026/11/14/multimedia/14asia-eurovision-geopolitics-tgzw/14asia-eurovision-geopolitics-tgzw-videoSixteenByNine3000.jpg",
-            "imageSearchQuery": "Eurovision Asian edition politics stage",
-            "caption": "Los artistas de la edición asiática de Eurovisión cantan mientras los organizadores evitan cualquier polémica geopolítica en el escenario.",
-            "biasLeft": "Los medios progresistas subrayan que mantener la política fuera del escenario protege la libre expresión cultural y evita que los artistas sean instrumentos de propaganda estatal. Además, señalan la importancia de que el concurso siga siendo un espacio de unión más que de confrontación entre naciones.",
-            "biasNeutral": "Este tema no aparece en fuentes centradas o neutrales en los artículos proporcionados.",
-            "biasRight": "Este tema no aparece en fuentes conservadoras o derechas en los artículos proporcionados.",
-            "reflection": "Para el público, la decisión de excluir la política determina si el espectáculo seguirá siendo una fiesta de música o se convertirá en un campo de batalla diplomático. En los próximos días habrá que observar cualquier declaración oficial de gobiernos involucrados que intente influir en la programación del concurso."
+            "imageUrl": "https://static01.nyt.com/images/2026/11/14/multimedia/14xp-settlement-topart-02-zvcf/14xp-settlement-topart-02-zvcf-videoSixteenByNine3000.jpg",
+            "imageSearchQuery": "Family Dollar $63 million settlement overcharging 2026",
+            "caption": "Calendarios de belleza costosos, una multa millonaria a Family Dollar y el legado de Linda Mason, pionera de la TV, dominan la agenda de consumo y medios.",
+            "biasLeft": "Los medios progresistas critican el elevado precio de los calendarios de belleza como una maniobra de mercadotecnia que explota la presión social sobre las mujeres. Subrayan la gravedad de la multa a Family Dollar, señalando que la sobrecobro afecta a consumidores vulnerables y exige una regulación más estricta. Además, resaltan el papel de Linda Mason como referente de la igualdad de género en la industria televisiva.",
+            "biasNeutral": "Los medios neutrales informan que los calendarios de adviento de belleza pueden llegar a costar varios cientos de dólares y que Family Dollar acordó pagar 63 millones de dólares por sobrecobros. También detallan la trayectoria de Mason desde 1966 en CBS hasta su puesto de vicepresidenta senior. Presentan los datos sin añadir juicios de valor.",
+            "biasRight": "Los medios conservadores no aparecen en los artículos suministrados; por lo tanto, no hay cobertura de este tema desde una perspectiva de derecha.",
+            "reflection": "Para el consumidor, la noticia plantea la decisión de gastar en productos de lujo o buscar alternativas más asequibles durante la temporada navideña. La multa a Family Dollar alerta sobre la importancia de revisar los precios en tiendas de descuento. En los próximos días habrá que observar si surgen nuevas acciones regulatorias y cómo evolucionan los precios de los calendarios de belleza."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/14/multimedia/14asia-eurovision-geopolitics-tgzw/14asia-eurovision-geopolitics-tgzw-videoSixteenByNine3000.jpg\" alt=\"Los artistas de la edición asiática de Eurovisión cantan mientras los organizadores evitan cualquier polémica geopolítica en el escenario.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Los artistas de la edición asiática de Eurovisión cantan mientras los organizadores evitan cualquier polémica geopolítica en el escenario.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan que mantener la política fuera del escenario protege la libre expresión cultural y evita que los artistas sean instrumentos de propaganda estatal. Además, señalan la importancia de que el concurso siga siendo un espacio de unión más que de confrontación entre naciones.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Este tema no aparece en fuentes centradas o neutrales en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Este tema no aparece en fuentes conservadoras o derechas en los artículos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el público, la decisión de excluir la política determina si el espectáculo seguirá siendo una fiesta de música o se convertirá en un campo de batalla diplomático. En los próximos días habrá que observar cualquier declaración oficial de gobiernos involucrados que intente influir en la programación del concurso.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/14/multimedia/14xp-settlement-topart-02-zvcf/14xp-settlement-topart-02-zvcf-videoSixteenByNine3000.jpg\" alt=\"Calendarios de belleza costosos, una multa millonaria a Family Dollar y el legado de Linda Mason, pionera de la TV, dominan la agenda de consumo y medios.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Calendarios de belleza costosos, una multa millonaria a Family Dollar y el legado de Linda Mason, pionera de la TV, dominan la agenda de consumo y medios.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas critican el elevado precio de los calendarios de belleza como una maniobra de mercadotecnia que explota la presión social sobre las mujeres. Subrayan la gravedad de la multa a Family Dollar, señalando que la sobrecobro afecta a consumidores vulnerables y exige una regulación más estricta. Además, resaltan el papel de Linda Mason como referente de la igualdad de género en la industria televisiva.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios neutrales informan que los calendarios de adviento de belleza pueden llegar a costar varios cientos de dólares y que Family Dollar acordó pagar 63 millones de dólares por sobrecobros. También detallan la trayectoria de Mason desde 1966 en CBS hasta su puesto de vicepresidenta senior. Presentan los datos sin añadir juicios de valor.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no aparecen en los artículos suministrados; por lo tanto, no hay cobertura de este tema desde una perspectiva de derecha.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el consumidor, la noticia plantea la decisión de gastar en productos de lujo o buscar alternativas más asequibles durante la temporada navideña. La multa a Family Dollar alerta sobre la importancia de revisar los precios en tiendas de descuento. En los próximos días habrá que observar si surgen nuevas acciones regulatorias y cómo evolucionan los precios de los calendarios de belleza.</p>"
         }
       ],
       "rawCount": 15
