@@ -1,28 +1,150 @@
 {
-  "last_updated": "2026-11-16T23:58:58.192Z",
+  "last_updated": "2026-11-17T07:42:53.912Z",
   "language": "en",
   "categories": {
     "GLOBAL_MACRO": {
       "items": [
         {
           "id": "topic-1",
-          "headline": "Germany, Denmark, Austria, Greece and the Netherlands agree to set up a Rwanda return hub for rejected asylum seekers",
-          "summary": "The five EU states announced a joint facility in Rwanda where migrants whose asylum claims are denied will be sent for onward removal. The plan revives a controversial policy and raises questions about human‑rights compliance and the future of Europe’s migration system.",
+          "headline": "Ukraine launches massive drone strike on Crimea bridge as Russia’s double‑tap attacks kill civilians and France covertly trains Kyiv troops",
+          "summary": "Ukrainian forces hit the strategic bridge linking Crimea to Russia with a record‑breaking drone assault, while Russian artillery continues to target rescue teams in southern Ukraine, killing dozens. French special‑operations officers are also said to be training Ukrainian soldiers behind the front lines, adding another layer to the conflict’s escalation.",
           "tags": [
-            "#EU",
-            "#migration",
-            "#Rwanda"
+            "#UkraineWar",
+            "#CrimeaBridge",
+            "#DroneAttack",
+            "#France",
+            "#CivilianCasualties"
           ],
           "source_ids": [
             0,
-            9
+            1,
+            8,
+            12
           ],
           "sources": [
             {
               "source": "Neutral (BBC)",
-              "title": "Five EU countries announce migrant deportation centre in Rwanda",
-              "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss"
+              "title": "Ukraine and Russia trade strikes on key bridges",
+              "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
             },
+            {
+              "source": "Neutral (BBC)",
+              "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+              "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "Right (Fox)",
+              "title": "French troops secretly deployed inside Ukraine as ex-NATO chief praises Macron's 'guts'",
+              "url": "https://www.foxnews.com/world/french-troops-secretly-deployed-ukraine-ex-nato-chief-praises-macrons-guts"
+            },
+            {
+              "source": "Right (Fox)",
+              "title": "Ukraine hits Putin's prized bridge in record drone blitz as Kremlin tells lawmakers to prepare for 'victory'",
+              "url": "https://www.foxnews.com/world/ukraine-hits-putins-prized-bridge-record-drone-blitz-kremlin-tells-lawmakers-prepare-victory"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/ukraine-russia-crisis-fire.gif",
+            "imageSearchQuery": "Ukraine drone strike Crimea bridge 2026",
+            "caption": "A massive swarm of Ukrainian drones sparks a blaze on the Crimea bridge, a key Russian supply artery.",
+            "biasLeft": "Left‑leaning outlets are not represented among the supplied sources.",
+            "biasNeutral": "BBC reports stick to the facts: the bridge linking Crimea to Russia was damaged, two Kyiv routes were closed, and a separate \"double‑tap\" attack killed dozens of civilians. The coverage is careful to note the humanitarian toll without assigning blame beyond the immediate actions.",
+            "biasRight": "Fox News highlights the boldness of Ukraine's drone offensive and frames the French \"Volia\" mission as a daring, covert move by Macron, underscoring security implications and the willingness of Western allies to intervene directly. The language stresses victory narratives and the strategic impact on Russia.",
+            "reflection": "The bridge is a lifeline for Russian logistics, so its disruption could strain supply lines and affect front‑line dynamics. Watch for Russian retaliatory strikes and any official comment on the French covert mission, as both will signal how the conflict and external support are evolving in the coming days."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/11/ukraine-russia-crisis-fire.gif\" alt=\"A massive swarm of Ukrainian drones sparks a blaze on the Crimea bridge, a key Russian supply artery.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">A massive swarm of Ukrainian drones sparks a blaze on the Crimea bridge, a key Russian supply artery.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left‑leaning outlets are not represented among the supplied sources.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">BBC reports stick to the facts: the bridge linking Crimea to Russia was damaged, two Kyiv routes were closed, and a separate &quot;double‑tap&quot; attack killed dozens of civilians. The coverage is careful to note the humanitarian toll without assigning blame beyond the immediate actions.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Fox News highlights the boldness of Ukraine&#39;s drone offensive and frames the French &quot;Volia&quot; mission as a daring, covert move by Macron, underscoring security implications and the willingness of Western allies to intervene directly. The language stresses victory narratives and the strategic impact on Russia.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>The bridge is a lifeline for Russian logistics, so its disruption could strain supply lines and affect front‑line dynamics. Watch for Russian retaliatory strikes and any official comment on the French covert mission, as both will signal how the conflict and external support are evolving in the coming days.</p>"
+        },
+        {
+          "id": "topic-2",
+          "headline": "Pope Leo XIV proceeds with South American tour after lung surgery, despite being struck by a flying rosary in Peru",
+          "summary": "The pontiff, who underwent lung surgery in October, has completed several stops in Brazil, Colombia and Peru, reassuring crowds that his health permits travel. During the farewell Mass in Lima, a rosary tossed at his popemobile brushed his face, but the Pope continued the ceremony unharmed.",
+          "tags": [
+            "#PopeLeoXIV",
+            "#SouthAmerica",
+            "#Health",
+            "#Peru",
+            "#Vatican"
+          ],
+          "source_ids": [
+            5,
+            10
+          ],
+          "sources": [
+            {
+              "source": "Left (NYT)",
+              "title": "Pope Endures Grueling Travel in South America Weeks After Surgery",
+              "url": "https://www.nytimes.com/2026/11/16/world/europe/pope-leo-peru-health.html"
+            },
+            {
+              "source": "Right (Fox)",
+              "title": "Pope Leo XIV hit in the face by flying rosary during farewell Mass in Peru, video shows",
+              "url": "https://www.foxnews.com/world/pope-leo-xiv-hit-face-flying-rosary-farewell-mass-peru-video-shows"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/pope-peru-1.gif",
+            "imageSearchQuery": "Pope Leo XIV rosary incident Lima popemobile",
+            "caption": "Pope Leo XIV brushes off a flying rosary that grazed his eye during the farewell Mass in Lima, Peru.",
+            "biasLeft": "The New York Times frames the South American leg as a test of the pontiff’s stamina after a serious lung operation, emphasizing the personal strain on the pope and the symbolic weight of his perseverance. It hints at the human cost of a grueling itinerary and the broader message of solidarity with vulnerable populations.",
+            "biasNeutral": "No explicitly neutral or centrist outlet is represented in the supplied sources.",
+            "biasRight": "Fox News spotlights the alarming moment when a rosary was hurled at the pope’s popemobile, stressing concerns about crowd control and disrespect toward religious authority. The coverage leans into the security implications and portrays the incident as a breach of public order.",
+            "reflection": "For everyday observers, the episode signals how quickly a high‑profile religious visit can turn into a security headache, especially when the leader’s health is already fragile. Watch the next few days for any adjustments to the pope’s itinerary or tightened security protocols, which could affect local crowds and related travel plans."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/11/pope-peru-1.gif\" alt=\"Pope Leo XIV brushes off a flying rosary that grazed his eye during the farewell Mass in Lima, Peru.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Pope Leo XIV brushes off a flying rosary that grazed his eye during the farewell Mass in Lima, Peru.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The New York Times frames the South American leg as a test of the pontiff’s stamina after a serious lung operation, emphasizing the personal strain on the pope and the symbolic weight of his perseverance. It hints at the human cost of a grueling itinerary and the broader message of solidarity with vulnerable populations.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">No explicitly neutral or centrist outlet is represented in the supplied sources.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Fox News spotlights the alarming moment when a rosary was hurled at the pope’s popemobile, stressing concerns about crowd control and disrespect toward religious authority. The coverage leans into the security implications and portrays the incident as a breach of public order.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday observers, the episode signals how quickly a high‑profile religious visit can turn into a security headache, especially when the leader’s health is already fragile. Watch the next few days for any adjustments to the pope’s itinerary or tightened security protocols, which could affect local crowds and related travel plans.</p>"
+        },
+        {
+          "id": "topic-3",
+          "headline": "OpenAI sued in California over alleged safety failures as Nvidia rejects campaign to reinstall founder Jensen Huang",
+          "summary": "California Attorney General Rob Bonta claims OpenAI misled users and created public hazards, filing a state lawsuit that could set precedents for AI accountability. Meanwhile, a group of tech leaders urging Nvidia to bring back former CEO Jensen Huang was dismissed by the company, highlighting internal leadership debates in the chip sector.",
+          "tags": [
+            "#OpenAI",
+            "#AIRegulation",
+            "#Nvidia",
+            "#JensenHuang",
+            "#TechIndustry"
+          ],
+          "source_ids": [
+            3,
+            7
+          ],
+          "sources": [
+            {
+              "source": "Neutral (BBC)",
+              "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
+              "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "Neutral (BBC)",
+              "title": "OpenAI sued by California over Hugging Face attack",
+              "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ce1a/live/7c81aa70-e211-11f1-a541-6d0c391a4254.jpg",
+            "imageSearchQuery": "OpenAI lawsuit California safety failure AG Bonta",
+            "caption": "California Attorney General Rob Bonta sues OpenAI, alleging the company misled the public and created unsafe AI.",
+            "biasLeft": "The left-leaning press is not represented in the provided articles, so no progressive framing can be identified.",
+            "biasNeutral": "BBC sticks to the headline facts: the state has filed a lawsuit against OpenAI over safety concerns, and a separate story notes a campaign to bring back Nvidia CEO Jensen Huang that even President Trump has mentioned. The coverage avoids speculation, simply reporting the allegations and the political endorsement.",
+            "biasRight": "The right-leaning press is not represented in the provided articles, so no conservative framing can be identified.",
+            "reflection": "The lawsuit could tighten regulatory scrutiny on AI firms, potentially slowing product roll‑outs or prompting new safety standards that affect everyday users. In the next few days watch for court filings, statements from OpenAI, and any response from Nvidia about the Huang campaign, as those will signal how quickly the industry adapts to legal pressure."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ce1a/live/7c81aa70-e211-11f1-a541-6d0c391a4254.jpg\" alt=\"California Attorney General Rob Bonta sues OpenAI, alleging the company misled the public and created unsafe AI.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">California Attorney General Rob Bonta sues OpenAI, alleging the company misled the public and created unsafe AI.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The left-leaning press is not represented in the provided articles, so no progressive framing can be identified.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">BBC sticks to the headline facts: the state has filed a lawsuit against OpenAI over safety concerns, and a separate story notes a campaign to bring back Nvidia CEO Jensen Huang that even President Trump has mentioned. The coverage avoids speculation, simply reporting the allegations and the political endorsement.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">The right-leaning press is not represented in the provided articles, so no conservative framing can be identified.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>The lawsuit could tighten regulatory scrutiny on AI firms, potentially slowing product roll‑outs or prompting new safety standards that affect everyday users. In the next few days watch for court filings, statements from OpenAI, and any response from Nvidia about the Huang campaign, as those will signal how quickly the industry adapts to legal pressure.</p>"
+        },
+        {
+          "id": "topic-4",
+          "headline": "Five European countries agree to funnel rejected asylum seekers to a new Rwanda‑based processing hub",
+          "summary": "Germany, Austria, the Netherlands, Greece and Denmark are coordinating to establish a joint centre in Rwanda where migrants whose claims are denied will be transferred. The plan, aimed at deterring irregular migration, has drawn criticism from human‑rights groups who warn it could violate international protection standards.",
+          "tags": [
+            "#Migration",
+            "#Rwanda",
+            "#Europe",
+            "#AsylumPolicy",
+            "#HumanRights"
+          ],
+          "source_ids": [
+            13
+          ],
+          "sources": [
             {
               "source": "Left (NYT)",
               "title": "Five European Countries Plan to Deport Migrants to Rwanda",
@@ -30,130 +152,26 @@
             }
           ],
           "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7397/live/2ac14ca0-e1d9-11f1-b8c8-67fa35f5afdb.jpg",
-            "imageSearchQuery": "Germany Denmark Austria Greece Netherlands Rwanda return hub migrants",
-            "caption": "Officials from five EU nations stand beside a banner announcing a new Rwanda “return hub” for asylum seekers whose claims were rejected.",
-            "biasLeft": "The New York Times frames the plan as a controversial extension of Europe’s outsourcing of migration control, highlighting human‑rights concerns and the moral hazard of sending vulnerable people to a distant, under‑scrutinized system. It stresses the potential for families to be split apart and questions whether Rwanda can guarantee safe, dignified returns. The language leans toward portraying the hub as a symptom of a broader failure to address root causes of migration.",
-            "biasNeutral": "The BBC sticks to the basics: five countries have agreed to create a joint “return hub” in Rwanda for rejected asylum seekers, naming the participating states and the basic purpose of the facility. It avoids editorializing, instead noting the development as a policy step without assigning blame or praise. The report leaves open how the hub will operate and what legal safeguards will be in place.",
-            "biasRight": "No right‑leaning source is provided in the supplied articles, so a conservative framing cannot be extracted.",
-            "reflection": "For everyday citizens, this hub could affect the odds of a swift return if their asylum claim is denied, potentially shortening the often‑lengthy detention period. Watch for the next round of EU talks on funding and legal oversight; any breakthrough or backlash will shape how quickly the hub becomes operational."
+            "imageUrl": "https://static01.nyt.com/images/2026/12/15/world/15Int-Europe-Rwanda-aaa/15Int-Europe-Rwanda-aaa-videoSixteenByNine3000.jpg",
+            "imageSearchQuery": "European countries Rwanda asylum processing hub migrants deportation",
+            "caption": "Officials from Germany, Austria, the Netherlands, Greece and Denmark stand beside a map of Rwanda as they unveil plans to send rejected asylum seekers there.",
+            "biasLeft": "The New York Times frames the scheme as a humanitarian back‑fire, stressing how outsourcing asylum decisions to Rwanda could sideline vulnerable people and erode EU asylum protections. It highlights the moral hazard of turning migrants into political bargaining chips and questions the legality under international refugee law.",
+            "biasNeutral": "No neutral or wire service coverage appears in the provided material.",
+            "biasRight": "No conservative or right‑leaning coverage appears in the provided material.",
+            "reflection": "For everyday citizens, this plan could affect local election debates on immigration and potentially shift the burden of migrant processing away from their own cities. Watch for statements from the five governments and any EU legal challenges in the coming days, as those will signal whether the hub will move beyond rhetoric to implementation."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7397/live/2ac14ca0-e1d9-11f1-b8c8-67fa35f5afdb.jpg\" alt=\"Officials from five EU nations stand beside a banner announcing a new Rwanda “return hub” for asylum seekers whose claims were rejected.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Officials from five EU nations stand beside a banner announcing a new Rwanda “return hub” for asylum seekers whose claims were rejected.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The New York Times frames the plan as a controversial extension of Europe’s outsourcing of migration control, highlighting human‑rights concerns and the moral hazard of sending vulnerable people to a distant, under‑scrutinized system. It stresses the potential for families to be split apart and questions whether Rwanda can guarantee safe, dignified returns. The language leans toward portraying the hub as a symptom of a broader failure to address root causes of migration.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC sticks to the basics: five countries have agreed to create a joint “return hub” in Rwanda for rejected asylum seekers, naming the participating states and the basic purpose of the facility. It avoids editorializing, instead noting the development as a policy step without assigning blame or praise. The report leaves open how the hub will operate and what legal safeguards will be in place.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No right‑leaning source is provided in the supplied articles, so a conservative framing cannot be extracted.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday citizens, this hub could affect the odds of a swift return if their asylum claim is denied, potentially shortening the often‑lengthy detention period. Watch for the next round of EU talks on funding and legal oversight; any breakthrough or backlash will shape how quickly the hub becomes operational.</p>"
-        },
-        {
-          "id": "topic-2",
-          "headline": "Ukraine launches massive drone raid that damages Russia’s Crimea bridge",
-          "summary": "Ukrainian forces deployed more than 2,000 drones in a coordinated attack that set fire to facilities on the bridge linking Crimea to the Russian mainland. The strike marks the largest drone operation of the war and could disrupt supply lines and civilian traffic across the strategically vital structure.",
-          "tags": [
-            "#Ukraine",
-            "#Russia",
-            "#CrimeaBridge",
-            "#dronewar"
-          ],
-          "source_ids": [
-            7,
-            12
-          ],
-          "sources": [
-            {
-              "source": "Right (Fox)",
-              "title": "Ukraine hits Putin's prized bridge in record drone blitz as Kremlin tells lawmakers to prepare for 'victory'",
-              "url": "https://www.foxnews.com/world/ukraine-hits-putins-prized-bridge-record-drone-blitz-kremlin-tells-lawmakers-prepare-victory"
-            },
-            {
-              "source": "Neutral (BBC)",
-              "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
-              "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/ukraine-russia-crisis-fire.gif",
-            "imageSearchQuery": "Crimea bridge drone strike Ukraine 2026",
-            "caption": "Flames lick the steel spans of the Crimean bridge after a massive Ukrainian drone swarm set the structure ablaze.",
-            "biasLeft": "No left-leaning source was included among the supplied articles, so a progressive framing cannot be identified here.",
-            "biasNeutral": "The BBC sticks to the numbers: more than 2,000 Ukrainian drones were launched and Kyiv faced a record 17 air‑raid alerts in one day. It labels the hit on the bridge as \"landmark\" while noting Russia’s claim that this is the war’s biggest drone attack. The tone remains factual, leaving room for readers to assess the strategic impact themselves.",
-            "biasRight": "Fox News highlights the symbolic blow to Putin by calling the bridge \"Putin's prized\" structure and stresses the scale of the “record drone blitz.” It points to industrial facilities catching fire and the Kremlin urging lawmakers to gear up for a “victory,” framing the raid as a major security and morale challenge for Russia.",
-            "reflection": "For ordinary citizens, the raid shows that even Russia’s most guarded infrastructure can be struck, which could ripple into higher energy prices or tighter travel restrictions. Watch for Russian responses—whether they tighten security, launch retaliatory strikes, or announce repairs—as those moves will signal how the conflict may intensify in the coming days."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/11/ukraine-russia-crisis-fire.gif\" alt=\"Flames lick the steel spans of the Crimean bridge after a massive Ukrainian drone swarm set the structure ablaze.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Flames lick the steel spans of the Crimean bridge after a massive Ukrainian drone swarm set the structure ablaze.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">No left-leaning source was included among the supplied articles, so a progressive framing cannot be identified here.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC sticks to the numbers: more than 2,000 Ukrainian drones were launched and Kyiv faced a record 17 air‑raid alerts in one day. It labels the hit on the bridge as &quot;landmark&quot; while noting Russia’s claim that this is the war’s biggest drone attack. The tone remains factual, leaving room for readers to assess the strategic impact themselves.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Fox News highlights the symbolic blow to Putin by calling the bridge &quot;Putin&#39;s prized&quot; structure and stresses the scale of the “record drone blitz.” It points to industrial facilities catching fire and the Kremlin urging lawmakers to gear up for a “victory,” framing the raid as a major security and morale challenge for Russia.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For ordinary citizens, the raid shows that even Russia’s most guarded infrastructure can be struck, which could ripple into higher energy prices or tighter travel restrictions. Watch for Russian responses—whether they tighten security, launch retaliatory strikes, or announce repairs—as those moves will signal how the conflict may intensify in the coming days.</p>"
-        },
-        {
-          "id": "topic-3",
-          "headline": "French special‑operations unit secretly training Ukrainian troops under the code‑name ‘Volia’",
-          "summary": "Reports indicate that France has deployed covert forces inside Ukraine to coach soldiers, a move praised by former NATO chief Jens Stoltenberg and condemned by Russia as a breach of neutrality. The operation underscores the deepening Western involvement in Kyiv’s fight and could affect diplomatic negotiations.",
-          "tags": [
-            "#France",
-            "#Ukraine",
-            "#militaryaid",
-            "#Volia"
-          ],
-          "source_ids": [
-            1
-          ],
-          "sources": [
-            {
-              "source": "Right (Fox)",
-              "title": "French troops secretly deployed inside Ukraine as ex-NATO chief praises Macron's 'guts'",
-              "url": "https://www.foxnews.com/world/french-troops-secretly-deployed-ukraine-ex-nato-chief-praises-macrons-guts"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/france-emmanuel-macron-ukraine-volodymyr-zelenskyy-fox-news.jpg",
-            "imageSearchQuery": "France Volia mission Ukrainian troops training",
-            "caption": "French special‑ops operators covertly training Ukrainian soldiers under the code‑name “Volia”.",
-            "biasLeft": "Left‑leaning coverage of this story is not present in the supplied articles.",
-            "biasNeutral": "Neutral or centrist coverage of this story is not present in the supplied articles.",
-            "biasRight": "The right‑leaning piece frames the operation as a bold, decisive move by Macron, emphasizing France’s willingness to back Ukraine’s defense and the strategic advantage of covert training. It underscores the security payoff for Europe and casts the secrecy as a sign of political courage. The article also notes praise from a former NATO chief, tying the mission to broader alliance credibility.",
-            "reflection": "For everyday citizens, the hidden French training program signals that Western support for Ukraine may be deeper than official statements, potentially affecting public opinion on aid spending. Watch for any official acknowledgment or diplomatic pushback in the coming days, which would hint at how far governments are willing to go behind the scenes."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2025/11/france-emmanuel-macron-ukraine-volodymyr-zelenskyy-fox-news.jpg\" alt=\"French special‑ops operators covertly training Ukrainian soldiers under the code‑name “Volia”.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">French special‑ops operators covertly training Ukrainian soldiers under the code‑name “Volia”.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left‑leaning coverage of this story is not present in the supplied articles.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">Neutral or centrist coverage of this story is not present in the supplied articles.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">The right‑leaning piece frames the operation as a bold, decisive move by Macron, emphasizing France’s willingness to back Ukraine’s defense and the strategic advantage of covert training. It underscores the security payoff for Europe and casts the secrecy as a sign of political courage. The article also notes praise from a former NATO chief, tying the mission to broader alliance credibility.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday citizens, the hidden French training program signals that Western support for Ukraine may be deeper than official statements, potentially affecting public opinion on aid spending. Watch for any official acknowledgment or diplomatic pushback in the coming days, which would hint at how far governments are willing to go behind the scenes.</p>"
-        },
-        {
-          "id": "topic-4",
-          "headline": "Pope Leo XIV struck by a flying rosary during his farewell Mass in Lima, continues South American tour",
-          "summary": "During the concluding ceremony of his visit to Peru, a rosary tossed from the crowd hit the pontiff near the eye, but he finished the Mass and proceeded with his scheduled engagements. The incident highlights the heightened security concerns surrounding the pope’s first overseas trip after lung surgery.",
-          "tags": [
-            "#Pope",
-            "#LeoXIV",
-            "#Peru",
-            "#SouthAmerica"
-          ],
-          "source_ids": [
-            5,
-            8
-          ],
-          "sources": [
-            {
-              "source": "Right (Fox)",
-              "title": "Pope Leo XIV hit in the face by flying rosary during farewell Mass in Peru, video shows",
-              "url": "https://www.foxnews.com/world/pope-leo-xiv-hit-face-flying-rosary-farewell-mass-peru-video-shows"
-            },
-            {
-              "source": "Left (NYT)",
-              "title": "Pope Endures Grueling Travel in South America Weeks After Surgery",
-              "url": "https://www.nytimes.com/2026/11/16/world/europe/pope-leo-peru-health.html"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/pope-peru-1.gif",
-            "imageSearchQuery": "Pope Leo XIV rosary incident Lima farewell Mass",
-            "caption": "Pope Leo XIV brushes off a stray rosary that struck his face during the farewell Mass in Lima.",
-            "biasLeft": "The New York Times did not mention the rosary incident at all; instead it framed the trip around the Pope’s recent lung surgery, stressing his physical vulnerability and the human toll of a demanding itinerary. The tone is sympathetic, highlighting his endurance and the pastoral duty despite health risks.",
-            "biasNeutral": "No centrist or wire service coverage of this specific rosary incident appears in the provided articles.",
-            "biasRight": "Fox News zeroes in on the dramatic moment of a rosary hitting the Pope, treating it as a security lapse that could have endangered the pontiff. The story underscores the Pope’s composure while hinting that crowd control measures need tightening, and it presents the incident as a headline‑grabbing shock.",
-            "reflection": "For everyday readers, the episode is a reminder that even high‑profile events carry safety risks, and any security breach could affect public confidence. Keep an eye on official Vatican statements about the Pope’s health and any tightened security protocols in the coming days."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/11/pope-peru-1.gif\" alt=\"Pope Leo XIV brushes off a stray rosary that struck his face during the farewell Mass in Lima.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Pope Leo XIV brushes off a stray rosary that struck his face during the farewell Mass in Lima.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The New York Times did not mention the rosary incident at all; instead it framed the trip around the Pope’s recent lung surgery, stressing his physical vulnerability and the human toll of a demanding itinerary. The tone is sympathetic, highlighting his endurance and the pastoral duty despite health risks.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">No centrist or wire service coverage of this specific rosary incident appears in the provided articles.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Fox News zeroes in on the dramatic moment of a rosary hitting the Pope, treating it as a security lapse that could have endangered the pontiff. The story underscores the Pope’s composure while hinting that crowd control measures need tightening, and it presents the incident as a headline‑grabbing shock.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday readers, the episode is a reminder that even high‑profile events carry safety risks, and any security breach could affect public confidence. Keep an eye on official Vatican statements about the Pope’s health and any tightened security protocols in the coming days.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/12/15/world/15Int-Europe-Rwanda-aaa/15Int-Europe-Rwanda-aaa-videoSixteenByNine3000.jpg\" alt=\"Officials from Germany, Austria, the Netherlands, Greece and Denmark stand beside a map of Rwanda as they unveil plans to send rejected asylum seekers there.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Officials from Germany, Austria, the Netherlands, Greece and Denmark stand beside a map of Rwanda as they unveil plans to send rejected asylum seekers there.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The New York Times frames the scheme as a humanitarian back‑fire, stressing how outsourcing asylum decisions to Rwanda could sideline vulnerable people and erode EU asylum protections. It highlights the moral hazard of turning migrants into political bargaining chips and questions the legality under international refugee law.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">No neutral or wire service coverage appears in the provided material.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No conservative or right‑leaning coverage appears in the provided material.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday citizens, this plan could affect local election debates on immigration and potentially shift the burden of migrant processing away from their own cities. Watch for statements from the five governments and any EU legal challenges in the coming days, as those will signal whether the hub will move beyond rhetoric to implementation.</p>"
         },
         {
           "id": "topic-5",
-          "headline": "Iran‑backed Houthi rebels make further gains in Yemen, threatening regional trade routes",
-          "summary": "The militia’s recent advance in the country's south‑west brings it closer to key ports, raising fears that disruptions could ripple through global oil and container shipping. Analysts warn that a wider escalation could compound existing humanitarian crises and economic instability.",
+          "headline": "Former Pakistani prime minister Imran Khan says his health is worsening in prison and fears he may not survive",
+          "summary": "Khan, detained since August on corruption charges, alleges that prison conditions and denied medical care are endangering his life. His public statements have reignited debates over the fairness of his trial and the broader political turmoil in Pakistan.",
           "tags": [
-            "#Yemen",
-            "#Houthi",
-            "#MiddleEast",
-            "#globaltrade"
+            "#ImranKhan",
+            "#Pakistan",
+            "#PoliticalPrisoners",
+            "#Health",
+            "#Justice"
           ],
           "source_ids": [
             4
@@ -161,20 +179,20 @@
           "sources": [
             {
               "source": "Neutral (BBC)",
-              "title": "Houthi rebel advance in Yemen may further destabilise global economy",
-              "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss"
+              "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
+              "url": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eb50/live/f528e3c0-e1f9-11f1-a094-5fdc692f3e33.jpg",
-            "imageSearchQuery": "Houthi rebels advance Yemen Red Sea trade route",
-            "caption": "Houthi fighters push deeper into Yemen, raising alarms over the safety of Red Sea shipping lanes.",
-            "biasLeft": "Progressive outlets are not represented in the provided material, so no left‑leaning framing can be reported.",
-            "biasNeutral": "The BBC focuses on the concrete fact that Iran‑backed Houthis are gaining ground and highlights the potential ripple effects on the global economy, especially through disruptions to vital maritime trade routes.",
-            "biasRight": "Conservative outlets are not represented in the provided material, so no right‑leaning emphasis can be reported.",
-            "reflection": "For everyday people, a Houthi surge could mean higher shipping costs and price spikes for imported goods. Keep an eye on any reports of attacks on container ships or statements from naval forces in the coming days."
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/34cb/live/06da8400-e224-11f1-91de-bf87f3de9484.jpg",
+            "imageSearchQuery": "Imran Khan prison health emergency",
+            "caption": "Former PM Imran Khan, frail and bandaged, pleads for urgent medical care from his cell.",
+            "biasLeft": "Absent from the provided article; no progressive framing is presented.",
+            "biasNeutral": "The BBC piece sticks to the facts: Khan has been detained since August 2023, claims his health is deteriorating, and says he’s being denied justice. It notes his fear of not surviving without urgent care.",
+            "biasRight": "Absent from the provided article; no conservative angle is offered.",
+            "reflection": "Khan’s health claim raises questions about prison conditions and political repression in Pakistan, which could spark domestic unrest or international pressure. Watch for any official medical reports or court filings in the coming days that either confirm or refute his allegations."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eb50/live/f528e3c0-e1f9-11f1-a094-5fdc692f3e33.jpg\" alt=\"Houthi fighters push deeper into Yemen, raising alarms over the safety of Red Sea shipping lanes.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Houthi fighters push deeper into Yemen, raising alarms over the safety of Red Sea shipping lanes.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Progressive outlets are not represented in the provided material, so no left‑leaning framing can be reported.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC focuses on the concrete fact that Iran‑backed Houthis are gaining ground and highlights the potential ripple effects on the global economy, especially through disruptions to vital maritime trade routes.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Conservative outlets are not represented in the provided material, so no right‑leaning emphasis can be reported.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday people, a Houthi surge could mean higher shipping costs and price spikes for imported goods. Keep an eye on any reports of attacks on container ships or statements from naval forces in the coming days.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/34cb/live/06da8400-e224-11f1-91de-bf87f3de9484.jpg\" alt=\"Former PM Imran Khan, frail and bandaged, pleads for urgent medical care from his cell.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Former PM Imran Khan, frail and bandaged, pleads for urgent medical care from his cell.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Absent from the provided article; no progressive framing is presented.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC piece sticks to the facts: Khan has been detained since August 2023, claims his health is deteriorating, and says he’s being denied justice. It notes his fear of not surviving without urgent care.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Absent from the provided article; no conservative angle is offered.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>Khan’s health claim raises questions about prison conditions and political repression in Pakistan, which could spark domestic unrest or international pressure. Watch for any official medical reports or court filings in the coming days that either confirm or refute his allegations.</p>"
         }
       ],
       "rawCount": 15
@@ -183,8 +201,8 @@
       "items": [
         {
           "id": "topic-1",
-          "headline": "Nvidia faces leadership turmoil as Jensen Huang departs and supporters push for his return",
-          "summary": "Jensen Huang’s sudden exit has sparked a wave of public pleas from industry peers and a social‑media campaign urging the board to reinstate him, while interim CEO Colette Kress must navigate internal power struggles tied to Huang’s daughter’s influence. The dispute highlights how personal relationships can destabilize a company that dominates AI chip markets.",
+          "headline": "Nvidia executives and industry peers call for Jensen Huang's return after his abrupt resignation",
+          "summary": "Huang stepped down amid revelations about a concealed personal relationship that raised governance concerns, prompting a campaign—backed by tech leaders and even former President Trump—to pressure the board to reinstate him. The push highlights the clash between corporate oversight and the perceived irreplaceability of a visionary CEO.",
           "tags": [
             "#Nvidia",
             "#JensenHuang",
@@ -192,21 +210,21 @@
           ],
           "source_ids": [
             0,
-            3,
+            1,
             9,
             12,
             13
           ],
           "sources": [
             {
+              "source": "Neutral (BBC Tech)",
+              "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
+              "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss"
+            },
+            {
               "source": "Left (NYT Tech)",
               "title": "Madison Huang, Jensen Huang’s Daughter, Became a Powerful Force at Nvidia",
               "url": "https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html"
-            },
-            {
-              "source": "Neutral (BBC Tech)",
-              "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
-              "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss"
             },
             {
               "source": "Left (NYT Tech)",
@@ -225,101 +243,71 @@
             }
           ],
           "deepDive": {
-            "imageUrl": "https://static01.nyt.com/images/2026/11/16/multimedia/BIZ-MADISON-HUANG-1-01-cmjw/BIZ-MADISON-HUANG-1-01-cmjw-videoSixteenByNine3000.jpg",
-            "imageSearchQuery": "Jensen Huang resignation Nvidia leadership turmoil",
-            "caption": "Madison Huang, the founder’s daughter, sits at a board table as Nvidia scrambles to steady its helm after Jensen Huang’s sudden exit.",
-            "biasLeft": "Left‑leaning outlets frame the saga as a cautionary tale of nepotism and personal misconduct, spotlighting Madison Huang’s de‑facto chief‑of‑staff role and the scandalous secret relationship that forced Jensen Huang out. They stress how power concentrations and opaque behavior can destabilize even the most successful tech firms.",
-            "biasNeutral": "Neutral coverage sticks to the facts: a grassroots \"Bring Jensen Back\" campaign has emerged, with a handful of tech leaders and former President Trump publicly urging Nvidia’s board to reinstall the founder. The piece notes the campaign’s existence without taking a stance on its merit.",
-            "biasRight": "No right‑leaning coverage of this specific topic appears in the provided articles.",
-            "reflection": "For investors and employees, the leadership vacuum raises immediate questions about Nvidia’s strategic direction and stock volatility. Watch for any board statement or interim CEO appointment in the next few days, as that will signal how quickly the company aims to restore confidence."
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
+            "imageSearchQuery": "Jensen Huang resignation Nvidia rally tech leaders",
+            "caption": "Silicon Valley heavyweights pile into Nvidia’s inbox urging the board to reinstate founder Jensen Huang after his abrupt exit.",
+            "biasLeft": "The New York Times pieces frame Huang’s downfall as a personal scandal, zeroing in on a concealed affair and his daughter’s overreach as symptoms of a toxic, patriarchal power structure. They stress how the drama exposes broader issues of nepotism and gender dynamics at a flagship tech firm. The tone is investigative, casting the resignation as a moral and systemic failure.",
+            "biasNeutral": "The BBC report sticks to the facts: a “Bring Jensen Back” campaign has emerged, backed by a mix of industry peers and even a political figure, Donald Trump. It notes the board’s dismissal of the effort without taking a side, highlighting the public pressure and the corporate response. The piece stays descriptive and avoids editorial commentary.",
+            "biasRight": "No right‑leaning outlets are represented in the supplied articles.",
+            "reflection": "The saga matters because Nvidia’s leadership directly influences the AI chip market that underpins many consumer and enterprise products, affecting everything from job security to stock performance. Watch for any board statement or interim‑CEO decision in the next few days; a quick reinstatement or a decisive new hire would signal how volatile the company’s direction really is."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/16/multimedia/BIZ-MADISON-HUANG-1-01-cmjw/BIZ-MADISON-HUANG-1-01-cmjw-videoSixteenByNine3000.jpg\" alt=\"Madison Huang, the founder’s daughter, sits at a board table as Nvidia scrambles to steady its helm after Jensen Huang’s sudden exit.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Madison Huang, the founder’s daughter, sits at a board table as Nvidia scrambles to steady its helm after Jensen Huang’s sudden exit.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left‑leaning outlets frame the saga as a cautionary tale of nepotism and personal misconduct, spotlighting Madison Huang’s de‑facto chief‑of‑staff role and the scandalous secret relationship that forced Jensen Huang out. They stress how power concentrations and opaque behavior can destabilize even the most successful tech firms.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">Neutral coverage sticks to the facts: a grassroots &quot;Bring Jensen Back&quot; campaign has emerged, with a handful of tech leaders and former President Trump publicly urging Nvidia’s board to reinstall the founder. The piece notes the campaign’s existence without taking a stance on its merit.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No right‑leaning coverage of this specific topic appears in the provided articles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For investors and employees, the leadership vacuum raises immediate questions about Nvidia’s strategic direction and stock volatility. Watch for any board statement or interim CEO appointment in the next few days, as that will signal how quickly the company aims to restore confidence.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg\" alt=\"Silicon Valley heavyweights pile into Nvidia’s inbox urging the board to reinstate founder Jensen Huang after his abrupt exit.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Silicon Valley heavyweights pile into Nvidia’s inbox urging the board to reinstate founder Jensen Huang after his abrupt exit.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The New York Times pieces frame Huang’s downfall as a personal scandal, zeroing in on a concealed affair and his daughter’s overreach as symptoms of a toxic, patriarchal power structure. They stress how the drama exposes broader issues of nepotism and gender dynamics at a flagship tech firm. The tone is investigative, casting the resignation as a moral and systemic failure.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC report sticks to the facts: a “Bring Jensen Back” campaign has emerged, backed by a mix of industry peers and even a political figure, Donald Trump. It notes the board’s dismissal of the effort without taking a side, highlighting the public pressure and the corporate response. The piece stays descriptive and avoids editorial commentary.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No right‑leaning outlets are represented in the supplied articles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>The saga matters because Nvidia’s leadership directly influences the AI chip market that underpins many consumer and enterprise products, affecting everything from job security to stock performance. Watch for any board statement or interim‑CEO decision in the next few days; a quick reinstatement or a decisive new hire would signal how volatile the company’s direction really is.</p>"
         },
         {
           "id": "topic-2",
-          "headline": "OpenAI is sued by California and faces criticism over child‑safety tools and phishing scams",
-          "summary": "The California attorney general alleges OpenAI misled the public, while the company’s new image‑classifier reduces flagged content but still struggles with child‑abuse detection, and fake OpenAI event pages have been used to harvest Microsoft and Google credentials. These issues raise questions about the firm’s transparency and security practices as its products become more ubiquitous.",
+          "headline": "GTA 6 pre‑order revenues surge to $1.18 billion while a teenage hacker pleads guilty to breaching Rockstar’s servers",
+          "summary": "Sensor Tower estimates the upcoming title has already generated over a billion dollars in pre‑order sales, underscoring massive consumer appetite. At the same time, a 21‑year‑old who accessed Rockstar’s network as a teen has entered a guilty plea, illustrating the security challenges that accompany blockbuster releases.",
           "tags": [
-            "#OpenAI",
-            "#AIethics",
-            "#Security"
+            "#GTAV6",
+            "#Gaming",
+            "#Cybercrime"
           ],
           "source_ids": [
             2,
-            6,
-            11
+            8
           ],
           "sources": [
             {
               "source": "Neutral (BBC Tech)",
-              "title": "California sues OpenAI over Hugging Face attack",
-              "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss"
+              "title": "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
+              "url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "source": "Right (Fox Tech)",
-              "title": "OpenAI child safety tools target AI-generated abuse",
-              "url": "https://www.foxnews.com/tech/openai-child-safety-tools-target-ai-generated-abuse"
-            },
-            {
-              "source": "Right (Fox Tech)",
-              "title": "Fake AI event invites target Microsoft and Google logins",
-              "url": "https://www.foxnews.com/tech/fake-ai-event-invites-target-microsoft-google-logins"
+              "source": "Neutral (BBC Tech)",
+              "title": "GTA 6 hacker pleads guilty after release from secure hospital",
+              "url": "https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&at_campaign=rss"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ce1a/live/7c81aa70-e211-11f1-a541-6d0c391a4254.jpg",
-            "imageSearchQuery": "Rob Bonta California lawsuit OpenAI Hugging Face",
-            "caption": "Attorney General Rob Bonta announces a lawsuit against OpenAI in Sacramento, accusing the firm of misleading the public and endangering users.",
-            "biasLeft": "Left‑leaning outlets are not represented among the provided sources, so no progressive framing is available here.",
-            "biasNeutral": "The BBC article sticks to the core facts: California’s attorney general has filed a suit, alleging OpenAI misled the public and contributed to a security breach involving Hugging Face. It avoids judgment, simply noting the legal claim and the alleged public risk.",
-            "biasRight": "Fox Tech frames the controversy around OpenAI’s safety tools, emphasizing that the new image classifier reduces false positives while still catching child‑abuse material, and highlights the company’s harsher user‑suspension policy. It also spotlights phishing scams tied to fake OpenAI event pages, portraying the incidents as a security failure that puts corporate credentials at risk.",
-            "reflection": "The lawsuit could force OpenAI to tighten its transparency and safety measures, affecting how developers and users interact with its models. Watch for court filings this week and any official statements from OpenAI about policy changes or additional security alerts."
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eb4c/live/4a003210-e1d0-11f1-b8c8-67fa35f5afdb.jpg",
+            "imageSearchQuery": "GTA 6 pre-order revenue teenage hacker Arion Kurtaj Rockstar breach",
+            "caption": "Rockstar’s GTA 6 rockets to $1.18 bn in pre‑order sales even as a teenage hacker admits breaching its servers.",
+            "biasLeft": "Left‑leaning outlets did not cover this story in the provided articles. Consequently there is no progressive framing to report.",
+            "biasNeutral": "Neutral outlets focus on the hard numbers: Sensor Tower estimates $1.18 bn in pre‑order revenue across PlayStation and Xbox. They also report the legal outcome – a 21‑year‑old pleading guilty to the Rockstar hack. The coverage sticks to facts without editorializing.",
+            "biasRight": "Right‑leaning outlets did not cover this story in the provided articles. Hence no conservative‑oriented angle is available.",
+            "reflection": "For everyday gamers and investors, the $1.18 bn pre‑order figure signals massive demand and potential future price pressure on the market. Meanwhile, the hacker’s guilty plea underscores lingering security risks, so watch for Rockstar’s next security statements or any further legal actions in the coming days."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ce1a/live/7c81aa70-e211-11f1-a541-6d0c391a4254.jpg\" alt=\"Attorney General Rob Bonta announces a lawsuit against OpenAI in Sacramento, accusing the firm of misleading the public and endangering users.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Attorney General Rob Bonta announces a lawsuit against OpenAI in Sacramento, accusing the firm of misleading the public and endangering users.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left‑leaning outlets are not represented among the provided sources, so no progressive framing is available here.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC article sticks to the core facts: California’s attorney general has filed a suit, alleging OpenAI misled the public and contributed to a security breach involving Hugging Face. It avoids judgment, simply noting the legal claim and the alleged public risk.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Fox Tech frames the controversy around OpenAI’s safety tools, emphasizing that the new image classifier reduces false positives while still catching child‑abuse material, and highlights the company’s harsher user‑suspension policy. It also spotlights phishing scams tied to fake OpenAI event pages, portraying the incidents as a security failure that puts corporate credentials at risk.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>The lawsuit could force OpenAI to tighten its transparency and safety measures, affecting how developers and users interact with its models. Watch for court filings this week and any official statements from OpenAI about policy changes or additional security alerts.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eb4c/live/4a003210-e1d0-11f1-b8c8-67fa35f5afdb.jpg\" alt=\"Rockstar’s GTA 6 rockets to $1.18 bn in pre‑order sales even as a teenage hacker admits breaching its servers.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Rockstar’s GTA 6 rockets to $1.18 bn in pre‑order sales even as a teenage hacker admits breaching its servers.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left‑leaning outlets did not cover this story in the provided articles. Consequently there is no progressive framing to report.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">Neutral outlets focus on the hard numbers: Sensor Tower estimates $1.18 bn in pre‑order revenue across PlayStation and Xbox. They also report the legal outcome – a 21‑year‑old pleading guilty to the Rockstar hack. The coverage sticks to facts without editorializing.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Right‑leaning outlets did not cover this story in the provided articles. Hence no conservative‑oriented angle is available.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday gamers and investors, the $1.18 bn pre‑order figure signals massive demand and potential future price pressure on the market. Meanwhile, the hacker’s guilty plea underscores lingering security risks, so watch for Rockstar’s next security statements or any further legal actions in the coming days.</p>"
         },
         {
           "id": "topic-3",
-          "headline": "Indian AI start‑ups use machine learning to repair roads and clean up land‑record chaos",
-          "summary": "Entrepreneurs across the country are deploying AI tools to map damaged infrastructure, predict maintenance needs, and digitize tangled property data, aiming to cut bureaucratic delays and improve public services. Their solutions illustrate how homegrown tech can address challenges that global firms often overlook.",
+          "headline": "AI startups in India and a Florida mosquito trap use machine learning to tackle infrastructure and disease challenges",
+          "summary": "Dozens of Indian AI firms are applying algorithms to repair fragmented road data and modernize chaotic land‑record systems, while researchers at the University of South Florida have built a trap that identifies dengue‑carrying mosquitoes with 98% accuracy. Both projects show how artificial intelligence is being deployed to solve concrete public‑service problems.",
           "tags": [
-            "#India",
             "#AI",
+            "#PublicHealth",
             "#Infrastructure"
           ],
           "source_ids": [
-            1
+            3,
+            10
           ],
           "sources": [
             {
               "source": "Neutral (BBC Tech)",
               "title": "The AI start-ups fixing India's broken roads and messy land records",
               "url": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/886f/live/a4a715f0-c892-11f1-b0a4-81e564f1cfaa.jpg",
-            "imageSearchQuery": "India AI startup road repair land records digitisation",
-            "caption": "AI‑driven tools map crumbling highways and decode chaotic land‑registry data across India.",
-            "biasLeft": "Left‑leaning coverage is not present in the provided articles.",
-            "biasNeutral": "The BBC piece lists dozens of Indian AI firms tackling uniquely local problems, from pothole‑detecting vision systems to machine‑learning platforms that reconcile overlapping land titles. It sticks to concrete examples, naming the startups, their tech stacks, and the scale of the challenges they face. It also notes that government partnerships are still nascent, leaving room for private‑sector innovation.",
-            "biasRight": "Right‑leaning coverage is not present in the provided articles.",
-            "reflection": "For everyday Indians, smoother roads mean fewer accidents and lower vehicle‑maintenance costs, while clearer land records reduce disputes and speed up property sales. In the coming days watch for any policy announcements, funding deals, or pilot roll‑outs that could tip these technologies from pilots to nationwide adoption."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/886f/live/a4a715f0-c892-11f1-b0a4-81e564f1cfaa.jpg\" alt=\"AI‑driven tools map crumbling highways and decode chaotic land‑registry data across India.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">AI‑driven tools map crumbling highways and decode chaotic land‑registry data across India.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left‑leaning coverage is not present in the provided articles.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC piece lists dozens of Indian AI firms tackling uniquely local problems, from pothole‑detecting vision systems to machine‑learning platforms that reconcile overlapping land titles. It sticks to concrete examples, naming the startups, their tech stacks, and the scale of the challenges they face. It also notes that government partnerships are still nascent, leaving room for private‑sector innovation.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Right‑leaning coverage is not present in the provided articles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday Indians, smoother roads mean fewer accidents and lower vehicle‑maintenance costs, while clearer land records reduce disputes and speed up property sales. In the coming days watch for any policy announcements, funding deals, or pilot roll‑outs that could tip these technologies from pilots to nationwide adoption.</p>"
-        },
-        {
-          "id": "topic-4",
-          "headline": "Researchers unveil AI‑powered mosquito trap that catches dengue carriers with 98% accuracy",
-          "summary": "The University of South Florida prototype uses computer vision to identify and capture disease‑bearing mosquitoes, offering a targeted approach as Florida confronts its worst dengue outbreak in decades. If scaled, the device could reduce reliance on broad insecticide spraying and lower infection rates.",
-          "tags": [
-            "#Dengue",
-            "#AI",
-            "#PublicHealth"
-          ],
-          "source_ids": [
-            10
-          ],
-          "sources": [
+            },
             {
               "source": "Right (Fox Tech)",
               "title": "AI mosquito trap targets deadly dengue outbreak",
@@ -327,33 +315,65 @@
             }
           ],
           "deepDive": {
-            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/ai-mosquito-trap-bug.jpg",
-            "imageSearchQuery": "AI mosquito trap dengue Florida University of South Florida research",
-            "caption": "A prototype AI‑driven mosquito trap being tested at the University of South Florida as the state grapples with a surge in dengue cases.",
-            "biasLeft": "Left‑leaning outlets did not cover this story in the provided sources.",
-            "biasNeutral": "Center‑leaning outlets are not represented among the supplied articles.",
-            "biasRight": "The Fox Tech piece frames the trap as a high‑tech solution that could curb the dengue outbreak and protect the local economy. It highlights the partnership between researchers and industry, suggesting the technology could reduce health‑care costs and bolster tourism. The article also points to the trap’s 98% accuracy as a win for public safety and a showcase of American innovation.",
-            "reflection": "For residents of Florida, a reliable mosquito trap could mean fewer dengue infections and less disruption to daily life and work. In the coming days, watch for official statements on field trials, funding allocations, or deployment plans that could signal when the technology moves from lab to neighborhood."
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/886f/live/a4a715f0-c892-11f1-b0a4-81e564f1cfaa.jpg",
+            "imageSearchQuery": "AI road repair India AI mosquito trap Florida dengue",
+            "caption": "Engineers oversee a machine‑learning road‑repair robot in Delhi while scientists in Tampa monitor a high‑tech mosquito trap hunting dengue‑spreading bugs.",
+            "biasLeft": "Left‑leaning coverage of these topics is absent from the supplied articles.",
+            "biasNeutral": "The BBC piece lists concrete facts about dozens of Indian AI start‑ups tackling broken roads, tangled land records, and other local problems, offering a broad overview without partisan framing. It notes the scale of the challenges and the variety of sectors involved, but stops short of policy prescriptions.",
+            "biasRight": "The Fox article spotlights the economic and public‑health payoff of an AI mosquito trap that claims 98% accuracy, framing it as a decisive tool against Florida's worst dengue outbreak in decades. It emphasizes the technology's efficiency and the urgency of protecting residents and local economies.",
+            "reflection": "These AI applications matter because they promise immediate, tangible benefits: smoother streets and clearer titles for millions of Indians, and fewer dengue cases for Floridians. In the coming days watch for pilot rollouts of AI‑driven road‑maintenance projects in Indian states and for any reported drop in dengue numbers as the mosquito traps are deployed."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/11/ai-mosquito-trap-bug.jpg\" alt=\"A prototype AI‑driven mosquito trap being tested at the University of South Florida as the state grapples with a surge in dengue cases.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">A prototype AI‑driven mosquito trap being tested at the University of South Florida as the state grapples with a surge in dengue cases.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left‑leaning outlets did not cover this story in the provided sources.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">Center‑leaning outlets are not represented among the supplied articles.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">The Fox Tech piece frames the trap as a high‑tech solution that could curb the dengue outbreak and protect the local economy. It highlights the partnership between researchers and industry, suggesting the technology could reduce health‑care costs and bolster tourism. The article also points to the trap’s 98% accuracy as a win for public safety and a showcase of American innovation.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For residents of Florida, a reliable mosquito trap could mean fewer dengue infections and less disruption to daily life and work. In the coming days, watch for official statements on field trials, funding allocations, or deployment plans that could signal when the technology moves from lab to neighborhood.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/886f/live/a4a715f0-c892-11f1-b0a4-81e564f1cfaa.jpg\" alt=\"Engineers oversee a machine‑learning road‑repair robot in Delhi while scientists in Tampa monitor a high‑tech mosquito trap hunting dengue‑spreading bugs.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Engineers oversee a machine‑learning road‑repair robot in Delhi while scientists in Tampa monitor a high‑tech mosquito trap hunting dengue‑spreading bugs.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left‑leaning coverage of these topics is absent from the supplied articles.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC piece lists concrete facts about dozens of Indian AI start‑ups tackling broken roads, tangled land records, and other local problems, offering a broad overview without partisan framing. It notes the scale of the challenges and the variety of sectors involved, but stops short of policy prescriptions.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">The Fox article spotlights the economic and public‑health payoff of an AI mosquito trap that claims 98% accuracy, framing it as a decisive tool against Florida&#39;s worst dengue outbreak in decades. It emphasizes the technology&#39;s efficiency and the urgency of protecting residents and local economies.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>These AI applications matter because they promise immediate, tangible benefits: smoother streets and clearer titles for millions of Indians, and fewer dengue cases for Floridians. In the coming days watch for pilot rollouts of AI‑driven road‑maintenance projects in Indian states and for any reported drop in dengue numbers as the mosquito traps are deployed.</p>"
         },
         {
-          "id": "topic-5",
-          "headline": "Several tech‑sector incidents expose vulnerabilities, from fake toll scams to data‑breach alerts and a major PC‑sales lawsuit",
-          "summary": "Consumers are warned about fraudulent E‑ZPass emails, while experts outline how credit freezes and fraud alerts can shield victims after breaches, and investors sue Intel over alleged concealment of a PC‑market slump; a recent Microsoft outage also reminded businesses of reliance on a few cloud providers. Together these events underscore the growing need for robust security and transparency in a digitised economy.",
+          "id": "topic-4",
+          "headline": "OpenAI faces a California lawsuit over alleged public safety harms while rolling out new child‑safety classifiers",
+          "summary": "California’s attorney general accuses the company of misleading the public and endangering users, a claim that arrives as OpenAI launches a classifier that flags fewer images yet maintains detection of illegal child‑sexual‑abuse material. The twin developments highlight the tension between regulatory scrutiny and the push for safer AI products.",
           "tags": [
-            "#Cybersecurity",
-            "#DataBreach",
-            "#Intel",
-            "#Microsoft",
-            "#ConsumerProtection"
+            "#OpenAI",
+            "#Regulation",
+            "#ChildSafety"
           ],
           "source_ids": [
             4,
+            7
+          ],
+          "sources": [
+            {
+              "source": "Neutral (BBC Tech)",
+              "title": "OpenAI sued by California over Hugging Face attack",
+              "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "Right (Fox Tech)",
+              "title": "OpenAI child safety tools target AI-generated abuse",
+              "url": "https://www.foxnews.com/tech/openai-child-safety-tools-target-ai-generated-abuse"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ce1a/live/7c81aa70-e211-11f1-a541-6d0c391a4254.jpg",
+            "imageSearchQuery": "OpenAI California lawsuit child safety classifier",
+            "caption": "California Attorney General Rob Bonta sues OpenAI as the company rolls out new AI child‑safety filters.",
+            "biasLeft": "No left‑leaning coverage provided in the supplied articles.",
+            "biasNeutral": "The BBC piece reports the core allegation: the AG says OpenAI’s technology misled and endangered the public, framing the lawsuit as a public‑safety issue. It sticks to the facts of the legal action without offering commentary on OpenAI’s motives. The story notes the broader context of AI regulation but leaves the outcome open.",
+            "biasRight": "Fox News highlights OpenAI’s response, emphasizing the new child‑safety classifier that cuts flagged images by 48% while still catching CSAM. It points out the 24‑hour user suspension as a concrete safety measure. The tone frames the tools as a responsible step to protect children and curb abuse.",
+            "reflection": "The lawsuit could affect how quickly OpenAI deploys safety features that impact everyday users, from content moderation to account restrictions. Watch for court filings this week and any announcements from OpenAI about changes to its review process or user‑suspension policy."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ce1a/live/7c81aa70-e211-11f1-a541-6d0c391a4254.jpg\" alt=\"California Attorney General Rob Bonta sues OpenAI as the company rolls out new AI child‑safety filters.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">California Attorney General Rob Bonta sues OpenAI as the company rolls out new AI child‑safety filters.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">No left‑leaning coverage provided in the supplied articles.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC piece reports the core allegation: the AG says OpenAI’s technology misled and endangered the public, framing the lawsuit as a public‑safety issue. It sticks to the facts of the legal action without offering commentary on OpenAI’s motives. The story notes the broader context of AI regulation but leaves the outcome open.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Fox News highlights OpenAI’s response, emphasizing the new child‑safety classifier that cuts flagged images by 48% while still catching CSAM. It points out the 24‑hour user suspension as a concrete safety measure. The tone frames the tools as a responsible step to protect children and curb abuse.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>The lawsuit could affect how quickly OpenAI deploys safety features that impact everyday users, from content moderation to account restrictions. Watch for court filings this week and any announcements from OpenAI about changes to its review process or user‑suspension policy.</p>"
+        },
+        {
+          "id": "topic-5",
+          "headline": "Scammers exploit federal toll rules and fake tech events, prompting experts to advise credit freezes after data breaches",
+          "summary": "A fraudulent E‑ZPass email misquotes a real regulation to demand a $100 fine, and counterfeit OpenAI event pages lure employees into surrendering Microsoft and Google credentials. Security experts recommend credit freezes, fraud alerts, and monitoring as practical steps for consumers hit by such scams or broader data breaches.",
+          "tags": [
+            "#Scams",
+            "#DataBreach",
+            "#ConsumerProtection"
+          ],
+          "source_ids": [
             5,
-            7,
-            8,
-            14
+            6,
+            11
           ],
           "sources": [
             {
@@ -367,31 +387,21 @@
               "url": "https://www.foxnews.com/tech/freeze-fraud-alert-monitoring-what-do-after-breach"
             },
             {
-              "source": "Neutral (BBC Tech)",
-              "title": "GTA 6 hacker pleads guilty after release from secure hospital",
-              "url": "https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "Neutral (BBC Tech)",
-              "title": "Intel sued by investors after PC sales slump hits share price ",
-              "url": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "Left (NYT Tech)",
-              "title": "Inside Microsoft’s Rush to Get Back Online After a Global Outage",
-              "url": "https://www.nytimes.com/2026/11/13/business/microsoft-outage.html"
+              "source": "Right (Fox Tech)",
+              "title": "Fake AI event invites target Microsoft and Google logins",
+              "url": "https://www.foxnews.com/tech/fake-ai-event-invites-target-microsoft-google-logins"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b9b3/live/33bc54f0-e1a5-11f1-8433-4325183b3814.jpg",
-            "imageSearchQuery": "Intel investor class action PC sales slowdown 2026",
-            "caption": "Investors sign a class‑action complaint alleging Intel hid a drop in personal‑computer sales from shareholders.",
-            "biasLeft": "Progressive outlets did not cover any of the incidents listed, so there is no left‑leaning emphasis to report.",
-            "biasNeutral": "BBC pieces stick to the facts: they detail the legal claim that Intel concealed a PC‑sales slump and note the guilty plea of a teenager who hacked Rockstar Games, without assigning blame or broader interpretation.",
-            "biasRight": "Fox Tech highlights the personal‑financial danger: a fake E‑ZPass email that misuses federal language to scare drivers into paying, and a step‑by‑step guide on credit freezes and fraud alerts after a breach, framing the issues as individual security threats and potential economic loss.",
-            "reflection": "These stories matter because they show how easy it is for scammers to weaponize official‑sounding language and how corporate opacity can hurt shareholders; ordinary people should verify any toll‑payment notices and consider a credit freeze after a breach. In the next few days watch for any official Intel disclosures and any surge in similar phishing scams."
+            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/EZPass-toll-road-scam.jpg",
+            "imageSearchQuery": "E-ZPass email scam federal toll fine",
+            "caption": "A bogus E‑ZPass notice threatens drivers with a $100 fine, citing a non‑existent federal toll rule.",
+            "biasLeft": "Left‑leaning outlets did not cover this particular set of scams in the provided articles.",
+            "biasNeutral": "Center or wire services did not publish any of the three articles referenced here.",
+            "biasRight": "Conservative coverage highlights how scammers weaponize real federal regulations to create fear and extract money, emphasizing the need for personal vigilance and the economic cost of fraud. It also points to the broader security risk of fake tech‑event pages that harvest credentials from major firms. The tone stresses individual responsibility to verify communications and protect financial assets.",
+            "reflection": "This matters because a simple email can trick anyone into paying a phantom fine or handing over corporate login details, leading to real financial loss or identity theft. Keep an eye on any unsolicited notices that cite obscure federal rules or promise free tech perks, and consider a credit freeze or fraud alert if your data has been exposed."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b9b3/live/33bc54f0-e1a5-11f1-8433-4325183b3814.jpg\" alt=\"Investors sign a class‑action complaint alleging Intel hid a drop in personal‑computer sales from shareholders.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Investors sign a class‑action complaint alleging Intel hid a drop in personal‑computer sales from shareholders.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Progressive outlets did not cover any of the incidents listed, so there is no left‑leaning emphasis to report.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">BBC pieces stick to the facts: they detail the legal claim that Intel concealed a PC‑sales slump and note the guilty plea of a teenager who hacked Rockstar Games, without assigning blame or broader interpretation.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Fox Tech highlights the personal‑financial danger: a fake E‑ZPass email that misuses federal language to scare drivers into paying, and a step‑by‑step guide on credit freezes and fraud alerts after a breach, framing the issues as individual security threats and potential economic loss.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>These stories matter because they show how easy it is for scammers to weaponize official‑sounding language and how corporate opacity can hurt shareholders; ordinary people should verify any toll‑payment notices and consider a credit freeze after a breach. In the next few days watch for any official Intel disclosures and any surge in similar phishing scams.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/11/EZPass-toll-road-scam.jpg\" alt=\"A bogus E‑ZPass notice threatens drivers with a $100 fine, citing a non‑existent federal toll rule.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">A bogus E‑ZPass notice threatens drivers with a $100 fine, citing a non‑existent federal toll rule.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left‑leaning outlets did not cover this particular set of scams in the provided articles.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">Center or wire services did not publish any of the three articles referenced here.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Conservative coverage highlights how scammers weaponize real federal regulations to create fear and extract money, emphasizing the need for personal vigilance and the economic cost of fraud. It also points to the broader security risk of fake tech‑event pages that harvest credentials from major firms. The tone stresses individual responsibility to verify communications and protect financial assets.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>This matters because a simple email can trick anyone into paying a phantom fine or handing over corporate login details, leading to real financial loss or identity theft. Keep an eye on any unsolicited notices that cite obscure federal rules or promise free tech perks, and consider a credit freeze or fraud alert if your data has been exposed.</p>"
         }
       ],
       "rawCount": 15
@@ -400,88 +410,51 @@
       "items": [
         {
           "id": "topic-1",
-          "headline": "United Airlines resumes flights after a nationwide system outage forced a five‑hour ground stop",
-          "summary": "The airline’s IT failure halted departures for hours, prompting concerns ahead of Thanksgiving travel. Passengers faced delays but pilots stayed in contact with controllers, and the carrier says systems are now fully restored.",
+          "headline": "Young adults face limited job openings; report urges tax cut to boost under‑25 employment",
+          "summary": "The BBC analysis shows where 16‑24‑year‑olds can find work and highlights regional gaps, while a separate think‑tank report recommends cutting National Insurance to create more entry‑level jobs.",
           "tags": [
-            "#aviation",
-            "#systemoutage",
-            "#travel"
+            "#YouthEmployment",
+            "#LaborMarket",
+            "#TaxPolicy"
           ],
           "source_ids": [
             0,
-            1
-          ],
-          "sources": [
-            {
-              "source": "Left (NYT Business)",
-              "title": "United Airlines Flights Resume After ‘Widespread System Outage’",
-              "url": "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html"
-            },
-            {
-              "source": "Left (NYT Business)",
-              "title": "Pilots Kept Contact With Controllers During Nationwide Halt to Flights",
-              "url": "https://www.nytimes.com/2026/11/16/business/faa-ground-stop-pilots-radio-controllers.html"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://static01.nyt.com/images/2026/11/16/multimedia/16xp-united-czbh/16xp-united-czbh-videoSixteenByNine3000.jpg",
-            "imageSearchQuery": "United Airlines outage ground stop flight resumes",
-            "caption": "United pilots keep the conversation alive as a nationwide system outage forces a five‑hour hold on departures.",
-            "biasLeft": "The piece foregrounds the uneasy climate of air travel just before Thanksgiving, underscoring how the outage amplified worries about airline reliability and the need for stronger tech oversight. It highlights pilots’ resilience and the human element of the disruption, hinting at systemic gaps in aviation infrastructure.",
-            "biasNeutral": "No neutral‑leaning coverage is present in the provided sources; therefore this section is absent.",
-            "biasRight": "No right‑leaning coverage is present in the provided sources; therefore this section is absent.",
-            "reflection": "For everyday travelers, a five‑hour national halt means potential missed flights, extended layovers, and lost time during a peak travel window. Keep an eye on airline press releases and FAA statements for any updates on system repairs and future safeguards, as those will shape the reliability of tomorrow’s travel plans."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/16/multimedia/16xp-united-czbh/16xp-united-czbh-videoSixteenByNine3000.jpg\" alt=\"United pilots keep the conversation alive as a nationwide system outage forces a five‑hour hold on departures.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">United pilots keep the conversation alive as a nationwide system outage forces a five‑hour hold on departures.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The piece foregrounds the uneasy climate of air travel just before Thanksgiving, underscoring how the outage amplified worries about airline reliability and the need for stronger tech oversight. It highlights pilots’ resilience and the human element of the disruption, hinting at systemic gaps in aviation infrastructure.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">No neutral‑leaning coverage is present in the provided sources; therefore this section is absent.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No right‑leaning coverage is present in the provided sources; therefore this section is absent.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday travelers, a five‑hour national halt means potential missed flights, extended layovers, and lost time during a peak travel window. Keep an eye on airline press releases and FAA statements for any updates on system repairs and future safeguards, as those will shape the reliability of tomorrow’s travel plans.</p>"
-        },
-        {
-          "id": "topic-2",
-          "headline": "Major U.S. banks experience online‑banking outages as a software bug disrupts customer access",
-          "summary": "Chase, Bank of America, Wells Fargo and other large lenders reported service interruptions, sending shares lower and sparking worries about digital‑banking reliability. The institutions say the glitch is not cyber‑related and are working to restore full service.",
-          "tags": [
-            "#banking",
-            "#techoutage",
-            "#stocks"
-          ],
-          "source_ids": [
-            2,
-            8
+            10
           ],
           "sources": [
             {
               "source": "Neutral (BBC Business)",
-              "title": "Customers report service outages at major US banks",
-              "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss"
+              "title": "Which areas have the most jobs for 16 to 24-year-olds? Find out here",
+              "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss"
             },
             {
-              "source": "Right (Fox Business)",
-              "title": "Financial stocks slide as online banking outages reported at several large US banks",
-              "url": "https://www.foxbusiness.com/markets/financial-stocks-slide-online-banking-outages-reported-several-large-us-banks"
+              "source": "Neutral (BBC Business)",
+              "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
+              "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d633/live/6fb04df0-e212-11f1-b9ca-b9964628501b.jpg",
-            "imageSearchQuery": "US bank online banking outage software bug",
-            "caption": "Customers across the country were locked out of Chase, Bank of America and others after a software glitch crippled online portals.",
-            "biasLeft": "Left‑leaning outlets did not cover this story in the supplied sources.",
-            "biasNeutral": "The BBC sticks to the facts, noting that Chase blamed a software bug and explicitly rejected any systemic or cyber‑attack explanation. It highlights the immediate impact on customers without assigning blame, and points to the bank’s own statement as the primary source.",
-            "biasRight": "Fox Business frames the incident in market terms, linking the outages to a 2.4% drop in JPMorgan Chase shares and mentioning Downdetector reports. The coverage underscores the financial fallout and suggests investors should watch how the glitches affect bank stocks.",
-            "reflection": "For everyday users, a sudden loss of online access can delay bill payments and cash transfers, so they should verify alternative channels until the issue is resolved. Investors should monitor whether the outages trigger further stock volatility or prompt regulatory scrutiny in the coming days."
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/283e/live/4753f640-e1ae-11f1-b0a4-450a350911f4.jpg",
+            "imageSearchQuery": "UK under-25 employment National Insurance cut report",
+            "caption": "A hairdresser explains how desperate parents are to pay wages while a new report urges cutting National Insurance to spur jobs for under‑25s.",
+            "biasLeft": "Left‑leaning outlets are not represented in the provided articles.",
+            "biasNeutral": "Neutral outlets map where 16‑24‑year‑olds can find work and note a policy proposal to slash National Insurance as a way to boost youth hiring. They stick to the data on regional job density and the report’s recommendation without editorialising. The coverage raises the question whether a tax cut alone will close the gap between job seekers and openings.",
+            "biasRight": "Right‑leaning outlets are not represented in the provided articles.",
+            "reflection": "For a young adult today, a cut to National Insurance could mean more entry‑level roles in retail or hospitality, easing the pressure of a tight job market. Watch the government’s response to the report in the coming days – a policy tweak or a new fiscal announcement would be the first concrete signal."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d633/live/6fb04df0-e212-11f1-b9ca-b9964628501b.jpg\" alt=\"Customers across the country were locked out of Chase, Bank of America and others after a software glitch crippled online portals.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Customers across the country were locked out of Chase, Bank of America and others after a software glitch crippled online portals.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left‑leaning outlets did not cover this story in the supplied sources.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC sticks to the facts, noting that Chase blamed a software bug and explicitly rejected any systemic or cyber‑attack explanation. It highlights the immediate impact on customers without assigning blame, and points to the bank’s own statement as the primary source.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Fox Business frames the incident in market terms, linking the outages to a 2.4% drop in JPMorgan Chase shares and mentioning Downdetector reports. The coverage underscores the financial fallout and suggests investors should watch how the glitches affect bank stocks.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday users, a sudden loss of online access can delay bill payments and cash transfers, so they should verify alternative channels until the issue is resolved. Investors should monitor whether the outages trigger further stock volatility or prompt regulatory scrutiny in the coming days.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/283e/live/4753f640-e1ae-11f1-b0a4-450a350911f4.jpg\" alt=\"A hairdresser explains how desperate parents are to pay wages while a new report urges cutting National Insurance to spur jobs for under‑25s.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">A hairdresser explains how desperate parents are to pay wages while a new report urges cutting National Insurance to spur jobs for under‑25s.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left‑leaning outlets are not represented in the provided articles.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">Neutral outlets map where 16‑24‑year‑olds can find work and note a policy proposal to slash National Insurance as a way to boost youth hiring. They stick to the data on regional job density and the report’s recommendation without editorialising. The coverage raises the question whether a tax cut alone will close the gap between job seekers and openings.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Right‑leaning outlets are not represented in the provided articles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For a young adult today, a cut to National Insurance could mean more entry‑level roles in retail or hospitality, easing the pressure of a tight job market. Watch the government’s response to the report in the coming days – a policy tweak or a new fiscal announcement would be the first concrete signal.</p>"
         },
         {
-          "id": "topic-3",
-          "headline": "Nvidia’s chief executive Jensen Huang resigns, triggering a sharp share drop and interim leadership appointment",
-          "summary": "The sudden departure of the AI‑chip maker’s founder sent its stock down about 14%, erasing billions in market value, while CFO Colette Kress steps in as interim CEO amid investor unease and public calls for Huang’s return. The episode highlights the volatility surrounding the AI hardware sector.",
+          "id": "topic-2",
+          "headline": "Nvidia’s founder steps down, sparking stock plunge and political calls for his return",
+          "summary": "Jensen Huang’s sudden resignation led Nvidia shares to tumble, erasing $20 billion of his holdings, while figures from Trump to the company’s own board scramble to name an interim CEO and discuss potential successors.",
           "tags": [
             "#Nvidia",
-            "#leadership",
-            "#AI",
-            "#stocks"
+            "#TechStocks",
+            "#LeadershipChange"
           ],
           "source_ids": [
-            6,
+            5,
             11,
             12,
             13,
@@ -490,7 +463,7 @@
           "sources": [
             {
               "source": "Neutral (BBC Business)",
-              "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+              "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
               "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss"
             },
             {
@@ -515,77 +488,137 @@
             }
           ],
           "deepDive": {
-            "imageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/nvidia-chief-financial-officer-colette-kress.jpg?ve=1&tl=1",
-            "imageSearchQuery": "Jensen Huang resignation Nvidia stock drop Colette Kress interim CEO",
-            "caption": "CFO Colette Kress steps into the breach as Nvidia reels from Jensen Huang’s surprise exit and a 14% share plunge.",
-            "biasLeft": "No progressive or left‑leaning outlets are represented among the supplied articles, so no left‑wing framing can be reported.",
-            "biasNeutral": "The BBC Business piece notes that a public 'Bring Jensen Back' campaign has been dismissed, while also pointing out that former President Trump is publicly supporting the effort to reinstall the former CEO, offering a straightforward account without editorial spin.",
-            "biasRight": "Fox Business emphasizes the market fallout – a $20 billion wipe‑out of Huang’s holdings and a 14% stock drop – and frames the resignation as a risk to investors ahead of earnings. It also leans into political angles, highlighting Trump’s endorsement of Tim Cook as a possible successor and portraying the leadership shuffle as a national‑interest issue.",
-            "reflection": "For everyday investors and tech workers, Huang’s departure signals potential volatility in Nvidia’s stock and possible shifts in product strategy, which could affect salaries, bonuses, and market‑linked retirement accounts. Watch the next earnings report and any official statements on a permanent CEO – they’ll give the first clear read on whether the company can steady the ship."
+            "imageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/jensen-huang.jpg?ve=1&tl=1",
+            "imageSearchQuery": "Jensen Huang resignation Nvidia stock plunge",
+            "caption": "Investors stare at a sliding ticker as Nvidia’s co‑founder Jensen Huang exits the CEO chair.",
+            "biasLeft": "Left‑leaning outlets did not cover this story in the provided set.",
+            "biasNeutral": "The BBC notes that a handful of tech figures have launched a \"Bring Jensen Back\" campaign, while also mentioning President Trump’s public support for that effort. It presents the push to reinstate Huang as a political‑tech controversy without taking a stance. The coverage stays factual, naming the campaign and the political endorsement.",
+            "biasRight": "Fox Business emphasizes the market fallout, highlighting a $20 billion wipe‑out in Huang’s holdings and a 14% share‑price plunge. It stresses investor anxiety ahead of earnings and points to the appointment of CFO Colette Kress as interim CEO. The outlet also underscores Trump’s endorsement of Apple’s Tim Cook as a replacement, framing the saga as a high‑stakes leadership and economic issue.",
+            "reflection": "For anyone holding Nvidia shares or working in AI‑related sectors, the sudden leadership change could swing portfolio values and alter product roadmaps. Watch the next earnings release and any official statements on a permanent CEO—those will signal whether the stock’s volatility will ease or intensify."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/nvidia-chief-financial-officer-colette-kress.jpg?ve=1&amp;tl=1\" alt=\"CFO Colette Kress steps into the breach as Nvidia reels from Jensen Huang’s surprise exit and a 14% share plunge.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">CFO Colette Kress steps into the breach as Nvidia reels from Jensen Huang’s surprise exit and a 14% share plunge.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">No progressive or left‑leaning outlets are represented among the supplied articles, so no left‑wing framing can be reported.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC Business piece notes that a public &#39;Bring Jensen Back&#39; campaign has been dismissed, while also pointing out that former President Trump is publicly supporting the effort to reinstall the former CEO, offering a straightforward account without editorial spin.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Fox Business emphasizes the market fallout – a $20 billion wipe‑out of Huang’s holdings and a 14% stock drop – and frames the resignation as a risk to investors ahead of earnings. It also leans into political angles, highlighting Trump’s endorsement of Tim Cook as a possible successor and portraying the leadership shuffle as a national‑interest issue.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday investors and tech workers, Huang’s departure signals potential volatility in Nvidia’s stock and possible shifts in product strategy, which could affect salaries, bonuses, and market‑linked retirement accounts. Watch the next earnings report and any official statements on a permanent CEO – they’ll give the first clear read on whether the company can steady the ship.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/jensen-huang.jpg?ve=1&amp;tl=1\" alt=\"Investors stare at a sliding ticker as Nvidia’s co‑founder Jensen Huang exits the CEO chair.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Investors stare at a sliding ticker as Nvidia’s co‑founder Jensen Huang exits the CEO chair.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left‑leaning outlets did not cover this story in the provided set.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC notes that a handful of tech figures have launched a &quot;Bring Jensen Back&quot; campaign, while also mentioning President Trump’s public support for that effort. It presents the push to reinstate Huang as a political‑tech controversy without taking a stance. The coverage stays factual, naming the campaign and the political endorsement.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Fox Business emphasizes the market fallout, highlighting a $20 billion wipe‑out in Huang’s holdings and a 14% share‑price plunge. It stresses investor anxiety ahead of earnings and points to the appointment of CFO Colette Kress as interim CEO. The outlet also underscores Trump’s endorsement of Apple’s Tim Cook as a replacement, framing the saga as a high‑stakes leadership and economic issue.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For anyone holding Nvidia shares or working in AI‑related sectors, the sudden leadership change could swing portfolio values and alter product roadmaps. Watch the next earnings release and any official statements on a permanent CEO—those will signal whether the stock’s volatility will ease or intensify.</p>"
         },
         {
-          "id": "topic-4",
-          "headline": "California Attorney General sues OpenAI, alleging the firm misled the public and created safety risks",
-          "summary": "The lawsuit claims the AI developer failed to disclose known hazards and endangered users, marking a high‑profile legal challenge that could shape future regulation of generative‑AI tools. The case adds to mounting scrutiny of big‑tech AI practices.",
+          "id": "topic-3",
+          "headline": "US regulators open probes into chip smuggling, Russian‑linked banking, and AI safety",
+          "summary": "The Commerce Department announced an investigation into alleged semiconductor smuggling, a leaked Deutsche Bank memo reveals courting of sanctioned Russian oligarchs, and California sues OpenAI over a risky AI model, underscoring heightened scrutiny of national security and ethics in tech and finance.",
           "tags": [
-            "#OpenAI",
-            "#law",
-            "#AIregulation",
-            "#California"
-          ],
-          "source_ids": [
-            3
-          ],
-          "sources": [
-            {
-              "source": "Neutral (BBC Business)",
-              "title": "California sues OpenAI over Hugging Face attack",
-              "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ce1a/live/7c81aa70-e211-11f1-a541-6d0c391a4254.jpg",
-            "imageSearchQuery": "Rob Bonta OpenAI lawsuit California attorney general",
-            "caption": "Attorney General Rob Bonta files a lawsuit against OpenAI, alleging the company misled the public and created safety risks.",
-            "biasLeft": "The supplied material does not include coverage from progressive or left‑leaning outlets, so no left‑bias framing can be identified.",
-            "biasNeutral": "BBC Business reports the legal filing by California AG Rob Bonta, noting accusations that OpenAI misled the public and endangered safety after a Hugging Face attack. The article sticks to the factual claims, the alleged wrongdoing, and the potential legal remedies without editorializing. It also mentions the broader context of AI safety concerns but leaves judgments to the reader.",
-            "biasRight": "No right‑leaning sources are present in the provided articles, so a conservative perspective cannot be described.",
-            "reflection": "The lawsuit could tighten how AI products are released in California, directly impacting users who rely on tools like ChatGPT for work or education. In the coming days, watch for any court orders on injunctions or settlement talks, which will signal how aggressively regulators may curb AI deployments."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ce1a/live/7c81aa70-e211-11f1-a541-6d0c391a4254.jpg\" alt=\"Attorney General Rob Bonta files a lawsuit against OpenAI, alleging the company misled the public and created safety risks.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Attorney General Rob Bonta files a lawsuit against OpenAI, alleging the company misled the public and created safety risks.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The supplied material does not include coverage from progressive or left‑leaning outlets, so no left‑bias framing can be identified.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">BBC Business reports the legal filing by California AG Rob Bonta, noting accusations that OpenAI misled the public and endangered safety after a Hugging Face attack. The article sticks to the factual claims, the alleged wrongdoing, and the potential legal remedies without editorializing. It also mentions the broader context of AI safety concerns but leaves judgments to the reader.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No right‑leaning sources are present in the provided articles, so a conservative perspective cannot be described.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>The lawsuit could tighten how AI products are released in California, directly impacting users who rely on tools like ChatGPT for work or education. In the coming days, watch for any court orders on injunctions or settlement talks, which will signal how aggressively regulators may curb AI deployments.</p>"
-        },
-        {
-          "id": "topic-5",
-          "headline": "Federal Reserve chair announces task force to study how AI‑driven productivity gains could affect the labor market",
-          "summary": "Concerned about both upside and displacement, the Fed is probing the economic implications of rapid AI adoption, signalling policymakers are taking the technology’s broader impact seriously. The effort aims to guide future monetary and labor policies.",
-          "tags": [
-            "#FederalReserve",
+            "#Regulation",
+            "#Sanctions",
             "#AI",
-            "#labor",
-            "#economy"
+            "#NationalSecurity"
           ],
           "source_ids": [
-            7
+            1,
+            2,
+            8
           ],
           "sources": [
             {
               "source": "Left (NYT Business)",
-              "title": "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
-              "url": "https://www.nytimes.com/2026/11/16/business/economy/warsh-ai-economy.html"
+              "title": "Facing Criticism, Trump Administration Says It’s Investigating Megaspeed",
+              "url": "https://www.nytimes.com/2026/11/17/business/economy/megaspeed-investigation-trump-doj.html"
+            },
+            {
+              "source": "Left (NYT Business)",
+              "title": "Leaked Records Show Deutsche Bank Courting Russian Oligarchs",
+              "url": "https://www.nytimes.com/2026/11/17/world/europe/deutsche-bank-russia-oligarchs-leaked-documents.html"
+            },
+            {
+              "source": "Neutral (BBC Business)",
+              "title": "OpenAI sued by California over Hugging Face attack",
+              "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://static01.nyt.com/images/2026/11/16/multimedia/16dc-fed-thwl/16dc-fed-thwl-videoSixteenByNine3000.jpg",
-            "imageSearchQuery": "Federal Reserve chair Kevin M. Warsh AI productivity task force labor market",
-            "caption": "Fed Chair Kevin Warsh convenes a task force to gauge how AI‑driven productivity could reshape American jobs.",
-            "biasLeft": "The coverage frames the AI surge as a source of economic uncertainty that could widen existing labor inequities. It stresses the need to protect workers from displacement and calls for proactive policy safeguards. The language leans toward systemic risk rather than pure market opportunity.",
-            "biasNeutral": "No neutral or wire outlet article was provided for this story, so a neutral perspective is absent.",
-            "biasRight": "No conservative or right‑leaning outlet article was provided for this story, so a right‑leaning perspective is absent.",
-            "reflection": "For everyday workers, the task force signals that AI may affect hiring, wages, or job security sooner rather than later. Keep an eye on any forthcoming Fed reports or testimony that spell out specific sectors at risk; those details will shape career and investment decisions in the next few days."
+            "imageUrl": "https://static01.nyt.com/images/2026/11/15/multimedia/16dc-megaspeed-1/15xp-megaspeed1-zcvq-videoSixteenByNine3000.jpg",
+            "imageSearchQuery": "Megaspeed chip smuggling US Commerce Department probe",
+            "caption": "Federal investigators are zeroing in on the alleged Megaspeed chip‑smuggling operation as regulators tighten export oversight.",
+            "biasLeft": "Progressive outlets highlight the administration’s lagging response, framing it as a failure to protect national security and to hold powerful tech firms accountable. They stress the human cost of unchecked technology transfers and push for stricter enforcement. The tone is accusatory toward the Commerce Department’s perceived complacency.",
+            "biasNeutral": "Centrist coverage sticks to the facts: a lawsuit against OpenAI over a Hugging Face‑related incident, a probe into chip smuggling, and a report on Deutsche Bank’s Russian clientele. It notes the legal claims and regulatory actions without assigning blame, and points out that investigations are ongoing. The reporting is cautious, offering context but avoiding editorial judgment.",
+            "biasRight": "No right‑leaning sources are present in the supplied articles.",
+            "reflection": "These probes could ripple into everyday life—tighter chip export rules may raise prices for consumer electronics, and stricter banking scrutiny could affect credit availability for businesses with foreign ties. Watch for any new sanctions announcements, court filings, or agency guidelines in the coming days, as they will signal how aggressively regulators are moving."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/16/multimedia/16dc-fed-thwl/16dc-fed-thwl-videoSixteenByNine3000.jpg\" alt=\"Fed Chair Kevin Warsh convenes a task force to gauge how AI‑driven productivity could reshape American jobs.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Fed Chair Kevin Warsh convenes a task force to gauge how AI‑driven productivity could reshape American jobs.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The coverage frames the AI surge as a source of economic uncertainty that could widen existing labor inequities. It stresses the need to protect workers from displacement and calls for proactive policy safeguards. The language leans toward systemic risk rather than pure market opportunity.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">No neutral or wire outlet article was provided for this story, so a neutral perspective is absent.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No conservative or right‑leaning outlet article was provided for this story, so a right‑leaning perspective is absent.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday workers, the task force signals that AI may affect hiring, wages, or job security sooner rather than later. Keep an eye on any forthcoming Fed reports or testimony that spell out specific sectors at risk; those details will shape career and investment decisions in the next few days.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/15/multimedia/16dc-megaspeed-1/15xp-megaspeed1-zcvq-videoSixteenByNine3000.jpg\" alt=\"Federal investigators are zeroing in on the alleged Megaspeed chip‑smuggling operation as regulators tighten export oversight.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Federal investigators are zeroing in on the alleged Megaspeed chip‑smuggling operation as regulators tighten export oversight.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Progressive outlets highlight the administration’s lagging response, framing it as a failure to protect national security and to hold powerful tech firms accountable. They stress the human cost of unchecked technology transfers and push for stricter enforcement. The tone is accusatory toward the Commerce Department’s perceived complacency.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">Centrist coverage sticks to the facts: a lawsuit against OpenAI over a Hugging Face‑related incident, a probe into chip smuggling, and a report on Deutsche Bank’s Russian clientele. It notes the legal claims and regulatory actions without assigning blame, and points out that investigations are ongoing. The reporting is cautious, offering context but avoiding editorial judgment.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No right‑leaning sources are present in the supplied articles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>These probes could ripple into everyday life—tighter chip export rules may raise prices for consumer electronics, and stricter banking scrutiny could affect credit availability for businesses with foreign ties. Watch for any new sanctions announcements, court filings, or agency guidelines in the coming days, as they will signal how aggressively regulators are moving.</p>"
+        },
+        {
+          "id": "topic-4",
+          "headline": "Rising shoe prices and soaring debt strain consumers worldwide",
+          "summary": "October saw record‑high footwear costs as tariffs and material expenses climb, and developing nations’ external debt jumped to $9.4 trillion, amplifying worries that inflation and high‑interest rates are hitting households and emerging economies alike.",
+          "tags": [
+            "#Inflation",
+            "#ConsumerPrices",
+            "#DebtCrisis"
+          ],
+          "source_ids": [
+            3,
+            4,
+            9
+          ],
+          "sources": [
+            {
+              "source": "Left (NYT Business)",
+              "title": "Shoe Prices Hit a Record High Amid Inflation and Increased Tariffs",
+              "url": "https://www.nytimes.com/2026/11/17/business/shoe-prices-inflation-tariffs.html"
+            },
+            {
+              "source": "Left (NYT Business)",
+              "title": "Debt Problems of the Richest Countries Are Trickling Down to the Poorest",
+              "url": "https://www.nytimes.com/2026/11/17/business/economy/global-debt-economy-world-bank.html"
+            },
+            {
+              "source": "Right (Fox Business)",
+              "title": "Financial stocks slide as online banking outages reported at several large US banks",
+              "url": "https://www.foxbusiness.com/markets/financial-stocks-slide-online-banking-outages-reported-several-large-us-banks"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://static01.nyt.com/images/2026/11/13/multimedia/13biz-shoe-prices-zfcl/13biz-shoe-prices-zfcl-videoSixteenByNine3000.jpg",
+            "imageSearchQuery": "shoe price inflation October 2026 tariffs materials cost",
+            "caption": "A display of sneakers sits beside a price tag flashing a record‑high cost as consumers feel the pinch.",
+            "biasLeft": "The New York Times pieces stress how rising material costs and newly imposed tariffs are pushing shoe prices to unprecedented levels, framing it as a burden on everyday shoppers. They also link soaring debt in developing nations to global interest‑rate spikes, portraying the crisis as a systemic failure that hurts the world’s poorest. The language underscores inequity and calls attention to policy choices that exacerbate hardship.",
+            "biasNeutral": "No center‑leaning outlets covered this particular combination of shoe‑price inflation and global debt in the supplied articles.",
+            "biasRight": "No right‑leaning outlet addressed the shoe‑price or debt story in the supplied articles.",
+            "reflection": "Higher shoe prices mean tighter budgets for anyone buying basics, while mounting debt in emerging economies can ripple through trade and commodity markets, eventually affecting wages and prices at home. Keep an eye on upcoming inflation reports and any announcements about tariff adjustments, as they will signal whether the price pressure will ease or intensify in the coming weeks."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/13/multimedia/13biz-shoe-prices-zfcl/13biz-shoe-prices-zfcl-videoSixteenByNine3000.jpg\" alt=\"A display of sneakers sits beside a price tag flashing a record‑high cost as consumers feel the pinch.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">A display of sneakers sits beside a price tag flashing a record‑high cost as consumers feel the pinch.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The New York Times pieces stress how rising material costs and newly imposed tariffs are pushing shoe prices to unprecedented levels, framing it as a burden on everyday shoppers. They also link soaring debt in developing nations to global interest‑rate spikes, portraying the crisis as a systemic failure that hurts the world’s poorest. The language underscores inequity and calls attention to policy choices that exacerbate hardship.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">No center‑leaning outlets covered this particular combination of shoe‑price inflation and global debt in the supplied articles.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No right‑leaning outlet addressed the shoe‑price or debt story in the supplied articles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>Higher shoe prices mean tighter budgets for anyone buying basics, while mounting debt in emerging economies can ripple through trade and commodity markets, eventually affecting wages and prices at home. Keep an eye on upcoming inflation reports and any announcements about tariff adjustments, as they will signal whether the price pressure will ease or intensify in the coming weeks.</p>"
+        },
+        {
+          "id": "topic-5",
+          "headline": "Strangers team up for homes and journalists fight Pentagon escort rule",
+          "summary": "As housing affordability worsens, some buyers are co‑owning property with unknown partners, while a federal appeals court reviews a Pentagon policy that forces reporters to be escorted, reflecting broader debates over access and security in public institutions.",
+          "tags": [
+            "#Housing",
+            "#Affordability",
+            "#PressFreedom",
+            "#Pentagon"
+          ],
+          "source_ids": [
+            6,
+            7
+          ],
+          "sources": [
+            {
+              "source": "Neutral (BBC Business)",
+              "title": "We couldn't afford a house alone, so we bought one with strangers",
+              "url": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "Left (NYT Business)",
+              "title": "Appeals Court Weighs Pentagon’s Media Restrictions",
+              "url": "https://www.nytimes.com/2026/11/16/business/media/pentagon-media-restrictions-court-hearing.html"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6aa8/live/134f7040-e181-11f1-9386-1b849272ca8f.jpg",
+            "imageSearchQuery": "housing co‑ownership strangers UK affordability",
+            "caption": "Strangers sign a joint mortgage for a modest flat as journalists protest outside the Pentagon demanding un‑escorted access.",
+            "biasLeft": "The New York Times piece frames the Pentagon’s escort rule as an affront to press freedom, stressing how the restriction limits transparency on defense matters. It highlights the lawsuit as a fight against government overreach and positions the journalists as defenders of democratic accountability. The language leans toward civil‑liberties rhetoric and calls the rule \"unreasonable\".",
+            "biasNeutral": "The BBC article reports on people pooling resources to buy homes, laying out the practical steps, costs and personal motivations without overt judgment. It presents data on housing affordability and quotes participants to illustrate the human angle while noting potential legal and financial pitfalls. The tone stays factual and balanced.",
+            "biasRight": "No right‑leaning source covering these specific topics was provided.",
+            "reflection": "For everyday citizens, the housing co‑ownership model offers a concrete way to break into an unaffordable market, while the Pentagon press case tests whether the public can keep a watchdog on military spending. In the coming days, watch the appellate court’s decision on the escort rule and any policy shifts or legal guidance for shared‑ownership mortgages."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6aa8/live/134f7040-e181-11f1-9386-1b849272ca8f.jpg\" alt=\"Strangers sign a joint mortgage for a modest flat as journalists protest outside the Pentagon demanding un‑escorted access.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Strangers sign a joint mortgage for a modest flat as journalists protest outside the Pentagon demanding un‑escorted access.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The New York Times piece frames the Pentagon’s escort rule as an affront to press freedom, stressing how the restriction limits transparency on defense matters. It highlights the lawsuit as a fight against government overreach and positions the journalists as defenders of democratic accountability. The language leans toward civil‑liberties rhetoric and calls the rule &quot;unreasonable&quot;.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC article reports on people pooling resources to buy homes, laying out the practical steps, costs and personal motivations without overt judgment. It presents data on housing affordability and quotes participants to illustrate the human angle while noting potential legal and financial pitfalls. The tone stays factual and balanced.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No right‑leaning source covering these specific topics was provided.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday citizens, the housing co‑ownership model offers a concrete way to break into an unaffordable market, while the Pentagon press case tests whether the public can keep a watchdog on military spending. In the coming days, watch the appellate court’s decision on the escort rule and any policy shifts or legal guidance for shared‑ownership mortgages.</p>"
         }
       ],
       "rawCount": 15
