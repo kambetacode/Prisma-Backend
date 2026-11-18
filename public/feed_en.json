@@ -1,224 +1,192 @@
 {
-  "last_updated": "2026-11-18T09:46:35.186Z",
+  "last_updated": "2026-11-18T18:39:43.995Z",
   "language": "en",
   "categories": {
     "GLOBAL_MACRO": {
       "items": [
         {
           "id": "topic-1",
-          "headline": "Democrats clinch Alaska Senate seat as midterm results solidify GOP losses",
-          "summary": "Mary Peltola's win confirms the broader defeat of Republican candidates in this election cycle, tightening Democratic control in the Senate and shaping the balance of power for upcoming legislation. The result also highlights shifting voter dynamics in Alaska, a state traditionally leaning Republican.",
+          "headline": "US, Russia and China leaders meet in Shenzhen for first trilateral talks",
+          "summary": "President Donald Trump arrived in Shenzhen and, after a brief greeting with Xi Jinping, joined Vladimir Putin for a three‑way meeting that aims to reset relations among the three powers. Observers see the summit as a test of whether the three nations can find common ground on trade, security and the war in Ukraine.",
           "tags": [
-            "#USPolitics",
-            "#Midterms",
-            "#Alaska"
+            "#US",
+            "#China",
+            "#Russia",
+            "#Diplomacy"
           ],
           "source_ids": [
             0,
-            11
+            7
+          ],
+          "sources": [
+            {
+              "source": "Left (NYT)",
+              "title": "Trump, Xi and Putin Shake Hands as Leaders Gather in China",
+              "url": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec"
+            },
+            {
+              "source": "Neutral (BBC)",
+              "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+              "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a9fb/live/b2707bf0-e349-11f1-99aa-0f40b013ad11.jpg",
+            "imageSearchQuery": "Trump Xi Putin Shenzhen summit 2026",
+            "caption": "Trump, Xi and Putin clasp hands on the tarmac in Shenzhen, signaling the first three‑way meeting of the U.S., Russia and China.",
+            "biasLeft": "The NYT frames the encounter as a theatrical tableau, highlighting the hug between Xi and Trump and the rare handshake with Putin to underscore how personal optics shape geopolitics. It hints that the leaders' body language could mask deeper tensions over trade, human rights and democratic backsliding. The tone suggests skepticism about the substantive outcomes of the summit.",
+            "biasNeutral": "BBC sticks to the basics: who is meeting, where, and why the gathering is described as historic. It notes the novelty of the three‑way dialogue without editorializing, and it leaves space for readers to judge the significance. The report also points out the close monitoring by the international community.",
+            "biasRight": "No right‑leaning source was provided in the supplied articles.",
+            "reflection": "For everyday citizens, this summit could reshape trade routes, energy prices, and security postures that affect jobs and travel costs. Watch for any joint statements on sanctions, climate commitments, or military cooperation in the next few days—they’ll hint at how the trio plans to influence the global order."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a9fb/live/b2707bf0-e349-11f1-99aa-0f40b013ad11.jpg\" alt=\"Trump, Xi and Putin clasp hands on the tarmac in Shenzhen, signaling the first three‑way meeting of the U.S., Russia and China.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Trump, Xi and Putin clasp hands on the tarmac in Shenzhen, signaling the first three‑way meeting of the U.S., Russia and China.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The NYT frames the encounter as a theatrical tableau, highlighting the hug between Xi and Trump and the rare handshake with Putin to underscore how personal optics shape geopolitics. It hints that the leaders&#39; body language could mask deeper tensions over trade, human rights and democratic backsliding. The tone suggests skepticism about the substantive outcomes of the summit.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">BBC sticks to the basics: who is meeting, where, and why the gathering is described as historic. It notes the novelty of the three‑way dialogue without editorializing, and it leaves space for readers to judge the significance. The report also points out the close monitoring by the international community.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No right‑leaning source was provided in the supplied articles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday citizens, this summit could reshape trade routes, energy prices, and security postures that affect jobs and travel costs. Watch for any joint statements on sanctions, climate commitments, or military cooperation in the next few days—they’ll hint at how the trio plans to influence the global order.</p>"
+        },
+        {
+          "id": "topic-2",
+          "headline": "Hundreds protest in western Iran after bus crash kills 13 oil workers",
+          "summary": "The tragic accident in Abdanan sparked rare anti‑government chants, with demonstrators demanding the removal of the regime. Authorities responded by detaining several participants, highlighting growing unrest over safety and economic grievances.",
+          "tags": [
+            "#Iran",
+            "#Protests",
+            "#LaborSafety"
+          ],
+          "source_ids": [
+            5,
+            6
+          ],
+          "sources": [
+            {
+              "source": "Right (Fox)",
+              "title": "Rare anti-government protests erupt in Iran over workers' deaths",
+              "url": "https://www.foxnews.com/world/rare-anti-government-protests-erupt-iran-workers-deaths"
+            },
+            {
+              "source": "Right (Fox)",
+              "title": "Protesters call for regime change in Iran following deadly crash that killed 13 oil and gas workers",
+              "url": "https://www.foxnews.com/world/protesters-call-regime-change-iran-following-deadly-crash-killed-13-oil-gas-workers"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/Iran-Abdanan-protests.jpg",
+            "imageSearchQuery": "Iran bus crash protest Abdanan oil workers",
+            "caption": "Crowds in Abdanan chant 'Death to the dictator' after a bus collision claimed 13 oil refinery workers.",
+            "biasLeft": "Left‑leaning outlets did not cover this story.",
+            "biasNeutral": "Centrist or wire services did not cover this story.",
+            "biasRight": "Fox’s reports stress the political dimension, foregrounding slogans calling for the dictator’s death and regime change. They note that the protests quickly turned from mourning the dead to open anti‑government rallies, with at least seven arrests. The coverage frames the unrest as a rare challenge to Tehran’s authority in a tightly controlled society.",
+            "reflection": "The protests show that economic grievances can spark broader political dissent in Iran, suggesting a potential widening of anti‑regime sentiment. Watching whether the authorities clamp down further or allow the demonstrations to spread will indicate how volatile the situation is. Any escalation could impact regional stability and foreign investment in Iran’s energy sector."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/11/Iran-Abdanan-protests.jpg\" alt=\"Crowds in Abdanan chant &#39;Death to the dictator&#39; after a bus collision claimed 13 oil refinery workers.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Crowds in Abdanan chant &#39;Death to the dictator&#39; after a bus collision claimed 13 oil refinery workers.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left‑leaning outlets did not cover this story.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">Centrist or wire services did not cover this story.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Fox’s reports stress the political dimension, foregrounding slogans calling for the dictator’s death and regime change. They note that the protests quickly turned from mourning the dead to open anti‑government rallies, with at least seven arrests. The coverage frames the unrest as a rare challenge to Tehran’s authority in a tightly controlled society.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>The protests show that economic grievances can spark broader political dissent in Iran, suggesting a potential widening of anti‑regime sentiment. Watching whether the authorities clamp down further or allow the demonstrations to spread will indicate how volatile the situation is. Any escalation could impact regional stability and foreign investment in Iran’s energy sector.</p>"
+        },
+        {
+          "id": "topic-3",
+          "headline": "Iran launches missile and drone attacks on Kuwait, Bahrain and a US base after American strikes",
+          "summary": "In retaliation for recent US air strikes on the Iranian island of Qeshm, Iran fired missiles and drones toward Gulf Arab states and a US airfield in Kuwait, prompting interceptions by local air defenses. The escalation raises fears of a broader regional conflict and puts US forces in the area on heightened alert.",
+          "tags": [
+            "#Iran",
+            "#Gulf",
+            "#USMilitary",
+            "#MiddleEast"
+          ],
+          "source_ids": [
+            9,
+            10,
+            13
+          ],
+          "sources": [
+            {
+              "source": "Left (NYT)",
+              "title": "Iran Fires Missiles and Drones at Gulf Arab States as Peace Talks Falter",
+              "url": "https://www.nytimes.com/2026/11/18/world/middleeast/iran-attacks-bahrain-kuwait-ships-hormuz.html"
+            },
+            {
+              "source": "Right (Fox)",
+              "title": "Iran targets US air base in Kuwait after US defensive strikes amid criticism from Gulf states",
+              "url": "https://www.foxnews.com/world/iran-targets-us-air-base-kuwait-us-defensive-strikes-criticism-gulf-states"
+            },
+            {
+              "source": "Neutral (BBC)",
+              "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+              "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-gulf-attacks-mbvq/18int-gulf-attacks-mbvq-mediumSquareAt3X.jpg",
+            "imageSearchQuery": "Iran missile drone attack Kuwait Bahrain US base",
+            "caption": "Iranian missiles and drones streaked over the Gulf, striking Kuwait and Bahrain and probing the US base at Ali Al Salem.",
+            "biasLeft": "The progressive coverage frames the attacks as a direct fallout of stalled peace talks, highlighting the region’s precarious balance between diplomacy and open war. It stresses the human and systemic risks of escalating conflict and portrays Iran’s actions as a symptom of diplomatic failure.",
+            "biasNeutral": "The BBC sticks to the bare facts: Kuwait repelled its first Iranian strike in two months, a response to a U.S. raid on Qeshm, and Bahrain also reported being hit. It presents the chronology without assigning blame, leaving the wider implications open-ended.",
+            "biasRight": "Fox News zeroes in on the threat to U.S. assets, describing the strike on the Ali Al Salem base as a retaliatory move against American aggression. It underscores the importance of defending sovereignty, protecting American forces, and warning of further security risks if Iran continues its campaign.",
+            "reflection": "For everyday people, a widening Gulf conflict can ripple into higher oil prices, supply chain disruptions, and heightened security alerts for those living or working in the region. Watch for diplomatic signals—whether the U.S. or Gulf governments push for de‑escalation or ramp up military posturing—in the coming days as the next gauge of where the tension is heading."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/18/multimedia/18int-gulf-attacks-mbvq/18int-gulf-attacks-mbvq-mediumSquareAt3X.jpg\" alt=\"Iranian missiles and drones streaked over the Gulf, striking Kuwait and Bahrain and probing the US base at Ali Al Salem.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Iranian missiles and drones streaked over the Gulf, striking Kuwait and Bahrain and probing the US base at Ali Al Salem.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The progressive coverage frames the attacks as a direct fallout of stalled peace talks, highlighting the region’s precarious balance between diplomacy and open war. It stresses the human and systemic risks of escalating conflict and portrays Iran’s actions as a symptom of diplomatic failure.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC sticks to the bare facts: Kuwait repelled its first Iranian strike in two months, a response to a U.S. raid on Qeshm, and Bahrain also reported being hit. It presents the chronology without assigning blame, leaving the wider implications open-ended.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Fox News zeroes in on the threat to U.S. assets, describing the strike on the Ali Al Salem base as a retaliatory move against American aggression. It underscores the importance of defending sovereignty, protecting American forces, and warning of further security risks if Iran continues its campaign.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday people, a widening Gulf conflict can ripple into higher oil prices, supply chain disruptions, and heightened security alerts for those living or working in the region. Watch for diplomatic signals—whether the U.S. or Gulf governments push for de‑escalation or ramp up military posturing—in the coming days as the next gauge of where the tension is heading.</p>"
+        },
+        {
+          "id": "topic-4",
+          "headline": "Ukrainian troops fight Russian forces in abandoned gas pipeline tunnels near Kharkiv",
+          "summary": "Soldiers on both sides have turned an old Soviet pipeline into a subterranean battlefield, using the darkness to avoid detection by drones. The hidden front adds a new dimension to the war, with casualties and equipment being lost out of public view.",
+          "tags": [
+            "#Ukraine",
+            "#Russia",
+            "#War",
+            "#Underground"
+          ],
+          "source_ids": [
+            3,
+            4
           ],
           "sources": [
             {
               "source": "Neutral (BBC)",
-              "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
-              "url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss"
+              "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+              "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "source": "Right (Fox)",
-              "title": "Vance’s midterm blame game hits snag as Trump’s own Israel ambassador disputes key claim",
-              "url": "https://www.foxnews.com/world/vances-midterm-blame-game-hits-snag-trumps-own-israel-ambassador-disputes-key-claim"
+              "source": "Neutral (BBC)",
+              "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+              "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8202/live/39cdb760-dc7a-11f1-b23d-9526db010e6c.jpg",
-            "imageSearchQuery": "Mary Peltola Alaska Senate win 2026",
-            "caption": "Democrat Mary Peltola celebrates her victory as Alaska’s Senate seat flips amid a nationwide GOP defeat.",
-            "biasLeft": "Left-leaning outlets did not cover this specific Alaska Senate race in the supplied articles.",
-            "biasNeutral": "The BBC article sticks to the facts: it reports Mary Peltola's win, notes the timing—two weeks after counting began—and frames the result as the capstone of a broader Republican rout in the midterms. It avoids speculation, focusing on the concrete outcome and its place in the overall election picture. No overt editorializing is present.",
-            "biasRight": "Right‑leaning outlets did not address the Alaska Senate race in the provided Fox piece; their story centers on JD Vance’s blame‑game over the midterms.",
-            "reflection": "For everyday voters, Peltola’s win adds another Democratic voice to a Senate already humming with partisan tension, potentially shifting the balance on close legislation. In the next few days, watch how both parties react to the new seat—whether Republicans try to contest the count and how Democrats leverage the extra vote in upcoming budget and policy debates."
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7a52/live/a0e1e280-e36b-11f1-99b6-a35a62fa4264.jpg",
+            "imageSearchQuery": "Kharkiv underground gas pipeline tunnel battle Ukraine Russia",
+            "caption": "Ukrainian soldiers navigate the dim, rusted corridors of a Soviet-era gas pipeline as they clash with Russian troops beneath Kharkiv.",
+            "biasLeft": "No left‑leaning outlets covered this specific underground battle in the supplied articles.",
+            "biasNeutral": "The BBC pieces focus on the gritty reality: Ukrainian forces are fighting Russian troops inside an abandoned Soviet gas‑pipeline network near Kharkiv, a place where drones cannot reach. They describe the conditions, the tactical rationale, and include on‑the‑ground video to illustrate the hidden front line.",
+            "biasRight": "No right‑leaning outlets covered this specific underground battle in the supplied articles.",
+            "reflection": "For ordinary Ukrainians and anyone watching the war, the tunnel fighting shows how both sides are digging deeper—literally—to gain any advantage, indicating the conflict is far from static. In the coming days, watch for reports of new supply routes or casualty figures emerging from these subterranean clashes, as they could foreshadow shifts in front‑line dynamics."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8202/live/39cdb760-dc7a-11f1-b23d-9526db010e6c.jpg\" alt=\"Democrat Mary Peltola celebrates her victory as Alaska’s Senate seat flips amid a nationwide GOP defeat.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Democrat Mary Peltola celebrates her victory as Alaska’s Senate seat flips amid a nationwide GOP defeat.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left-leaning outlets did not cover this specific Alaska Senate race in the supplied articles.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC article sticks to the facts: it reports Mary Peltola&#39;s win, notes the timing—two weeks after counting began—and frames the result as the capstone of a broader Republican rout in the midterms. It avoids speculation, focusing on the concrete outcome and its place in the overall election picture. No overt editorializing is present.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Right‑leaning outlets did not address the Alaska Senate race in the provided Fox piece; their story centers on JD Vance’s blame‑game over the midterms.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday voters, Peltola’s win adds another Democratic voice to a Senate already humming with partisan tension, potentially shifting the balance on close legislation. In the next few days, watch how both parties react to the new seat—whether Republicans try to contest the count and how Democrats leverage the extra vote in upcoming budget and policy debates.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7a52/live/a0e1e280-e36b-11f1-99b6-a35a62fa4264.jpg\" alt=\"Ukrainian soldiers navigate the dim, rusted corridors of a Soviet-era gas pipeline as they clash with Russian troops beneath Kharkiv.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Ukrainian soldiers navigate the dim, rusted corridors of a Soviet-era gas pipeline as they clash with Russian troops beneath Kharkiv.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">No left‑leaning outlets covered this specific underground battle in the supplied articles.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC pieces focus on the gritty reality: Ukrainian forces are fighting Russian troops inside an abandoned Soviet gas‑pipeline network near Kharkiv, a place where drones cannot reach. They describe the conditions, the tactical rationale, and include on‑the‑ground video to illustrate the hidden front line.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No right‑leaning outlets covered this specific underground battle in the supplied articles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For ordinary Ukrainians and anyone watching the war, the tunnel fighting shows how both sides are digging deeper—literally—to gain any advantage, indicating the conflict is far from static. In the coming days, watch for reports of new supply routes or casualty figures emerging from these subterranean clashes, as they could foreshadow shifts in front‑line dynamics.</p>"
         },
         {
-          "id": "topic-2",
-          "headline": "President Trump lands in the Philippines before heading to China for talks with Xi",
-          "summary": "The visit marks the first stop of Trump's rapid‑fire Asian tour, aiming to reset ties with Manila and set the stage for a high‑profile meeting with Chinese President Xi Jinping in Shenzhen. Diplomatic analysts watch closely for signals about trade, security and the United States' approach to the region.",
+          "id": "topic-5",
+          "headline": "Prince William and Kate discuss UK‑India partnership during surprise meeting with Prime Minister Modi",
+          "summary": "The royal couple’s impromptu stop in New Delhi focused on trade, climate and cultural ties, reinforcing Britain’s post‑Brexit outreach to Commonwealth partners. Their visit also coincided with the presentation of the Earthshot Prize, highlighting shared environmental ambitions.",
           "tags": [
-            "#Trump",
-            "#Asia",
-            "#Philippines",
-            "#China"
+            "#UK",
+            "#India",
+            "#RoyalFamily",
+            "#Diplomacy"
           ],
           "source_ids": [
             1
           ],
           "sources": [
             {
-              "source": "Left (NYT)",
-              "title": "Trump Meets Philippine Leader Before Flying to China",
-              "url": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit"
+              "source": "Neutral (BBC)",
+              "title": "William and Kate reflect on 'enduring' UK-India ties with Modi",
+              "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://static01.nyt.com/images/2026/12/17/multimedia/17trump-summits-promo2315/17trump-summits-promo2315-videoSixteenByNine3000.jpg",
-            "imageSearchQuery": "Trump Philippines visit Shenzhen Xi Jinping summit",
-            "caption": "Trump steps off the plane in Manila, gearing up for a high‑stakes stop in Shenzhen with Xi and Putin.",
-            "biasLeft": "The New York Times frames the trip as a rapid, almost theatrical diplomatic swing, noting the inclusion of Russia’s Vladimir Putin alongside China’s Xi Jinping. It hints that the whirlwind tour could be a gamble, raising questions about the administration’s strategic priorities and its impact on global alliances. The coverage leans toward skepticism about the efficacy of such a fast‑paced agenda.",
-            "biasNeutral": "No centrist or wire service article on this specific stop is provided in the source material.",
-            "biasRight": "No conservative or right‑leaning outlet article on this specific stop is provided in the source material.",
-            "reflection": "For everyday Americans, the outcome of these talks could shift trade rules, affect the price of imported goods, and reshape security postures in the Indo‑Pacific. Watch for any official statements on trade concessions or security agreements in the next few days; those will indicate whether the trip delivers tangible benefits or remains symbolic."
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/efe9/live/814a0670-e35a-11f1-a8cd-2ff5ed84046e.jpg",
+            "imageSearchQuery": "Prince William Kate Modi New Delhi meeting",
+            "caption": "Prince William and Kate share a candid moment with Prime Minister Narendra Modi during a surprise New Delhi meeting.",
+            "biasLeft": "No progressive‑leaning coverage appears in the provided sources.",
+            "biasNeutral": "Neutral outlets focus on the factual details: the surprise New Delhi meeting was added to the royal couple’s itinerary and coincided with their participation in the Earthshot Prize ceremony. They note the emphasis on ‘enduring’ ties without editorializing.",
+            "biasRight": "No right‑leaning coverage is present in the supplied material.",
+            "reflection": "The meeting signals a push to deepen UK‑India trade and diplomatic ties, which could translate into more business opportunities and visa facilitation for professionals. Watch for any joint announcements on trade deals, technology partnerships, or defence cooperation in the coming days."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/12/17/multimedia/17trump-summits-promo2315/17trump-summits-promo2315-videoSixteenByNine3000.jpg\" alt=\"Trump steps off the plane in Manila, gearing up for a high‑stakes stop in Shenzhen with Xi and Putin.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Trump steps off the plane in Manila, gearing up for a high‑stakes stop in Shenzhen with Xi and Putin.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The New York Times frames the trip as a rapid, almost theatrical diplomatic swing, noting the inclusion of Russia’s Vladimir Putin alongside China’s Xi Jinping. It hints that the whirlwind tour could be a gamble, raising questions about the administration’s strategic priorities and its impact on global alliances. The coverage leans toward skepticism about the efficacy of such a fast‑paced agenda.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">No centrist or wire service article on this specific stop is provided in the source material.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No conservative or right‑leaning outlet article on this specific stop is provided in the source material.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday Americans, the outcome of these talks could shift trade rules, affect the price of imported goods, and reshape security postures in the Indo‑Pacific. Watch for any official statements on trade concessions or security agreements in the next few days; those will indicate whether the trip delivers tangible benefits or remains symbolic.</p>"
-        },
-        {
-          "id": "topic-3",
-          "headline": "Nvidia reports record earnings while Jensen Huang departs amid spy‑chip scandal",
-          "summary": "Despite the abrupt exit of its charismatic founder, Nvidia posted soaring sales driven by AI demand, but the company faces scrutiny after allegations that its chips were used for espionage. The controversy could prompt tighter export controls from the U.S. and affect global chip supply chains.",
-          "tags": [
-            "#Nvidia",
-            "#AI",
-            "#TechIndustry",
-            "#ExportControls"
-          ],
-          "source_ids": [
-            4,
-            6
-          ],
-          "sources": [
-            {
-              "source": "Neutral (BBC)",
-              "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
-              "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "Neutral (BBC)",
-              "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
-              "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
-            "imageSearchQuery": "Nvidia record earnings Jensen Huang departure spy chip scandal",
-            "caption": "Nvidia posts soaring quarterly sales as founder Jensen Huang steps aside amid a U.S.‑China chip espionage controversy.",
-            "biasLeft": "No left‑leaning outlets are represented in the provided sources, so no progressive framing can be identified.",
-            "biasNeutral": "The BBC pieces stick to the hard numbers—record earnings, soaring AI‑chip sales—and the fact that Huang will not return. They also note China’s anxiety that the scandal could tighten U.S. export controls on advanced semiconductors.",
-            "biasRight": "No right‑leaning outlets are represented in the provided sources, so no conservative emphasis can be identified.",
-            "reflection": "For investors and tech workers, the earnings spike shows the market’s appetite for AI hardware, but the spy‑chip fallout could curb future supply and affect stock performance. Watch for any official statements from the U.S. Commerce Department on export restrictions in the coming days."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg\" alt=\"Nvidia posts soaring quarterly sales as founder Jensen Huang steps aside amid a U.S.‑China chip espionage controversy.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Nvidia posts soaring quarterly sales as founder Jensen Huang steps aside amid a U.S.‑China chip espionage controversy.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">No left‑leaning outlets are represented in the provided sources, so no progressive framing can be identified.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC pieces stick to the hard numbers—record earnings, soaring AI‑chip sales—and the fact that Huang will not return. They also note China’s anxiety that the scandal could tighten U.S. export controls on advanced semiconductors.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No right‑leaning outlets are represented in the provided sources, so no conservative emphasis can be identified.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For investors and tech workers, the earnings spike shows the market’s appetite for AI hardware, but the spy‑chip fallout could curb future supply and affect stock performance. Watch for any official statements from the U.S. Commerce Department on export restrictions in the coming days.</p>"
-        },
-        {
-          "id": "topic-4",
-          "headline": "U.S. strikes IRGC missile site on Qeshm Island after Tehran threatens chemical weapons use",
-          "summary": "In response to what Washington described as an imminent threat, American jets hit a Revolutionary Guard missile launch complex, escalating tensions that have been inflamed by recent accusations of Iranian plots against the U.S. Both sides warn that further actions could broaden the conflict.",
-          "tags": [
-            "#USIran",
-            "#Military",
-            "#Qeshm",
-            "#MiddleEast"
-          ],
-          "source_ids": [
-            7,
-            10
-          ],
-          "sources": [
-            {
-              "source": "Right (Fox)",
-              "title": "Europe assassination scheme emerges as Iran denies DC 'dirty bomb' plot amid Trump warning",
-              "url": "https://www.foxnews.com/world/europe-assassination-scheme-emerges-iran-denies-dirty-bomb-plot-amid-trump-warning"
-            },
-            {
-              "source": "Right (Fox)",
-              "title": "US carries out self-defense strike on IRGC missile launch site on Qeshm Island",
-              "url": "https://www.foxnews.com/world/us-carries-out-self-defense-strike-irgc-missile-launch-site-qeshm-island"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/us-military-iran-strikes.jpg",
-            "imageSearchQuery": "US jets strike IRGC missile site Qeshm Island 2026",
-            "caption": "U.S. fighter jets unleash a precision strike on an IRGC missile launch pad on Iran’s Qeshm Island, citing self‑defence after Tehran’s chemical weapons threat.",
-            "biasLeft": "Left‑leaning outlets are not represented in the supplied articles, so no progressive framing can be identified here.",
-            "biasNeutral": "Neutral or centrist outlets are not present among the provided sources, so no balanced coverage can be described.",
-            "biasRight": "Conservative coverage frames the raid as a necessary act of self‑defence, underscoring Iran’s hostile posture and the need to protect U.S. security interests. The narrative leans on President Trump’s warning, portraying Tehran as a rogue actor that threatens chemical warfare. Economic angles are downplayed in favor of a strong national‑security message.",
-            "reflection": "For everyday citizens, the strike signals an escalation that could affect regional oil markets and travel safety in the Persian Gulf. Watch for official statements from the Pentagon and any Iranian retaliation in the next few days, as they will shape the risk of broader conflict."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/07/us-military-iran-strikes.jpg\" alt=\"U.S. fighter jets unleash a precision strike on an IRGC missile launch pad on Iran’s Qeshm Island, citing self‑defence after Tehran’s chemical weapons threat.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">U.S. fighter jets unleash a precision strike on an IRGC missile launch pad on Iran’s Qeshm Island, citing self‑defence after Tehran’s chemical weapons threat.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left‑leaning outlets are not represented in the supplied articles, so no progressive framing can be identified here.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">Neutral or centrist outlets are not present among the provided sources, so no balanced coverage can be described.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Conservative coverage frames the raid as a necessary act of self‑defence, underscoring Iran’s hostile posture and the need to protect U.S. security interests. The narrative leans on President Trump’s warning, portraying Tehran as a rogue actor that threatens chemical warfare. Economic angles are downplayed in favor of a strong national‑security message.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday citizens, the strike signals an escalation that could affect regional oil markets and travel safety in the Persian Gulf. Watch for official statements from the Pentagon and any Iranian retaliation in the next few days, as they will shape the risk of broader conflict.</p>"
-        },
-        {
-          "id": "topic-5",
-          "headline": "A mixed bag of global headlines: Russian bridge collapse, Congo Ebola surge, Pope’s health update, and more",
-          "summary": "Ukraine says a missile‑drone attack damaged the Crimean Bridge, Congo battles a new Ebola outbreak fueled by community mistrust, Pope Leo XIV shares details of his recent lung‑cancer surgery, and other stories—from North Korean ski outings to a Hungarian anti‑corruption raid—show the diverse challenges facing nations today.",
-          "tags": [
-            "#CrimeaBridge",
-            "#Ebola",
-            "#Pope",
-            "#NorthKorea",
-            "#Hungary",
-            "#Climate"
-          ],
-          "source_ids": [
-            2,
-            3,
-            5,
-            8,
-            9,
-            12,
-            13,
-            14
-          ],
-          "sources": [
-            {
-              "source": "Neutral (BBC)",
-              "title": "Rubio says US not 'under systemic attack' after series of tech outages",
-              "url": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "Right (Fox)",
-              "title": "Pope Leo breaks silence on rosary striking his face in Peru, reveals details about cancer: 'Major surgery'",
-              "url": "https://www.foxnews.com/world/pope-leo-breaks-silence-rosary-striking-face-peru-reveals-details-cancer-major-surgery"
-            },
-            {
-              "source": "Right (Fox)",
-              "title": "Kim Jong Un's daughter hits ski slopes in rare photos as North Korean dictator tours mountain resort",
-              "url": "https://www.foxnews.com/world/kim-jong-uns-daughter-hits-ski-slopes-rare-photos-north-korean-dictator-tours-mountain-resort"
-            },
-            {
-              "source": "Neutral (BBC)",
-              "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-              "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "Left (NYT)",
-              "title": "Congo Ebola Outbreak: How Fear and Mistrust Drive Community Spread",
-              "url": "https://www.nytimes.com/2026/11/17/world/africa/congo-ebola-community-transmission.html"
-            },
-            {
-              "source": "Left (NYT)",
-              "title": "Prince William Brings Climate Prize to India, in an Electric Rickshaw",
-              "url": "https://www.nytimes.com/2026/11/17/world/asia/prince-william-climate-prize-india-rickshaw.html"
-            },
-            {
-              "source": "Left (NYT)",
-              "title": "Ecuadorean Fishermen Who Survived U.S. Boat Strike Sue Trump Administration",
-              "url": "https://www.nytimes.com/2026/11/17/world/americas/trump-us-boat-strikes-lawsuit-ecuador-fishermen.html"
-            },
-            {
-              "source": "Left (NYT)",
-              "title": "Cash Hidden in Forests? Hungary Goes After Corruption Under Orban",
-              "url": "https://www.nytimes.com/2026/11/17/world/europe/hungary-magyar-orban-corruption-cash.html"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png",
-            "imageSearchQuery": "Crimean Bridge collapse Ukraine missile drone attack",
-            "caption": "Smoke curls from the shattered section of the Crimean Bridge after a reported Ukrainian missile and drone strike.",
-            "biasLeft": "The NYT pieces centre on the Congo Ebola outbreak, underscoring community mistrust, delayed care and the systemic gaps in health infrastructure. Its Prince William story frames the climate prize as a moral imperative for wealthy nations to back grassroots environmental projects.",
-            "biasNeutral": "BBC reports present the bridge collapse as a factual event, quoting Ukrainian claims about a weeks‑long plan and noting no proven link to wider attacks. The outlet also sticks to the record on US tech outages, emphasizing the lack of evidence for a coordinated assault.",
-            "biasRight": "Fox News highlights the Pope’s health update, painting his recovery as a personal triumph aided by faith and medical science, while the Kim Jong Un ski photo is presented as a rare glimpse of elite leisure, hinting at North Korea’s opaque leadership culture.",
-            "reflection": "The bridge’s damage could disrupt regional trade routes and signal escalating Ukraine‑Russia hostilities, so watch for any official response or repair updates. Meanwhile, rising Ebola cases in Congo remind individuals that public‑health vigilance remains vital, especially in areas where mistrust hinders care."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png\" alt=\"Smoke curls from the shattered section of the Crimean Bridge after a reported Ukrainian missile and drone strike.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Smoke curls from the shattered section of the Crimean Bridge after a reported Ukrainian missile and drone strike.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The NYT pieces centre on the Congo Ebola outbreak, underscoring community mistrust, delayed care and the systemic gaps in health infrastructure. Its Prince William story frames the climate prize as a moral imperative for wealthy nations to back grassroots environmental projects.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">BBC reports present the bridge collapse as a factual event, quoting Ukrainian claims about a weeks‑long plan and noting no proven link to wider attacks. The outlet also sticks to the record on US tech outages, emphasizing the lack of evidence for a coordinated assault.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Fox News highlights the Pope’s health update, painting his recovery as a personal triumph aided by faith and medical science, while the Kim Jong Un ski photo is presented as a rare glimpse of elite leisure, hinting at North Korea’s opaque leadership culture.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>The bridge’s damage could disrupt regional trade routes and signal escalating Ukraine‑Russia hostilities, so watch for any official response or repair updates. Meanwhile, rising Ebola cases in Congo remind individuals that public‑health vigilance remains vital, especially in areas where mistrust hinders care.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/efe9/live/814a0670-e35a-11f1-a8cd-2ff5ed84046e.jpg\" alt=\"Prince William and Kate share a candid moment with Prime Minister Narendra Modi during a surprise New Delhi meeting.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Prince William and Kate share a candid moment with Prime Minister Narendra Modi during a surprise New Delhi meeting.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">No progressive‑leaning coverage appears in the provided sources.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">Neutral outlets focus on the factual details: the surprise New Delhi meeting was added to the royal couple’s itinerary and coincided with their participation in the Earthshot Prize ceremony. They note the emphasis on ‘enduring’ ties without editorializing.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No right‑leaning coverage is present in the supplied material.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>The meeting signals a push to deepen UK‑India trade and diplomatic ties, which could translate into more business opportunities and visa facilitation for professionals. Watch for any joint announcements on trade deals, technology partnerships, or defence cooperation in the coming days.</p>"
         }
       ],
       "rawCount": 15
@@ -227,61 +195,19 @@
       "items": [
         {
           "id": "topic-1",
-          "headline": "Cybersecurity spotlight: British hacker gets six‑year US sentence while researchers reveal a major Java flaw",
-          "summary": "A 26‑year‑old Scottish hacker, Tyler Buchanan, was sentenced in a US federal court to six years for a $11 million text‑message fraud scheme, underscoring the reach of transnational cybercrime. In a separate development, researchers using AI uncovered a critical vulnerability in Java, the world’s third‑largest programming language, raising concerns about software security across countless applications.",
-          "tags": [
-            "#cybersecurity",
-            "#hackers",
-            "#softwarevulnerabilities"
-          ],
-          "source_ids": [
-            0,
-            1
-          ],
-          "sources": [
-            {
-              "source": "Neutral (BBC Tech)",
-              "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
-              "url": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "Neutral (BBC Tech)",
-              "title": "Security flaw found in Java, world's third-largest programming language ",
-              "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/66c1/live/d8eb9360-e2a3-11f1-99b6-a35a62fa4264.png",
-            "imageSearchQuery": "Tyler Buchanan Scattered Spider sentencing",
-            "caption": "British hacker Tyler Buchanan, a Scattered Spider member, is escorted out of court after a U.S. judge imposes a six‑year prison term for a $11 million SMS fraud scheme.",
-            "biasLeft": "No left‑leaning outlets are represented in the supplied articles, so no progressive framing can be identified.",
-            "biasNeutral": "The BBC pieces stick to the facts: Buchanan’s role in the Scattered Spider group, the $11 million text‑message fraud, and his six‑year sentence; and a separate report on an AI‑found critical Java vulnerability. Both stories avoid speculation and focus on what happened and the technical details.",
-            "biasRight": "No right‑leaning outlets appear in the provided sources, so a conservative angle is not available for analysis.",
-            "reflection": "For everyday users, the Java flaw highlights that even core development tools can harbour serious bugs, meaning software you rely on might be exposed until patches land. Keep an eye on vendor advisories and update your Java runtime promptly; the hacker case also underscores that cross‑border cybercrime is pursued aggressively, signalling tougher enforcement for similar scams."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/66c1/live/d8eb9360-e2a3-11f1-99b6-a35a62fa4264.png\" alt=\"British hacker Tyler Buchanan, a Scattered Spider member, is escorted out of court after a U.S. judge imposes a six‑year prison term for a $11 million SMS fraud scheme.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">British hacker Tyler Buchanan, a Scattered Spider member, is escorted out of court after a U.S. judge imposes a six‑year prison term for a $11 million SMS fraud scheme.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">No left‑leaning outlets are represented in the supplied articles, so no progressive framing can be identified.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC pieces stick to the facts: Buchanan’s role in the Scattered Spider group, the $11 million text‑message fraud, and his six‑year sentence; and a separate report on an AI‑found critical Java vulnerability. Both stories avoid speculation and focus on what happened and the technical details.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No right‑leaning outlets appear in the provided sources, so a conservative angle is not available for analysis.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday users, the Java flaw highlights that even core development tools can harbour serious bugs, meaning software you rely on might be exposed until patches land. Keep an eye on vendor advisories and update your Java runtime promptly; the hacker case also underscores that cross‑border cybercrime is pursued aggressively, signalling tougher enforcement for similar scams.</p>"
-        },
-        {
-          "id": "topic-2",
-          "headline": "Nvidia’s founder Jensen Huang resigns amid personal scandal, shaking Silicon Valley",
-          "summary": "Nvidia’s co‑founder and long‑time CEO Jensen Huang stepped down after revelations about a concealed personal relationship that violated company policy, prompting a wave of commentary from industry peers. The abrupt leadership change fuels uncertainty about Nvidia’s direction in the AI boom and its influence on the broader tech economy.",
+          "headline": "Nvidia CEO Jensen Huang resigns amid personal scandal, prompting industry reaction",
+          "summary": "Nvidia's founder and chief executive stepped down after allegations about an undisclosed personal relationship, sparking statements of support from fellow tech leaders and raising questions about corporate governance in Silicon Valley.",
           "tags": [
             "#Nvidia",
             "#JensenHuang",
-            "#AIindustry"
+            "#techleadership"
           ],
           "source_ids": [
-            2,
             11,
             12,
             13
           ],
           "sources": [
-            {
-              "source": "Neutral (BBC Tech)",
-              "title": "How important are Nvidia and Jensen Huang to the US economy?",
-              "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss"
-            },
             {
               "source": "Left (NYT Tech)",
               "title": "The Jensen Huang Scandal Has Shocked Even Scandal-Prone Silicon Valley",
@@ -299,40 +225,71 @@
             }
           ],
           "deepDive": {
-            "imageUrl": "https://static01.nyt.com/images/2026/11/13/multimedia/BIZ-JENSEN-CRASH-1-01-ljmc/BIZ-JENSEN-CRASH-1-01-ljmc-mediumSquareAt3X-v3.jpg",
-            "imageSearchQuery": "Jensen Huang resignation scandal Nvidia",
-            "caption": "Jensen Huang steps down from Nvidia amid a personal scandal that sent shockwaves through Silicon Valley.",
-            "biasLeft": "Progressive outlets frame Huang’s exit as a moral failure, emphasizing the secrecy of his relationship with a female customer and questioning why powerful men repeatedly make reckless personal choices. The coverage leans into a human‑error narrative and calls out the culture that enables such behavior.",
-            "biasNeutral": "The BBC piece sticks to the hard facts, outlining Huang’s role in the AI boom and assessing Nvidia’s economic weight for the United States. It raises the question of how his departure might affect the broader tech ecosystem without inserting editorial judgment.",
-            "biasRight": "No right‑leaning source was provided in the material.",
-            "reflection": "For everyday investors and tech users, Huang’s exit could translate into volatility in Nvidia’s stock and potential delays in AI‑chip roadmaps that power everything from gaming to data‑center services. Watch for the board’s successor announcement and any short‑term price swings over the next few days."
+            "imageUrl": "https://static01.nyt.com/images/2026/11/15/multimedia/14bizsun-huang-valley-03-lpmz/14bizsun-huang-valley-03-lpmz-mediumSquareAt3X.jpg",
+            "imageSearchQuery": "Jensen Huang resignation scandal Nvidia CEO",
+            "caption": "Jensen Huang steps down amid a personal scandal that sent shockwaves through Silicon Valley.",
+            "biasLeft": "The left‑leaning coverage frames Huang’s exit as a moral failure, probing why “the smartest and most successful men so often act so stupidly.” It highlights the hidden relationship with a female customer as a systemic problem of power abuse and personal misconduct in tech’s elite culture.",
+            "biasNeutral": "Neutral outlets are not represented in the provided articles.",
+            "biasRight": "Right‑leaning outlets are not represented in the provided articles.",
+            "reflection": "The fallout matters because Nvidia drives much of today’s AI hardware; a leadership vacuum could ripple through stock markets, cloud providers, and developers. Watch for the board’s successor choice and any immediate market moves in the next few days."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/13/multimedia/BIZ-JENSEN-CRASH-1-01-ljmc/BIZ-JENSEN-CRASH-1-01-ljmc-mediumSquareAt3X-v3.jpg\" alt=\"Jensen Huang steps down from Nvidia amid a personal scandal that sent shockwaves through Silicon Valley.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Jensen Huang steps down from Nvidia amid a personal scandal that sent shockwaves through Silicon Valley.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Progressive outlets frame Huang’s exit as a moral failure, emphasizing the secrecy of his relationship with a female customer and questioning why powerful men repeatedly make reckless personal choices. The coverage leans into a human‑error narrative and calls out the culture that enables such behavior.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC piece sticks to the hard facts, outlining Huang’s role in the AI boom and assessing Nvidia’s economic weight for the United States. It raises the question of how his departure might affect the broader tech ecosystem without inserting editorial judgment.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No right‑leaning source was provided in the material.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday investors and tech users, Huang’s exit could translate into volatility in Nvidia’s stock and potential delays in AI‑chip roadmaps that power everything from gaming to data‑center services. Watch for the board’s successor announcement and any short‑term price swings over the next few days.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/15/multimedia/14bizsun-huang-valley-03-lpmz/14bizsun-huang-valley-03-lpmz-mediumSquareAt3X.jpg\" alt=\"Jensen Huang steps down amid a personal scandal that sent shockwaves through Silicon Valley.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Jensen Huang steps down amid a personal scandal that sent shockwaves through Silicon Valley.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The left‑leaning coverage frames Huang’s exit as a moral failure, probing why “the smartest and most successful men so often act so stupidly.” It highlights the hidden relationship with a female customer as a systemic problem of power abuse and personal misconduct in tech’s elite culture.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">Neutral outlets are not represented in the provided articles.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Right‑leaning outlets are not represented in the provided articles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>The fallout matters because Nvidia drives much of today’s AI hardware; a leadership vacuum could ripple through stock markets, cloud providers, and developers. Watch for the board’s successor choice and any immediate market moves in the next few days.</p>"
+        },
+        {
+          "id": "topic-2",
+          "headline": "Schools push back against Google's AI‑laden search while data‑center water use threatens supply by 2030",
+          "summary": "Districts in New York, Los Angeles and Chicago are evaluating alternatives to Google Search after the company refused to separate AI features for students, and industry executives warn that AI‑driven data centers could consume as much water as the entire U.S. population within a decade.",
+          "tags": [
+            "#AI",
+            "#education",
+            "#waterresource",
+            "#Google"
+          ],
+          "source_ids": [
+            0,
+            1
+          ],
+          "sources": [
+            {
+              "source": "Left (NYT Tech)",
+              "title": "NYC, LA and Chicago School Districts Weigh Breaking Up With Google Search Over A.I.",
+              "url": "https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html"
+            },
+            {
+              "source": "Right (Fox Tech)",
+              "title": "AI data centers could consume more water than Americans drink in a year by 2030, says CEO working on solution",
+              "url": "https://www.foxnews.com/tech/ai-data-centers-consume-more-water-americans-drink-year-2030-ceo-working-solution"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-GoogleAI-schools-2-02-gmlp/18biz-GoogleAI-schools-2-02-gmlp-mediumSquareAt3X.jpg",
+            "imageSearchQuery": "Google AI search schools district break up water data center consumption 2030",
+            "caption": "A Chicago classroom watches a teacher explain why the district may drop Google’s AI‑laden search, while a nearby data center’s cooling system pumps water that could match the whole country's annual use by 2030.",
+            "biasLeft": "The NYT story stresses that Google’s refusal to separate AI tools from its search engine forces school districts to confront corporate overreach and protect student privacy. It frames the issue as a power imbalance between a tech giant and public education. The language leans toward systemic accountability and the need for alternatives.",
+            "biasNeutral": "Both pieces present the basic facts: several large districts are evaluating a split from Google because of bundled AI, and industry experts warn that AI‑driven data centers may consume water equal to U.S. consumption by 2030. They note the proposed technical fixes—direct chip cooling and water recycling—without taking a stance.",
+            "biasRight": "The Fox article foregrounds the economic and resource‑security angle, warning that unchecked AI data‑center water use could strain supplies and raise costs for consumers. It highlights the CEO’s call for market‑driven solutions like chip‑level cooling and recycling, presenting them as practical fixes rather than regulatory mandates.",
+            "reflection": "For families, the school’s choice could change how kids search for information and what data is collected about them. For anyone paying water bills, the looming surge in data‑center demand signals potential price pressure. Watch district board votes on search contracts and any announcements of new cooling or recycling tech in the next few days."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/18/multimedia/18biz-GoogleAI-schools-2-02-gmlp/18biz-GoogleAI-schools-2-02-gmlp-mediumSquareAt3X.jpg\" alt=\"A Chicago classroom watches a teacher explain why the district may drop Google’s AI‑laden search, while a nearby data center’s cooling system pumps water that could match the whole country&#39;s annual use by 2030.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">A Chicago classroom watches a teacher explain why the district may drop Google’s AI‑laden search, while a nearby data center’s cooling system pumps water that could match the whole country&#39;s annual use by 2030.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The NYT story stresses that Google’s refusal to separate AI tools from its search engine forces school districts to confront corporate overreach and protect student privacy. It frames the issue as a power imbalance between a tech giant and public education. The language leans toward systemic accountability and the need for alternatives.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">Both pieces present the basic facts: several large districts are evaluating a split from Google because of bundled AI, and industry experts warn that AI‑driven data centers may consume water equal to U.S. consumption by 2030. They note the proposed technical fixes—direct chip cooling and water recycling—without taking a stance.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">The Fox article foregrounds the economic and resource‑security angle, warning that unchecked AI data‑center water use could strain supplies and raise costs for consumers. It highlights the CEO’s call for market‑driven solutions like chip‑level cooling and recycling, presenting them as practical fixes rather than regulatory mandates.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For families, the school’s choice could change how kids search for information and what data is collected about them. For anyone paying water bills, the looming surge in data‑center demand signals potential price pressure. Watch district board votes on search contracts and any announcements of new cooling or recycling tech in the next few days.</p>"
         },
         {
           "id": "topic-3",
-          "headline": "Widespread outages cripple Microsoft, Apple and others, highlighting reliance on a few cloud providers",
-          "summary": "Over the past week, major platforms including Microsoft’s Office 365, Apple’s iCloud and Pay services, and several banking and aviation systems suffered simultaneous outages, disrupting work, travel and everyday transactions. Officials say the incidents are unrelated, but they highlight the fragility of global digital infrastructure that rests on a handful of providers.",
+          "headline": "Series of tech outages, including Microsoft’s global service failure, highlight fragility of digital infrastructure",
+          "summary": "Recent disruptions across cloud platforms, email services and other online tools have left users scrambling, underscoring how reliance on a handful of providers can expose everyday activities to sudden downtime.",
           "tags": [
-            "#techoutage",
-            "#cloudcomputing",
+            "#outages",
+            "#Microsoft",
             "#digitalinfrastructure"
           ],
           "source_ids": [
-            3,
             5,
             14
           ],
           "sources": [
             {
               "source": "Neutral (BBC Tech)",
-              "title": "Watch: Marco Rubio says recent tech outages are 'completely unrelated' to one another",
-              "url": "https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "Left (NYT Tech)",
-              "title": "Apple Addresses Outages Affecting Apple Pay, iCloud and Apps",
-              "url": "https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html"
+              "title": "Hacks, AI or just overdue updates - why have there been so many outages?",
+              "url": "https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss"
             },
             {
               "source": "Left (NYT Tech)",
@@ -342,23 +299,24 @@
           ],
           "deepDive": {
             "imageUrl": "https://static01.nyt.com/images/2026/11/13/multimedia/13biz-microsoft-down-ptmz/13biz-microsoft-down-ptmz-mediumSquareAt3X.jpg",
-            "imageSearchQuery": "Microsoft global cloud outage 2026 email services down",
-            "caption": "Microsoft’s cloud services flicker offline, cutting off email and apps for millions worldwide.",
-            "biasLeft": "The NYT pieces stress how a handful of tech giants control the backbone of modern life, framing the outage as a symptom of dangerous market concentration. They hint that tighter regulation or a push for more diverse cloud options could curb systemic risk. The coverage also foregrounds the everyday inconvenience for users, from Apple Pay failures to lost school work.",
-            "biasNeutral": "The BBC report sticks to the facts, listing the affected firms—Microsoft, major banks, Apple, air‑traffic authorities—and notes Senator Rubio’s claim that the glitches are unrelated. It avoids editorializing and simply presents the sequence of incidents.",
-            "biasRight": "No right‑leaning outlet is represented among the supplied articles.",
-            "reflection": "For most of us, a cloud outage means no access to work email, mobile payments, or school assignments, which can scramble daily routines. Keep an eye on whether the providers issue a timeline for full restoration and whether regulators start probing the concentration of cloud services in the coming days."
+            "imageSearchQuery": "Microsoft global outage email services 2026",
+            "caption": "Microsoft engineers scramble to revive Outlook and Teams after a worldwide blackout.",
+            "biasLeft": "The New York Times frames the incident as a wake‑up call about the concentration of power in a handful of tech firms, stressing the social fallout when those platforms go dark. It hints at a need for stronger oversight and more resilient, possibly public‑owned, alternatives. The tone leans toward systemic critique rather than just a technical glitch.",
+            "biasNeutral": "The BBC article lists possible triggers—hackers, AI mishaps, delayed patches—while stressing that no single cause links the recent disruptions. It sticks to the facts, points out the uncertainty, and leaves the reader with open questions about underlying fragility.",
+            "biasRight": "No right‑leaning source is included among the provided articles.",
+            "reflection": "For anyone who relies on cloud email or collaboration tools, a sudden outage can halt work, stall communication, and even affect personal finances. Keep an eye on official updates from Microsoft and any announcements about longer‑term fixes or alternative access methods in the coming days."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/13/multimedia/13biz-microsoft-down-ptmz/13biz-microsoft-down-ptmz-mediumSquareAt3X.jpg\" alt=\"Microsoft’s cloud services flicker offline, cutting off email and apps for millions worldwide.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Microsoft’s cloud services flicker offline, cutting off email and apps for millions worldwide.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The NYT pieces stress how a handful of tech giants control the backbone of modern life, framing the outage as a symptom of dangerous market concentration. They hint that tighter regulation or a push for more diverse cloud options could curb systemic risk. The coverage also foregrounds the everyday inconvenience for users, from Apple Pay failures to lost school work.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC report sticks to the facts, listing the affected firms—Microsoft, major banks, Apple, air‑traffic authorities—and notes Senator Rubio’s claim that the glitches are unrelated. It avoids editorializing and simply presents the sequence of incidents.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No right‑leaning outlet is represented among the supplied articles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For most of us, a cloud outage means no access to work email, mobile payments, or school assignments, which can scramble daily routines. Keep an eye on whether the providers issue a timeline for full restoration and whether regulators start probing the concentration of cloud services in the coming days.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/13/multimedia/13biz-microsoft-down-ptmz/13biz-microsoft-down-ptmz-mediumSquareAt3X.jpg\" alt=\"Microsoft engineers scramble to revive Outlook and Teams after a worldwide blackout.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Microsoft engineers scramble to revive Outlook and Teams after a worldwide blackout.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The New York Times frames the incident as a wake‑up call about the concentration of power in a handful of tech firms, stressing the social fallout when those platforms go dark. It hints at a need for stronger oversight and more resilient, possibly public‑owned, alternatives. The tone leans toward systemic critique rather than just a technical glitch.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC article lists possible triggers—hackers, AI mishaps, delayed patches—while stressing that no single cause links the recent disruptions. It sticks to the facts, points out the uncertainty, and leaves the reader with open questions about underlying fragility.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No right‑leaning source is included among the provided articles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For anyone who relies on cloud email or collaboration tools, a sudden outage can halt work, stall communication, and even affect personal finances. Keep an eye on official updates from Microsoft and any announcements about longer‑term fixes or alternative access methods in the coming days.</p>"
         },
         {
           "id": "topic-4",
-          "headline": "Waymo withdraws driverless taxis from all US highways after California bans its vehicles",
-          "summary": "Waymo announced it will halt all driverless‑taxi operations on U.S. freeways after California regulators barred its autonomous vehicles following a series of traffic incidents. The move marks a significant setback for the company’s rollout plan and raises questions about the regulatory path for self‑driving cars nationwide.",
+          "headline": "Anthropic founders poised to become multibillionaires as AI startup prepares for U.S. IPO",
+          "summary": "The company behind the Claude chatbot is set to list on the Nasdaq, a move that would catapult its seven founders into billionaire status and signal continued investor appetite for generative‑AI enterprises.",
           "tags": [
-            "#Waymo",
-            "#autonomousvehicles",
-            "#regulation"
+            "#Anthropic",
+            "#IPO",
+            "#AI",
+            "#founderswealth"
           ],
           "source_ids": [
             4
@@ -366,32 +324,34 @@
           "sources": [
             {
               "source": "Neutral (BBC Tech)",
-              "title": "Waymo pulls driverless taxis from all US freeways",
-              "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss"
+              "title": "The seven Anthropic founders who are about to become multi-billionaires",
+              "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/80ea/live/d55939e0-e31c-11f1-99a1-253766e7ad8b.jpg",
-            "imageSearchQuery": "Waymo driverless taxis California highway ban withdrawal",
-            "caption": "Waymo’s driverless taxis sit idle as California’s highway ban forces a nationwide pullback.",
-            "biasLeft": "No left‑leaning coverage is provided in the supplied sources.",
-            "biasNeutral": "BBC reports Waymo has pulled its driver‑less taxis from all US freeways after California prohibited their operation on state highways, citing recent traffic incidents. The article sticks to the facts, noting the regulatory trigger and the company’s response without editorialising. It hints that the ban may stall Waymo’s broader rollout plans.",
-            "biasRight": "No right‑leaning coverage is provided in the supplied sources.",
-            "reflection": "For commuters and investors, the pullback delays the arrival of autonomous‑vehicle services and may shape public confidence in the technology. Keep an eye on Waymo’s next statements about timeline adjustments and on any regulatory updates that could reopen testing corridors."
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg",
+            "imageSearchQuery": "Anthropic founders IPO Claude AI startup",
+            "caption": "Seven Anthropic co‑founders poised to cash in as the AI firm readies its US market debut.",
+            "biasLeft": "Left‑leaning outlets did not cover this story in the provided material.",
+            "biasNeutral": "The BBC report sticks to the facts: Anthropic, the company behind the Claude chatbot, is gearing up for a U.S. IPO that could turn its seven founders into multibillionaires. It notes the firm's valuation, the upcoming share sale, and the broader hype around generative AI, without injecting editorial spin.",
+            "biasRight": "Right‑leaning outlets did not cover this story in the provided material.",
+            "reflection": "For everyday investors and tech workers, the IPO signals how quickly AI startups can translate hype into massive wealth, hinting at a flood of capital into the sector. Watch the filing details, pricing range, and any regulatory commentary in the next few days to gauge market appetite and potential ripple effects on AI competition."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/80ea/live/d55939e0-e31c-11f1-99a1-253766e7ad8b.jpg\" alt=\"Waymo’s driverless taxis sit idle as California’s highway ban forces a nationwide pullback.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Waymo’s driverless taxis sit idle as California’s highway ban forces a nationwide pullback.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">No left‑leaning coverage is provided in the supplied sources.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">BBC reports Waymo has pulled its driver‑less taxis from all US freeways after California prohibited their operation on state highways, citing recent traffic incidents. The article sticks to the facts, noting the regulatory trigger and the company’s response without editorialising. It hints that the ban may stall Waymo’s broader rollout plans.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No right‑leaning coverage is provided in the supplied sources.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For commuters and investors, the pullback delays the arrival of autonomous‑vehicle services and may shape public confidence in the technology. Keep an eye on Waymo’s next statements about timeline adjustments and on any regulatory updates that could reopen testing corridors.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg\" alt=\"Seven Anthropic co‑founders poised to cash in as the AI firm readies its US market debut.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Seven Anthropic co‑founders poised to cash in as the AI firm readies its US market debut.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left‑leaning outlets did not cover this story in the provided material.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC report sticks to the facts: Anthropic, the company behind the Claude chatbot, is gearing up for a U.S. IPO that could turn its seven founders into multibillionaires. It notes the firm&#39;s valuation, the upcoming share sale, and the broader hype around generative AI, without injecting editorial spin.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Right‑leaning outlets did not cover this story in the provided material.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday investors and tech workers, the IPO signals how quickly AI startups can translate hype into massive wealth, hinting at a flood of capital into the sector. Watch the filing details, pricing range, and any regulatory commentary in the next few days to gauge market appetite and potential ripple effects on AI competition.</p>"
         },
         {
           "id": "topic-5",
-          "headline": "New safety measures and scams emerge: speed‑limiters, VPN tips, fake toll emails, breach guidance, and OpenAI child‑safety tools",
-          "summary": "State and private initiatives are introducing new tools to curb risky behavior and protect users, from Virginia’s GPS speed‑limiter program for reckless drivers to OpenAI’s classifier aimed at reducing AI‑generated child abuse content. At the same time, consumers face fresh scams such as fake E‑ZPass emails and must navigate advice on credit freezes and VPN configurations to safeguard personal data.",
+          "headline": "Consumer tech roundup: GTA 6 praised, Ring’s drone camera awaits FCC sign‑off, and new cyber‑security alerts",
+          "summary": "Critics hail Grand Theft Auto 6 as a benchmark in gaming, while Ring’s $250 drone security camera seeks regulatory clearance; at the same time, authorities warn about a UK hacker’s six‑year prison sentence, a Java vulnerability discovered with AI, glitches in state speed‑limiter programs, VPN split‑tunneling tips, and a fake E‑ZPass email scam.",
           "tags": [
-            "#publicsafety",
-            "#privacy",
-            "#techscams",
-            "#AIethics"
+            "#gaming",
+            "#security",
+            "#consumertech",
+            "#cybercrime"
           ],
           "source_ids": [
+            2,
+            3,
             6,
             7,
             8,
@@ -399,6 +359,26 @@
             10
           ],
           "sources": [
+            {
+              "source": "Neutral (BBC Tech)",
+              "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+              "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "Right (Fox Tech)",
+              "title": "What to know about Ring Drone Cam, which can patrol your home for $250",
+              "url": "https://www.foxnews.com/tech/ring-drone-cam-patrol-home-250"
+            },
+            {
+              "source": "Neutral (BBC Tech)",
+              "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
+              "url": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "Neutral (BBC Tech)",
+              "title": "Security flaw found in Java, world's third-largest programming language ",
+              "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss"
+            },
             {
               "source": "Right (Fox Tech)",
               "title": "States put speed-limiting devices in reckless drivers' cars",
@@ -413,28 +393,18 @@
               "source": "Right (Fox Tech)",
               "title": "Fake E-ZPass email threatens $100 fine over unpaid toll",
               "url": "https://www.foxnews.com/tech/fake-ezpass-email-threatens-100-fine-unpaid-toll"
-            },
-            {
-              "source": "Right (Fox Tech)",
-              "title": "Freeze, fraud alert or monitoring? What to do after a breach",
-              "url": "https://www.foxnews.com/tech/freeze-fraud-alert-monitoring-what-do-after-breach"
-            },
-            {
-              "source": "Right (Fox Tech)",
-              "title": "OpenAI child safety tools target AI-generated abuse",
-              "url": "https://www.foxnews.com/tech/openai-child-safety-tools-target-ai-generated-abuse"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/lifesafer-gps-speed-limiter-display.jpg",
-            "imageSearchQuery": "Virginia GPS speed limiter glitch",
-            "caption": "A Virginia driver stares at a dashboard warning as a faulty GPS speed‑limiter flashes an incorrect speed cap.",
-            "biasLeft": "Progressive outlets are absent from the source set, so no left‑leaning framing is present.",
-            "biasNeutral": "Center‑leaning or wire services did not cover these topics in the supplied articles, so no neutral perspective is included.",
-            "biasRight": "The right‑leaning pieces stress personal accountability—reckless drivers get hardware that enforces limits, even if the tech glitches. They highlight the economic angle of fraud prevention, from VPN split‑tunneling tips to credit‑freeze options after breaches. Security and sovereignty concerns are foregrounded, such as fake E‑ZPass scams exploiting federal regulations and OpenAI’s tools protecting minors from AI‑generated abuse.",
-            "reflection": "For everyday people, these stories translate into real‑world hassles: a mis‑programmed speed limiter could cause tickets, while a bogus toll email can siphon cash if not spotted. Watch for updates on the Virginia program’s fix and any new guidance from credit bureaus after breaches, as they’ll signal whether the protections are working or need tightening."
+            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/ring-drone-camera-flying.jpg",
+            "imageSearchQuery": "Ring Drone Cam indoor patrol FCC approval 2K video AI navigation",
+            "caption": "A sleek Ring Drone Cam hovers indoors, its 2K lens ready to patrol homes once the FCC gives the green light.",
+            "biasLeft": "Progressive outlets did not cover any of these specific stories, so there is no left‑leaning framing to report.",
+            "biasNeutral": "BBC Tech sticks to the facts: it notes critics hailing GTA 6 as a masterpiece, details the legal outcome of a Scottish hacker sentenced in the US, and explains how an AI‑driven team uncovered a critical Java flaw. The coverage stays descriptive, avoiding editorial spin, and flags the broader implications for gamers, cyber‑crime deterrence, and software safety.",
+            "biasRight": "Fox Tech highlights the consumer angle of the Ring Drone Cam, stressing its price, 2K video, and the regulatory hurdle of FCC approval. The piece also points out practical security concerns, like speed‑limiter glitches for reckless drivers and VPN split‑tunneling settings that keep everyday apps running smoothly, underscoring cost‑benefit and safety angles.",
+            "reflection": "For everyday people, a glowing GTA 6 review may tip the purchase decision, while the Ring Drone Cam’s pending FCC sign‑off means shoppers should hold off until it’s legally cleared. Meanwhile, the Java bug and the high‑profile hacker sentencing serve as reminders to keep software up to date and to treat phishing scams seriously. Watch for FCC news on the drone and any vendor patches for the Java vulnerability in the coming days."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/11/lifesafer-gps-speed-limiter-display.jpg\" alt=\"A Virginia driver stares at a dashboard warning as a faulty GPS speed‑limiter flashes an incorrect speed cap.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">A Virginia driver stares at a dashboard warning as a faulty GPS speed‑limiter flashes an incorrect speed cap.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Progressive outlets are absent from the source set, so no left‑leaning framing is present.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">Center‑leaning or wire services did not cover these topics in the supplied articles, so no neutral perspective is included.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">The right‑leaning pieces stress personal accountability—reckless drivers get hardware that enforces limits, even if the tech glitches. They highlight the economic angle of fraud prevention, from VPN split‑tunneling tips to credit‑freeze options after breaches. Security and sovereignty concerns are foregrounded, such as fake E‑ZPass scams exploiting federal regulations and OpenAI’s tools protecting minors from AI‑generated abuse.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday people, these stories translate into real‑world hassles: a mis‑programmed speed limiter could cause tickets, while a bogus toll email can siphon cash if not spotted. Watch for updates on the Virginia program’s fix and any new guidance from credit bureaus after breaches, as they’ll signal whether the protections are working or need tightening.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/11/ring-drone-camera-flying.jpg\" alt=\"A sleek Ring Drone Cam hovers indoors, its 2K lens ready to patrol homes once the FCC gives the green light.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">A sleek Ring Drone Cam hovers indoors, its 2K lens ready to patrol homes once the FCC gives the green light.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Progressive outlets did not cover any of these specific stories, so there is no left‑leaning framing to report.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">BBC Tech sticks to the facts: it notes critics hailing GTA 6 as a masterpiece, details the legal outcome of a Scottish hacker sentenced in the US, and explains how an AI‑driven team uncovered a critical Java flaw. The coverage stays descriptive, avoiding editorial spin, and flags the broader implications for gamers, cyber‑crime deterrence, and software safety.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Fox Tech highlights the consumer angle of the Ring Drone Cam, stressing its price, 2K video, and the regulatory hurdle of FCC approval. The piece also points out practical security concerns, like speed‑limiter glitches for reckless drivers and VPN split‑tunneling settings that keep everyday apps running smoothly, underscoring cost‑benefit and safety angles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday people, a glowing GTA 6 review may tip the purchase decision, while the Ring Drone Cam’s pending FCC sign‑off means shoppers should hold off until it’s legally cleared. Meanwhile, the Java bug and the high‑profile hacker sentencing serve as reminders to keep software up to date and to treat phishing scams seriously. Watch for FCC news on the drone and any vendor patches for the Java vulnerability in the coming days.</p>"
         }
       ],
       "rawCount": 15
@@ -443,43 +413,43 @@
       "items": [
         {
           "id": "topic-1",
-          "headline": "Nvidia reports strong quarterly earnings while board confirms former CEO Jensen Huang will not return",
-          "summary": "Nvidia posted record sales despite the sudden resignation of founder Jensen Huang, and the board reiterated that it has no plans to reinstate him as chief executive. The outcome reassures investors but leaves the company navigating leadership uncertainty amid growing scrutiny of AI chip makers.",
+          "headline": "Nvidia posts strong quarterly results after Jensen Huang's exit, and Elon Musk becomes a shareholder in Skydance, underscoring shifting leadership in tech firms",
+          "summary": "The AI‑chip maker reported record sales while its interim CEO reassured investors that the business remains on track despite the founder‑CEO's sudden resignation. At the same time, film studio Skydance announced that Elon Musk has taken an equity stake, highlighting how high‑profile investors are moving into entertainment and technology.",
           "tags": [
             "#Nvidia",
-            "#AI",
-            "#CorporateGovernance"
+            "#TechLeadership",
+            "#Musk",
+            "#Skydance"
           ],
           "source_ids": [
-            2,
-            5,
-            7,
+            0,
+            4,
             9,
             10,
             11,
             12,
-            14
+            13
           ],
           "sources": [
+            {
+              "source": "Left (NYT Business)",
+              "title": "David Ellison Confirms Elon Musk Invested in Skydance",
+              "url": "https://www.nytimes.com/2026/11/18/business/dealbook/david-ellison-skydance-elon-musk.html"
+            },
+            {
+              "source": "Right (Fox Business)",
+              "title": "Nvidia interim CEO says 'we’ve got this' as company looks to future without Jensen Huang",
+              "url": "https://www.foxbusiness.com/markets/nvidia-interim-ceo-says-weve-got-this-company-looks-future-without-jensen-huang"
+            },
             {
               "source": "Neutral (BBC Business)",
               "title": "How important are Nvidia and Jensen Huang to the US economy?",
               "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "source": "Left (NYT Business)",
-              "title": "Nvidia Has No Plans to Bring Back Jensen Huang",
-              "url": "https://www.nytimes.com/2026/11/17/business/nvidia-earnings-jensen-huang.html"
-            },
-            {
               "source": "Neutral (BBC Business)",
               "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
               "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "Left (NYT Business)",
-              "title": "Commerce Secretary Howard Lutnick took a softer line on Nvidia as calls for tougher controls grew.",
-              "url": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/commerce-secretary-howard-lutnick-took-a-softer-line-on-nvidia-as-calls-for-tougher-controls-grew"
             },
             {
               "source": "Right (Fox Business)",
@@ -495,97 +465,149 @@
               "source": "Right (Fox Business)",
               "title": "Nvidia set to report quarterly earnings for first time since Jensen Huang resigned as CEO",
               "url": "https://www.foxbusiness.com/markets/nvidia-set-report-quarterly-earnings-first-time-since-jensen-huang-resigned-ceo"
-            },
-            {
-              "source": "Right (Fox Business)",
-              "title": "Nvidia stock slide wipes out more than $20B in value for Jensen Huang over 5 days",
-              "url": "https://www.foxbusiness.com/markets/nvidia-stock-slide-wipes-out-billions-value-jensen-huang-days"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
-            "imageSearchQuery": "Nvidia quarterly earnings board decision Jensen Huang not reinstated",
-            "caption": "Nvidia’s logo shines over a conference room as the AI chip maker posts record earnings while the board shuts the door on founder Jensen Huang’s return.",
-            "biasLeft": "The New York Times frames the board’s refusal as a clear rebuff to Huang’s allies, underscoring a need for corporate accountability after his controversial exit. It also notes the Commerce Secretary’s softer stance amid growing calls for tighter government controls on AI chips, hinting at a progressive push for regulation.",
-            "biasNeutral": "BBC coverage sticks to the numbers, highlighting soaring sales and the firm’s outsized role in the U.S. economy while plainly reporting the board’s decision. The tone is factual, with no editorial spin, and it raises the question of how long the company can sustain its growth without Huang.",
-            "biasRight": "Fox Business leans into the drama, mentioning Huang’s alleged extramarital affairs and his public willingness to return if the board thinks it benefits shareholders and America. The focus is on market stability, leadership continuity, and the company’s future strategic plans.",
-            "reflection": "For investors and tech workers, the earnings beat shows the AI chip market is still booming, but the leadership vacuum could affect stock volatility and strategic direction. In the coming days watch for any board filings, market reactions, and statements from Huang that might signal a shift in governance or a renewed leadership bid."
+            "imageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/nvidia-headquarters-sign-person-02.jpg?ve=1&tl=1",
+            "imageSearchQuery": "Nvidia quarterly earnings Jensen Huang resignation Colette Kress headquarters",
+            "caption": "Interim CEO Colette Kress stands outside Nvidia’s campus, reassuring investors that the AI chipmaker can thrive without Jensen Huang.",
+            "biasLeft": "The New York Times piece frames Elon Musk’s stake in Skydance as an \"honor and privilege,\" subtly underscoring how billionaire networks shape media ownership. It hints at the broader power dynamics of tech moguls entering Hollywood, without delving into financial specifics.",
+            "biasNeutral": "BBC’s coverage sticks to the facts: it notes Nvidia’s soaring sales, the economic weight of Huang’s leadership, and the board’s decision not to reinstate him. The reporting raises the question of how crucial a single CEO is to the US tech engine, while staying neutral on the controversy.",
+            "biasRight": "Fox Business highlights the bottom line – Nvidia’s $115.8 billion revenue beat and the interim team’s confidence – casting the leadership shake‑up as a manageable transition. It also leans into the drama of Huang’s resignation and his willingness to return, framing the board’s investigation as a test of corporate governance.",
+            "reflection": "For everyday investors, Nvidia’s earnings beat suggests the AI chip market remains robust despite executive turbulence, so watch the stock and any board moves on a permanent CEO. Meanwhile, Musk’s entry into Skydance could foreshadow shifts in content strategy, making the next few weeks of corporate announcements worth tracking."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg\" alt=\"Nvidia’s logo shines over a conference room as the AI chip maker posts record earnings while the board shuts the door on founder Jensen Huang’s return.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Nvidia’s logo shines over a conference room as the AI chip maker posts record earnings while the board shuts the door on founder Jensen Huang’s return.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The New York Times frames the board’s refusal as a clear rebuff to Huang’s allies, underscoring a need for corporate accountability after his controversial exit. It also notes the Commerce Secretary’s softer stance amid growing calls for tighter government controls on AI chips, hinting at a progressive push for regulation.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">BBC coverage sticks to the numbers, highlighting soaring sales and the firm’s outsized role in the U.S. economy while plainly reporting the board’s decision. The tone is factual, with no editorial spin, and it raises the question of how long the company can sustain its growth without Huang.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Fox Business leans into the drama, mentioning Huang’s alleged extramarital affairs and his public willingness to return if the board thinks it benefits shareholders and America. The focus is on market stability, leadership continuity, and the company’s future strategic plans.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For investors and tech workers, the earnings beat shows the AI chip market is still booming, but the leadership vacuum could affect stock volatility and strategic direction. In the coming days watch for any board filings, market reactions, and statements from Huang that might signal a shift in governance or a renewed leadership bid.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/nvidia-headquarters-sign-person-02.jpg?ve=1&amp;tl=1\" alt=\"Interim CEO Colette Kress stands outside Nvidia’s campus, reassuring investors that the AI chipmaker can thrive without Jensen Huang.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Interim CEO Colette Kress stands outside Nvidia’s campus, reassuring investors that the AI chipmaker can thrive without Jensen Huang.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The New York Times piece frames Elon Musk’s stake in Skydance as an &quot;honor and privilege,&quot; subtly underscoring how billionaire networks shape media ownership. It hints at the broader power dynamics of tech moguls entering Hollywood, without delving into financial specifics.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">BBC’s coverage sticks to the facts: it notes Nvidia’s soaring sales, the economic weight of Huang’s leadership, and the board’s decision not to reinstate him. The reporting raises the question of how crucial a single CEO is to the US tech engine, while staying neutral on the controversy.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Fox Business highlights the bottom line – Nvidia’s $115.8 billion revenue beat and the interim team’s confidence – casting the leadership shake‑up as a manageable transition. It also leans into the drama of Huang’s resignation and his willingness to return, framing the board’s investigation as a test of corporate governance.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday investors, Nvidia’s earnings beat suggests the AI chip market remains robust despite executive turbulence, so watch the stock and any board moves on a permanent CEO. Meanwhile, Musk’s entry into Skydance could foreshadow shifts in content strategy, making the next few weeks of corporate announcements worth tracking.</p>"
         },
         {
           "id": "topic-2",
-          "headline": "UK household energy bills set to rise 26%, pushing inflation to a year‑high",
-          "summary": "A new forecast shows petrol and diesel price spikes will lift UK consumer price inflation to its highest level in twelve months, tightening budgets for families already strained by the cost‑of‑living squeeze. Policymakers face pressure to curb energy costs while maintaining fiscal stability.",
+          "headline": "UK household energy bills projected to rise by £443 a year as inflation pushes costs up 26%",
+          "summary": "Energy regulators expect a typical family’s annual bill to increase sharply, reflecting the sharpest rise in consumer prices in a year. The surge will squeeze household budgets just as the cost‑of‑living crisis deepens across the country.",
           "tags": [
-            "#UKinflation",
-            "#energyprices",
-            "#costofliving"
+            "#UK",
+            "#EnergyBills",
+            "#Inflation"
           ],
           "source_ids": [
-            0
+            7,
+            8
           ],
           "sources": [
             {
               "source": "Neutral (BBC Business)",
-              "title": "Petrol and diesel prices push inflation to highest in a year",
+              "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
               "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "Neutral (BBC Business)",
+              "title": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
+              "url": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7d0b/live/be9d4d20-e31e-11f1-baab-4b3b35d174b7.jpg",
-            "imageSearchQuery": "UK household energy bills 26% rise January inflation petrol diesel",
-            "caption": "Britons brace for a 26% surge in home energy costs as fuel prices push inflation to a year‑high.",
-            "biasLeft": "Left‑leaning outlets are not represented in the supplied material, so no specific emphasis can be identified.",
-            "biasNeutral": "The neutral BBC piece sticks to the numbers: a 26% jump in household energy bills in January and petrol‑diesel price spikes driving inflation to its highest level in twelve months. It flags the likely continuation of price pressure without assigning blame. The report also hints that the rise could keep overall inflation on an upward trajectory.",
-            "biasRight": "Right‑leaning outlets are not represented in the supplied material, so no specific emphasis can be identified.",
-            "reflection": "For most households, a 26% hike means tighter budgets and tougher choices on heating, cooking and transport. In the coming days watch the official Consumer Price Index release and any government response on the energy price cap, as those will shape whether the surge is a one‑off shock or the start of a longer trend."
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4a59/live/128bd8c0-e35b-11f1-99b6-a35a62fa4264.jpg",
+            "imageSearchQuery": "UK energy bill, inflation, 26% rise, household costs, January 2024",
+            "caption": "Households brace for a £443 jump in yearly energy costs amid soaring inflation.",
+            "biasLeft": "This article does not present a progressive angle. It focuses solely on the statistical rise in bills. No discussion of social impact is offered.",
+            "biasNeutral": "The piece reports a 26% increase in typical energy bills, equating to £443 annually starting January. It cites inflation as the driver and notes the rise is the highest in a year. No policy response or analysis is included, leaving the reader to consider the economic implications.",
+            "biasRight": "This article does not present a conservative or right‑leaning take. The focus remains on headline figures. No discussion of energy policy or market impact is included.",
+            "reflection": "For most families, the extra £443 could mean cutting back on leisure or savings. Watch for updates on the government’s energy price cap and any planned subsidies in the coming weeks."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7d0b/live/be9d4d20-e31e-11f1-baab-4b3b35d174b7.jpg\" alt=\"Britons brace for a 26% surge in home energy costs as fuel prices push inflation to a year‑high.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Britons brace for a 26% surge in home energy costs as fuel prices push inflation to a year‑high.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left‑leaning outlets are not represented in the supplied material, so no specific emphasis can be identified.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The neutral BBC piece sticks to the numbers: a 26% jump in household energy bills in January and petrol‑diesel price spikes driving inflation to its highest level in twelve months. It flags the likely continuation of price pressure without assigning blame. The report also hints that the rise could keep overall inflation on an upward trajectory.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Right‑leaning outlets are not represented in the supplied material, so no specific emphasis can be identified.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For most households, a 26% hike means tighter budgets and tougher choices on heating, cooking and transport. In the coming days watch the official Consumer Price Index release and any government response on the energy price cap, as those will shape whether the surge is a one‑off shock or the start of a longer trend.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4a59/live/128bd8c0-e35b-11f1-99b6-a35a62fa4264.jpg\" alt=\"Households brace for a £443 jump in yearly energy costs amid soaring inflation.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Households brace for a £443 jump in yearly energy costs amid soaring inflation.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">This article does not present a progressive angle. It focuses solely on the statistical rise in bills. No discussion of social impact is offered.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The piece reports a 26% increase in typical energy bills, equating to £443 annually starting January. It cites inflation as the driver and notes the rise is the highest in a year. No policy response or analysis is included, leaving the reader to consider the economic implications.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">This article does not present a conservative or right‑leaning take. The focus remains on headline figures. No discussion of energy policy or market impact is included.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For most families, the extra £443 could mean cutting back on leisure or savings. Watch for updates on the government’s energy price cap and any planned subsidies in the coming weeks.</p>"
         },
         {
           "id": "topic-3",
-          "headline": "Japanese firm seeks to revive U.S. Steel’s oldest Pittsburgh‑area mill after troubled takeover",
-          "summary": "After acquiring the iconic American steelmaker, the Japanese parent is investing in upgrades at the historic mill to restore production and jobs, hoping to reverse years of decline. Success could influence the future of U.S. manufacturing and trans‑Pacific industrial ties.",
+          "headline": "AI industry faces safety debates, school pushback against Google, and Anthropic founders eye billionaire status",
+          "summary": "OpenAI executives warned that balancing rapid progress with safety will remain a tightrope walk, while several U.S. school districts consider dropping Google Search over bundled AI tools. Meanwhile, Anthropic’s founders stand to become multibillionaires as the company prepares an IPO, illustrating the sector’s growing financial clout.",
           "tags": [
-            "#USSteel",
-            "#Japan",
-            "#manufacturing"
+            "#AI",
+            "#Safety",
+            "#Education",
+            "#Anthropic"
           ],
           "source_ids": [
-            3
+            1,
+            2,
+            6
           ],
           "sources": [
             {
               "source": "Left (NYT Business)",
-              "title": "Japan Attempts to Revive U.S. Steel",
-              "url": "https://www.nytimes.com/2026/11/18/business/us-steel-nippon-takeover-japan.html"
+              "title": "NYC, LA and Chicago School Districts Weigh Breaking Up With Google Search Over A.I.",
+              "url": "https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html"
+            },
+            {
+              "source": "Left (NYT Business)",
+              "title": "OpenAI Executives Say They Have to Strike a Balance Between A.I. Safety and Progress",
+              "url": "https://www.nytimes.com/2026/11/18/business/dealbook/openai-sam-altman-greg-brockman.html"
+            },
+            {
+              "source": "Neutral (BBC Business)",
+              "title": "The seven Anthropic founders who are about to become multi-billionaires",
+              "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://static01.nyt.com/images/2026/11/05/multimedia/Biz-Japan-Steel_Video-still-cvbq/Biz-Japan-Steel_Video-still-cvbq-mediumSquareAt3X.jpg",
-            "imageSearchQuery": "Japanese firm revives U.S. Steel oldest Pittsburgh mill",
-            "caption": "Japanese executives walk the rust‑streaked floor of U.S. Steel’s historic Pittsburgh plant as they outline a comeback plan.",
-            "biasLeft": "Progressive coverage highlights the potential for job preservation and community revitalization, framing the takeover as a chance to address decades of plant neglect. It stresses the need for the new owners to honor labor contracts and invest in local workers. The narrative also points to broader questions about foreign ownership of strategic American industry.",
-            "biasNeutral": "Neutral outlets are not represented in the supplied articles.",
-            "biasRight": "Conservative outlets are not represented in the supplied articles.",
-            "reflection": "For residents of western Pennsylvania, the plan could mean a return of stable, well‑paid steel jobs that have been disappearing for years. Watch for any official timeline on reopening the mill or announcements of capital spending in the next few days, as those signals will determine whether the promise translates into real employment."
+            "imageUrl": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-GoogleAI-schools-2-02-gmlp/18biz-GoogleAI-schools-2-02-gmlp-mediumSquareAt3X.jpg",
+            "imageSearchQuery": "Google AI school search controversy",
+            "caption": "School boards in NYC, LA and Chicago confront Google over mandatory AI-powered search tools for students.",
+            "biasLeft": "The NYT pieces stress how Google’s bundling of AI into its search engine forces schools to adopt technology that may compromise student privacy and widen inequities. They frame the debate as a clash between corporate power and public education’s duty to protect minors. The OpenAI interview is presented as a moral dilemma, highlighting the tension between rapid innovation and the need for robust safety safeguards.",
+            "biasNeutral": "The BBC report sticks to the facts: Anthropic’s founders are set to become multibillionaires as the company prepares for a US stock‑market debut. It notes the sheer scale of the wealth creation without attaching moral judgment, while flagging the broader market relevance of a new AI player going public.",
+            "biasRight": "No right‑leaning sources covering this specific mix of topics were provided.",
+            "reflection": "For everyday citizens, the school‑Google row could affect how children learn and what data is collected about them, while OpenAI’s safety stance shapes the future risk landscape of powerful AI tools. In the coming days, watch for any official decisions by the school districts and for market reactions to Anthropic’s IPO filing."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/05/multimedia/Biz-Japan-Steel_Video-still-cvbq/Biz-Japan-Steel_Video-still-cvbq-mediumSquareAt3X.jpg\" alt=\"Japanese executives walk the rust‑streaked floor of U.S. Steel’s historic Pittsburgh plant as they outline a comeback plan.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Japanese executives walk the rust‑streaked floor of U.S. Steel’s historic Pittsburgh plant as they outline a comeback plan.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Progressive coverage highlights the potential for job preservation and community revitalization, framing the takeover as a chance to address decades of plant neglect. It stresses the need for the new owners to honor labor contracts and invest in local workers. The narrative also points to broader questions about foreign ownership of strategic American industry.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">Neutral outlets are not represented in the supplied articles.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Conservative outlets are not represented in the supplied articles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For residents of western Pennsylvania, the plan could mean a return of stable, well‑paid steel jobs that have been disappearing for years. Watch for any official timeline on reopening the mill or announcements of capital spending in the next few days, as those signals will determine whether the promise translates into real employment.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/18/multimedia/18biz-GoogleAI-schools-2-02-gmlp/18biz-GoogleAI-schools-2-02-gmlp-mediumSquareAt3X.jpg\" alt=\"School boards in NYC, LA and Chicago confront Google over mandatory AI-powered search tools for students.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">School boards in NYC, LA and Chicago confront Google over mandatory AI-powered search tools for students.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The NYT pieces stress how Google’s bundling of AI into its search engine forces schools to adopt technology that may compromise student privacy and widen inequities. They frame the debate as a clash between corporate power and public education’s duty to protect minors. The OpenAI interview is presented as a moral dilemma, highlighting the tension between rapid innovation and the need for robust safety safeguards.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC report sticks to the facts: Anthropic’s founders are set to become multibillionaires as the company prepares for a US stock‑market debut. It notes the sheer scale of the wealth creation without attaching moral judgment, while flagging the broader market relevance of a new AI player going public.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No right‑leaning sources covering this specific mix of topics were provided.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday citizens, the school‑Google row could affect how children learn and what data is collected about them, while OpenAI’s safety stance shapes the future risk landscape of powerful AI tools. In the coming days, watch for any official decisions by the school districts and for market reactions to Anthropic’s IPO filing.</p>"
         },
         {
           "id": "topic-4",
-          "headline": "Major U.S. banks experience widespread online‑banking outages, shaking investor confidence",
-          "summary": "Service disruptions at Chase, Bank of America, Wells Fargo and Capital One triggered a sharp dip in JPMorgan’s share price and raised concerns about digital resilience in the financial sector. Customers and regulators are watching to see how quickly banks can restore reliable online access.",
+          "headline": "Deadly Nepal glacier collapse drives $5 billion recovery need, putting pressure on global leaders at COP31",
+          "summary": "A sudden glacier failure killed dozens and left Nepal facing a multi‑billion‑dollar reconstruction effort, with limited international assistance so far. The disaster has become a focal point of the COP31 negotiations, testing the world’s willingness to fund climate‑related emergencies.",
           "tags": [
-            "#bankingoutage",
-            "#techfailure",
-            "#USbanks"
+            "#COP31",
+            "#Climate",
+            "#Aid",
+            "#Nepal"
           ],
           "source_ids": [
-            13
+            5
           ],
           "sources": [
+            {
+              "source": "Left (NYT Business)",
+              "title": "Nepal Came to COP31 in Dire Need. It’s a Test for the World.",
+              "url": "https://www.nytimes.com/2026/11/18/climate/nepal-disaster-aid-cop31.html"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://static01.nyt.com/images/2026/11/18/multimedia/18CLI-COP-NEPAL1-kwcm/18CLI-COP-NEPAL1-kwcm-mediumSquareAt3X.jpg",
+            "imageSearchQuery": "Nepal glacier collapse 2026 disaster recovery",
+            "caption": "Rescue teams wade through shattered villages as Nepal grapples with a $5 billion rebuild bill after a deadly glacier burst.",
+            "biasLeft": "Progressive outlets frame the disaster as a climate‑justice issue, emphasizing the human toll on vulnerable mountain communities and the moral failure of wealthy nations to deliver promised aid. They stress systemic neglect and call for robust, climate‑aligned financing at COP31. The language highlights solidarity and the need for a global response to climate‑induced catastrophes.",
+            "biasNeutral": "Neutral outlets did not cover this specific story in the provided material.",
+            "biasRight": "Right‑leaning outlets did not cover this specific story in the provided material.",
+            "reflection": "For ordinary people, the Nepal collapse illustrates how climate shocks can translate into massive economic burdens that ripple through global markets and migration patterns. Watch for donor commitments and any financing mechanisms announced at COP31 in the next few days, as they will signal how seriously the international community is taking climate‑linked disaster relief."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/18/multimedia/18CLI-COP-NEPAL1-kwcm/18CLI-COP-NEPAL1-kwcm-mediumSquareAt3X.jpg\" alt=\"Rescue teams wade through shattered villages as Nepal grapples with a $5 billion rebuild bill after a deadly glacier burst.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Rescue teams wade through shattered villages as Nepal grapples with a $5 billion rebuild bill after a deadly glacier burst.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Progressive outlets frame the disaster as a climate‑justice issue, emphasizing the human toll on vulnerable mountain communities and the moral failure of wealthy nations to deliver promised aid. They stress systemic neglect and call for robust, climate‑aligned financing at COP31. The language highlights solidarity and the need for a global response to climate‑induced catastrophes.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">Neutral outlets did not cover this specific story in the provided material.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Right‑leaning outlets did not cover this specific story in the provided material.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For ordinary people, the Nepal collapse illustrates how climate shocks can translate into massive economic burdens that ripple through global markets and migration patterns. Watch for donor commitments and any financing mechanisms announced at COP31 in the next few days, as they will signal how seriously the international community is taking climate‑linked disaster relief.</p>"
+        },
+        {
+          "id": "topic-5",
+          "headline": "Canada pledges to stand firm in U.S. trade talks as major US banks suffer online outages, rattling markets",
+          "summary": "Ottawa signaled it will not back down in ongoing tariff discussions with Washington, while the U.S. banking system experienced widespread digital‑banking failures that knocked down share prices of several large lenders. The twin pressures highlight how trade policy and tech reliability can together sway investor confidence.",
+          "tags": [
+            "#Trade",
+            "#Banking",
+            "#Markets",
+            "#Canada"
+          ],
+          "source_ids": [
+            3,
+            14
+          ],
+          "sources": [
+            {
+              "source": "Left (NYT Business)",
+              "title": "Mark Carney Says Canada Will Not Back Down in Trade Talks With U.S.",
+              "url": "https://www.nytimes.com/2026/11/18/business/dealbook/mark-carney-canada-us-trade.html"
+            },
             {
               "source": "Right (Fox Business)",
               "title": "Financial stocks slide as online banking outages reported at several large US banks",
@@ -593,45 +615,15 @@
             }
           ],
           "deepDive": {
-            "imageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/09/0/0/trading-floor.jpg?ve=1&tl=1",
-            "imageSearchQuery": "US bank online banking outage JPMorgan Chase Bank of America Wells Fargo Capital One",
-            "caption": "Traders stare at falling JPMorgan shares as online‑banking platforms at several big U.S. banks go dark.",
-            "biasLeft": "No progressive or left‑leaning outlet covered this specific outage in the provided sources.",
-            "biasNeutral": "No centrist or wire service article on this event appears among the supplied texts.",
-            "biasRight": "The Fox Business piece frames the outages as a market‑shaking event, stressing the slide in financial stocks and the 2.4% drop in JPMorgan shares. It highlights the operational hiccup across Chase, Bank of America, Wells Fargo and Capital One as a catalyst for investor unease. The tone leans toward the economic impact on shareholders rather than deeper systemic or consumer‑service concerns.",
-            "reflection": "For everyday consumers, a banking outage can mean delayed bill payments, frozen transfers, and heightened anxiety about digital security. Investors will watch whether the share declines stabilize or deepen, which could signal broader confidence in the sector’s tech resilience."
+            "imageUrl": "https://static01.nyt.com/images/2026/11/18/multimedia/18dealbook-summit-carney-wzfc/18dealbook-summit-carney-wzfc-mediumSquareAt3X.jpg",
+            "imageSearchQuery": "Mark Carney Canada US trade talks",
+            "caption": "Mark Carney signals Canada won’t buckle under U.S. trade pressure even as American banks wrestle with digital outages.",
+            "biasLeft": "The NYT frames Canada’s stance as a principled defense of national economic sovereignty, emphasizing the government’s willingness to push back against U.S. demands. It also juxtaposes the firm U.S. talks with the positive tone of Canada‑China negotiations, hinting at a broader strategic balancing act. The language underscores the human impact of trade policy on Canadian workers and industries.",
+            "biasNeutral": "No center‑leaning outlet covered this specific combination of Canada‑U.S. trade talks and U.S. bank outages in the supplied articles.",
+            "biasRight": "Fox Business zeroes in on the immediate market fallout, noting that shares of major banks slumped as online outages hit customers. The piece treats the outages as a warning about the fragility of the financial system and the potential for broader economic disruption. It stresses the economic stakes for investors and the need for robust infrastructure to protect market stability.",
+            "reflection": "For everyday Canadians and Americans, the story matters because any hardening of U.S. trade demands could affect prices on everyday goods, while banking outages threaten access to funds and confidence in digital services. Watch for official statements from Ottawa in the coming days and any further reports of online banking failures, as both will signal how quickly markets and policymakers react."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/09/0/0/trading-floor.jpg?ve=1&amp;tl=1\" alt=\"Traders stare at falling JPMorgan shares as online‑banking platforms at several big U.S. banks go dark.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Traders stare at falling JPMorgan shares as online‑banking platforms at several big U.S. banks go dark.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">No progressive or left‑leaning outlet covered this specific outage in the provided sources.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">No centrist or wire service article on this event appears among the supplied texts.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">The Fox Business piece frames the outages as a market‑shaking event, stressing the slide in financial stocks and the 2.4% drop in JPMorgan shares. It highlights the operational hiccup across Chase, Bank of America, Wells Fargo and Capital One as a catalyst for investor unease. The tone leans toward the economic impact on shareholders rather than deeper systemic or consumer‑service concerns.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday consumers, a banking outage can mean delayed bill payments, frozen transfers, and heightened anxiety about digital security. Investors will watch whether the share declines stabilize or deepen, which could signal broader confidence in the sector’s tech resilience.</p>"
-        },
-        {
-          "id": "topic-5",
-          "headline": "Europe launches initiative to develop photonic chips that process data with light",
-          "summary": "EU officials unveiled a programme aimed at securing a lead in the next generation of optical computing, hoping to reduce energy use and keep the region competitive in the global semiconductor race. The effort involves research funding and partnerships across academia and industry.",
-          "tags": [
-            "#Europe",
-            "#semiconductors",
-            "#photonicchips"
-          ],
-          "source_ids": [
-            8
-          ],
-          "sources": [
-            {
-              "source": "Neutral (BBC Business)",
-              "title": "Europe plans to catch the next computer chip wave",
-              "url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c96b/live/b14b3a60-d9c8-11f1-93e1-3b657b665bcf.jpg",
-            "imageSearchQuery": "Europe photonic chip initiative light data processing",
-            "caption": "European researchers gather around a prototype photonic chip that could replace electrons with photons for faster, greener computing.",
-            "biasLeft": "Absent from these articles.",
-            "biasNeutral": "The piece outlines the EU's plan to fund a pan‑European programme aimed at commercialising photonic chips that process data with light. It notes the strategic intent to stay ahead of the US and Asian road‑maps and highlights the potential energy savings and speed gains. The article stays factual, mentioning the €2.2 billion budget and the involvement of major research labs.",
-            "biasRight": "Absent from these articles.",
-            "reflection": "Photonic chips promise dramatically lower power consumption and higher speeds, which could translate into cheaper, longer‑lasting devices for everyday users. Keep an eye on the EU's funding allocations and any early partnership announcements, as they will indicate how quickly the technology might move from labs to market."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c96b/live/b14b3a60-d9c8-11f1-93e1-3b657b665bcf.jpg\" alt=\"European researchers gather around a prototype photonic chip that could replace electrons with photons for faster, greener computing.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">European researchers gather around a prototype photonic chip that could replace electrons with photons for faster, greener computing.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Absent from these articles.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The piece outlines the EU&#39;s plan to fund a pan‑European programme aimed at commercialising photonic chips that process data with light. It notes the strategic intent to stay ahead of the US and Asian road‑maps and highlights the potential energy savings and speed gains. The article stays factual, mentioning the €2.2 billion budget and the involvement of major research labs.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Absent from these articles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>Photonic chips promise dramatically lower power consumption and higher speeds, which could translate into cheaper, longer‑lasting devices for everyday users. Keep an eye on the EU&#39;s funding allocations and any early partnership announcements, as they will indicate how quickly the technology might move from labs to market.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/18/multimedia/18dealbook-summit-carney-wzfc/18dealbook-summit-carney-wzfc-mediumSquareAt3X.jpg\" alt=\"Mark Carney signals Canada won’t buckle under U.S. trade pressure even as American banks wrestle with digital outages.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Mark Carney signals Canada won’t buckle under U.S. trade pressure even as American banks wrestle with digital outages.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The NYT frames Canada’s stance as a principled defense of national economic sovereignty, emphasizing the government’s willingness to push back against U.S. demands. It also juxtaposes the firm U.S. talks with the positive tone of Canada‑China negotiations, hinting at a broader strategic balancing act. The language underscores the human impact of trade policy on Canadian workers and industries.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">No center‑leaning outlet covered this specific combination of Canada‑U.S. trade talks and U.S. bank outages in the supplied articles.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Fox Business zeroes in on the immediate market fallout, noting that shares of major banks slumped as online outages hit customers. The piece treats the outages as a warning about the fragility of the financial system and the potential for broader economic disruption. It stresses the economic stakes for investors and the need for robust infrastructure to protect market stability.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday Canadians and Americans, the story matters because any hardening of U.S. trade demands could affect prices on everyday goods, while banking outages threaten access to funds and confidence in digital services. Watch for official statements from Ottawa in the coming days and any further reports of online banking failures, as both will signal how quickly markets and policymakers react.</p>"
         }
       ],
       "rawCount": 15
