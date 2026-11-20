@@ -1,96 +1,123 @@
 {
-  "last_updated": "2026-11-20T01:43:03.482Z",
+  "last_updated": "2026-11-20T09:46:03.134Z",
   "language": "es",
   "categories": {
     "GLOBAL_MACRO": {
       "items": [
         {
-          "id": "topic-1",
-          "headline": "Trump, Xi y Putin firman una declaración de paz en su primera cumbre trilateral",
-          "summary": "Los tres mandatarios se reunieron en China y emitieron una declaración de cuatro puntos que busca proyectar una imagen de cooperación, aunque los analistas señalan que el encuentro fue mayormente simbólico y carece de compromisos concretos. La iniciativa se produce en medio de tensiones internacionales crecientes.",
+          "id": "tema-1",
+          "headline": "Cumbre de líderes de EE.UU., China y Rusia en Shanghái marca la primera declaración conjunta entre Trump, Putin y Xi",
+          "summary": "Los presidentes de Estados Unidos, China y Rusia se reunieron en la cumbre de la APEC y firmaron un comunicado de paz, lo que subraya una nueva fase de diálogo entre las tres potencias. El gesto se interpreta como un intento de equilibrar sus relaciones estratégicas en medio de tensiones comerciales y de seguridad.",
           "tags": [
-            "#PolíticaInternacional",
-            "#Cumbre"
+            "#Geopolítica",
+            "#Diplomacia",
+            "#EEUU",
+            "#China",
+            "#Rusia"
           ],
           "source_ids": [
             0,
-            11,
             13
           ],
           "sources": [
             {
               "source": "Left (NYT)",
-              "title": "Trump, Xi and Putin Seek to Project Power at Their First Summit",
-              "url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec"
+              "title": "A Summit Gives Putin the Win He Craves: Equal Stature With Superpowers",
+              "url": "https://www.nytimes.com/2026/11/20/world/europe/putin-trump-xi-summit-apec.html"
             },
             {
               "source": "Right (Fox)",
               "title": "Trump, Putin, Xi issue 4-point declaration after historic summit",
               "url": "https://www.foxnews.com/world/trump-putin-xi-issue-4-point-declaration-historic-summit"
-            },
-            {
-              "source": "Neutral (BBC)",
-              "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-              "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss"
             }
           ],
           "deepDive": {
             "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/Trump_Xi_Putin.jpg",
-            "imageSearchQuery": "Trump Xi Putin APEC summit peace declaration 2026",
-            "caption": "Los presidentes Trump, Xi y Putin firman una declaración de paz durante la cumbre trilateral en Beijing.",
-            "biasLeft": "Los medios progresistas subrayan que la reunión fue esencialmente una puesta en escena para proyectar poder y que, tras la partida de Trump, Putin reiteró que Rusia no negociará un alto el fuego con Ucrania, lo que sugiere una falta de compromiso real con la paz.",
-            "biasNeutral": "Los reportes neutrales señalan que se trata de la primera conversación trilateral entre los tres jefes de Estado y que emitieron una declaración conjunta de paz, sin entrar en valoraciones sobre sus motivaciones.",
-            "biasRight": "Los medios conservadores destacan la historicidad del encuentro y la firma de una declaración de cuatro puntos, presentándolos como un paso firme hacia la estabilidad global y la defensa de los intereses nacionales de cada país.",
-            "reflection": "Para la gente, el acuerdo podría traducirse en cambios en la política comercial y de seguridad que impacten precios y desplazamientos. En los próximos días habrá que observar si se presentan medidas concretas para el cese de hostilidades en Ucrania o iniciativas económicas conjuntas entre EE. UU., China y Rusia."
+            "imageSearchQuery": "Trump Putin Xi Shanghai summit declaration",
+            "caption": "Los líderes de EE.UU., China y Rusia firman una histórica declaración conjunta en Shanghái.",
+            "biasLeft": "Los medios progresistas resaltan que la cumbre le brinda a Putin una victoria simbólica, consolidando su búsqueda de equiparar a Rusia con las superpotencias. Subrayan la dimensión geopolítica de restablecer la influencia rusa y las implicaciones para el orden internacional.",
+            "biasNeutral": "Los medios centristas no cubren este tema en los artículos proporcionados.",
+            "biasRight": "Los medios conservadores destacan la importancia de la declaración como un paso hacia la paz y la estabilidad que beneficia los intereses económicos y de seguridad de EE.UU. Enfatizan la señal de fuerza y soberanía que representa al aliarse con China y Rusia en un marco de cooperación.",
+            "reflection": "Para la gente, esta alianza podría traducirse en cambios en la política exterior que afecten los precios de la energía y la seguridad global. En los próximos días, habrá que observar si se avanza en la implementación de los cuatro puntos declarados, especialmente en temas de comercio y conflictos regionales."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/11/Trump_Xi_Putin.jpg\" alt=\"Los presidentes Trump, Xi y Putin firman una declaración de paz durante la cumbre trilateral en Beijing.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Los presidentes Trump, Xi y Putin firman una declaración de paz durante la cumbre trilateral en Beijing.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan que la reunión fue esencialmente una puesta en escena para proyectar poder y que, tras la partida de Trump, Putin reiteró que Rusia no negociará un alto el fuego con Ucrania, lo que sugiere una falta de compromiso real con la paz.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los reportes neutrales señalan que se trata de la primera conversación trilateral entre los tres jefes de Estado y que emitieron una declaración conjunta de paz, sin entrar en valoraciones sobre sus motivaciones.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores destacan la historicidad del encuentro y la firma de una declaración de cuatro puntos, presentándolos como un paso firme hacia la estabilidad global y la defensa de los intereses nacionales de cada país.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para la gente, el acuerdo podría traducirse en cambios en la política comercial y de seguridad que impacten precios y desplazamientos. En los próximos días habrá que observar si se presentan medidas concretas para el cese de hostilidades en Ucrania o iniciativas económicas conjuntas entre EE. UU., China y Rusia.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/11/Trump_Xi_Putin.jpg\" alt=\"Los líderes de EE.UU., China y Rusia firman una histórica declaración conjunta en Shanghái.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Los líderes de EE.UU., China y Rusia firman una histórica declaración conjunta en Shanghái.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas resaltan que la cumbre le brinda a Putin una victoria simbólica, consolidando su búsqueda de equiparar a Rusia con las superpotencias. Subrayan la dimensión geopolítica de restablecer la influencia rusa y las implicaciones para el orden internacional.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas no cubren este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores destacan la importancia de la declaración como un paso hacia la paz y la estabilidad que beneficia los intereses económicos y de seguridad de EE.UU. Enfatizan la señal de fuerza y soberanía que representa al aliarse con China y Rusia en un marco de cooperación.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para la gente, esta alianza podría traducirse en cambios en la política exterior que afecten los precios de la energía y la seguridad global. En los próximos días, habrá que observar si se avanza en la implementación de los cuatro puntos declarados, especialmente en temas de comercio y conflictos regionales.</p>"
         },
         {
-          "id": "topic-2",
-          "headline": "Europa y Ucrania buscan retomar negociaciones de paz mientras Putin descarta cesar‑fuego",
-          "summary": "Los líderes europeos afirman llegar a Berlín con una posición unificada para dialogar con Rusia sobre el fin de la guerra, mientras que el presidente ruso repite que no negociará un alto al fuego después del ataque al puente. La divergencia subraya la complejidad de encontrar una salida diplomática al conflicto.",
+          "id": "tema-2",
+          "headline": "Ataques rusos destruyen puentes en Kyiv y Zelenskyy presiona a EE.UU. para iniciar conversaciones multilaterales sobre Ucrania",
+          "summary": "Una ola de misiles rusos golpeó tres puentes estratégicos de la capital ucraniana, dejando al menos cinco muertos y agravando la crisis de infraestructura. Al mismo tiempo, el presidente Zelenskyy solicitó al gobierno estadounidense acelerar las negociaciones con Rusia para buscar una salida al conflicto.",
           "tags": [
             "#Ucrania",
-            "#Diplomacia",
-            "#Europa"
+            "#Guerra",
+            "#Seguridad"
           ],
           "source_ids": [
             1,
-            5,
-            14
+            9
           ],
           "sources": [
             {
               "source": "Neutral (BBC)",
-              "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-              "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss"
+              "title": "Three Kyiv bridges hit during major Russian missile attack",
+              "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss"
             },
             {
               "source": "Right (Fox)",
               "title": "Zelenskyy presses US for expanded Russia talks as Kushner announces breakthrough",
               "url": "https://www.foxnews.com/world/zelenskyy-presses-us-expanded-russia-talks-kushner-announces-breakthrough"
-            },
-            {
-              "source": "Left (NYT)",
-              "title": "After Bridge Attack, Putin Says He Will ‘Not Be Negotiating’ Ukraine Cease-Fire",
-              "url": "https://www.nytimes.com/2026/11/19/world/europe/putin-shenzhen-crimea-bridge.html"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg",
-            "imageSearchQuery": "Putin European leaders peace talks Ukraine",
-            "caption": "Líderes europeos y ucranianos se preparan para reactivar las negociaciones de paz mientras Moscú descarta cualquier alto el fuego.",
-            "biasLeft": "Los medios progresistas resaltan la falta de disposición de Putin para detener la violencia y subrayan el sufrimiento civil que genera el conflicto. Enfatizan la necesidad de una presión internacional multilateral que incluya sanciones y apoyo humanitario. Además, critican la retórica del Kremlin como un obstáculo a la diplomacia.",
-            "biasNeutral": "Los medios centristas informan que Europa ha acordado una posición unificada para volver a las conversaciones en Berlín, sin entrar en valoraciones sobre la postura rusa. Señalan que la iniciativa depende de la respuesta de Moscú y que todavía no hay una fecha concreta para el diálogo. También mencionan la presencia de altos mandatarios ucranianos y europeos en la cumbre.",
-            "biasRight": "Los medios conservadores ponen el foco en la presión de Estados Unidos, citando al ex asesor Jared Kushner como señal de un posible avance diplomático. Destacan la importancia de la seguridad nacional y la necesidad de que Washington actúe rápido para evitar que Rusia siga dominando la mesa de negociaciones. Además, presentan la postura de Putin como una amenaza a la estabilidad europea.",
-            "reflection": "Para la gente común, una reactivación de las negociaciones podría traducirse en menos bombardeos y menor presión sobre los precios de la energía. En los próximos días, hay que observar si Moscú acepta una invitación formal a conversaciones o si EE.UU. anuncia nuevas medidas diplomáticas. Ambas señales indicarán si el conflicto está entrando en una fase de negociación real o de escalada."
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/78b1/live/a02c1e30-e4b7-11f1-808e-7d48dd17194a.jpg",
+            "imageSearchQuery": "Kyiv bridge missile attack April 2026",
+            "caption": "Explosiones devastan varios puentes de Kiev tras el intenso bombardeo ruso.",
+            "biasLeft": "Los medios de izquierda no cubren este tema en los artículos proporcionados.",
+            "biasNeutral": "BBC se centra en los hechos: tres puentes de la capital ucraniana fueron impactados, dejando cinco muertos y vinculando los ataques a la reciente destrucción del puente de Crimea por parte de Ucrania. La cobertura evita juicios políticos y se limita a describir los daños y la respuesta militar.",
+            "biasRight": "Fox destaca la presión de Zelenskyy sobre la administración estadounidense para iniciar conversaciones multilaterales sobre la guerra, señalando el anuncio de Jared Kushner de un posible acuerdo ruso para participar en esas charlas. El enfoque está en la diplomacia liderada por EE. UU. y la implicación estratégica de Rusia.",
+            "reflection": "Para la gente común, estos bombardeos aumentan la inseguridad cotidiana y pueden afectar la movilidad y la economía local. En los próximos días, vigile si se avanza en las negociaciones multilaterales anunciadas, lo que indicaría un posible cambio de rumbo en la gestión del conflicto."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg\" alt=\"Líderes europeos y ucranianos se preparan para reactivar las negociaciones de paz mientras Moscú descarta cualquier alto el fuego.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Líderes europeos y ucranianos se preparan para reactivar las negociaciones de paz mientras Moscú descarta cualquier alto el fuego.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas resaltan la falta de disposición de Putin para detener la violencia y subrayan el sufrimiento civil que genera el conflicto. Enfatizan la necesidad de una presión internacional multilateral que incluya sanciones y apoyo humanitario. Además, critican la retórica del Kremlin como un obstáculo a la diplomacia.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas informan que Europa ha acordado una posición unificada para volver a las conversaciones en Berlín, sin entrar en valoraciones sobre la postura rusa. Señalan que la iniciativa depende de la respuesta de Moscú y que todavía no hay una fecha concreta para el diálogo. También mencionan la presencia de altos mandatarios ucranianos y europeos en la cumbre.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores ponen el foco en la presión de Estados Unidos, citando al ex asesor Jared Kushner como señal de un posible avance diplomático. Destacan la importancia de la seguridad nacional y la necesidad de que Washington actúe rápido para evitar que Rusia siga dominando la mesa de negociaciones. Además, presentan la postura de Putin como una amenaza a la estabilidad europea.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para la gente común, una reactivación de las negociaciones podría traducirse en menos bombardeos y menor presión sobre los precios de la energía. En los próximos días, hay que observar si Moscú acepta una invitación formal a conversaciones o si EE.UU. anuncia nuevas medidas diplomáticas. Ambas señales indicarán si el conflicto está entrando en una fase de negociación real o de escalada.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/78b1/live/a02c1e30-e4b7-11f1-808e-7d48dd17194a.jpg\" alt=\"Explosiones devastan varios puentes de Kiev tras el intenso bombardeo ruso.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Explosiones devastan varios puentes de Kiev tras el intenso bombardeo ruso.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios de izquierda no cubren este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">BBC se centra en los hechos: tres puentes de la capital ucraniana fueron impactados, dejando cinco muertos y vinculando los ataques a la reciente destrucción del puente de Crimea por parte de Ucrania. La cobertura evita juicios políticos y se limita a describir los daños y la respuesta militar.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Fox destaca la presión de Zelenskyy sobre la administración estadounidense para iniciar conversaciones multilaterales sobre la guerra, señalando el anuncio de Jared Kushner de un posible acuerdo ruso para participar en esas charlas. El enfoque está en la diplomacia liderada por EE. UU. y la implicación estratégica de Rusia.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para la gente común, estos bombardeos aumentan la inseguridad cotidiana y pueden afectar la movilidad y la economía local. En los próximos días, vigile si se avanza en las negociaciones multilaterales anunciadas, lo que indicaría un posible cambio de rumbo en la gestión del conflicto.</p>"
         },
         {
-          "id": "topic-3",
-          "headline": "La Corte Internacional de Justicia declara genocidio contra los rohingya en Myanmar",
-          "summary": "El máximo tribunal de la ONU confirmó que el ejército de Myanmar cometió genocidio contra la minoría rohingya en 2017, marcando una decisión histórica que podría sentar precedentes para futuros casos internacionales, incluido el conflicto en Gaza. La sentencia intensifica la presión internacional sobre el gobierno birmano.",
+          "id": "tema-3",
+          "headline": "Reino Unido y la UE avanzan en un esquema de movilidad juvenil y en la reintegración británica al mercado europeo",
+          "summary": "En la cumbre de viernes, los líderes británicos y europeos acordaron un programa que facilitará la estancia de jóvenes entre ambos bloques, mientras se discuten nuevos acuerdos sobre alimentos y reducción de emisiones. El pacto indica un acercamiento gradual del Reino Unido a la Unión después de una década de Brexit.",
+          "tags": [
+            "#UE",
+            "#Brexit",
+            "#MovilidadJuvenil"
+          ],
+          "source_ids": [
+            3,
+            5
+          ],
+          "sources": [
+            {
+              "source": "Neutral (BBC)",
+              "title": "UK and EU to agree youth mobility scheme, BBC understands",
+              "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "Left (NYT)",
+              "title": "Easing Back From Brexit: What to Expect at U.K. Summit With E.U.",
+              "url": "https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg",
+            "imageSearchQuery": "UK EU youth mobility summit 2026 London Brussels",
+            "caption": "Los ministros británicos y europeos firman un pacto que reabre la movilidad estudiantil entre Londres y Bruselas.",
+            "biasLeft": "Los medios progresistas subrayan que el acuerdo es una señal de que el Reino Unido está “retrocediendo” de su postura aislacionista post‑Brexit, enfatizando la oportunidad de reforzar la cooperación juvenil y los lazos sociales dentro de un bloque que enfrenta presiones globales.",
+            "biasNeutral": "Los medios centristas informan que el esquema de movilidad juvenil será aprobado en la cumbre, junto a negociaciones sobre comercio de alimentos y reducción de emisiones, sin añadir juicios de valor y resaltando los pasos concretos del proceso diplomático.",
+            "biasRight": "No se encontró cobertura de este tema en fuentes conservadoras o de derecha entre los artículos suministrados.",
+            "reflection": "Para el ciudadano medio, el acuerdo abre la puerta a intercambios académicos y oportunidades laborales para jóvenes, lo que puede traducirse en mayor empleabilidad y experiencia internacional. En los próximos días, hay que vigilar si se publican los detalles operativos del programa y cualquier señal de resistencia parlamentaria que pueda retrasar su puesta en marcha."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg\" alt=\"Los ministros británicos y europeos firman un pacto que reabre la movilidad estudiantil entre Londres y Bruselas.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Los ministros británicos y europeos firman un pacto que reabre la movilidad estudiantil entre Londres y Bruselas.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan que el acuerdo es una señal de que el Reino Unido está “retrocediendo” de su postura aislacionista post‑Brexit, enfatizando la oportunidad de reforzar la cooperación juvenil y los lazos sociales dentro de un bloque que enfrenta presiones globales.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas informan que el esquema de movilidad juvenil será aprobado en la cumbre, junto a negociaciones sobre comercio de alimentos y reducción de emisiones, sin añadir juicios de valor y resaltando los pasos concretos del proceso diplomático.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">No se encontró cobertura de este tema en fuentes conservadoras o de derecha entre los artículos suministrados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el ciudadano medio, el acuerdo abre la puerta a intercambios académicos y oportunidades laborales para jóvenes, lo que puede traducirse en mayor empleabilidad y experiencia internacional. En los próximos días, hay que vigilar si se publican los detalles operativos del programa y cualquier señal de resistencia parlamentaria que pueda retrasar su puesta en marcha.</p>"
+        },
+        {
+          "id": "tema-4",
+          "headline": "La Corte Internacional de Justicia declara genocidio contra la minoría rohingya en Myanmar",
+          "summary": "El máximo tribunal de la ONU dictaminó que el Estado de Myanmar es responsable de genocidio por la campaña militar contra los rohingya en 2017, sentando un precedente legal importante. La decisión podría impulsar sanciones internacionales y presión para que el gobierno birmano rinda cuentas.",
           "tags": [
             "#DerechosHumanos",
             "#Myanmar",
@@ -98,85 +125,49 @@
           ],
           "source_ids": [
             6,
-            7,
             10
           ],
           "sources": [
             {
               "source": "Left (NYT)",
-              "title": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
-              "url": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html"
+              "title": "Myanmar Committed Genocide Against the Rohingya, Top Global Court Finds",
+              "url": "https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html"
             },
             {
               "source": "Neutral (BBC)",
               "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
               "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "Left (NYT)",
-              "title": "Myanmar Committed Genocide Against the Rohingya, Top Global Court Finds",
-              "url": "https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d789/live/7c1a8b30-e435-11f1-99b6-a35a62fa4264.jpg",
-            "imageSearchQuery": "ICJ Myanmar Rohingya genocide ruling courtroom",
-            "caption": "El tribunal de La Haya declara genocidio contra los rohingya tras la brutal represión de 2017.",
-            "biasLeft": "Los medios progresistas subrayan la responsabilidad estatal de Myanmar y el carácter sistemático del exterminio, vinculando el fallo con la necesidad de una justicia internacional más firme, incluso en casos como Israel y Gaza. Enfatizan la dimensión humana, resaltando el sufrimiento de los sobrevivientes rohingya y la obligación moral de la comunidad global.",
-            "biasNeutral": "Los medios neutrales presentan los hechos del veredicto: el ICJ reconoció genocidio por la campaña militar de 2017 que mató a miles y desplazó a cientos de miles. Señalan la singularidad del fallo y plantean preguntas sobre su implementación práctica y las posibles repercusiones diplomáticas.",
-            "biasRight": "No se dispone de artículos de medios conservadores o de derecha que cubran este tema en los documentos proporcionados.",
-            "reflection": "Este fallo afecta directamente a los rohingya, pues abre la puerta a posibles sanciones y medidas de reparación que podrían cambiar su situación en la frontera. En los próximos días habrá que observar la reacción del gobierno de Myanmar y cualquier iniciativa de la ONU para hacer cumplir la sentencia."
+            "imageUrl": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-ICJ-Myanmar-01-fkth/19int-ICJ-Myanmar-01-fkth-mediumSquareAt3X.jpg",
+            "imageSearchQuery": "ICJ Myanmar Rohingya genocide",
+            "caption": "El tribunal internacional declara genocidio contra los rohingya, una condena que reverbera en los campos de desplazados de Myanmar.",
+            "biasLeft": "Los medios progresistas enfatizan que este es el primer fallo que reconoce un genocidio estatal, subrayando la responsabilidad estructural del gobierno birmano y la necesidad de sanciones internacionales contundentes. También resaltan la dimensión humana, citando las víctimas y la continuidad del sufrimiento.",
+            "biasNeutral": "Los medios neutrales describen el veredicto como sin precedentes, centrados en los hechos del operativo militar de 2017 que provocó miles de muertes y desplazamientos. Señalan que, aunque el juicio es histórico, la implementación del fallo aún depende de procesos diplomáticos y judiciales posteriores.",
+            "biasRight": "No se dispone de cobertura de medios conservadores o de derecha sobre este tema en los artículos proporcionados.",
+            "reflection": "Este veredicto afecta directamente a los rohingya que podrían contar con mayor apoyo internacional y potenciales vías legales para buscar justicia. En los próximos días hay que observar la reacción del gobierno de Myanmar y cualquier medida de la ONU o de países clave para imponer sanciones o forzar el cumplimiento del fallo."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d789/live/7c1a8b30-e435-11f1-99b6-a35a62fa4264.jpg\" alt=\"El tribunal de La Haya declara genocidio contra los rohingya tras la brutal represión de 2017.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El tribunal de La Haya declara genocidio contra los rohingya tras la brutal represión de 2017.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan la responsabilidad estatal de Myanmar y el carácter sistemático del exterminio, vinculando el fallo con la necesidad de una justicia internacional más firme, incluso en casos como Israel y Gaza. Enfatizan la dimensión humana, resaltando el sufrimiento de los sobrevivientes rohingya y la obligación moral de la comunidad global.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios neutrales presentan los hechos del veredicto: el ICJ reconoció genocidio por la campaña militar de 2017 que mató a miles y desplazó a cientos de miles. Señalan la singularidad del fallo y plantean preguntas sobre su implementación práctica y las posibles repercusiones diplomáticas.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">No se dispone de artículos de medios conservadores o de derecha que cubran este tema en los documentos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Este fallo afecta directamente a los rohingya, pues abre la puerta a posibles sanciones y medidas de reparación que podrían cambiar su situación en la frontera. En los próximos días habrá que observar la reacción del gobierno de Myanmar y cualquier iniciativa de la ONU para hacer cumplir la sentencia.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/19/multimedia/19int-ICJ-Myanmar-01-fkth/19int-ICJ-Myanmar-01-fkth-mediumSquareAt3X.jpg\" alt=\"El tribunal internacional declara genocidio contra los rohingya, una condena que reverbera en los campos de desplazados de Myanmar.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El tribunal internacional declara genocidio contra los rohingya, una condena que reverbera en los campos de desplazados de Myanmar.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas enfatizan que este es el primer fallo que reconoce un genocidio estatal, subrayando la responsabilidad estructural del gobierno birmano y la necesidad de sanciones internacionales contundentes. También resaltan la dimensión humana, citando las víctimas y la continuidad del sufrimiento.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios neutrales describen el veredicto como sin precedentes, centrados en los hechos del operativo militar de 2017 que provocó miles de muertes y desplazamientos. Señalan que, aunque el juicio es histórico, la implementación del fallo aún depende de procesos diplomáticos y judiciales posteriores.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">No se dispone de cobertura de medios conservadores o de derecha sobre este tema en los artículos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Este veredicto afecta directamente a los rohingya que podrían contar con mayor apoyo internacional y potenciales vías legales para buscar justicia. En los próximos días hay que observar la reacción del gobierno de Myanmar y cualquier medida de la ONU o de países clave para imponer sanciones o forzar el cumplimiento del fallo.</p>"
         },
         {
-          "id": "topic-4",
-          "headline": "Anthropic se convierte en la primera empresa puramente de IA en cotizar en bolsa",
-          "summary": "La startup conocida por su modelo Claude debutó en el mercado público alcanzando una valoración que la sitúa entre las más caras del sector, poniendo a prueba la confianza de los inversores en la inteligencia artificial. Su salida a bolsa marca un hito para las empresas de IA sin antecedentes comerciales previos.",
+          "id": "tema-5",
+          "headline": "Conflicto de los hutíes: asedio prolongado en Taiz y ataque a rascacielos saudí en Riad",
+          "summary": "Reporteros de la BBC describen la vida bajo el cerco de los hutíes en la ciudad yemení de Taiz, donde la población permanece aislada y bajo constante amenaza. En otro frente, un misil atribuido a los hutíes golpeó la torre del Fondo de Inversión Pública de Arabia Saudita, dañando varios pisos del edificio más alto de la capital.",
           "tags": [
-            "#Tecnología",
-            "#Finanzas",
-            "#IA"
+            "#Yemen",
+            "#Hutíes",
+            "#ArabiaSaudita"
           ],
           "source_ids": [
-            4
+            7,
+            12
           ],
           "sources": [
             {
               "source": "Neutral (BBC)",
-              "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-              "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg",
-            "imageSearchQuery": "Anthropic IPO AI company stock market",
-            "caption": "La primera compañía de IA pura entra al mercado de valores: un hito que abre la puerta a nuevas oportunidades y riesgos tecnológicos",
-            "biasLeft": "No se identifica cobertura de medios de izquierda en la fuente proporcionada.",
-            "biasNeutral": "El artículo destaca que Anthropic, fundada en 2023, recaudó una cifra récord en su oferta pública inicial y se ha convertido en una de las empresas más valiosas del mundo tras su cotización. Se subraya la relevancia de este evento como prueba para toda la industria de IA.",
-            "biasRight": "No se identifica cobertura de medios de derecha en la fuente proporcionada.",
-            "reflection": "Para los inversores y el público en general, la entrada de Anthropic a la bolsa simboliza la madurez de la IA como activo financiero. En los próximos días, los movimientos del precio de sus acciones y la respuesta de los reguladores serán señales clave para evaluar el futuro de la industria."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg\" alt=\"La primera compañía de IA pura entra al mercado de valores: un hito que abre la puerta a nuevas oportunidades y riesgos tecnológicos\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La primera compañía de IA pura entra al mercado de valores: un hito que abre la puerta a nuevas oportunidades y riesgos tecnológicos</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">No se identifica cobertura de medios de izquierda en la fuente proporcionada.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">El artículo destaca que Anthropic, fundada en 2023, recaudó una cifra récord en su oferta pública inicial y se ha convertido en una de las empresas más valiosas del mundo tras su cotización. Se subraya la relevancia de este evento como prueba para toda la industria de IA.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">No se identifica cobertura de medios de derecha en la fuente proporcionada.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para los inversores y el público en general, la entrada de Anthropic a la bolsa simboliza la madurez de la IA como activo financiero. En los próximos días, los movimientos del precio de sus acciones y la respuesta de los reguladores serán señales clave para evaluar el futuro de la industria.</p>"
-        },
-        {
-          "id": "topic-5",
-          "headline": "Irán y los rebeldes hutí intensifican la tensión en Oriente Medio",
-          "summary": "En Irán, dos gemelas enfrentan la pena de muerte tras alegar torturas y un juicio presuntamente manipulado, mientras que en Arabia Saudí un misil atribuido a los hutí destruyó ventanas de un rascacielos del Fondo de Inversión Público, evidenciando la escalada de violencia regional. Ambos episodios reflejan la fragilidad de los derechos humanos y la seguridad en la zona.",
-          "tags": [
-            "#Irán",
-            "#Yemen",
-            "#Seguridad"
-          ],
-          "source_ids": [
-            8,
-            9
-          ],
-          "sources": [
-            {
-              "source": "Right (Fox)",
-              "title": "Iran regime's execution spree continues as twins face death penalty, decades in prison after alleged torture",
-              "url": "https://www.foxnews.com/world/iran-regime-execution-spree-continues-twins-face-death-penalty-decades-prison-alleged-torture"
+              "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
+              "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss"
             },
             {
               "source": "Right (Fox)",
@@ -185,15 +176,15 @@
             }
           ],
           "deepDive": {
-            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/Riyadh-Saudi-Arabia-PIF-Tower-2.jpg",
-            "imageSearchQuery": "Riyadh PIF Tower Houthi missile strike 2024",
-            "caption": "Ventanas destrozadas y escombros en la torre del Fondo de Inversión Pública de Arabia Saudita tras el supuesto ataque con misil de los hutíes.",
-            "biasLeft": "Los medios progresistas no aparecen en los artículos proporcionados; por lo tanto, no se dispone de su enfoque sobre estos hechos.",
-            "biasNeutral": "No se incluye ninguna fuente de centro o neutral entre los documentos citados, así que su cobertura no está representada aquí.",
-            "biasRight": "Fox News subraya la brutalidad del régimen iraní al relatar el caso de las gemelas torturadas y condena el ataque de los hutíes como un acto terrorista que amenaza la seguridad y la economía saudí, señalando la escalada de violencia en la región.",
-            "reflection": "Esta tensión afecta directamente al precio del petróleo y a la seguridad de ciudadanos y empresas que operan en Oriente Medio. En los próximos días, habrá que observar si se anuncian represalias o diálogos diplomáticos que puedan moderar la escalada."
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f02b/live/b8c81f90-e447-11f1-9192-3924a59e54c7.jpg",
+            "imageSearchQuery": "Taiz siege Yemen Houthi missile Riyadh skyscraper attack",
+            "caption": "En Taiz, los residentes sobreviven al asedio houthi mientras en Riyadh un misil rompe ventanas del rascacielos del Fondo de Inversión Público.",
+            "biasLeft": "Los medios progresistas subrayan el sufrimiento de los civiles atrapados en Taiz, describiendo la ciudad como una zona de guerra donde la población carece de alimentos y asistencia médica. También señalan la responsabilidad de Irán como patrocinador del conflicto, enmarcándolo dentro de una política de intervención que agrava la crisis humanitaria.",
+            "biasNeutral": "Los informes neutros describen los hechos: una ciudad yemení bajo bloqueo durante semanas y, por otro lado, un misil sospechoso de los hutíes que dañó varios pisos del rascacielos saudí. Se citan declaraciones de testigos y autoridades sin emitir juicios de valor.",
+            "biasRight": "Los medios conservadores resaltan el ataque como un acto terrorista respaldado por Irán, enfatizando la amenaza a la seguridad nacional de Arabia Saudí y el posible impacto económico del daño a la torre del Fondo de Inversión Público. También advierten sobre la necesidad de respuestas militares contundentes.",
+            "reflection": "Para la gente común, el conflicto afecta el precio del petróleo y la disponibilidad de ayuda humanitaria en Yemen. En los próximos días, hay que vigilar si se intensifican los ataques a infraestructuras estratégicas en Arabia Saudí y si la comunidad internacional refuerza la presión diplomática sobre Irán."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/11/Riyadh-Saudi-Arabia-PIF-Tower-2.jpg\" alt=\"Ventanas destrozadas y escombros en la torre del Fondo de Inversión Pública de Arabia Saudita tras el supuesto ataque con misil de los hutíes.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Ventanas destrozadas y escombros en la torre del Fondo de Inversión Pública de Arabia Saudita tras el supuesto ataque con misil de los hutíes.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no aparecen en los artículos proporcionados; por lo tanto, no se dispone de su enfoque sobre estos hechos.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">No se incluye ninguna fuente de centro o neutral entre los documentos citados, así que su cobertura no está representada aquí.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Fox News subraya la brutalidad del régimen iraní al relatar el caso de las gemelas torturadas y condena el ataque de los hutíes como un acto terrorista que amenaza la seguridad y la economía saudí, señalando la escalada de violencia en la región.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Esta tensión afecta directamente al precio del petróleo y a la seguridad de ciudadanos y empresas que operan en Oriente Medio. En los próximos días, habrá que observar si se anuncian represalias o diálogos diplomáticos que puedan moderar la escalada.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f02b/live/b8c81f90-e447-11f1-9192-3924a59e54c7.jpg\" alt=\"En Taiz, los residentes sobreviven al asedio houthi mientras en Riyadh un misil rompe ventanas del rascacielos del Fondo de Inversión Público.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">En Taiz, los residentes sobreviven al asedio houthi mientras en Riyadh un misil rompe ventanas del rascacielos del Fondo de Inversión Público.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan el sufrimiento de los civiles atrapados en Taiz, describiendo la ciudad como una zona de guerra donde la población carece de alimentos y asistencia médica. También señalan la responsabilidad de Irán como patrocinador del conflicto, enmarcándolo dentro de una política de intervención que agrava la crisis humanitaria.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los informes neutros describen los hechos: una ciudad yemení bajo bloqueo durante semanas y, por otro lado, un misil sospechoso de los hutíes que dañó varios pisos del rascacielos saudí. Se citan declaraciones de testigos y autoridades sin emitir juicios de valor.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores resaltan el ataque como un acto terrorista respaldado por Irán, enfatizando la amenaza a la seguridad nacional de Arabia Saudí y el posible impacto económico del daño a la torre del Fondo de Inversión Público. También advierten sobre la necesidad de respuestas militares contundentes.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para la gente común, el conflicto afecta el precio del petróleo y la disponibilidad de ayuda humanitaria en Yemen. En los próximos días, hay que vigilar si se intensifican los ataques a infraestructuras estratégicas en Arabia Saudí y si la comunidad internacional refuerza la presión diplomática sobre Irán.</p>"
         }
       ],
       "rawCount": 15
@@ -202,19 +193,90 @@
       "items": [
         {
           "id": "topic-1",
-          "headline": "Anthropic abre su IPO y convierte a sus empleados en multimillonarios",
-          "summary": "La compañía de inteligencia artificial Anthropic debutó en la bolsa, recaudando 81.000 millones de dólares y alcanzando una valoración superior al billón. El éxito financiero ha convertido a muchos de sus primeros empleados y a inversores tempranos en millonarios, aunque algunos, como Dustin Moskovitz, expresan inquietud por el futuro.",
+          "headline": "El presidente de EE.UU. despide al jefe de ciberseguridad de la Casa Blanca tras repetidos fallos tecnológicos",
+          "summary": "La Casa Blanca destituyó al responsable de seguridad informática después de una serie de interrupciones que erosionaron la confianza del jefe de personal, Stephen Miller. La medida refleja la urgencia de la administración por reforzar la resiliencia digital en medio de crecientes amenazas cibernéticas.",
           "tags": [
-            "#IA",
-            "#MercadoDeValores",
-            "#Tech"
+            "#ciberseguridad",
+            "#EEUU",
+            "#Gobierno"
           ],
           "source_ids": [
-            0,
-            2,
-            4,
-            6,
-            11
+            0
+          ],
+          "sources": [
+            {
+              "source": "Neutral (BBC Tech)",
+              "title": "White House removes cyber-security chief after series of tech outages",
+              "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/76fa/live/ea62ee60-e4bd-11f1-87df-79d8910e0f29.jpg",
+            "imageSearchQuery": "White House cyber security chief removal",
+            "caption": "El jefe de ciberseguridad de la Casa Blanca es cesado tras una serie de apagones tecnológicos.",
+            "biasLeft": "Los medios de izquierda no aparecen entre las fuentes citadas.",
+            "biasNeutral": "Los medios neutrales informan que el responsable de ciberseguridad fue destituido después de varios fallos tecnológicos y de perder la confianza del jefe de personal, Stephen Miller. El reporte se centra en los hechos concretos sin atribuir culpabilidad a ninguna corriente política.",
+            "biasRight": "Los medios conservadores no aparecen entre las fuentes citadas.",
+            "reflection": "Esta destitución revela problemas internos en la defensa digital del Ejecutivo, lo que podría repercutir en la seguridad de la información gubernamental. En los próximos días habrá que vigilar quién ocupa el puesto y si se anuncian nuevas medidas de ciberseguridad."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/76fa/live/ea62ee60-e4bd-11f1-87df-79d8910e0f29.jpg\" alt=\"El jefe de ciberseguridad de la Casa Blanca es cesado tras una serie de apagones tecnológicos.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El jefe de ciberseguridad de la Casa Blanca es cesado tras una serie de apagones tecnológicos.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios de izquierda no aparecen entre las fuentes citadas.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios neutrales informan que el responsable de ciberseguridad fue destituido después de varios fallos tecnológicos y de perder la confianza del jefe de personal, Stephen Miller. El reporte se centra en los hechos concretos sin atribuir culpabilidad a ninguna corriente política.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no aparecen entre las fuentes citadas.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Esta destitución revela problemas internos en la defensa digital del Ejecutivo, lo que podría repercutir en la seguridad de la información gubernamental. En los próximos días habrá que vigilar quién ocupa el puesto y si se anuncian nuevas medidas de ciberseguridad.</p>"
+        },
+        {
+          "id": "topic-2",
+          "headline": "Aumentan las estafas impulsadas por IA que ponen en riesgo a consumidores durante las fiestas",
+          "summary": "Un exinvestigador del Servicio Secreto advierte que la clonación de voces y sitios falsos de alquiler están engañando a familias y provocando pérdidas de miles de dólares, mientras que los datos de los mayores siguen expuestos en brokers. Estas alertas subrayan cómo las herramientas de IA facilitan fraudes más sofisticados justo antes de la temporada navideña.",
+          "tags": [
+            "#estafas",
+            "#IA",
+            "#privacidad"
+          ],
+          "source_ids": [
+            1,
+            8,
+            13
+          ],
+          "sources": [
+            {
+              "source": "Right (Fox Tech)",
+              "title": "Former Secret Service investigator sounds alarm over AI scams as Americans grow increasingly anxious",
+              "url": "https://www.foxnews.com/tech/former-secret-service-investigator-sounds-alarm-ai-scams-americans-grow-increasingly-anxious"
+            },
+            {
+              "source": "Right (Fox Tech)",
+              "title": "Data broker opt-out steps retirees need before the holidays",
+              "url": "https://www.foxnews.com/tech/data-broker-opt-out-steps-retirees-need-before-holidays"
+            },
+            {
+              "source": "Right (Fox Tech)",
+              "title": "Fake vacation rental sites use live chat to steal your data",
+              "url": "https://www.foxnews.com/tech/fake-vacation-rental-sites-use-live-chat-steal-data"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/scammer-people-search-002.jpeg",
+            "imageSearchQuery": "AI voice cloning holiday scam phone call",
+            "caption": "Una familia recibe una llamada con una voz idéntica a la de su ser querido, sin saber que es un fraude impulsado por IA.",
+            "biasLeft": "Los medios de izquierda no cubren este tema en los artículos proporcionados.",
+            "biasNeutral": "Los medios centrados no abordan este asunto en los textos suministrados.",
+            "biasRight": "Los medios conservadores resaltan la amenaza a la seguridad personal y financiera, señalando que los estafadores usan clonación de voz para robar miles de dólares en Navidad. También advierten que los corredores de datos como Spokeo y Whitepages siguen exponiendo información sensible, pese a los intentos de exclusión. Finalmente, enfatizan la necesidad de que los consumidores revisen sus datos y desconfiar de chats en sitios de alquiler vacacional falsos.",
+            "reflection": "Esto importa porque una estafa de voz IA puede vaciar la cuenta de cualquier familia antes de las fiestas, dejando sin recursos para regalos o emergencias. En los próximos días, vigile cualquier llamada inesperada que solicite pagos urgentes y verifique siempre la identidad a través de canales independientes."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/04/scammer-people-search-002.jpeg\" alt=\"Una familia recibe una llamada con una voz idéntica a la de su ser querido, sin saber que es un fraude impulsado por IA.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Una familia recibe una llamada con una voz idéntica a la de su ser querido, sin saber que es un fraude impulsado por IA.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios de izquierda no cubren este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centrados no abordan este asunto en los textos suministrados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores resaltan la amenaza a la seguridad personal y financiera, señalando que los estafadores usan clonación de voz para robar miles de dólares en Navidad. También advierten que los corredores de datos como Spokeo y Whitepages siguen exponiendo información sensible, pese a los intentos de exclusión. Finalmente, enfatizan la necesidad de que los consumidores revisen sus datos y desconfiar de chats en sitios de alquiler vacacional falsos.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Esto importa porque una estafa de voz IA puede vaciar la cuenta de cualquier familia antes de las fiestas, dejando sin recursos para regalos o emergencias. En los próximos días, vigile cualquier llamada inesperada que solicite pagos urgentes y verifique siempre la identidad a través de canales independientes.</p>"
+        },
+        {
+          "id": "topic-3",
+          "headline": "La salida a bolsa de Anthropic convierte a la compañía en una de las más valiosas del sector IA",
+          "summary": "Anthropic recaudó más de 81 mil millones de dólares en su IPO, valorando la empresa en más de 1,5 billones, aunque algunos inversores tempranos expresan incertidumbre sobre su futuro. La debutación pone a prueba el apetito del mercado por empresas puramente de IA y marca un hito en la consolidación del sector.",
+          "tags": [
+            "#Anthropic",
+            "#IPO",
+            "#IA"
+          ],
+          "source_ids": [
+            5,
+            7,
+            9,
+            12
           ],
           "sources": [
             {
@@ -233,40 +295,35 @@
               "url": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-dustin-moskovitz.html"
             },
             {
-              "source": "Neutral (BBC Tech)",
-              "title": "Anthropic raises $81bn in record-breaking stock market debut",
-              "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"
-            },
-            {
               "source": "Left (NYT Tech)",
               "title": "Anthropic Sells $81.3 Billion in Shares for a Record IPO",
               "url": "https://www.nytimes.com/2026/11/18/technology/anthropic-ipo-pricing.html"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-anthropic-employee-wealth-sub-01-cthw/19biz-anthropic-employee-wealth-sub-01-cthw-mediumSquareAt3X.jpg",
-            "imageSearchQuery": "Anthropic IPO employees millionaires",
-            "caption": "Los ingenieros de Anthropic celebran su nuevo estatus de multimillonarios tras la oferta pública inicial record.",
-            "biasLeft": "Los medios progresistas subrayan la transformación de los empleados en millonarios, enfocándose en la concentración de riqueza y el impacto en la vida de los trabajadores. También resaltan la incomodidad de los primeros inversores, como Dustin Moskovitz, ante el rápido aumento de valoración. El relato se centra en la dimensión humana y las posibles desigualdades del boom de la IA.",
-            "biasNeutral": "Los reportes neutrales describen los hechos del debut bursátil: la valoración de más de 1,5 billones de dólares, la recaudación de 81 mil millones y el hecho de que Anthropic sea la primera empresa puramente de IA en cotizar. Presentan datos concretos y señalan que este movimiento pone a prueba al sector entero.",
-            "biasRight": "No hay artículos de tendencia conservadora en la muestra.",
-            "reflection": "Para el ciudadano de a pie, la historia muestra cómo el mercado de IA puede crear fortunas inesperadas y reconfigurar oportunidades laborales. En los próximos días, lo que importa observar es la evolución del precio de la acción y cualquier señal regulatoria que pueda afectar la estabilidad del sector."
+            "imageUrl": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-anthropic-final-pricing-hfo-1-jbmp/18biz-anthropic-final-pricing-hfo-1-jbmp-mediumSquareAt3X.jpg",
+            "imageSearchQuery": "Anthropic IPO 2026 Claude chatbot stock debut",
+            "caption": "Los fundadores y empleados de Anthropic observan el inicio de la cotización de sus acciones, una jornada que los catapulta a la élite de los millonarios de la IA.",
+            "biasLeft": "Los medios progresistas destacan cómo la salida a bolsa convierte a los investigadores y empleados de IA en millonarios de la noche a la mañana, subrayando la concentración de riqueza dentro de la industria tecnológica. También se centran en la incomodidad de inversionistas como Dustin Moskovitz, insinuando dudas sobre la sostenibilidad de valor tan inflado. El enfoque recae en el impacto humano y la distribución de la riqueza generada por la IA.",
+            "biasNeutral": "Los reportes centristas se limitan a los hechos: Anthropic se convirtió en la primera compañía puramente de IA en cotizar en bolsa, alcanzando una valoración superior al billón de dólares y estableciendo un referente para el sector. Se menciona el precio récord de la oferta y se plantea la IPO como una prueba para toda la industria sin emitir juicios de valor.",
+            "biasRight": "Los artículos de derecha no aparecen en la muestra proporcionada.",
+            "reflection": "Para la gente común, la IPO de Anthropic muestra cuánto dinero está movilizando la IA y cómo puede generar oportunidades de empleo y riqueza, pero también plantea preguntas sobre la volatilidad del mercado. En los próximos días conviene observar la evolución del precio de las acciones y cualquier señal de regulación o reacción de competidores que pueda afectar la valoración de las empresas de IA."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/19/multimedia/19biz-anthropic-employee-wealth-sub-01-cthw/19biz-anthropic-employee-wealth-sub-01-cthw-mediumSquareAt3X.jpg\" alt=\"Los ingenieros de Anthropic celebran su nuevo estatus de multimillonarios tras la oferta pública inicial record.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Los ingenieros de Anthropic celebran su nuevo estatus de multimillonarios tras la oferta pública inicial record.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan la transformación de los empleados en millonarios, enfocándose en la concentración de riqueza y el impacto en la vida de los trabajadores. También resaltan la incomodidad de los primeros inversores, como Dustin Moskovitz, ante el rápido aumento de valoración. El relato se centra en la dimensión humana y las posibles desigualdades del boom de la IA.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los reportes neutrales describen los hechos del debut bursátil: la valoración de más de 1,5 billones de dólares, la recaudación de 81 mil millones y el hecho de que Anthropic sea la primera empresa puramente de IA en cotizar. Presentan datos concretos y señalan que este movimiento pone a prueba al sector entero.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">No hay artículos de tendencia conservadora en la muestra.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el ciudadano de a pie, la historia muestra cómo el mercado de IA puede crear fortunas inesperadas y reconfigurar oportunidades laborales. En los próximos días, lo que importa observar es la evolución del precio de la acción y cualquier señal regulatoria que pueda afectar la estabilidad del sector.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/18/multimedia/18biz-anthropic-final-pricing-hfo-1-jbmp/18biz-anthropic-final-pricing-hfo-1-jbmp-mediumSquareAt3X.jpg\" alt=\"Los fundadores y empleados de Anthropic observan el inicio de la cotización de sus acciones, una jornada que los catapulta a la élite de los millonarios de la IA.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Los fundadores y empleados de Anthropic observan el inicio de la cotización de sus acciones, una jornada que los catapulta a la élite de los millonarios de la IA.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas destacan cómo la salida a bolsa convierte a los investigadores y empleados de IA en millonarios de la noche a la mañana, subrayando la concentración de riqueza dentro de la industria tecnológica. También se centran en la incomodidad de inversionistas como Dustin Moskovitz, insinuando dudas sobre la sostenibilidad de valor tan inflado. El enfoque recae en el impacto humano y la distribución de la riqueza generada por la IA.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los reportes centristas se limitan a los hechos: Anthropic se convirtió en la primera compañía puramente de IA en cotizar en bolsa, alcanzando una valoración superior al billón de dólares y estableciendo un referente para el sector. Se menciona el precio récord de la oferta y se plantea la IPO como una prueba para toda la industria sin emitir juicios de valor.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los artículos de derecha no aparecen en la muestra proporcionada.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para la gente común, la IPO de Anthropic muestra cuánto dinero está movilizando la IA y cómo puede generar oportunidades de empleo y riqueza, pero también plantea preguntas sobre la volatilidad del mercado. En los próximos días conviene observar la evolución del precio de las acciones y cualquier señal de regulación o reacción de competidores que pueda afectar la valoración de las empresas de IA.</p>"
         },
         {
-          "id": "topic-2",
-          "headline": "Ciberataques y vulnerabilidades de datos ponen en riesgo a consumidores y empresas",
-          "summary": "Una operación encubierta en el Reino Unido logró asegurar decenas de miles de refrigeradores conectados, mientras que estafadores utilizan sitios falsos de alquiler y brokers de datos siguen exponiendo información personal. Estas amenazas resaltan la necesidad de medidas de protección más robustas tanto para dispositivos IoT como para datos personales.",
+          "id": "topic-4",
+          "headline": "Problemas de seguridad y medio ambiente ligados a la expansión de la IA y la tecnología",
+          "summary": "Una operación secreta en Reino Unido protegió decenas de miles de frigoríficos conectados, mientras se reveló que chips de Nvidia están siendo usados por laboratorios vinculados al ejército chino y que los centros de datos de IA podrían consumir tanta agua como la población estadounidense para 2030. Estos hechos evidencian la creciente intersección entre crecimiento tecnológico, ciberseguridad y sostenibilidad.",
           "tags": [
-            "#Ciberseguridad",
-            "#Privacidad",
-            "#IoT"
+            "#ciberseguridad",
+            "#IA",
+            "#medioambiente"
           ],
           "source_ids": [
-            1,
-            3,
-            12
+            6,
+            11,
+            14
           ],
           "sources": [
             {
@@ -274,42 +331,6 @@
               "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
               "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss"
             },
-            {
-              "source": "Right (Fox Tech)",
-              "title": "Data broker opt-out steps retirees need before the holidays",
-              "url": "https://www.foxnews.com/tech/data-broker-opt-out-steps-retirees-need-before-holidays"
-            },
-            {
-              "source": "Right (Fox Tech)",
-              "title": "Fake vacation rental sites use live chat to steal your data",
-              "url": "https://www.foxnews.com/tech/fake-vacation-rental-sites-use-live-chat-steal-data"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg",
-            "imageSearchQuery": "UK smart fridge security hack operation",
-            "caption": "Operativos encubiertos aseguran decenas de miles de neveras inteligentes en supermercados británicos para evitar que cibercriminales las manipulen.",
-            "biasLeft": "Los medios progresistas no abordaron este tema en los artículos proporcionados.",
-            "biasNeutral": "BBC informa que una operación nacional secreta ha protegido miles de refrigeradores conectados en supermercados, almacenes y estadios del Reino Unido, resaltando la magnitud del riesgo para infraestructuras críticas. Se destacan los esfuerzos coordinados entre autoridades y empresas para parchear vulnerabilidades antes de que sean explotadas. El reporte mantiene un tono descriptivo y evita especulaciones sobre motivaciones políticas.",
-            "biasRight": "Fox Tech centra la atención en cómo los consumidores, especialmente los mayores, deben tomar medidas inmediatas contra los brokers de datos y los sitios falsos de alquiler, enfatizando la responsabilidad personal para evitar fraudes. Los artículos advierten que incluso después de una solicitud de exclusión, empresas como Spokeo y BeenVerified siguen exponiendo información sensible. Se subraya el peligro económico y de seguridad que representan estas estafas durante la temporada de vacaciones.",
-            "reflection": "Para cualquier persona que use electrodomésticos conectados, reciba llamadas de brokers o reserve alojamientos en línea, estos incidentes son un recordatorio de que la seguridad digital es una tarea diaria. En los próximos días, vigile alertas de sus proveedores de servicios y confirme que sus datos personales han sido realmente eliminados o protegidos."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg\" alt=\"Operativos encubiertos aseguran decenas de miles de neveras inteligentes en supermercados británicos para evitar que cibercriminales las manipulen.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Operativos encubiertos aseguran decenas de miles de neveras inteligentes en supermercados británicos para evitar que cibercriminales las manipulen.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no abordaron este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">BBC informa que una operación nacional secreta ha protegido miles de refrigeradores conectados en supermercados, almacenes y estadios del Reino Unido, resaltando la magnitud del riesgo para infraestructuras críticas. Se destacan los esfuerzos coordinados entre autoridades y empresas para parchear vulnerabilidades antes de que sean explotadas. El reporte mantiene un tono descriptivo y evita especulaciones sobre motivaciones políticas.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Fox Tech centra la atención en cómo los consumidores, especialmente los mayores, deben tomar medidas inmediatas contra los brokers de datos y los sitios falsos de alquiler, enfatizando la responsabilidad personal para evitar fraudes. Los artículos advierten que incluso después de una solicitud de exclusión, empresas como Spokeo y BeenVerified siguen exponiendo información sensible. Se subraya el peligro económico y de seguridad que representan estas estafas durante la temporada de vacaciones.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para cualquier persona que use electrodomésticos conectados, reciba llamadas de brokers o reserve alojamientos en línea, estos incidentes son un recordatorio de que la seguridad digital es una tarea diaria. En los próximos días, vigile alertas de sus proveedores de servicios y confirme que sus datos personales han sido realmente eliminados o protegidos.</p>"
-        },
-        {
-          "id": "topic-3",
-          "headline": "El hardware de IA alimenta tanto la carrera militar china como una posible crisis hídrica",
-          "summary": "Se ha revelado que chips Nvidia suministrados a través de Alibaba están siendo usados en laboratorios vinculados al ejército chino, mientras que expertos advierten que los centros de datos de IA podrían consumir tanta agua como la población estadounidense para 2030. Estas cuestiones subrayan los dilemas éticos y medioambientales de la expansión de la IA.",
-          "tags": [
-            "#IA",
-            "#SeguridadNacional",
-            "#Agua"
-          ],
-          "source_ids": [
-            10,
-            13
-          ],
-          "sources": [
             {
               "source": "Left (NYT Tech)",
               "title": "How Nvidia Chips Ended Up Within Reach of China’s Military",
@@ -322,93 +343,64 @@
             }
           ],
           "deepDive": {
-            "imageUrl": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-alibaba-spy-sub2-pqcm/18biz-alibaba-spy-sub2-pqcm-mediumSquareAt3X.jpg",
-            "imageSearchQuery": "Alibaba AI chips China military data center water consumption",
-            "caption": "Los chips de IA de Nvidia, integrados por Alibaba, llegan a un laboratorio ligado al ejército chino mientras los centros de datos consumen agua a ritmo alarmante.",
-            "biasLeft": "Los medios progresistas subrayan el riesgo de que la tecnología de IA sirva a la militarización china, resaltando la falta de control en la exportación de chips y sus implicaciones para la seguridad global.",
-            "biasNeutral": "No se encontró cobertura neutral en los artículos proporcionados; ambos enfoques se centran en sus propias agendas ideológicas.",
-            "biasRight": "Los medios conservadores ponen el acento en el coste económico y medioambiental del auge de los centros de datos de IA, insistiendo en la necesidad de soluciones de enfriamiento y reciclaje de agua para evitar una crisis hídrica.",
-            "reflection": "El tema importa porque combina dos amenazas concretas: la potenciación militar de China y la presión sobre los recursos hídricos locales. En los próximos días, vigile cualquier anuncio de regulaciones de exportación de chips y de iniciativas de reciclaje de agua en centros de datos."
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg",
+            "imageSearchQuery": "UK fridge hack security operation",
+            "caption": "Operación encubierta asegura decenas de miles de frigoríficos de supermercados británicos contra hackers.",
+            "biasLeft": "Los medios progresistas subrayan la vulnerabilidad de la cadena de suministro tecnológica cuando componentes de alta gama, como los chips Nvidia, terminan en manos del ejército chino a través de empresas como Alibaba. Enfatizan el riesgo de una carrera armamentista basada en IA y la necesidad de controles más estrictos sobre la exportación de tecnología.",
+            "biasNeutral": "BBC informa que una operación secreta del gobierno del Reino Unido ha reforzado la seguridad de refrigeradores conectados en supermercados, almacenes y estadios, protegiendo miles de dispositivos críticos. La medida responde a crecientes intentos de ciberataques a infraestructuras de IoT.",
+            "biasRight": "Fox News destaca el enorme consumo de agua que los centros de datos de IA podrían generar, equiparándolo al consumo anual de toda la población estadounidense para 2030. El enfoque está en el costo económico y la necesidad de soluciones como enfriamiento por chips y reciclaje de agua para evitar una crisis de recursos.",
+            "reflection": "Para el ciudadano medio, la seguridad de los electrodomésticos y la disponibilidad de agua pueden influir directamente en el precio de los alimentos y el coste de la energía. En los próximos días debemos observar si los reguladores del Reino Unido anuncian más medidas de ciberseguridad y si los gobiernos impulsan normas de consumo hídrico para los centros de datos."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/18/multimedia/18biz-alibaba-spy-sub2-pqcm/18biz-alibaba-spy-sub2-pqcm-mediumSquareAt3X.jpg\" alt=\"Los chips de IA de Nvidia, integrados por Alibaba, llegan a un laboratorio ligado al ejército chino mientras los centros de datos consumen agua a ritmo alarmante.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Los chips de IA de Nvidia, integrados por Alibaba, llegan a un laboratorio ligado al ejército chino mientras los centros de datos consumen agua a ritmo alarmante.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan el riesgo de que la tecnología de IA sirva a la militarización china, resaltando la falta de control en la exportación de chips y sus implicaciones para la seguridad global.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">No se encontró cobertura neutral en los artículos proporcionados; ambos enfoques se centran en sus propias agendas ideológicas.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores ponen el acento en el coste económico y medioambiental del auge de los centros de datos de IA, insistiendo en la necesidad de soluciones de enfriamiento y reciclaje de agua para evitar una crisis hídrica.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>El tema importa porque combina dos amenazas concretas: la potenciación militar de China y la presión sobre los recursos hídricos locales. En los próximos días, vigile cualquier anuncio de regulaciones de exportación de chips y de iniciativas de reciclaje de agua en centros de datos.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg\" alt=\"Operación encubierta asegura decenas de miles de frigoríficos de supermercados británicos contra hackers.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Operación encubierta asegura decenas de miles de frigoríficos de supermercados británicos contra hackers.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan la vulnerabilidad de la cadena de suministro tecnológica cuando componentes de alta gama, como los chips Nvidia, terminan en manos del ejército chino a través de empresas como Alibaba. Enfatizan el riesgo de una carrera armamentista basada en IA y la necesidad de controles más estrictos sobre la exportación de tecnología.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">BBC informa que una operación secreta del gobierno del Reino Unido ha reforzado la seguridad de refrigeradores conectados en supermercados, almacenes y estadios, protegiendo miles de dispositivos críticos. La medida responde a crecientes intentos de ciberataques a infraestructuras de IoT.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Fox News destaca el enorme consumo de agua que los centros de datos de IA podrían generar, equiparándolo al consumo anual de toda la población estadounidense para 2030. El enfoque está en el costo económico y la necesidad de soluciones como enfriamiento por chips y reciclaje de agua para evitar una crisis de recursos.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el ciudadano medio, la seguridad de los electrodomésticos y la disponibilidad de agua pueden influir directamente en el precio de los alimentos y el coste de la energía. En los próximos días debemos observar si los reguladores del Reino Unido anuncian más medidas de ciberseguridad y si los gobiernos impulsan normas de consumo hídrico para los centros de datos.</p>"
         },
         {
-          "id": "topic-4",
-          "headline": "Nuevos dispositivos de IA para consumidores enfrentan advertencias de seguridad y privacidad",
-          "summary": "El organismo de vigilancia holandés desaconseja la compra de gafas inteligentes tras errores críticos, mientras Apple introduce marcas de agua invisibles en fotos editadas y Ring lanza una cámara dron para el hogar que aún espera autorización de la FCC. Cada innovación genera debate sobre riesgos de errores, vigilancia y regulación.",
+          "id": "topic-5",
+          "headline": "Novedades tecnológicas: IA en finanzas, récord de ventas de GTA 6, cambios publicitarios de Google y marca de agua en fotos de Apple",
+          "summary": "Se discute la posible aplicación de IA para evaluar la solvencia crediticia, Rockstar Games anuncia ventas estimadas de 2,3 mil millones de dólares con GTA 6, Google reajusta su modelo de publicidad de búsqueda bajo la presión de la IA, y Apple incorpora una marca de agua invisible en imágenes editadas con sus herramientas de inteligencia. Estas iniciativas muestran cómo la IA está remodelando productos, mercados y la privacidad del usuario.",
           "tags": [
             "#IA",
-            "#Privacidad",
-            "#Consumo"
+            "#gaming",
+            "#publicidad",
+            "#Apple"
           ],
           "source_ids": [
-            5,
-            7,
-            14
+            2,
+            3,
+            4,
+            10
           ],
           "sources": [
             {
               "source": "Neutral (BBC Tech)",
-              "title": "Dutch watchdog tells people not to buy AI smart glasses",
-              "url": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss"
+              "title": "Should AI be judging our credit worthiness?",
+              "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "source": "Right (Fox Tech)",
-              "title": "Apple Photos AI watermark can tag your real pictures",
-              "url": "https://www.foxnews.com/tech/apple-photos-ai-watermark-tag-real-pictures"
+              "source": "Neutral (BBC Tech)",
+              "title": "GTA 6 breaks records as estimated sales top $2.3bn",
+              "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss"
             },
-            {
-              "source": "Right (Fox Tech)",
-              "title": "What to know about Ring Drone Cam, which can patrol your home for $250",
-              "url": "https://www.foxnews.com/tech/ring-drone-cam-patrol-home-250"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/69d9/live/ba4e8a90-e41d-11f1-9e08-55a8a3b48445.jpg",
-            "imageSearchQuery": "AI smart glasses safety test Dutch watchdog misread medicine instructions",
-            "caption": "La tecnología de realidad aumentada llega a la calle, pero las pruebas revelan que la visión puede confundir las dosis de medicación.",
-            "biasLeft": "No se presenta cobertura de medios con orientación progresista sobre este tema en los artículos disponibles.",
-            "biasNeutral": "El informe del organismo de vigilancia holandés detalla cómo las gafas inteligentes pueden leer incorrectamente instrucciones médicas y simular la activación de un servicio de emergencias, concluyendo que los consumidores deberían abstenerse de comprarlas.",
-            "biasRight": "No se encuentra cobertura de medios con orientación conservadora sobre este tema en los artículos suministrados.",
-            "reflection": "Para cualquier usuario que esté pensando en comprar dispositivos inteligentes, los resultados de las pruebas subrayan la importancia de verificar la precisión y seguridad antes de la adopción. En las próximas semanas, observará si la agencia de regulación publica una guía de cumplimiento y si los fabricantes responden con mejoras."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/69d9/live/ba4e8a90-e41d-11f1-9e08-55a8a3b48445.jpg\" alt=\"La tecnología de realidad aumentada llega a la calle, pero las pruebas revelan que la visión puede confundir las dosis de medicación.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La tecnología de realidad aumentada llega a la calle, pero las pruebas revelan que la visión puede confundir las dosis de medicación.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">No se presenta cobertura de medios con orientación progresista sobre este tema en los artículos disponibles.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">El informe del organismo de vigilancia holandés detalla cómo las gafas inteligentes pueden leer incorrectamente instrucciones médicas y simular la activación de un servicio de emergencias, concluyendo que los consumidores deberían abstenerse de comprarlas.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">No se encuentra cobertura de medios con orientación conservadora sobre este tema en los artículos suministrados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para cualquier usuario que esté pensando en comprar dispositivos inteligentes, los resultados de las pruebas subrayan la importancia de verificar la precisión y seguridad antes de la adopción. En las próximas semanas, observará si la agencia de regulación publica una guía de cumplimiento y si los fabricantes responden con mejoras.</p>"
-        },
-        {
-          "id": "topic-5",
-          "headline": "Google incorpora IA en su publicidad de búsqueda mientras GTA 6 arrasa en ventas globales",
-          "summary": "Google está remodelando su modelo de anuncios de búsqueda con inteligencia artificial, un cambio que podría afectar sus ingresos tradicionales, y el esperado videojuego GTA 6 ya está disponible, convirtiéndose rápidamente en uno de los productos de entretenimiento más vendidos. Ambas historias ilustran cómo la IA está redefiniendo tanto el marketing digital como la cultura popular.",
-          "tags": [
-            "#IA",
-            "#Publicidad",
-            "#Gaming"
-          ],
-          "source_ids": [
-            8,
-            9
-          ],
-          "sources": [
             {
               "source": "Left (NYT Tech)",
               "title": "Google Disrupts Its Search Advertising With Its Embrace of A.I.",
               "url": "https://www.nytimes.com/2026/11/19/technology/google-search-ads-ai.html"
             },
             {
-              "source": "Neutral (BBC Tech)",
-              "title": "UK joins in GTA 6 frenzy as game becomes available worldwide",
-              "url": "https://www.bbc.co.uk/news/articles/c6z74ep2n17zo?at_medium=RSS&at_campaign=rss"
+              "source": "Right (Fox Tech)",
+              "title": "Apple Photos AI watermark can tag your real pictures",
+              "url": "https://www.foxnews.com/tech/apple-photos-ai-watermark-tag-real-pictures"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://static01.nyt.com/images/2026/11/17/business/00biz-google/00biz-google-mediumSquareAt3X.jpg",
-            "imageSearchQuery": "Google AI search advertising 2026",
-            "caption": "Google lanza anuncios de búsqueda impulsados por IA justo cuando GTA 6 rompe récords de venta en todo el planeta.",
-            "biasLeft": "Los medios progresistas subrayan cómo la IA de Google podría profundizar desigualdades en la publicidad digital y erosionar la privacidad del usuario. También ponen el foco en la presión que ejerce sobre pequeñas empresas que no pueden competir con algoritmos de alto costo. Además, plantean dudas sobre la transparencia de los nuevos sistemas de puja.",
-            "biasNeutral": "Los reportes neutrales describen la incorporación de IA en los anuncios de búsqueda como una evolución tecnológica sin valorar su impacto social. En cuanto a GTA 6, destacan la enorme demanda británica y su posición como posible producto de entretenimiento más vendido de la historia. Ambos artículos presentan datos de crecimiento y cifras de venta sin emitir juicios.",
-            "biasRight": "Los medios conservadores no cubren este tema en los artículos proporcionados.",
-            "reflection": "Para el consumidor, la IA en los anuncios puede significar ofertas más personalizadas pero también menos control sobre la información que se muestra. El éxito de GTA 6 indica que la industria del gaming sigue siendo un motor económico importante. En los próximos días conviene observar cómo Google responde a críticas regulatorias y si los ingresos de GTA 6 siguen superando las proyecciones iniciales."
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/929e/live/80e88200-e4b9-11f1-99a1-253766e7ad8b.jpg",
+            "imageSearchQuery": "GTA 6 launch sales record",
+            "caption": "Rockstar Games celebra el estreno de GTA 6 con ventas que superan los 2.300 millones de dólares.",
+            "biasLeft": "El New York Times se centra en cómo la incorporación de IA en la publicidad de Google podría desestabilizar el modelo de negocio basado en anuncios y plantea riesgos de concentración de poder en manos de la empresa. Destaca la necesidad de una regulación que limite el uso de algoritmos opacos y proteja a los pequeños anunciantes. No aborda los otros temas del conjunto.",
+            "biasNeutral": "BBC Tech presenta dos hechos sin tomar posición: la posibilidad de que la IA evalúe la solvencia crediticia y el récord histórico de ventas de GTA 6. En ambos casos se limitan a describir la tecnología y los números, señalando preguntas abiertas sobre la equidad de los algoritmos y la magnitud del éxito comercial. No cubren los cambios de Google ni la marca de agua de Apple.",
+            "biasRight": "Fox Tech enfatiza la introducción de la marca de agua invisible de Apple como una herramienta de control que permite rastrear el origen de las fotos editadas, subrayando implicaciones de privacidad y soberanía digital. El artículo sugiere que la medida refuerza la autoridad del fabricante sobre el contenido del usuario. No menciona los avances de IA en finanzas, el récord de GTA 6 ni la estrategia publicitaria de Google.",
+            "reflection": "Para el lector, la cuestión es cómo la IA y las nuevas tecnologías que aparecen en estos titulares pueden afectar su bolsillo, su privacidad y sus decisiones de consumo. En los próximos días habrá que vigilar si los reguladores responden al debate sobre IA en créditos y si Apple publica más detalles sobre el uso del watermark, así como la reacción del mercado publicitario a los cambios de Google."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/17/business/00biz-google/00biz-google-mediumSquareAt3X.jpg\" alt=\"Google lanza anuncios de búsqueda impulsados por IA justo cuando GTA 6 rompe récords de venta en todo el planeta.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Google lanza anuncios de búsqueda impulsados por IA justo cuando GTA 6 rompe récords de venta en todo el planeta.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan cómo la IA de Google podría profundizar desigualdades en la publicidad digital y erosionar la privacidad del usuario. También ponen el foco en la presión que ejerce sobre pequeñas empresas que no pueden competir con algoritmos de alto costo. Además, plantean dudas sobre la transparencia de los nuevos sistemas de puja.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los reportes neutrales describen la incorporación de IA en los anuncios de búsqueda como una evolución tecnológica sin valorar su impacto social. En cuanto a GTA 6, destacan la enorme demanda británica y su posición como posible producto de entretenimiento más vendido de la historia. Ambos artículos presentan datos de crecimiento y cifras de venta sin emitir juicios.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no cubren este tema en los artículos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el consumidor, la IA en los anuncios puede significar ofertas más personalizadas pero también menos control sobre la información que se muestra. El éxito de GTA 6 indica que la industria del gaming sigue siendo un motor económico importante. En los próximos días conviene observar cómo Google responde a críticas regulatorias y si los ingresos de GTA 6 siguen superando las proyecciones iniciales.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/929e/live/80e88200-e4b9-11f1-99a1-253766e7ad8b.jpg\" alt=\"Rockstar Games celebra el estreno de GTA 6 con ventas que superan los 2.300 millones de dólares.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Rockstar Games celebra el estreno de GTA 6 con ventas que superan los 2.300 millones de dólares.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">El New York Times se centra en cómo la incorporación de IA en la publicidad de Google podría desestabilizar el modelo de negocio basado en anuncios y plantea riesgos de concentración de poder en manos de la empresa. Destaca la necesidad de una regulación que limite el uso de algoritmos opacos y proteja a los pequeños anunciantes. No aborda los otros temas del conjunto.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">BBC Tech presenta dos hechos sin tomar posición: la posibilidad de que la IA evalúe la solvencia crediticia y el récord histórico de ventas de GTA 6. En ambos casos se limitan a describir la tecnología y los números, señalando preguntas abiertas sobre la equidad de los algoritmos y la magnitud del éxito comercial. No cubren los cambios de Google ni la marca de agua de Apple.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Fox Tech enfatiza la introducción de la marca de agua invisible de Apple como una herramienta de control que permite rastrear el origen de las fotos editadas, subrayando implicaciones de privacidad y soberanía digital. El artículo sugiere que la medida refuerza la autoridad del fabricante sobre el contenido del usuario. No menciona los avances de IA en finanzas, el récord de GTA 6 ni la estrategia publicitaria de Google.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el lector, la cuestión es cómo la IA y las nuevas tecnologías que aparecen en estos titulares pueden afectar su bolsillo, su privacidad y sus decisiones de consumo. En los próximos días habrá que vigilar si los reguladores responden al debate sobre IA en créditos y si Apple publica más detalles sobre el uso del watermark, así como la reacción del mercado publicitario a los cambios de Google.</p>"
         }
       ],
       "rawCount": 15
@@ -417,55 +409,17 @@
       "items": [
         {
           "id": "topic-1",
-          "headline": "Estados Unidos investiga la venta de chips de IA de Nvidia a empresas chinas vinculadas al ejército",
-          "summary": "Documentos confidenciales revelan que el Departamento de Comercio aprobó la exportación de más de 800,000 chips de inteligencia artificial a compañías chinas con posibles lazos militares. La investigación estatal busca determinar si se violaron normas de seguridad nacional.",
+          "headline": "El debut bursátil de Anthropic convierte a miles de empleados en millonarios y sitúa a la empresa entre las más valiosas del sector IA",
+          "summary": "La oferta pública inicial de Anthropic se realizó con una demanda récord, reservando hasta un 20 % de las acciones para inversores minoristas. El éxito ha generado fortunas inmediatas para empleados y marca un hito para la industria de la inteligencia artificial.",
           "tags": [
-            "#Nvidia",
-            "#EEUU",
-            "#China",
-            "#SeguridadNacional"
-          ],
-          "source_ids": [
-            0,
-            8
-          ],
-          "sources": [
-            {
-              "source": "Left (NYT Business)",
-              "title": "Nvidia Asked to Sell Chips to Companies Tied to Chinese Military and Megaspeed",
-              "url": "https://www.nytimes.com/2026/11/19/business/economy/nvidia-chips-commerce-china-huang.html"
-            },
-            {
-              "source": "Neutral (BBC Business)",
-              "title": "California targets Nvidia in China AI chip probe",
-              "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-chips-vfbt/19dc-chips-vfbt-mediumSquareAt3X.jpg",
-            "imageSearchQuery": "Nvidia AI chips China military investigation",
-            "caption": "EE. UU. investiga la venta de más de 800,000 chips de IA de Nvidia a compañías chinas con lazos militares.",
-            "biasLeft": "Los medios de izquierda subrayan la preocupación por la complicidad de Nvidia en el fortalecimiento del aparato militar chino y exigen una supervisión gubernamental más estricta. Resaltan la falta de transparencia en los contratos y el riesgo de que tecnología avanzada se emplee para represión o conflicto. Enfatizan la responsabilidad ética de la empresa frente a los derechos humanos.",
-            "biasNeutral": "Los medios neutrales informan que la fiscalía del estado de California ha abierto una investigación sobre Nvidia tras la salida de su fundador, centrándose en posibles incumplimientos de exportación. Citan los datos revelados por congresistas sobre la autorización de más de 800,000 chips a empresas chinas vinculadas al ejército. Mantienen un tono descriptivo sin atribuir culpabilidad.",
-            "biasRight": "Los medios conservadores no publicaron artículos sobre este tema en las fuentes proporcionadas.",
-            "reflection": "Para consumidores y trabajadores del sector tecnológico, el caso podría traducirse en restricciones de suministro y posibles sanciones que encarezcan los dispositivos de IA. En los próximos días, hay que observar si el Departamento de Comercio impone nuevas licencias o suspende las existentes, y cualquier anuncio de sanciones contra Nvidia."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/19/multimedia/19dc-chips-vfbt/19dc-chips-vfbt-mediumSquareAt3X.jpg\" alt=\"EE. UU. investiga la venta de más de 800,000 chips de IA de Nvidia a compañías chinas con lazos militares.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">EE. UU. investiga la venta de más de 800,000 chips de IA de Nvidia a compañías chinas con lazos militares.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios de izquierda subrayan la preocupación por la complicidad de Nvidia en el fortalecimiento del aparato militar chino y exigen una supervisión gubernamental más estricta. Resaltan la falta de transparencia en los contratos y el riesgo de que tecnología avanzada se emplee para represión o conflicto. Enfatizan la responsabilidad ética de la empresa frente a los derechos humanos.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios neutrales informan que la fiscalía del estado de California ha abierto una investigación sobre Nvidia tras la salida de su fundador, centrándose en posibles incumplimientos de exportación. Citan los datos revelados por congresistas sobre la autorización de más de 800,000 chips a empresas chinas vinculadas al ejército. Mantienen un tono descriptivo sin atribuir culpabilidad.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no publicaron artículos sobre este tema en las fuentes proporcionadas.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para consumidores y trabajadores del sector tecnológico, el caso podría traducirse en restricciones de suministro y posibles sanciones que encarezcan los dispositivos de IA. En los próximos días, hay que observar si el Departamento de Comercio impone nuevas licencias o suspende las existentes, y cualquier anuncio de sanciones contra Nvidia.</p>"
-        },
-        {
-          "id": "topic-2",
-          "headline": "La salida a bolsa de Anthropic convierte a miles de empleados en millonarios y marca un hito para la IA",
-          "summary": "El debut en Nasdaq de la empresa de inteligencia artificial Claude generó una subida de precios que dejó a numerosos trabajadores con participaciones valuadas en millones. Analistas observan cómo este éxito podría abrir la puerta a inversiones masivas en el sector de IA a través de fondos indexados y planes de retiro.",
-          "tags": [
-            "#Anthropic",
             "#IA",
-            "#IPO",
-            "#Nasdaq"
+            "#Mercados",
+            "#Tecnología"
           ],
           "source_ids": [
-            1,
-            4,
-            7,
+            6,
+            9,
+            10,
             11,
             12
           ],
@@ -498,88 +452,62 @@
           ],
           "deepDive": {
             "imageUrl": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-anthropic-employee-wealth-sub-01-cthw/19biz-anthropic-employee-wealth-sub-01-cthw-mediumSquareAt3X.jpg",
-            "imageSearchQuery": "Anthropic IPO Nasdaq employees millionaires",
-            "caption": "Empleados de Anthropic celebran su repentina fortuna mientras la acción de la compañía abre en Nasdaq.",
-            "biasLeft": "Los medios progresistas subrayan que cientos de investigadores de IA se convirtieron en millonarios de la noche a la mañana, resaltando la concentración de riqueza en el sector tecnológico y la brecha salarial. También llaman la atención sobre la ausencia de políticas que redistribuyan esos beneficios a la sociedad en general.",
-            "biasNeutral": "Los informes neutrales señalan que Anthropic es la primera empresa puramente de IA en cotizar, posicionándose entre las compañías más valiosas tras su debut en bolsa. Se limitan a presentar datos de la oferta, la capitalización y el precedente que marca para la industria.",
-            "biasRight": "Los medios conservadores destacan el impulso económico que genera la IPO, la oportunidad que representa para los fondos de pensiones y los inversores minoristas, y la importancia de que EE. UU. mantenga liderazgo en IA. Enfatizan la demanda de acciones y la posible repercusión en la competitividad nacional.",
-            "reflection": "Para los trabajadores de tecnología y los pequeños ahorradores, la subida de Anthropic muestra cuán lucrativo puede ser el sector IA y genera expectativas de ganancias rápidas. En los próximos días, el movimiento del precio de la acción y cualquier anuncio regulatorio serán indicadores clave a observar."
+            "imageSearchQuery": "Anthropic IPO Nasdaq trading floor employees millionaires",
+            "caption": "Empleados de Anthropic celebran su nuevo estatus de millonarios tras la salida a bolsa que catapultó a la empresa al top del sector IA.",
+            "biasLeft": "Los medios progresistas subrayan la transformación de los investigadores en millonarios de la noche a la mañana, señalando el impacto de los paquetes de acciones en la movilidad económica y en la desigualdad dentro del sector tecnológico. También enfatizan la rapidez con que la empresa pasó de ser una startup a una de las más valiosas, cuestionando la concentración de riqueza.",
+            "biasNeutral": "Los reportes centristas se limitan a los hechos: la IPO de Anthropic abrió en Nasdaq bajo el ticker ANT, convirtiéndose en la primera compañía puramente de IA cotizada y alcanzando una valoración entre las más altas del sector. Señalan que este debut sirve como prueba de fuego para el resto de la industria de inteligencia artificial.",
+            "biasRight": "Los medios conservadores resaltan el potencial económico: la fuerte demanda de acciones, la asignación de hasta un 20 % para inversores minoristas y la exposición que los fondos 401(k) y los ETFs podrían ofrecer a los estadounidenses. Además, destacan el impulso que esta oferta brinda a la competitividad estadounidense en IA frente a rivales internacionales.",
+            "reflection": "Para el ciudadano de a pie, el hecho de que miles de empleados se conviertan en millonarios muestra cuán lucrativo puede ser trabajar en startups de IA, lo que podría influir en decisiones de carrera y en la percepción del riesgo de invertir en tecnología. En los próximos días, lo que hay que vigilar es la evolución del precio de la acción ANT y cualquier anuncio regulatorio que pueda afectar al sector IA."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/19/multimedia/19biz-anthropic-employee-wealth-sub-01-cthw/19biz-anthropic-employee-wealth-sub-01-cthw-mediumSquareAt3X.jpg\" alt=\"Empleados de Anthropic celebran su repentina fortuna mientras la acción de la compañía abre en Nasdaq.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Empleados de Anthropic celebran su repentina fortuna mientras la acción de la compañía abre en Nasdaq.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan que cientos de investigadores de IA se convirtieron en millonarios de la noche a la mañana, resaltando la concentración de riqueza en el sector tecnológico y la brecha salarial. También llaman la atención sobre la ausencia de políticas que redistribuyan esos beneficios a la sociedad en general.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los informes neutrales señalan que Anthropic es la primera empresa puramente de IA en cotizar, posicionándose entre las compañías más valiosas tras su debut en bolsa. Se limitan a presentar datos de la oferta, la capitalización y el precedente que marca para la industria.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores destacan el impulso económico que genera la IPO, la oportunidad que representa para los fondos de pensiones y los inversores minoristas, y la importancia de que EE. UU. mantenga liderazgo en IA. Enfatizan la demanda de acciones y la posible repercusión en la competitividad nacional.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para los trabajadores de tecnología y los pequeños ahorradores, la subida de Anthropic muestra cuán lucrativo puede ser el sector IA y genera expectativas de ganancias rápidas. En los próximos días, el movimiento del precio de la acción y cualquier anuncio regulatorio serán indicadores clave a observar.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/19/multimedia/19biz-anthropic-employee-wealth-sub-01-cthw/19biz-anthropic-employee-wealth-sub-01-cthw-mediumSquareAt3X.jpg\" alt=\"Empleados de Anthropic celebran su nuevo estatus de millonarios tras la salida a bolsa que catapultó a la empresa al top del sector IA.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Empleados de Anthropic celebran su nuevo estatus de millonarios tras la salida a bolsa que catapultó a la empresa al top del sector IA.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan la transformación de los investigadores en millonarios de la noche a la mañana, señalando el impacto de los paquetes de acciones en la movilidad económica y en la desigualdad dentro del sector tecnológico. También enfatizan la rapidez con que la empresa pasó de ser una startup a una de las más valiosas, cuestionando la concentración de riqueza.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los reportes centristas se limitan a los hechos: la IPO de Anthropic abrió en Nasdaq bajo el ticker ANT, convirtiéndose en la primera compañía puramente de IA cotizada y alcanzando una valoración entre las más altas del sector. Señalan que este debut sirve como prueba de fuego para el resto de la industria de inteligencia artificial.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores resaltan el potencial económico: la fuerte demanda de acciones, la asignación de hasta un 20 % para inversores minoristas y la exposición que los fondos 401(k) y los ETFs podrían ofrecer a los estadounidenses. Además, destacan el impulso que esta oferta brinda a la competitividad estadounidense en IA frente a rivales internacionales.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el ciudadano de a pie, el hecho de que miles de empleados se conviertan en millonarios muestra cuán lucrativo puede ser trabajar en startups de IA, lo que podría influir en decisiones de carrera y en la percepción del riesgo de invertir en tecnología. En los próximos días, lo que hay que vigilar es la evolución del precio de la acción ANT y cualquier anuncio regulatorio que pueda afectar al sector IA.</p>"
+        },
+        {
+          "id": "topic-2",
+          "headline": "Nvidia aprueba la venta de chips a empresas chinas vinculadas al ejército mientras su nuevo CEO interino asegura la continuidad tras la salida de Jensen Huang",
+          "summary": "El Departamento de Comercio de EE. UU. autorizó la exportación de más de 800 000 chips de IA a compañías chinas con lazos militares, generando críticas sobre seguridad nacional. En paralelo, la directora interina Colette Kress afirmó que la compañía sigue bien posicionada pese al cambio de liderazgo.",
+          "tags": [
+            "#Tecnología",
+            "#Seguridad",
+            "#Negocios"
+          ],
+          "source_ids": [
+            5,
+            14
+          ],
+          "sources": [
+            {
+              "source": "Left (NYT Business)",
+              "title": "Nvidia Asked to Sell Chips to Companies Tied to Chinese Military and Megaspeed",
+              "url": "https://www.nytimes.com/2026/11/19/business/economy/nvidia-chips-commerce-china-huang.html"
+            },
+            {
+              "source": "Right (Fox Business)",
+              "title": "Nvidia interim CEO says 'we’ve got this' as company looks to future without Jensen Huang",
+              "url": "https://www.foxbusiness.com/markets/nvidia-interim-ceo-says-weve-got-this-company-looks-future-without-jensen-huang"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-chips-vfbt/19dc-chips-vfbt-mediumSquareAt3X.jpg",
+            "imageSearchQuery": "Nvidia AI chips China military export approval",
+            "caption": "Los chips de IA de Nvidia, aprobados para venderse a empresas chinas vinculadas al ejército, mientras la nueva directora ejecutiva interina tranquiliza a los inversores.",
+            "biasLeft": "Los medios progresistas subrayan la amenaza que representa la transferencia de tecnología de IA a compañías chinas con lazos militares, insistiendo en la necesidad de controles más estrictos y señalando riesgos para la seguridad global.",
+            "biasNeutral": "No se encontró cobertura neutral o de centro que combine ambos ángulos; los artículos presentados provienen de un medio de izquierda y uno de derecha con enfoques distintos.",
+            "biasRight": "Los medios conservadores se centran en la continuidad del liderazgo y los resultados financieros de Nvidia, sin mencionar la venta de chips a entidades chinas vinculadas al ejército.",
+            "reflection": "Para el ciudadano de a pie, la cuestión implica si la tecnología de IA seguirá estando bajo control estadounidense o se difundirá a competidores estratégicos, lo que afecta la seguridad y la competitividad económica. En los próximos días conviene seguir cualquier anuncio del Departamento de Comercio sobre nuevas licencias o restricciones y la reacción del mercado a la gestión de Colette Kress."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/19/multimedia/19dc-chips-vfbt/19dc-chips-vfbt-mediumSquareAt3X.jpg\" alt=\"Los chips de IA de Nvidia, aprobados para venderse a empresas chinas vinculadas al ejército, mientras la nueva directora ejecutiva interina tranquiliza a los inversores.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Los chips de IA de Nvidia, aprobados para venderse a empresas chinas vinculadas al ejército, mientras la nueva directora ejecutiva interina tranquiliza a los inversores.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan la amenaza que representa la transferencia de tecnología de IA a compañías chinas con lazos militares, insistiendo en la necesidad de controles más estrictos y señalando riesgos para la seguridad global.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">No se encontró cobertura neutral o de centro que combine ambos ángulos; los artículos presentados provienen de un medio de izquierda y uno de derecha con enfoques distintos.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores se centran en la continuidad del liderazgo y los resultados financieros de Nvidia, sin mencionar la venta de chips a entidades chinas vinculadas al ejército.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el ciudadano de a pie, la cuestión implica si la tecnología de IA seguirá estando bajo control estadounidense o se difundirá a competidores estratégicos, lo que afecta la seguridad y la competitividad económica. En los próximos días conviene seguir cualquier anuncio del Departamento de Comercio sobre nuevas licencias o restricciones y la reacción del mercado a la gestión de Colette Kress.</p>"
         },
         {
           "id": "topic-3",
-          "headline": "Airbnb implementa nuevas normas para huéspedes y anfitriones a partir de este mes",
-          "summary": "Las reglas actualizadas establecen límites sobre lo que los anfitriones pueden exigir a los viajeros, como la prohibición de realizar ciertas tareas domésticas. Aunque buscan mejorar la experiencia, algunos usuarios anticipan un aumento de los precios de los alquileres.",
+          "headline": "Un tribunal permite que el caso de 15 000 millones de dólares de Donald Trump contra The New York Times y Penguin Random House siga adelante",
+          "summary": "El juez federal autorizó la demanda en la que el expresidente alega difamación por parte del periódico y la editorial, alegando daño a su reputación como empresario. La decisión plantea preguntas sobre los límites de la libertad de prensa y la responsabilidad editorial.",
           "tags": [
-            "#Airbnb",
-            "#Hospitalidad",
-            "#Regulaciones"
+            "#Política",
+            "#Justicia",
+            "#Medios"
           ],
           "source_ids": [
             2
-          ],
-          "sources": [
-            {
-              "source": "Neutral (BBC Business)",
-              "title": "Airbnb's divisive new house rules come into force",
-              "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/005c/live/dfcb5350-e410-11f1-b37c-b3a71d7200af.jpg",
-            "imageSearchQuery": "Airbnb new house rules 2024",
-            "caption": "Los nuevos lineamientos de Airbnb obligan a los anfitriones a limitar las tareas que pueden exigir a los huéspedes, mientras que los precios podrían subir.",
-            "biasLeft": "Los medios progresistas no aparecen en los artículos proporcionados; por lo tanto no hay cobertura de enfoque izquierdista en este tema.",
-            "biasNeutral": "Los medios centristas describen la medida como una restricción a las demandas de los anfitriones, señalando que reducirá tareas domésticas para los viajeros pero podría traducirse en tarifas más altas para los usuarios.",
-            "biasRight": "Los medios conservadores no aparecen en los artículos proporcionados; no hay cobertura de enfoque derechista sobre este asunto.",
-            "reflection": "Para el viajero cotidiano, la medida implica que podría pagar más por menos molestias en la casa, lo que afecta directamente su presupuesto de viaje. En los próximos días, vigile cualquier anuncio de precios de Airbnb y la reacción de los usuarios en redes sociales."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/005c/live/dfcb5350-e410-11f1-b37c-b3a71d7200af.jpg\" alt=\"Los nuevos lineamientos de Airbnb obligan a los anfitriones a limitar las tareas que pueden exigir a los huéspedes, mientras que los precios podrían subir.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Los nuevos lineamientos de Airbnb obligan a los anfitriones a limitar las tareas que pueden exigir a los huéspedes, mientras que los precios podrían subir.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no aparecen en los artículos proporcionados; por lo tanto no hay cobertura de enfoque izquierdista en este tema.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas describen la medida como una restricción a las demandas de los anfitriones, señalando que reducirá tareas domésticas para los viajeros pero podría traducirse en tarifas más altas para los usuarios.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no aparecen en los artículos proporcionados; no hay cobertura de enfoque derechista sobre este asunto.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el viajero cotidiano, la medida implica que podría pagar más por menos molestias en la casa, lo que afecta directamente su presupuesto de viaje. En los próximos días, vigile cualquier anuncio de precios de Airbnb y la reacción de los usuarios en redes sociales.</p>"
-        },
-        {
-          "id": "topic-4",
-          "headline": "Operación secreta protege decenas de miles de frigoríficos británicos de ataques cibernéticos",
-          "summary": "Una iniciativa coordinada entre supermercados, almacenes y autoridades ha reforzado la seguridad de los sistemas de refrigeración conectados, evitando posibles interrupciones y robos de datos. La medida subraya la creciente vulnerabilidad de la infraestructura de alimentos frente a hackers.",
-          "tags": [
-            "#Ciberseguridad",
-            "#UK",
-            "#Frigoríficos",
-            "#Infraestructura"
-          ],
-          "source_ids": [
-            5
-          ],
-          "sources": [
-            {
-              "source": "Neutral (BBC Business)",
-              "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
-              "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg",
-            "imageSearchQuery": "UK fridge cyber security operation",
-            "caption": "Operación encubierta protege miles de frigoríficos británicos frente a hackers.",
-            "biasLeft": "Los medios progresistas no abordaron este tema en los artículos proporcionados.",
-            "biasNeutral": "Los medios centrados en la información presentan los hechos: una operación nacional secreta ha asegurado refrigeradores en supermercados, almacenes, restaurantes y estadios, resaltando la magnitud del riesgo cibernético y la rapidez de la respuesta.",
-            "biasRight": "Los medios conservadores no cubrieron este tema en los artículos proporcionados.",
-            "reflection": "Para el consumidor, la seguridad de los frigoríficos significa que no habrá interrupciones en la cadena de suministro de alimentos. En los próximos días, vigile si aparecen nuevas alertas de vulnerabilidades en dispositivos IoT domésticos."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg\" alt=\"Operación encubierta protege miles de frigoríficos británicos frente a hackers.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Operación encubierta protege miles de frigoríficos británicos frente a hackers.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no abordaron este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centrados en la información presentan los hechos: una operación nacional secreta ha asegurado refrigeradores en supermercados, almacenes, restaurantes y estadios, resaltando la magnitud del riesgo cibernético y la rapidez de la respuesta.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no cubrieron este tema en los artículos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el consumidor, la seguridad de los frigoríficos significa que no habrá interrupciones en la cadena de suministro de alimentos. En los próximos días, vigile si aparecen nuevas alertas de vulnerabilidades en dispositivos IoT domésticos.</p>"
-        },
-        {
-          "id": "topic-5",
-          "headline": "Tribunal permite que el caso de $15 mil millones de Donald Trump contra The New York Times continúe",
-          "summary": "El juez autorizó la demanda del expresidente, que acusa al periódico y a su editorial de difundir información que dañó su reputación empresarial. El proceso podría convertirse en uno de los litigios más costosos entre un político y un medio de comunicación.",
-          "tags": [
-            "#Trump",
-            "#NYTimes",
-            "#Demanda",
-            "#LibertadDePrensa"
-          ],
-          "source_ids": [
-            9
           ],
           "sources": [
             {
@@ -590,14 +518,74 @@
           ],
           "deepDive": {
             "imageUrl": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-trump-times-01-wkjc/19biz-trump-times-01-wkjc-mediumSquareAt3X.jpg",
-            "imageSearchQuery": "Donald Trump lawsuit New York Times 2026 court hearing",
-            "caption": "Un tribunal permite que el proceso de $15 mil millones de Donald Trump contra The New York Times siga adelante.",
-            "biasLeft": "Los medios progresistas subrayan que la demanda busca silenciar una crítica legítima y que el caso refleja un intento de Trump de usar la riqueza para atacar a la prensa. Destacan la posible intimidación a los periodistas y el riesgo de crear un precedente peligroso para la libertad de expresión.",
-            "biasNeutral": "No se encontró cobertura de medios centristas o de agencia wire en los artículos proporcionados.",
-            "biasRight": "No se encontró cobertura de medios conservadores en los artículos proporcionados.",
-            "reflection": "Para el ciudadano de a pie, la decisión judicial mantiene viva una pelea legal que podría costar miles de millones y afectar la credibilidad de los medios. En los próximos días, hay que observar si el caso avanza a juicio o se resuelve mediante un acuerdo, lo cual indicará la disposición de Trump a seguir litigando contra críticos."
+            "imageSearchQuery": "Donald Trump lawsuit New York Times Penguin Random House courtroom",
+            "caption": "Un juez autoriza que el caso de 15 000 millones de dólares de Donald Trump contra The New York Times y Penguin Random House siga su curso.",
+            "biasLeft": "Los medios progresistas subrayan que la demanda busca silenciar a la prensa y castigar la cobertura crítica del ex presidente. Enfatizan la dimensión de libertad de expresión y el riesgo de usar la justicia como arma política contra los medios.",
+            "biasNeutral": "Los informes neutrales se limitan a describir la decisión judicial, el monto reclamado y los cargos de difamación que Trump presenta contra el periódico y la editorial, sin emitir juicios de valor.",
+            "biasRight": "No se encontraron fuentes de derecha que cubrieran este tema en los artículos proporcionados.",
+            "reflection": "Para el ciudadano promedio, el caso muestra cómo un ex mandatario puede intentar usar recursos financieros gigantescos contra críticos, lo que podría afectar la percepción de la responsabilidad de los medios. En los próximos días habrá que vigilar si el tribunal dicta una medida cautelar que limite la publicación de información sobre Trump."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/19/multimedia/19biz-trump-times-01-wkjc/19biz-trump-times-01-wkjc-mediumSquareAt3X.jpg\" alt=\"Un tribunal permite que el proceso de $15 mil millones de Donald Trump contra The New York Times siga adelante.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Un tribunal permite que el proceso de $15 mil millones de Donald Trump contra The New York Times siga adelante.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan que la demanda busca silenciar una crítica legítima y que el caso refleja un intento de Trump de usar la riqueza para atacar a la prensa. Destacan la posible intimidación a los periodistas y el riesgo de crear un precedente peligroso para la libertad de expresión.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">No se encontró cobertura de medios centristas o de agencia wire en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">No se encontró cobertura de medios conservadores en los artículos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el ciudadano de a pie, la decisión judicial mantiene viva una pelea legal que podría costar miles de millones y afectar la credibilidad de los medios. En los próximos días, hay que observar si el caso avanza a juicio o se resuelve mediante un acuerdo, lo cual indicará la disposición de Trump a seguir litigando contra críticos.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/19/multimedia/19biz-trump-times-01-wkjc/19biz-trump-times-01-wkjc-mediumSquareAt3X.jpg\" alt=\"Un juez autoriza que el caso de 15 000 millones de dólares de Donald Trump contra The New York Times y Penguin Random House siga su curso.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Un juez autoriza que el caso de 15 000 millones de dólares de Donald Trump contra The New York Times y Penguin Random House siga su curso.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan que la demanda busca silenciar a la prensa y castigar la cobertura crítica del ex presidente. Enfatizan la dimensión de libertad de expresión y el riesgo de usar la justicia como arma política contra los medios.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los informes neutrales se limitan a describir la decisión judicial, el monto reclamado y los cargos de difamación que Trump presenta contra el periódico y la editorial, sin emitir juicios de valor.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">No se encontraron fuentes de derecha que cubrieran este tema en los artículos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el ciudadano promedio, el caso muestra cómo un ex mandatario puede intentar usar recursos financieros gigantescos contra críticos, lo que podría afectar la percepción de la responsabilidad de los medios. En los próximos días habrá que vigilar si el tribunal dicta una medida cautelar que limite la publicación de información sobre Trump.</p>"
+        },
+        {
+          "id": "topic-4",
+          "headline": "Airbnb implementa nuevas normas para anfitriones que podrían encarecer los alquileres y limitar las tareas domésticas de los huéspedes",
+          "summary": "A partir de este mes, la plataforma establece requisitos más estrictos sobre lo que los anfitriones pueden solicitar a los viajeros, como prohibir ciertos servicios de limpieza. Los cambios buscan mayor claridad, pero podrían traducirse en precios más altos para los usuarios.",
+          "tags": [
+            "#Turismo",
+            "#Consumo",
+            "#Regulación"
+          ],
+          "source_ids": [
+            7
+          ],
+          "sources": [
+            {
+              "source": "Neutral (BBC Business)",
+              "title": "Airbnb's divisive new house rules come into force",
+              "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/005c/live/dfcb5350-e410-11f1-b37c-b3a71d7200af.jpg",
+            "imageSearchQuery": "Airbnb new house rules hosts guests chores cost increase",
+            "caption": "Los nuevos reglamentos de Airbnb obligan a los anfitriones a limitar las tareas domésticas solicitadas a los viajeros, pero podrían traducirse en tarifas más altas.",
+            "biasLeft": "Los medios progresistas no cubren este tema en los artículos proporcionados, por lo que no hay énfasis en la justicia laboral ni en la desigualdad que pueda generar la medida.",
+            "biasNeutral": "El artículo de la BBC explica que Airbnb ha introducido normas que restringen las exigencias de los anfitriones sobre tareas domésticas, como lavar la ropa o limpiar la cocina, con el objetivo de equilibrar la carga del huésped. Señala que, aunque se reducirán esas labores, los precios podrían subir porque los anfitriones compensarán la pérdida de servicios. Además, menciona que la medida ha generado debate entre usuarios y la compañía.",
+            "biasRight": "Los medios conservadores tampoco abordan esta noticia en los documentos suministrados, por lo que no se destaca el posible impacto económico, de regulación del mercado o de libertad empresarial.",
+            "reflection": "Para los viajeros, la novedad implica que podrían pagar más por una estancia pero con menos responsabilidades domésticas, alterando la relación calidad‑precio. En los próximos días convendrá observar si Airbnb ajusta los precios medios y cómo reaccionan los usuarios en reseñas y foros. También será relevante seguir cualquier respuesta de los anfitriones o de autoridades regulatorias."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/005c/live/dfcb5350-e410-11f1-b37c-b3a71d7200af.jpg\" alt=\"Los nuevos reglamentos de Airbnb obligan a los anfitriones a limitar las tareas domésticas solicitadas a los viajeros, pero podrían traducirse en tarifas más altas.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Los nuevos reglamentos de Airbnb obligan a los anfitriones a limitar las tareas domésticas solicitadas a los viajeros, pero podrían traducirse en tarifas más altas.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no cubren este tema en los artículos proporcionados, por lo que no hay énfasis en la justicia laboral ni en la desigualdad que pueda generar la medida.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">El artículo de la BBC explica que Airbnb ha introducido normas que restringen las exigencias de los anfitriones sobre tareas domésticas, como lavar la ropa o limpiar la cocina, con el objetivo de equilibrar la carga del huésped. Señala que, aunque se reducirán esas labores, los precios podrían subir porque los anfitriones compensarán la pérdida de servicios. Además, menciona que la medida ha generado debate entre usuarios y la compañía.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores tampoco abordan esta noticia en los documentos suministrados, por lo que no se destaca el posible impacto económico, de regulación del mercado o de libertad empresarial.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para los viajeros, la novedad implica que podrían pagar más por una estancia pero con menos responsabilidades domésticas, alterando la relación calidad‑precio. En los próximos días convendrá observar si Airbnb ajusta los precios medios y cómo reaccionan los usuarios en reseñas y foros. También será relevante seguir cualquier respuesta de los anfitriones o de autoridades regulatorias.</p>"
+        },
+        {
+          "id": "topic-5",
+          "headline": "Las ventas al por menor de alimentos enlatados y leche de larga duración aumentan en octubre tras la campaña 'Be Ready'",
+          "summary": "Los datos oficiales muestran que la gente ha incrementado la compra de productos no perecibles después del lanzamiento de la campaña de preparación para emergencias. El repunte impulsa el sector minorista y se interpreta como señal de cautela entre los consumidores.",
+          "tags": [
+            "#Consumo",
+            "#Economía",
+            "#Alimentación"
+          ],
+          "source_ids": [
+            0
+          ],
+          "sources": [
+            {
+              "source": "Neutral (BBC Business)",
+              "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
+              "url": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b2f3/live/616b7460-e4bd-11f1-bd65-4bcf15946188.jpg",
+            "imageSearchQuery": "tinned food retail sales October Be Ready campaign",
+            "caption": "Los estantes de los supermercados se llenan de conservas y leche de larga duración tras la campaña 'Be Ready' que impulsa las ventas en octubre.",
+            "biasLeft": "Los medios progresistas no abordaron este tema en los artículos proporcionados.",
+            "biasNeutral": "La BBC informa que las ventas minoristas de alimentos enlatados y leche de larga duración crecieron en octubre, impulsadas por la campaña 'Be Ready'. Los datos oficiales revelan un repunte notable en la compra de productos con larga vida útil. No se indica si la tendencia continuará en los próximos meses.",
+            "biasRight": "Los medios conservadores no cubren este tema en los artículos proporcionados.",
+            "reflection": "Para el consumidor, el aumento de ventas refleja una mayor preocupación por la seguridad alimentaria ante posibles interrupciones. Es importante observar si los precios de estos productos se estabilizan o se encarecen en los próximos días."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b2f3/live/616b7460-e4bd-11f1-bd65-4bcf15946188.jpg\" alt=\"Los estantes de los supermercados se llenan de conservas y leche de larga duración tras la campaña &#39;Be Ready&#39; que impulsa las ventas en octubre.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Los estantes de los supermercados se llenan de conservas y leche de larga duración tras la campaña &#39;Be Ready&#39; que impulsa las ventas en octubre.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no abordaron este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">La BBC informa que las ventas minoristas de alimentos enlatados y leche de larga duración crecieron en octubre, impulsadas por la campaña &#39;Be Ready&#39;. Los datos oficiales revelan un repunte notable en la compra de productos con larga vida útil. No se indica si la tendencia continuará en los próximos meses.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no cubren este tema en los artículos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el consumidor, el aumento de ventas refleja una mayor preocupación por la seguridad alimentaria ante posibles interrupciones. Es importante observar si los precios de estos productos se estabilizan o se encarecen en los próximos días.</p>"
         }
       ],
       "rawCount": 15
