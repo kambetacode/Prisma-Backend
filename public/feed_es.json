@@ -1,24 +1,29 @@
 {
-  "last_updated": "2026-11-22T21:36:32.215Z",
+  "last_updated": "2026-11-23T02:19:36.846Z",
   "language": "es",
   "categories": {
     "GLOBAL_MACRO": {
       "items": [
         {
           "id": "topic-1",
-          "headline": "Dos buques rusos son alcanzados por drones: uno en Libia y otro en el Golfo de Finlandia",
-          "summary": "Autoridades libias y finlandesas informaron explosiones en embarcaciones que se dirigían a Rusia, atribuidas a ataques con drones. Los incidentes aumentan la tensión en la región y generan sospechas sobre la participación ucraniana.",
+          "headline": "Una corbeta rusa se hunde en Libia tras un presunto ataque con drones ucranianos",
+          "summary": "Una corbeta rusa se hundió en el puerto de Bengasi después de lo que autoridades libias describen como un ataque con drones marinos, presuntamente ucranianos. El incidente, que también afectó a otras embarcaciones rusas en Libia y el Golfo de Finlandia, muestra la expansión del conflicto naval más allá del Mar Negro.",
           "tags": [
-            "#seguridad",
-            "#Ucrania",
             "#Rusia",
-            "#ataquesdron"
+            "#Ucrania",
+            "#ConflictoMarítimo"
           ],
           "source_ids": [
             0,
-            4
+            6,
+            8
           ],
           "sources": [
+            {
+              "source": "Right (Fox)",
+              "title": "Russian warship sinks off Libya as suspected Ukrainian strikes take war beyond Black Sea",
+              "url": "https://www.foxnews.com/world/russian-warship-sinks-libya-suspected-ukrainian-strikes-take-war-beyond-black-sea"
+            },
             {
               "source": "Neutral (BBC)",
               "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
@@ -31,150 +36,109 @@
             }
           ],
           "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a198/live/5b2f71d0-e6ae-11f1-a094-5fdc692f3e33.jpg",
-            "imageSearchQuery": "Russian ship drone attack Libya Finland",
-            "caption": "Una explosión sacude el buque ruso detenido en el puerto libio mientras otro, rumbo a Rusia, es remolcado tras un ataque con dron en el Golfo de Finlandia.",
-            "biasLeft": "Los medios progresistas no cubren este tema en los artículos proporcionados.",
-            "biasNeutral": "Los informes se limitan a los hechos confirmados: la explosión en Libia mientras el barco repostaba y el remolque del buque dañado en el Golfo de Finlandia, señalando una posible autoría ucraniana sin ofrecer pruebas definitivas.",
-            "biasRight": "Los medios conservadores no aparecen en los textos suministrados.",
-            "reflection": "Para la ciudadanía, estos incidentes muestran que el conflicto ruso‑ucraniano está alcanzando rutas comerciales clave, lo que podría encarecer el transporte marítimo y afectar la disponibilidad de mercancías. En los próximos días será útil vigilar si Kiev reconoce la responsabilidad o si aumentan los ataques a la navegación en el Mediterráneo y el Báltico."
+            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/benghazi-port-drone-strike.jpg",
+            "imageSearchQuery": "Russian corvette Libya drone strike",
+            "caption": "La corbeta rusa Merkury se vuelca en el puerto de Bengasi tras lo que Libia atribuye a drones ucranianos.",
+            "biasLeft": "Los medios progresistas no aparecen entre las fuentes consultadas; ninguno de los artículos presentados ofrece una perspectiva de izquierda sobre este hecho.",
+            "biasNeutral": "Los medios neutrales (BBC) se centran en los datos verificables: el barco había detenido para reabastecerse y fue impactado por lo que describen como drones. Señalan la falta de comentarios oficiales de Kiev y mantienen la incertidumbre sobre la autoría.",
+            "biasRight": "Fox News enfatiza el aspecto de seguridad y la implicación ucraniana, describiendo el ataque como parte de una escalada que lleva la guerra más allá del Mar Negro. Resalta el número de heridos y la amenaza que representa para la soberanía rusa.",
+            "reflection": "Para la gente, este incidente muestra que el conflicto entre Rusia y Ucrania puede afectar regiones tan lejanas como Libia, alterando la seguridad marítima y los intereses energéticos. En los próximos días habrá que observar si Ucrania confirma su responsabilidad y cómo responden Rusia y sus aliados en el Mediterráneo."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a198/live/5b2f71d0-e6ae-11f1-a094-5fdc692f3e33.jpg\" alt=\"Una explosión sacude el buque ruso detenido en el puerto libio mientras otro, rumbo a Rusia, es remolcado tras un ataque con dron en el Golfo de Finlandia.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Una explosión sacude el buque ruso detenido en el puerto libio mientras otro, rumbo a Rusia, es remolcado tras un ataque con dron en el Golfo de Finlandia.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no cubren este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los informes se limitan a los hechos confirmados: la explosión en Libia mientras el barco repostaba y el remolque del buque dañado en el Golfo de Finlandia, señalando una posible autoría ucraniana sin ofrecer pruebas definitivas.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no aparecen en los textos suministrados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para la ciudadanía, estos incidentes muestran que el conflicto ruso‑ucraniano está alcanzando rutas comerciales clave, lo que podría encarecer el transporte marítimo y afectar la disponibilidad de mercancías. En los próximos días será útil vigilar si Kiev reconoce la responsabilidad o si aumentan los ataques a la navegación en el Mediterráneo y el Báltico.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/11/benghazi-port-drone-strike.jpg\" alt=\"La corbeta rusa Merkury se vuelca en el puerto de Bengasi tras lo que Libia atribuye a drones ucranianos.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La corbeta rusa Merkury se vuelca en el puerto de Bengasi tras lo que Libia atribuye a drones ucranianos.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no aparecen entre las fuentes consultadas; ninguno de los artículos presentados ofrece una perspectiva de izquierda sobre este hecho.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios neutrales (BBC) se centran en los datos verificables: el barco había detenido para reabastecerse y fue impactado por lo que describen como drones. Señalan la falta de comentarios oficiales de Kiev y mantienen la incertidumbre sobre la autoría.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Fox News enfatiza el aspecto de seguridad y la implicación ucraniana, describiendo el ataque como parte de una escalada que lleva la guerra más allá del Mar Negro. Resalta el número de heridos y la amenaza que representa para la soberanía rusa.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para la gente, este incidente muestra que el conflicto entre Rusia y Ucrania puede afectar regiones tan lejanas como Libia, alterando la seguridad marítima y los intereses energéticos. En los próximos días habrá que observar si Ucrania confirma su responsabilidad y cómo responden Rusia y sus aliados en el Mediterráneo.</p>"
         },
         {
           "id": "topic-2",
-          "headline": "La cumbre climática COP31 concluye sin acuerdo mayor",
-          "summary": "Después de intensas negociaciones, los delegados no lograron un pacto amplio para reducir las emisiones, evidenciando divisiones sobre la mención de los combustibles fósiles. El fracaso obliga a los países a buscar otros canales para acelerar la acción climática.",
+          "headline": "Trump acusa a Irán de lanzar oleada de misiles y drones y desafía al país a romper el bloqueo naval",
+          "summary": "El presidente Donald Trump acusó a Irán de lanzar una oleada de misiles y drones, y desafió al país a romper el bloqueo naval estadounidense en el Golfo. La retórica y la movilización de 14 petroleros iraníes aumentan la tensión entre Washington y Teherán.",
           "tags": [
-            "#clima",
-            "#COP31",
-            "#negociaciones"
+            "#EEUU",
+            "#Irán",
+            "#Seguridad"
           ],
           "source_ids": [
-            1,
-            2
+            2,
+            3,
+            5
           ],
           "sources": [
             {
-              "source": "Neutral (BBC)",
-              "title": "What's next after no deal at COP31 climate talks?",
-              "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss"
+              "source": "Right (Fox)",
+              "title": "Trump says Iran unleashed missile, drone surge after midterms",
+              "url": "https://www.foxnews.com/world/trump-says-iran-unleashed-missile-drone-surge-after-midterms"
             },
+            {
+              "source": "Right (Fox)",
+              "title": "Trump dares Iran to breach US port blockade as Tehran reportedly readies 14 oil tankers",
+              "url": "https://www.foxnews.com/world/trump-dares-iran-breach-us-port-blockade-tehran-reportedly-readies-14-oil-tankers"
+            },
+            {
+              "source": "Right (Fox)",
+              "title": "Tehran threatens to 'break legs' as 'Trump corridor' prepares to launch on Iran's border",
+              "url": "https://www.foxnews.com/world/tehran-threatens-break-legs-trump-corridor-prepares-launch-irans-border"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/trump-iran-hormuz.jpg",
+            "imageSearchQuery": "Donald Trump Iran missiles drones Gulf blockade",
+            "caption": "Trump acusa a Irán de lanzar una oleada de misiles y drones y lo reta a romper el bloqueo naval en el Golfo.",
+            "biasLeft": "Los medios progresistas no cubren este tema en los artículos proporcionados.",
+            "biasNeutral": "Los medios centristas no aparecen en los artículos suministrados.",
+            "biasRight": "Los medios conservadores enfatizan la supuesta capacidad de Irán para lanzar una gran cantidad de misiles y drones, presentan a Trump como un líder firme que defiende la seguridad marítima y advierten que el bloqueo estadounidense protege los intereses energéticos de EE. UU. frente a la amenaza iraní.",
+            "reflection": "Este enfrentamiento puede traducirse en una mayor tensión en el estrecho de Ormuz, afectando el tránsito de petróleo y la seguridad de los buques comerciales. En los próximos días habrá que observar si Irán responde con acciones militares o si la retórica de Trump se traduce en despliegues navales adicionales."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/05/trump-iran-hormuz.jpg\" alt=\"Trump acusa a Irán de lanzar una oleada de misiles y drones y lo reta a romper el bloqueo naval en el Golfo.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Trump acusa a Irán de lanzar una oleada de misiles y drones y lo reta a romper el bloqueo naval en el Golfo.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no cubren este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas no aparecen en los artículos suministrados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores enfatizan la supuesta capacidad de Irán para lanzar una gran cantidad de misiles y drones, presentan a Trump como un líder firme que defiende la seguridad marítima y advierten que el bloqueo estadounidense protege los intereses energéticos de EE. UU. frente a la amenaza iraní.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Este enfrentamiento puede traducirse en una mayor tensión en el estrecho de Ormuz, afectando el tránsito de petróleo y la seguridad de los buques comerciales. En los próximos días habrá que observar si Irán responde con acciones militares o si la retórica de Trump se traduce en despliegues navales adicionales.</p>"
+        },
+        {
+          "id": "topic-3",
+          "headline": "La COP31 colapsa por la falta de acuerdo sobre combustibles fósiles",
+          "summary": "Las negociaciones de la COP31 fracasaron al no lograrse un acuerdo sobre la reducción de combustibles fósiles, evidenciando profundas divisiones entre los países participantes. La falta de consenso retrasa los esfuerzos globales para limitar el calentamiento y pone en duda los próximos compromisos climáticos.",
+          "tags": [
+            "#COP31",
+            "#Clima",
+            "#PolíticaAmbiental"
+          ],
+          "source_ids": [
+            1,
+            7
+          ],
+          "sources": [
             {
               "source": "Neutral (BBC)",
               "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
               "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "Neutral (BBC)",
+              "title": "What's next after no deal at COP31 climate talks?",
+              "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss"
             }
           ],
           "deepDive": {
             "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg",
-            "imageSearchQuery": "COP31 climate summit failure fossil fuels row",
-            "caption": "Los delegados abandonan la COP31 sin lograr un acuerdo mayor sobre el clima.",
-            "biasLeft": "Los medios progresistas subrayarían la falta de compromiso con la eliminación de los combustibles fósiles y la justicia climática, señalando que la ruptura refleja una política que prioriza a las grandes corporaciones sobre los pueblos vulnerables. No se encuentran estos énfasis en los artículos proporcionados.",
-            "biasNeutral": "Los medios centristas se centran en los hechos: la cumbre fue la más larga de la historia, los debates colapsaron dos días antes de su cierre y quedaron expuestas profundas divisiones entre los países. Presentan la situación como un punto de inflexión sin tomar partido.",
-            "biasRight": "Los medios conservadores destacarían el posible daño económico de no alcanzar un acuerdo, advirtiendo que las medidas excesivas podrían afectar la competitividad y la seguridad energética de los países. Estos enfoques no aparecen en los artículos citados.",
-            "reflection": "Para la gente de a pie, la falta de un acuerdo significa que las políticas climáticas podrían seguir sin cambios, afectando precios de energía y riesgos de fenómenos extremos. En los próximos días habrá que observar si alguna potencia anuncia iniciativas bilaterales o compromisos sectoriales que intenten llenar el vacío dejado por la COP31."
+            "imageSearchQuery": "COP31 summit fossil fuel dispute failure",
+            "caption": "Los delegados de la COP31 abandonan la sala con la mirada fija en la falta de consenso sobre los combustibles fósiles.",
+            "biasLeft": "Los artículos citados no provienen de medios progresistas, por lo que no hay énfasis explícito de la izquierda.",
+            "biasNeutral": "Los informes de la BBC subrayan la ruptura de las negociaciones tras una disputa sobre la inclusión de los combustibles fósiles, señalando que la cumbre fue la más larga de la historia y que el acuerdo se desvaneció dos días antes del plazo previsto.",
+            "biasRight": "Los textos no provienen de fuentes conservadoras, por lo que no se detecta un enfoque centrado en costos económicos o soberanía.",
+            "reflection": "Para la gente, el colapso de la COP31 implica que las promesas de reducción de emisiones pueden retrasarse, lo que afecta la salud y los costos de energía. En los próximos días, hay que seguir la publicación de cualquier comunicado provisional o intento de acuerdo que pueda reabrir la mesa de negociaciones."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg\" alt=\"Los delegados abandonan la COP31 sin lograr un acuerdo mayor sobre el clima.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Los delegados abandonan la COP31 sin lograr un acuerdo mayor sobre el clima.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayarían la falta de compromiso con la eliminación de los combustibles fósiles y la justicia climática, señalando que la ruptura refleja una política que prioriza a las grandes corporaciones sobre los pueblos vulnerables. No se encuentran estos énfasis en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas se centran en los hechos: la cumbre fue la más larga de la historia, los debates colapsaron dos días antes de su cierre y quedaron expuestas profundas divisiones entre los países. Presentan la situación como un punto de inflexión sin tomar partido.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores destacarían el posible daño económico de no alcanzar un acuerdo, advirtiendo que las medidas excesivas podrían afectar la competitividad y la seguridad energética de los países. Estos enfoques no aparecen en los artículos citados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para la gente de a pie, la falta de un acuerdo significa que las políticas climáticas podrían seguir sin cambios, afectando precios de energía y riesgos de fenómenos extremos. En los próximos días habrá que observar si alguna potencia anuncia iniciativas bilaterales o compromisos sectoriales que intenten llenar el vacío dejado por la COP31.</p>"
-        },
-        {
-          "id": "topic-3",
-          "headline": "Ataques rusos matan y hieren a civiles ucranianos, incluida la familia del presidente Zelenski",
-          "summary": "Un bombardeo en la ciudad natal de Zelenski, Kryvyi Rih, dejó dos muertos, entre ellos un niño de siete años, y decenas de heridos. La ofensiva subraya la creciente vulnerabilidad de la población civil en medio del conflicto.",
-          "tags": [
-            "#Ucrania",
-            "#conflicto",
-            "#civiles"
-          ],
-          "source_ids": [
-            3,
-            12
-          ],
-          "sources": [
-            {
-              "source": "Neutral (BBC)",
-              "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-              "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "Right (Fox)",
-              "title": "Zelenskyy says Russia strikes hometown, criticizes Putin-Trump meeting",
-              "url": "https://www.foxnews.com/world/zelenskyy-says-russia-strikes-hometown-criticizes-putin-trump-meeting"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2025/08/volodymyr-zelenskyy-national-referendum.jpg",
-            "imageSearchQuery": "Russian strike Kryvyi Rih civilian casualties Zelensky family",
-            "caption": "Una explosión en Kryvyi Rih deja muertos y heridos, entre ellos la familia del presidente Zelenski.",
-            "biasLeft": "Los medios progresistas no cubren este suceso en los artículos proporcionados.",
-            "biasNeutral": "BBC informa de un edificio residencial colapsado en la región de Kyiv, describiendo la búsqueda de desaparecidos y la magnitud del daño sin atribuciones políticas. El enfoque está en los hechos concretos y en la incertidumbre que rodea a los civiles atrapados.",
-            "biasRight": "Fox destaca la muerte de dos personas, incluida la niña de 7 años, en el ataque a la ciudad natal de Zelenski, y la critica directa a la reunión entre Putin y Trump. El relato subraya la agresión rusa y su impacto en la seguridad nacional ucraniana.",
-            "reflection": "Este ataque afecta directamente a familias ucranianas y a la percepción de seguridad del propio presidente, lo que puede influir en la respuesta internacional. En los próximos días habrá que vigilar si se intensifican los bombardeos en áreas civiles y cómo reacciona la comunidad global ante la presión humanitaria."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2025/08/volodymyr-zelenskyy-national-referendum.jpg\" alt=\"Una explosión en Kryvyi Rih deja muertos y heridos, entre ellos la familia del presidente Zelenski.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Una explosión en Kryvyi Rih deja muertos y heridos, entre ellos la familia del presidente Zelenski.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no cubren este suceso en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">BBC informa de un edificio residencial colapsado en la región de Kyiv, describiendo la búsqueda de desaparecidos y la magnitud del daño sin atribuciones políticas. El enfoque está en los hechos concretos y en la incertidumbre que rodea a los civiles atrapados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Fox destaca la muerte de dos personas, incluida la niña de 7 años, en el ataque a la ciudad natal de Zelenski, y la critica directa a la reunión entre Putin y Trump. El relato subraya la agresión rusa y su impacto en la seguridad nacional ucraniana.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Este ataque afecta directamente a familias ucranianas y a la percepción de seguridad del propio presidente, lo que puede influir en la respuesta internacional. En los próximos días habrá que vigilar si se intensifican los bombardeos en áreas civiles y cómo reacciona la comunidad global ante la presión humanitaria.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg\" alt=\"Los delegados de la COP31 abandonan la sala con la mirada fija en la falta de consenso sobre los combustibles fósiles.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Los delegados de la COP31 abandonan la sala con la mirada fija en la falta de consenso sobre los combustibles fósiles.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los artículos citados no provienen de medios progresistas, por lo que no hay énfasis explícito de la izquierda.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los informes de la BBC subrayan la ruptura de las negociaciones tras una disputa sobre la inclusión de los combustibles fósiles, señalando que la cumbre fue la más larga de la historia y que el acuerdo se desvaneció dos días antes del plazo previsto.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los textos no provienen de fuentes conservadoras, por lo que no se detecta un enfoque centrado en costos económicos o soberanía.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para la gente, el colapso de la COP31 implica que las promesas de reducción de emisiones pueden retrasarse, lo que afecta la salud y los costos de energía. En los próximos días, hay que seguir la publicación de cualquier comunicado provisional o intento de acuerdo que pueda reabrir la mesa de negociaciones.</p>"
         },
         {
           "id": "topic-4",
-          "headline": "Acusaciones de interferencia política en Brasil y supuesta trama rusa contra rapero en Dinamarca",
-          "summary": "Flávio Bolsonaro alegó que la justicia brasileña confiscó pasaportes tras su derrota electoral, mientras Dinamarca declaró que Rusia planeaba asesinar a un rapero ucraniano en suelo danés. Ambos casos alimentan la percepción de una creciente inestabilidad política y de espionaje internacional.",
+          "headline": "El bosque boreal canadiense sufre degradación por tala y clima, mientras China intensifica el espionaje de chips de IA",
+          "summary": "Un informe revela que la tala comercial y el cambio climático están degradando gravemente el bosque boreal de Canadá, un ecosistema clave para la absorción de carbono. Paralelamente, agencias revelaron que China ha intensificado una campaña de espionaje para obtener chips de inteligencia artificial, subrayando la lucha por la supremacía tecnológica.",
           "tags": [
-            "#política",
-            "#Brasil",
-            "#Dinamarca",
-            "#espionaje"
+            "#BosqueBoreal",
+            "#CambioClimático",
+            "#Ciberespionaje",
+            "#Tecnología"
           ],
           "source_ids": [
-            5,
-            13
-          ],
-          "sources": [
-            {
-              "source": "Right (Fox)",
-              "title": "Flavio Bolsonaro claims judge ordered passports seized just 7 minutes after Brazil election loss",
-              "url": "https://www.foxnews.com/world/flavio-bolsonaro-claims-judge-ordered-passports-seized-just-7-minutes-after-brazil-election-loss"
-            },
-            {
-              "source": "Right (Fox)",
-              "title": "Denmark accuses Russia of plotting to kill Ukrainian American rapper on Danish soil",
-              "url": "https://www.foxnews.com/world/denmark-accuses-russia-plotting-kill-ukrainian-american-rapper-danish-soil"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/Lars.jpg",
-            "imageSearchQuery": "Denmark Russia assassination plot Ukrainian American rapper Kyivstoner",
-            "caption": "La PET de Dinamarca acusa a Rusia de planear el asesinato del rapero ucraniano‑estadounidense Kyivstoner en territorio danés.",
-            "biasLeft": "Los medios progresistas no cubren este caso en los artículos proporcionados.",
-            "biasNeutral": "Los medios centristas no aparecen en las fuentes citadas.",
-            "biasRight": "Los medios conservadores enfatizan la supuesta amenaza rusa como un ataque directo a la seguridad europea y resaltan la respuesta firme de Dinamarca al expulsar al agregado de defensa de Moscú. En Brasil, se subraya la denuncia de Flávio Bolsonaro de una supuesta persecución judicial tras la derrota electoral, presentando al Tribunal Supremo como un actor político. Ambos relatos pintan a los gobiernos como víctimas de fuerzas externas o internas que buscan desestabilizar la soberanía nacional.",
-            "reflection": "Para el ciudadano promedio, estos episodios indican riesgos reales tanto en la esfera internacional como en la política interna, que pueden traducirse en mayores tensiones diplomáticas y medidas de seguridad reforzadas. En los próximos días convendrá seguir la evolución de la investigación danesa y cualquier respuesta judicial en Brasil, ya que podrían marcar cambios en la política de seguridad y en la confianza en las instituciones electorales."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/11/Lars.jpg\" alt=\"La PET de Dinamarca acusa a Rusia de planear el asesinato del rapero ucraniano‑estadounidense Kyivstoner en territorio danés.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La PET de Dinamarca acusa a Rusia de planear el asesinato del rapero ucraniano‑estadounidense Kyivstoner en territorio danés.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no cubren este caso en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas no aparecen en las fuentes citadas.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores enfatizan la supuesta amenaza rusa como un ataque directo a la seguridad europea y resaltan la respuesta firme de Dinamarca al expulsar al agregado de defensa de Moscú. En Brasil, se subraya la denuncia de Flávio Bolsonaro de una supuesta persecución judicial tras la derrota electoral, presentando al Tribunal Supremo como un actor político. Ambos relatos pintan a los gobiernos como víctimas de fuerzas externas o internas que buscan desestabilizar la soberanía nacional.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el ciudadano promedio, estos episodios indican riesgos reales tanto en la esfera internacional como en la política interna, que pueden traducirse en mayores tensiones diplomáticas y medidas de seguridad reforzadas. En los próximos días convendrá seguir la evolución de la investigación danesa y cualquier respuesta judicial en Brasil, ya que podrían marcar cambios en la política de seguridad y en la confianza en las instituciones electorales.</p>"
-        },
-        {
-          "id": "topic-5",
-          "headline": "Incidentes variados: incendio mortal en fábrica indonesia, deforestación boreal canadiense y espionaje chino en chips de IA",
-          "summary": "Un incendio en una fábrica de caramelos en Banten dejó varios muertos y desaparecidos; mientras tanto, la tala en el bosque boreal canadiense avanza pese a los compromisos climáticos, y se reveló una campaña china para robar tecnología de chips de inteligencia artificial. Los hechos reflejan desafíos de seguridad laboral, ambiental y tecnológica a nivel global.",
-          "tags": [
-            "#incendios",
-            "#medioambiente",
-            "#ciberespionaje",
-            "#tecnología"
-          ],
-          "source_ids": [
-            6,
-            7,
-            8,
-            9,
             10,
-            11,
-            14
+            11
           ],
           "sources": [
-            {
-              "source": "Right (Fox)",
-              "title": "Indonesia candy factory fire leaves multiple dead, dozens missing",
-              "url": "https://www.foxnews.com/world/indonesia-candy-factory-fire-leaves-multiple-dead-dozens-missing"
-            },
             {
               "source": "Left (NYT)",
               "title": "Canada’s Boreal Forest Is Reshaped by Logging and Climate Change",
@@ -184,6 +148,41 @@
               "source": "Left (NYT)",
               "title": "China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal",
               "url": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://static01.nyt.com/images/2026/11/02/multimedia/00int-canada-forests01-photo-zvkl/00int-canada-forests01-photo-zvkl-mediumSquareAt3X.jpg",
+            "imageSearchQuery": "Canadian boreal forest logging climate change",
+            "caption": "Bosque boreal canadiense, hoy azotado por la tala masiva y el estrés del clima cambiante.",
+            "biasLeft": "Los medios progresistas subrayan que la tala comercial, impulsada por políticas de expansión económica, agrava la pérdida de biodiversidad y afecta a comunidades indígenas que dependen del bosque. Además, señalan que el cambio climático intensifica incendios y plagas, convirtiendo la crisis en una cuestión de justicia ambiental.",
+            "biasNeutral": "Los medios centristas no cubren este tema en los artículos suministrados.",
+            "biasRight": "Los medios conservadores no cubren este tema en los artículos suministrados.",
+            "reflection": "Para quien vive en áreas rurales o depende de recursos forestales, la degradación del bosque puede traducirse en menos empleo y mayor riesgo de desastres naturales. En los próximos días, vigile los anuncios de políticas forestales canadienses y cualquier restricción comercial sobre la exportación de madera. También preste atención a las declaraciones del gobierno chino sobre la regulación de la industria de chips, que podrían influir en la disponibilidad y precios de tecnologías de IA."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/02/multimedia/00int-canada-forests01-photo-zvkl/00int-canada-forests01-photo-zvkl-mediumSquareAt3X.jpg\" alt=\"Bosque boreal canadiense, hoy azotado por la tala masiva y el estrés del clima cambiante.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Bosque boreal canadiense, hoy azotado por la tala masiva y el estrés del clima cambiante.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan que la tala comercial, impulsada por políticas de expansión económica, agrava la pérdida de biodiversidad y afecta a comunidades indígenas que dependen del bosque. Además, señalan que el cambio climático intensifica incendios y plagas, convirtiendo la crisis en una cuestión de justicia ambiental.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas no cubren este tema en los artículos suministrados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no cubren este tema en los artículos suministrados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para quien vive en áreas rurales o depende de recursos forestales, la degradación del bosque puede traducirse en menos empleo y mayor riesgo de desastres naturales. En los próximos días, vigile los anuncios de políticas forestales canadienses y cualquier restricción comercial sobre la exportación de madera. También preste atención a las declaraciones del gobierno chino sobre la regulación de la industria de chips, que podrían influir en la disponibilidad y precios de tecnologías de IA.</p>"
+        },
+        {
+          "id": "topic-5",
+          "headline": "Polémicas y capturas en Brasil, Corea del Sur, Taiwán y México evidencian tensiones internas y de seguridad",
+          "summary": "En Brasil, Flávio Bolsonaro denunció una supuesta intervención judicial tras la derrota electoral; en Corea del Sur, el ministro de Educación renunció tras la polémica medida anti‑trampa en exámenes; en Taiwán, un comediante fue agredido por criticar a Xi Jinping; y México capturó a un capo del narcotráfico tras una cooperación binacional. Estos incidentes reflejan tensiones políticas, de derechos y de seguridad en distintas regiones.",
+          "tags": [
+            "#Brasil",
+            "#CoreaDelSur",
+            "#Taiwán",
+            "#México",
+            "#DerechosHumanos"
+          ],
+          "source_ids": [
+            9,
+            12,
+            13,
+            14
+          ],
+          "sources": [
+            {
+              "source": "Right (Fox)",
+              "title": "Flavio Bolsonaro claims judge ordered passports seized just 7 minutes after Brazil election loss",
+              "url": "https://www.foxnews.com/world/flavio-bolsonaro-claims-judge-ordered-passports-seized-just-7-minutes-after-brazil-election-loss"
             },
             {
               "source": "Left (NYT)",
@@ -199,23 +198,18 @@
               "source": "Left (NYT)",
               "title": "Drones, Texts and Diversions: How Mexico Captured a Most Wanted Man",
               "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html"
-            },
-            {
-              "source": "Right (Fox)",
-              "title": "ASRA Q. NOMANI: Communist, hard-left groups mount global youth strike to bring 'socialist revolution'",
-              "url": "https://www.foxnews.com/world/asra-q-nomani-communist-left-wing-extremist-groups-organize-youth-strike-realize-socialist-revolution"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/indonesia-candy-factory-fire.gif",
-            "imageSearchQuery": "Indonesia candy factory fire Banten workers",
-            "caption": "Una explosiva conflagración en una fábrica de dulces de Banten, la tala descontrolada del bosque boreal canadiense y el espionaje chino en chips de IA ilustran amenazas simultáneas a la vida, al clima y a la seguridad tecnológica.",
-            "biasLeft": "Los medios progresistas subrayan la responsabilidad estructural: la falta de normas de seguridad industrial que costó vidas en Indonesia, la presión del mercado y la crisis climática que impulsan la tala del bosque boreal, y la estrategia estatal china de robar know‑how para cerrar brechas tecnológicas. Enfatizan el daño colectivo y la necesidad de regulación más estricta.",
-            "biasNeutral": "No se encontró cobertura neutral o de centro entre los artículos proporcionados; los textos disponibles provienen exclusivamente de fuentes claramente izquierdas o derechas.",
-            "biasRight": "Los conservadores destacan la tragedia humana y la posible negligencia de la empresa indonesia, resaltando el impacto económico del siniestro y la necesidad de aplicar sanciones para proteger la industria. También pueden presentar el espionaje chino como una amenaza directa a la soberanía tecnológica de EE. UU. y sus aliados.",
-            "reflection": "Para la gente común, estos hechos implican riesgos inmediatos: seguridad laboral en fábricas, calidad del aire y recursos forestales que afectan la vida cotidiana, y la vulnerabilidad de dispositivos que usamos. En los próximos días, vigile los resultados de las investigaciones del incendio, las respuestas gubernamentales a la deforestación y cualquier anuncio de medidas contra el espionaje en la cadena de suministro de chips."
+            "imageUrl": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-cartel-ticktock-photo1-bpwm/22int-cartel-ticktock-photo1-bpwm-mediumSquareAt3X.jpg",
+            "imageSearchQuery": "Mexico drug cartel leader capture Fausto Isidro Meza Flores operation",
+            "caption": "Un operativo binacional atrapa al capo de la droga Fausto Isidro Meza Flores mientras en Brasil Flávio Bolsonaro denuncia una supuesta persecución judicial y en Asia surgen polémicas por control tecnológico y libertad de expresión.",
+            "biasLeft": "Los medios progresistas subrayan el carácter autoritario de las nuevas reglas anti‑IA en Corea del Sur, señalando el impacto en la igualdad educativa. En Taiwán, la cobertura se centra en la censura y el riesgo para la libertad de expresión tras el atentado contra el comediante Huang Yi‑hao. En México, el enfoque está en la violencia del narcotráfico y la necesidad de cooperación internacional para proteger a la población.",
+            "biasNeutral": "No se incluyó ninguna fuente centrista o neutral en los artículos analizados.",
+            "biasRight": "Fox News enfatiza la supuesta persecución política contra Flávio Bolsonaro y acusa al Tribunal Supremo de Brasil de manipular el proceso electoral. El relato destaca la amenaza a la soberanía y a la familia Bolsonaro. Fox no cubre los incidentes de Corea del Sur, Taiwán o México.",
+            "reflection": "Estos episodios muestran cómo disputas internas y medidas de seguridad pueden escalar rápidamente, afectando derechos civiles y la estabilidad regional. Para el ciudadano, la vigilancia de posibles restricciones legales y operativos policiales es crucial. En los próximos días, observe cómo responden los gobiernos a las críticas y si se intensifican los controles sobre la tecnología y la oposición política."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/11/indonesia-candy-factory-fire.gif\" alt=\"Una explosiva conflagración en una fábrica de dulces de Banten, la tala descontrolada del bosque boreal canadiense y el espionaje chino en chips de IA ilustran amenazas simultáneas a la vida, al clima y a la seguridad tecnológica.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Una explosiva conflagración en una fábrica de dulces de Banten, la tala descontrolada del bosque boreal canadiense y el espionaje chino en chips de IA ilustran amenazas simultáneas a la vida, al clima y a la seguridad tecnológica.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan la responsabilidad estructural: la falta de normas de seguridad industrial que costó vidas en Indonesia, la presión del mercado y la crisis climática que impulsan la tala del bosque boreal, y la estrategia estatal china de robar know‑how para cerrar brechas tecnológicas. Enfatizan el daño colectivo y la necesidad de regulación más estricta.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">No se encontró cobertura neutral o de centro entre los artículos proporcionados; los textos disponibles provienen exclusivamente de fuentes claramente izquierdas o derechas.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los conservadores destacan la tragedia humana y la posible negligencia de la empresa indonesia, resaltando el impacto económico del siniestro y la necesidad de aplicar sanciones para proteger la industria. También pueden presentar el espionaje chino como una amenaza directa a la soberanía tecnológica de EE. UU. y sus aliados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para la gente común, estos hechos implican riesgos inmediatos: seguridad laboral en fábricas, calidad del aire y recursos forestales que afectan la vida cotidiana, y la vulnerabilidad de dispositivos que usamos. En los próximos días, vigile los resultados de las investigaciones del incendio, las respuestas gubernamentales a la deforestación y cualquier anuncio de medidas contra el espionaje en la cadena de suministro de chips.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/22/multimedia/22int-cartel-ticktock-photo1-bpwm/22int-cartel-ticktock-photo1-bpwm-mediumSquareAt3X.jpg\" alt=\"Un operativo binacional atrapa al capo de la droga Fausto Isidro Meza Flores mientras en Brasil Flávio Bolsonaro denuncia una supuesta persecución judicial y en Asia surgen polémicas por control tecnológico y libertad de expresión.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Un operativo binacional atrapa al capo de la droga Fausto Isidro Meza Flores mientras en Brasil Flávio Bolsonaro denuncia una supuesta persecución judicial y en Asia surgen polémicas por control tecnológico y libertad de expresión.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan el carácter autoritario de las nuevas reglas anti‑IA en Corea del Sur, señalando el impacto en la igualdad educativa. En Taiwán, la cobertura se centra en la censura y el riesgo para la libertad de expresión tras el atentado contra el comediante Huang Yi‑hao. En México, el enfoque está en la violencia del narcotráfico y la necesidad de cooperación internacional para proteger a la población.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">No se incluyó ninguna fuente centrista o neutral en los artículos analizados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Fox News enfatiza la supuesta persecución política contra Flávio Bolsonaro y acusa al Tribunal Supremo de Brasil de manipular el proceso electoral. El relato destaca la amenaza a la soberanía y a la familia Bolsonaro. Fox no cubre los incidentes de Corea del Sur, Taiwán o México.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Estos episodios muestran cómo disputas internas y medidas de seguridad pueden escalar rápidamente, afectando derechos civiles y la estabilidad regional. Para el ciudadano, la vigilancia de posibles restricciones legales y operativos policiales es crucial. En los próximos días, observe cómo responden los gobiernos a las críticas y si se intensifican los controles sobre la tecnología y la oposición política.</p>"
         }
       ],
       "rawCount": 15
@@ -224,96 +218,25 @@
       "items": [
         {
           "id": "topic-1",
-          "headline": "La FDA autoriza el robot quirúrgico Virtuoso para extirpar tumores de vejiga",
-          "summary": "El nuevo sistema usa brazos robóticos del tamaño de una aguja y permite retirar los tumores intactos, facilitando a los patólogos analizar el músculo detrusor. Esta aprobación podría reducir cirugías invasivas y acelerar diagnósticos oncológicos.",
+          "headline": "El sector de IA atrae cientos de millones de dólares y muestra señales de sobrecalentamiento",
+          "summary": "Empresas de inteligencia artificial han recaudado cientos de millones de dólares, mientras que analistas advierten que la velocidad del crecimiento podría provocar una corrección en los mercados. La situación refleja tanto el entusiasmo por aplicaciones como robots de fábrica como el temor a una burbuja que afecte a índices como el S&P 500.",
           "tags": [
-            "#Salud",
-            "#TecnologíaMédica"
-          ],
-          "source_ids": [
-            0
-          ],
-          "sources": [
-            {
-              "source": "Right (Fox Tech)",
-              "title": "FDA clears tiny surgical robot to remove bladder tumors",
-              "url": "https://www.foxnews.com/tech/fda-clears-tiny-surgical-robot-remove-bladder-tumors"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/fda-clears-surgical-robot-bladder-tumors.jpg",
-            "imageSearchQuery": "FDA Virtuoso Endoscopy System bladder tumor robot",
-            "caption": "El nuevo robot quirúrgico Virtuoso, aprobado por la FDA, extrae tumores de vejiga con brazos del tamaño de una aguja.",
-            "biasLeft": "Los medios progresistas no cubren este tema en los artículos proporcionados.",
-            "biasNeutral": "Los medios centristas no aparecen en los artículos suministrados, por lo que no hay cobertura neutral disponible.",
-            "biasRight": "Fox Tech destaca que la autorización refuerza la competitividad tecnológica de EE. UU., subraya el potencial de reducción de costos hospitalarios y celebra la innovación que mantiene al país a la vanguardia de la medicina robótica.",
-            "reflection": "Para los pacientes con cáncer de vejiga, el robot Virtuoso promete cirugías menos invasivas y una extracción más completa del tumor, lo que puede traducirse en diagnósticos más precisos y recuperaciones más rápidas. En los próximos días, hay que vigilar la adopción de esta tecnología por parte de hospitales y cualquier anuncio de precios o reembolsos por parte de seguros."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/11/fda-clears-surgical-robot-bladder-tumors.jpg\" alt=\"El nuevo robot quirúrgico Virtuoso, aprobado por la FDA, extrae tumores de vejiga con brazos del tamaño de una aguja.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El nuevo robot quirúrgico Virtuoso, aprobado por la FDA, extrae tumores de vejiga con brazos del tamaño de una aguja.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no cubren este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas no aparecen en los artículos suministrados, por lo que no hay cobertura neutral disponible.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Fox Tech destaca que la autorización refuerza la competitividad tecnológica de EE. UU., subraya el potencial de reducción de costos hospitalarios y celebra la innovación que mantiene al país a la vanguardia de la medicina robótica.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para los pacientes con cáncer de vejiga, el robot Virtuoso promete cirugías menos invasivas y una extracción más completa del tumor, lo que puede traducirse en diagnósticos más precisos y recuperaciones más rápidas. En los próximos días, hay que vigilar la adopción de esta tecnología por parte de hospitales y cualquier anuncio de precios o reembolsos por parte de seguros.</p>"
-        },
-        {
-          "id": "topic-2",
-          "headline": "Investigadores buscan fórmulas para controlar la IA mientras la tecnología ya provoca interrupciones y nuevos usos",
-          "summary": "Un equipo liderado por Mike Winer desarrolla un marco matemático para mantener la inteligencia artificial bajo control humano, mientras expertos advierten que la IA está exponiendo fallas de seguridad en sistemas antiguos. Además, se están probando modelos de IA para encontrar ofertas y para resolver problemas matemáticos complejos, lo que muestra tanto su potencial como sus riesgos.",
-          "tags": [
-            "#InteligenciaArtificial",
-            "#Seguridad",
-            "#Innovación"
-          ],
-          "source_ids": [
-            2,
-            4,
-            9,
-            10
-          ],
-          "sources": [
-            {
-              "source": "Left (NYT Tech)",
-              "title": "Looking for the Formula to Stop an Apocalypse",
-              "url": "https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html"
-            },
-            {
-              "source": "Left (NYT Tech)",
-              "title": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
-              "url": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html"
-            },
-            {
-              "source": "Neutral (BBC Tech)",
-              "title": "Can AI really help spot Black Friday deals? We put it to the test",
-              "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "Neutral (BBC Tech)",
-              "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
-              "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://static01.nyt.com/images/2026/11/22/multimedia/22AI-Safety-promo/22AI-Safety-promo-mediumSquareAt3X.jpg",
-            "imageSearchQuery": "AI safety research, Mike Winer, systemic AI outages",
-            "caption": "Mike Winer y su equipo afinan ecuaciones que podrían contener una IA desbordada, mientras los apagones impulsados por la inteligencia artificial se hacen más frecuentes.",
-            "biasLeft": "Los medios progresistas subrayan la urgencia de crear un marco matemático que mantenga a la IA bajo control humano, describiendo la amenaza como una posible catástrofe inminente. También ponen el foco en cómo la IA está exponiendo fallas de código antiguas, obligando a revisiones regulatorias y a una mayor inversión pública en ciberseguridad.",
-            "biasNeutral": "Los canales neutrales presentan hechos concretos: prueban modelos de IA para ahorrar en compras y celebran un posible avance al usar IA para abordar el Hipótesis de Riemann, sin emitir juicios políticos. Señalan tanto el potencial económico como los retos de verificación que acompañan a estos logros.",
-            "biasRight": "Los medios conservadores no cubrieron este tema en los artículos proporcionados.",
-            "reflection": "Para el ciudadano de a pie, la falta de control sobre la IA puede traducirse en interrupciones de servicios esenciales o en decisiones automatizadas sin supervisión. En los próximos días, preste atención a cualquier anuncio de legislación o financiación gubernamental dirigida a la seguridad de la IA, ya que indicará el nivel de respuesta institucional al riesgo emergente."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/22/multimedia/22AI-Safety-promo/22AI-Safety-promo-mediumSquareAt3X.jpg\" alt=\"Mike Winer y su equipo afinan ecuaciones que podrían contener una IA desbordada, mientras los apagones impulsados por la inteligencia artificial se hacen más frecuentes.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Mike Winer y su equipo afinan ecuaciones que podrían contener una IA desbordada, mientras los apagones impulsados por la inteligencia artificial se hacen más frecuentes.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan la urgencia de crear un marco matemático que mantenga a la IA bajo control humano, describiendo la amenaza como una posible catástrofe inminente. También ponen el foco en cómo la IA está exponiendo fallas de código antiguas, obligando a revisiones regulatorias y a una mayor inversión pública en ciberseguridad.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los canales neutrales presentan hechos concretos: prueban modelos de IA para ahorrar en compras y celebran un posible avance al usar IA para abordar el Hipótesis de Riemann, sin emitir juicios políticos. Señalan tanto el potencial económico como los retos de verificación que acompañan a estos logros.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no cubrieron este tema en los artículos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el ciudadano de a pie, la falta de control sobre la IA puede traducirse en interrupciones de servicios esenciales o en decisiones automatizadas sin supervisión. En los próximos días, preste atención a cualquier anuncio de legislación o financiación gubernamental dirigida a la seguridad de la IA, ya que indicará el nivel de respuesta institucional al riesgo emergente.</p>"
-        },
-        {
-          "id": "topic-3",
-          "headline": "Financiamiento multimillonario y la salida a bolsa de Anthropic sacuden los mercados tecnológicos",
-          "summary": "Genesis AI recibió 500 millones de dólares para expandir su robot generalista Eno, y la compañía Anthropic recaudó una cifra récord en su IPO, pero su primera jornada de cotización fue volátil y contribuyó a la caída del S&P 500. Los analistas señalan que la alta inversión en IA está generando incertidumbre en los mercados.",
-          "tags": [
-            "#FinanzasTech",
             "#IA",
+            "#Inversión",
             "#Mercados"
           ],
           "source_ids": [
-            6,
-            8,
-            12
+            0,
+            7,
+            9,
+            13
           ],
           "sources": [
+            {
+              "source": "Neutral (BBC Tech)",
+              "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+              "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss"
+            },
             {
               "source": "Right (Fox Tech)",
               "title": "$500M investment could bring AI robots to your workplace",
@@ -331,28 +254,64 @@
             }
           ],
           "deepDive": {
-            "imageUrl": "https://static01.nyt.com/images/2026/11/20/multimedia/20biz-anthropic-aftermath-cwvh/20biz-anthropic-aftermath-cwvh-mediumSquareAt3X.jpg",
-            "imageSearchQuery": "Anthropic IPO stock plunge AI market debut tech sell-off",
-            "caption": "Las acciones de Anthropic se desploman mientras el mercado tecnológico sufre una corrección tras su histórica salida a bolsa.",
-            "biasLeft": "Los medios progresistas subrayan la brecha entre la euforia de Wall Street y la realidad de los ingenieros de Silicon Valley, señalando que la enorme financiación no garantiza un modelo de negocio sostenible. Además, enfatizan la preocupación por el gasto desmesurado en IA y cuestionan si la valoración está inflada.",
-            "biasNeutral": "Los medios centristas se limitan a describir los efectos inmediatos en los índices bursátiles, informando que el S&P 500 y el Dow Jones entraron en territorio de corrección tras la caída de Anthropic. Mantienen una postura descriptiva, sin asignar culpa y resaltando la volatilidad del sector.",
-            "biasRight": "Los medios conservadores no publicaron una pieza sobre la salida a bolsa de Anthropic.",
-            "reflection": "Para el inversor particular, la caída de Anthropic muestra que las acciones de alto crecimiento en IA pueden ser más volátiles de lo esperado, lo que aconseja prudencia al incluirlas en una cartera. En los próximos días, siga de cerca la evolución del Nasdaq y cualquier anuncio de gasto de grandes compañías de IA para calibrar el nivel de riesgo."
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4d7f/live/712502a0-e2cd-11f1-99ed-7de3e5932968.jpg",
+            "imageSearchQuery": "San Francisco AI boom investors",
+            "caption": "Los empleados de IA en San Francisco observan con inquietud el auge de cientos de millones de dólares que amenaza con sobrecalentarse.",
+            "biasLeft": "Los medios progresistas resaltan la brecha entre la euforia de Wall Street y la realidad de los desarrolladores de IA, subrayando riesgos de una inversión descontrolada que podría desplazar empleos y agravar desigualdades. Señalan que el impulso de capital sin una regulación clara pone en juego tanto la estabilidad del mercado como la protección de los trabajadores.",
+            "biasNeutral": "Los medios centristas describen el crecimiento del sector con datos concretos: grandes rondas de financiación, la expansión de robots como Eno y la reciente caída de las acciones de Anthropic que arrastró a los principales índices a corrección. Plantean preguntas sobre la sostenibilidad del ritmo de inversión y advierten sobre posibles ajustes en el futuro cercano.",
+            "biasRight": "Los medios conservadores enfocan la historia en la oportunidad económica que representa la inyección de $500 millones, destacando cómo los robots de Genesis AI pueden aumentar la productividad y crear nuevos puestos de trabajo. Insisten en que la preocupación por un “sobrecalentamiento” es exagerada y que la innovación tecnológica fortalece la competitividad del país.",
+            "reflection": "Para el ciudadano de a pie, el tema importa porque la volatilidad del sector de IA puede afectar sus ahorros y su empleo, ya sea por fluctuaciones en la bolsa o por la introducción de robots en el trabajo cotidiano. En los próximos días, vigile los movimientos del precio de las acciones de empresas de IA y cualquier anuncio de nuevas rondas de financiación que pueda confirmar o disipar la señal de sobrecalentamiento."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/20/multimedia/20biz-anthropic-aftermath-cwvh/20biz-anthropic-aftermath-cwvh-mediumSquareAt3X.jpg\" alt=\"Las acciones de Anthropic se desploman mientras el mercado tecnológico sufre una corrección tras su histórica salida a bolsa.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Las acciones de Anthropic se desploman mientras el mercado tecnológico sufre una corrección tras su histórica salida a bolsa.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan la brecha entre la euforia de Wall Street y la realidad de los ingenieros de Silicon Valley, señalando que la enorme financiación no garantiza un modelo de negocio sostenible. Además, enfatizan la preocupación por el gasto desmesurado en IA y cuestionan si la valoración está inflada.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas se limitan a describir los efectos inmediatos en los índices bursátiles, informando que el S&amp;P 500 y el Dow Jones entraron en territorio de corrección tras la caída de Anthropic. Mantienen una postura descriptiva, sin asignar culpa y resaltando la volatilidad del sector.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no publicaron una pieza sobre la salida a bolsa de Anthropic.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el inversor particular, la caída de Anthropic muestra que las acciones de alto crecimiento en IA pueden ser más volátiles de lo esperado, lo que aconseja prudencia al incluirlas en una cartera. En los próximos días, siga de cerca la evolución del Nasdaq y cualquier anuncio de gasto de grandes compañías de IA para calibrar el nivel de riesgo.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4d7f/live/712502a0-e2cd-11f1-99ed-7de3e5932968.jpg\" alt=\"Los empleados de IA en San Francisco observan con inquietud el auge de cientos de millones de dólares que amenaza con sobrecalentarse.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Los empleados de IA en San Francisco observan con inquietud el auge de cientos de millones de dólares que amenaza con sobrecalentarse.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas resaltan la brecha entre la euforia de Wall Street y la realidad de los desarrolladores de IA, subrayando riesgos de una inversión descontrolada que podría desplazar empleos y agravar desigualdades. Señalan que el impulso de capital sin una regulación clara pone en juego tanto la estabilidad del mercado como la protección de los trabajadores.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas describen el crecimiento del sector con datos concretos: grandes rondas de financiación, la expansión de robots como Eno y la reciente caída de las acciones de Anthropic que arrastró a los principales índices a corrección. Plantean preguntas sobre la sostenibilidad del ritmo de inversión y advierten sobre posibles ajustes en el futuro cercano.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores enfocan la historia en la oportunidad económica que representa la inyección de $500 millones, destacando cómo los robots de Genesis AI pueden aumentar la productividad y crear nuevos puestos de trabajo. Insisten en que la preocupación por un “sobrecalentamiento” es exagerada y que la innovación tecnológica fortalece la competitividad del país.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el ciudadano de a pie, el tema importa porque la volatilidad del sector de IA puede afectar sus ahorros y su empleo, ya sea por fluctuaciones en la bolsa o por la introducción de robots en el trabajo cotidiano. En los próximos días, vigile los movimientos del precio de las acciones de empresas de IA y cualquier anuncio de nuevas rondas de financiación que pueda confirmar o disipar la señal de sobrecalentamiento.</p>"
         },
         {
-          "id": "topic-4",
-          "headline": "GTA VI rompe récords de ventas, consolidándose como el lanzamiento de entretenimiento más grande",
-          "summary": "El videojuego alcanzó 3,8 mil millones de dólares en ingresos el primer día, superando a cualquier estreno de cine o videojuego previo. El éxito destaca la creciente influencia de la industria del gaming en la economía global.",
+          "id": "topic-2",
+          "headline": "Investigadores usan IA para intentar controlar la tecnología y para resolver problemas matemáticos inéditos",
+          "summary": "Un equipo de investigadores está desarrollando un marco matemático para mantener a la IA bajo control humano, mientras que otro científico afirma haber utilizado una IA para demostrar la hipótesis de Riemann, uno de los problemas más difíciles de la matemática. Ambos trabajos ponen de relieve el poder y los riesgos de la inteligencia artificial avanzada.",
           "tags": [
-            "#Videojuegos",
-            "#Entretenimiento",
-            "#Economía"
+            "#IA",
+            "#Seguridad",
+            "#Matemáticas"
           ],
           "source_ids": [
             3,
             11
+          ],
+          "sources": [
+            {
+              "source": "Left (NYT Tech)",
+              "title": "Looking for the Formula to Stop an Apocalypse",
+              "url": "https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html"
+            },
+            {
+              "source": "Neutral (BBC Tech)",
+              "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
+              "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://static01.nyt.com/images/2026/11/22/multimedia/22AI-Safety-promo/22AI-Safety-promo-mediumSquareAt3X.jpg",
+            "imageSearchQuery": "AI safety mathematics proof Riemann hypothesis",
+            "caption": "Investigadores de IA trazan una fórmula para contener la inteligencia artificial mientras otro equipo asegura haber demostrado la hipótesis de Riemann con ayuda de la máquina.",
+            "biasLeft": "Los medios progresistas ponen el acento en la necesidad urgente de crear salvaguardas matemáticas que mantengan a la IA bajo control humano, resaltando el riesgo existencial y la presión de tiempo. Subrayan la responsabilidad colectiva y la ética en la investigación tecnológica.",
+            "biasNeutral": "Los informes neutrales se limitan a describir los hechos: un equipo de Anthropic afirma haber usado IA para probar la hipótesis de Riemann, y se advierte que la validación requerirá revisión por pares. No adoptan una postura moral, enfocándose en la novedad y los pasos siguientes.",
+            "biasRight": "Los artículos de derecha no cubren este tema en los ejemplos proporcionados.",
+            "reflection": "Este asunto importa porque la seguridad de la IA afecta la confianza en los sistemas que usamos a diario, y una posible prueba de la hipótesis de Riemann podría revolucionar la criptografía que protege nuestras finanzas. En los próximos días, vigile los anuncios oficiales de verificación del teorema y cualquier política pública sobre mecanismos de control de IA."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/22/multimedia/22AI-Safety-promo/22AI-Safety-promo-mediumSquareAt3X.jpg\" alt=\"Investigadores de IA trazan una fórmula para contener la inteligencia artificial mientras otro equipo asegura haber demostrado la hipótesis de Riemann con ayuda de la máquina.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Investigadores de IA trazan una fórmula para contener la inteligencia artificial mientras otro equipo asegura haber demostrado la hipótesis de Riemann con ayuda de la máquina.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas ponen el acento en la necesidad urgente de crear salvaguardas matemáticas que mantengan a la IA bajo control humano, resaltando el riesgo existencial y la presión de tiempo. Subrayan la responsabilidad colectiva y la ética en la investigación tecnológica.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los informes neutrales se limitan a describir los hechos: un equipo de Anthropic afirma haber usado IA para probar la hipótesis de Riemann, y se advierte que la validación requerirá revisión por pares. No adoptan una postura moral, enfocándose en la novedad y los pasos siguientes.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los artículos de derecha no cubren este tema en los ejemplos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Este asunto importa porque la seguridad de la IA afecta la confianza en los sistemas que usamos a diario, y una posible prueba de la hipótesis de Riemann podría revolucionar la criptografía que protege nuestras finanzas. En los próximos días, vigile los anuncios oficiales de verificación del teorema y cualquier política pública sobre mecanismos de control de IA.</p>"
+        },
+        {
+          "id": "topic-3",
+          "headline": "GTA VI rompe récords de ventas y se consolida como hito cultural",
+          "summary": "El último lanzamiento de la saga Grand Theft Auto generó 3.800 millones de dólares en su primer día, superando cualquier récord previo en videojuegos y cine. Además, críticos destacan su relevancia cultural y el impacto económico en la industria del entretenimiento.",
+          "tags": [
+            "#Videojuegos",
+            "#GTA6",
+            "#Entretenimiento"
+          ],
+          "source_ids": [
+            4,
+            12
           ],
           "sources": [
             {
@@ -368,29 +327,58 @@
           ],
           "deepDive": {
             "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3096/live/f678f6e0-e4cc-11f1-99b6-a35a62fa4264.jpg",
-            "imageSearchQuery": "GTA 6 launch sales record worldwide day one",
-            "caption": "GTA VI arrasa con $3.800 millones en ventas el primer día, batiendo cualquier estreno de entretenimiento jamás visto.",
-            "biasLeft": "Los medios progresistas subrayan que el éxito de GTA VI es un “logro humano monumental”, resaltando su capacidad para reunir a millones y generar conversaciones culturales. También enlazan el fenómeno con la innovación tecnológica, citando la presión que ejerce sobre la industria para mejorar la experiencia del usuario. Finalmente, insinúan que la magnitud del lanzamiento refleja una demanda de escapismo colectivo en tiempos de incertidumbre.",
-            "biasNeutral": "Los medios centrados presentan datos duros: $3.8 mil millones en ventas en 24 horas, superando récords de videojuegos y de taquilla en cine. Señalan que la cifra convierte a GTA VI en el mayor lanzamiento de entretenimiento de la historia, sin ofrecer juicios de valor. También mencionan que la cifra se compara con los ingresos diarios de los mayores blockbusters, ofreciendo contexto numérico claro.",
-            "biasRight": "Los medios de derecha no cubren este tema en los artículos proporcionados.",
-            "reflection": "Para el consumidor promedio, este récord indica que la industria del ocio está dispuesta a invertir recursos masivos en experiencias digitales, lo que podría traducirse en precios más altos o en más contenido premium. En los próximos días, vigila la reacción de los mercados financieros y los anuncios de actualizaciones o DLC, que señalarán si la ola de gasto se mantendrá o será una explosión puntual."
+            "imageSearchQuery": "GTA VI launch sales record",
+            "caption": "GTA VI rompe la barrera de los 3.8 mil millones de dólares en su primer día, marcando un hito sin precedentes en el entretenimiento.",
+            "biasLeft": "Los medios progresistas subrayan el carácter colectivo del logro, presentándolo como una hazaña cultural que reúne a jugadores de todo el planeta. Enfatizan cómo la experiencia digital se ha convertido en un espacio de interacción social y expresión creativa, más allá del mero consumo de un producto. También mencionan la innovación tecnológica como muestra del potencial humano en la era de la IA y los gráficos de última generación.",
+            "biasNeutral": "Los canales neutros se centran en los números: 3,8 mil millones de dólares en ventas en 24 horas, superando cualquier lanzamiento de videojuego y récord de taquilla de una película en un solo día. Informan de la magnitud del fenómeno sin entrar en juicios de valor, señalando que la cifra coloca a GTA VI como el mayor debut comercial de la historia del entretenimiento.",
+            "biasRight": "Los medios conservadores no cubrieron este tema en los artículos suministrados.",
+            "reflection": "Este récord muestra el poder de gasto de los consumidores en entretenimiento digital, lo que puede influir en la confianza del consumidor y en los índices de mercado en los próximos días. Vigile los movimientos de las acciones de Rockstar Games, Take‑Two y los analistas que revisarán los pronósticos de ingresos del sector de videojuegos."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3096/live/f678f6e0-e4cc-11f1-99b6-a35a62fa4264.jpg\" alt=\"GTA VI arrasa con $3.800 millones en ventas el primer día, batiendo cualquier estreno de entretenimiento jamás visto.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">GTA VI arrasa con $3.800 millones en ventas el primer día, batiendo cualquier estreno de entretenimiento jamás visto.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan que el éxito de GTA VI es un “logro humano monumental”, resaltando su capacidad para reunir a millones y generar conversaciones culturales. También enlazan el fenómeno con la innovación tecnológica, citando la presión que ejerce sobre la industria para mejorar la experiencia del usuario. Finalmente, insinúan que la magnitud del lanzamiento refleja una demanda de escapismo colectivo en tiempos de incertidumbre.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centrados presentan datos duros: $3.8 mil millones en ventas en 24 horas, superando récords de videojuegos y de taquilla en cine. Señalan que la cifra convierte a GTA VI en el mayor lanzamiento de entretenimiento de la historia, sin ofrecer juicios de valor. También mencionan que la cifra se compara con los ingresos diarios de los mayores blockbusters, ofreciendo contexto numérico claro.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios de derecha no cubren este tema en los artículos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el consumidor promedio, este récord indica que la industria del ocio está dispuesta a invertir recursos masivos en experiencias digitales, lo que podría traducirse en precios más altos o en más contenido premium. En los próximos días, vigila la reacción de los mercados financieros y los anuncios de actualizaciones o DLC, que señalarán si la ola de gasto se mantendrá o será una explosión puntual.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3096/live/f678f6e0-e4cc-11f1-99b6-a35a62fa4264.jpg\" alt=\"GTA VI rompe la barrera de los 3.8 mil millones de dólares en su primer día, marcando un hito sin precedentes en el entretenimiento.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">GTA VI rompe la barrera de los 3.8 mil millones de dólares en su primer día, marcando un hito sin precedentes en el entretenimiento.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan el carácter colectivo del logro, presentándolo como una hazaña cultural que reúne a jugadores de todo el planeta. Enfatizan cómo la experiencia digital se ha convertido en un espacio de interacción social y expresión creativa, más allá del mero consumo de un producto. También mencionan la innovación tecnológica como muestra del potencial humano en la era de la IA y los gráficos de última generación.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los canales neutros se centran en los números: 3,8 mil millones de dólares en ventas en 24 horas, superando cualquier lanzamiento de videojuego y récord de taquilla de una película en un solo día. Informan de la magnitud del fenómeno sin entrar en juicios de valor, señalando que la cifra coloca a GTA VI como el mayor debut comercial de la historia del entretenimiento.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no cubrieron este tema en los artículos suministrados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Este récord muestra el poder de gasto de los consumidores en entretenimiento digital, lo que puede influir en la confianza del consumidor y en los índices de mercado en los próximos días. Vigile los movimientos de las acciones de Rockstar Games, Take‑Two y los analistas que revisarán los pronósticos de ingresos del sector de videojuegos.</p>"
+        },
+        {
+          "id": "topic-4",
+          "headline": "La FDA aprueba un robot quirúrgico miniaturizado para extirpar tumores de vejiga",
+          "summary": "La Administración de Alimentos y Medicamentos (FDA) autorizó el sistema Virtuoso Endoscopy, un robot del tamaño de una aguja capaz de extraer tumores vesicales completos para su análisis patológico. La innovación promete mejorar la precisión diagnóstica y reducir complicaciones para los pacientes.",
+          "tags": [
+            "#Salud",
+            "#Robótica",
+            "#FDA"
+          ],
+          "source_ids": [
+            1
+          ],
+          "sources": [
+            {
+              "source": "Right (Fox Tech)",
+              "title": "FDA clears tiny surgical robot to remove bladder tumors",
+              "url": "https://www.foxnews.com/tech/fda-clears-tiny-surgical-robot-remove-bladder-tumors"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/fda-clears-surgical-robot-bladder-tumors.jpg",
+            "imageSearchQuery": "FDA approved surgical robot bladder tumor removal",
+            "caption": "El nuevo robot Virtuoso Endoscopy, del tamaño de una aguja, se prepara para extraer tumores de vejiga con precisión quirúrgica.",
+            "biasLeft": "Los medios progresistas no cubrieron este tema en los artículos proporcionados.",
+            "biasNeutral": "Los medios centristas no aparecen en los documentos analizados.",
+            "biasRight": "Fox Tech resalta que la autorización de la FDA posiciona a EE. UU. a la vanguardia de la tecnología médica, subrayando potenciales ahorros y mejoras en la detección temprana del cáncer de vejiga. Se enfatiza la capacidad del robot para extraer tumores intactos, facilitando diagnósticos más precisos y reduciendo la necesidad de procedimientos invasivos. También se menciona el impulso económico que supone la adopción de esta innovación en los hospitales.",
+            "reflection": "Para el paciente, un diagnóstico más exacto y una cirugía menos invasiva pueden traducirse en recuperaciones más rápidas y menos complicaciones. En los próximos días, habrá que observar si otros reguladores internacionales siguen el paso de la FDA y si los hospitales comienzan a incorporar el robot en sus protocolos."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/11/fda-clears-surgical-robot-bladder-tumors.jpg\" alt=\"El nuevo robot Virtuoso Endoscopy, del tamaño de una aguja, se prepara para extraer tumores de vejiga con precisión quirúrgica.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El nuevo robot Virtuoso Endoscopy, del tamaño de una aguja, se prepara para extraer tumores de vejiga con precisión quirúrgica.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no cubrieron este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas no aparecen en los documentos analizados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Fox Tech resalta que la autorización de la FDA posiciona a EE. UU. a la vanguardia de la tecnología médica, subrayando potenciales ahorros y mejoras en la detección temprana del cáncer de vejiga. Se enfatiza la capacidad del robot para extraer tumores intactos, facilitando diagnósticos más precisos y reduciendo la necesidad de procedimientos invasivos. También se menciona el impulso económico que supone la adopción de esta innovación en los hospitales.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el paciente, un diagnóstico más exacto y una cirugía menos invasiva pueden traducirse en recuperaciones más rápidas y menos complicaciones. En los próximos días, habrá que observar si otros reguladores internacionales siguen el paso de la FDA y si los hospitales comienzan a incorporar el robot en sus protocolos.</p>"
         },
         {
           "id": "topic-5",
-          "headline": "Fugas de datos y nuevas amenazas de seguridad afectan a consumidores y empresas tecnológicas",
-          "summary": "JPMorgan reveló que hackers accedieron a información de clientes de Visa y Mastercard a través de proveedores externos, mientras que casos de robo de identidad siguen siendo comunes y el presidente Trump anunció una posible prohibición a centros de datos de IA en el extranjero. Además, Uber lanzó su servicio de estacionamiento en 15 ciudades, ampliando la oferta de movilidad urbana.",
+          "headline": "Crecen los incidentes de ciberseguridad: filtraciones de datos y vulnerabilidades expuestas por la IA",
+          "summary": "Una serie de filtraciones expuso datos de clientes de Visa, Mastercard y JPMorgan, mientras que la IA está revelando vulnerabilidades ocultas en sistemas críticos, aumentando el número de incidentes de ciberseguridad. Estas brechas obligan a empresas y usuarios a reforzar medidas de protección y a reconsiderar su confianza en la tecnología digital.",
           "tags": [
             "#Ciberseguridad",
             "#Privacidad",
-            "#PolíticaTech"
+            "#IA"
           ],
           "source_ids": [
-            1,
-            7,
-            13,
-            14
+            2,
+            5,
+            8
           ],
           "sources": [
             {
@@ -399,31 +387,26 @@
               "url": "https://www.foxnews.com/tech/what-really-happens-when-you-need-help-restoring-your-identity"
             },
             {
+              "source": "Left (NYT Tech)",
+              "title": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
+              "url": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html"
+            },
+            {
               "source": "Right (Fox Tech)",
               "title": "Visa, Mastercard and JPMorgan customer data leaked",
               "url": "https://www.foxnews.com/tech/visa-mastercard-jpmorgan-customer-data-leaked"
-            },
-            {
-              "source": "Neutral (BBC Tech)",
-              "title": "Trump threatens ban on US firms building AI data centres overseas",
-              "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "Right (Fox Tech)",
-              "title": "Uber Parking could save you from circling the block",
-              "url": "https://www.foxnews.com/tech/uber-parking-save-circling-block"
             }
           ],
           "deepDive": {
             "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/Customer-Data-Leak-Photo-3.jpg",
-            "imageSearchQuery": "JPMorgan data breach Visa Mastercard leak",
-            "caption": "Hackers acceden a datos de clientes de Visa, Mastercard y JPMorgan, dejando a millones en riesgo de fraude.",
-            "biasLeft": "Los medios progresistas no cubren este tema en los artículos proporcionados.",
-            "biasNeutral": "Los medios neutrales no incluyen cobertura del derrame de datos en los artículos suministrados.",
-            "biasRight": "Los medios conservadores resaltan la gravedad del fallo de seguridad, el daño económico potencial para consumidores y empresas, y la necesidad de reforzar las defensas cibernéticas frente a grupos de extorsión.",
-            "reflection": "Para una persona, esto significa mayor vulnerabilidad a robos de identidad y cargos no autorizados; es crucial vigilar estados de cuenta y activar alertas de fraude. En los próximos días, observe si aparecen nuevas notificaciones de congelación de crédito o comunicados de los bancos sobre medidas de protección."
+            "imageSearchQuery": "JPMorgan data breach Visa Mastercard leak 2026",
+            "caption": "Datos de clientes de Visa y Mastercard expuestos tras el hackeo a JPMorgan, una señal de la creciente vulnerabilidad digital.",
+            "biasLeft": "Los medios progresistas resaltan que la IA está sacando a la luz vulnerabilidades históricas ignoradas, y exigen una política pública que priorice la seguridad cibernética y la protección de los consumidores. Subrayan la necesidad de normas más estrictas y de inversión estatal en infraestructura tecnológica para evitar que estos fallos persistan.",
+            "biasNeutral": "Los medios centristas no abordaron este tema en los artículos proporcionados.",
+            "biasRight": "Los medios conservadores se centran en el daño económico y la amenaza a la seguridad nacional que provocan las filtraciones de datos de grandes instituciones financieras. Destacan la importancia de medidas rápidas de mitigación y la responsabilidad de las empresas privadas en proteger la información de sus clientes. También resaltan la necesidad de que los usuarios actúen con cautela, congelando crédito y activando alertas de fraude.",
+            "reflection": "Para una persona común, la exposición de datos bancarios aumenta el riesgo de fraude y robo de identidad, por lo que es vital revisar estados de cuenta y activar alertas de seguridad. En los próximos días, vigile si aparecen nuevas regulaciones o comunicados de los bancos sobre medidas de protección y posibles compensaciones."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/11/Customer-Data-Leak-Photo-3.jpg\" alt=\"Hackers acceden a datos de clientes de Visa, Mastercard y JPMorgan, dejando a millones en riesgo de fraude.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Hackers acceden a datos de clientes de Visa, Mastercard y JPMorgan, dejando a millones en riesgo de fraude.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no cubren este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios neutrales no incluyen cobertura del derrame de datos en los artículos suministrados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores resaltan la gravedad del fallo de seguridad, el daño económico potencial para consumidores y empresas, y la necesidad de reforzar las defensas cibernéticas frente a grupos de extorsión.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para una persona, esto significa mayor vulnerabilidad a robos de identidad y cargos no autorizados; es crucial vigilar estados de cuenta y activar alertas de fraude. En los próximos días, observe si aparecen nuevas notificaciones de congelación de crédito o comunicados de los bancos sobre medidas de protección.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/11/Customer-Data-Leak-Photo-3.jpg\" alt=\"Datos de clientes de Visa y Mastercard expuestos tras el hackeo a JPMorgan, una señal de la creciente vulnerabilidad digital.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Datos de clientes de Visa y Mastercard expuestos tras el hackeo a JPMorgan, una señal de la creciente vulnerabilidad digital.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas resaltan que la IA está sacando a la luz vulnerabilidades históricas ignoradas, y exigen una política pública que priorice la seguridad cibernética y la protección de los consumidores. Subrayan la necesidad de normas más estrictas y de inversión estatal en infraestructura tecnológica para evitar que estos fallos persistan.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas no abordaron este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores se centran en el daño económico y la amenaza a la seguridad nacional que provocan las filtraciones de datos de grandes instituciones financieras. Destacan la importancia de medidas rápidas de mitigación y la responsabilidad de las empresas privadas en proteger la información de sus clientes. También resaltan la necesidad de que los usuarios actúen con cautela, congelando crédito y activando alertas de fraude.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para una persona común, la exposición de datos bancarios aumenta el riesgo de fraude y robo de identidad, por lo que es vital revisar estados de cuenta y activar alertas de seguridad. En los próximos días, vigile si aparecen nuevas regulaciones o comunicados de los bancos sobre medidas de protección y posibles compensaciones.</p>"
         }
       ],
       "rawCount": 15
@@ -432,50 +415,90 @@
       "items": [
         {
           "id": "topic-1",
-          "headline": "Nvidia ve caer sus acciones mientras EE. UU. presiona a la empresa sobre ventas de chips a China",
-          "summary": "El secretario del Tesoro exigió explicaciones a Nvidia sobre la exportación de chips a Beijing, y al mismo tiempo el valor de la compañía se desplomó un 14 % en Wall Street, arrastrando al sector tecnológico a una corrección. La situación pone en evidencia la tensión entre la demanda de inteligencia artificial y la política de control de exportaciones.",
+          "headline": "El mercado accionario sufre fuerte caída y la incertidumbre sobre Nvidia intensifica la volatilidad",
+          "summary": "Los futuros del S&P 500 subieron tras una semana turbulenta, pero el lunes el índice cayó de nuevo, arrastrado por la venta masiva de acciones de Nvidia y otras compañías de IA. Analistas advierten que la falta de claridad sobre las ventas de chips a China podría mantener la presión sobre los mercados.",
           "tags": [
+            "#Mercado",
             "#Nvidia",
-            "#EEUU",
-            "#China",
-            "#Mercados"
+            "#Volatilidad"
           ],
           "source_ids": [
             0,
-            8
+            9,
+            3
           ],
           "sources": [
             {
               "source": "Left (NYT Business)",
-              "title": "Scott Bessent Calls on Nvidia to Provide Answers on Chip Sales to China",
-              "url": "https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html"
+              "title": "S&P 500 Futures Rise After Tough Week",
+              "url": "https://www.nytimes.com/2026/11/22/business/ai-stocks-sp500.html"
             },
             {
               "source": "Right (Fox Business)",
               "title": "Wall Street suffers historic losses as Dow, S&P 500 plunge into correction territory",
               "url": "https://www.foxbusiness.com/markets/wall-street-suffers-historic-losses-dow-sp-500-plunge-correction-territory"
+            },
+            {
+              "source": "Left (NYT Business)",
+              "title": "Scott Bessent Calls on Nvidia to Provide Answers on Chip Sales to China",
+              "url": "https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://static01.nyt.com/images/2026/11/22/multimedia/22dc-nvidia-bessent-cfzt/22dc-nvidia-bessent-cfzt-mediumSquareAt3X.jpg",
-            "imageSearchQuery": "Nvidia China chip sales pressure Jensen Huang testimony market selloff",
-            "caption": "Jensen Huang y su equipo enfrentan la presión de EE.UU. mientras las acciones de Nvidia caen un 14% tras la controversia sobre la venta de chips a China.",
-            "biasLeft": "Los medios progresistas resaltan la exigencia de transparencia de Nvidia ante el gobierno estadounidense, enfocándose en la responsabilidad corporativa y en los riesgos de suministrar tecnología avanzada a un régimen autoritario. Subrayan la necesidad de respuestas claras sobre la política de exportación y sus implicaciones éticas.",
-            "biasNeutral": "Los informes centristas no aparecen en los artículos proporcionados; no se encontró cobertura neutral específica del tema.",
-            "biasRight": "Los medios conservadores ponen el acento en la caída abrupta del mercado, describiendo el desplome de Nvidia como una señal de que la sobrevaloración del sector de IA está retrocediendo. Enfatizan el impacto económico de la venta de acciones y el temor de que la presión regulatoria pueda frenar el crecimiento del sector tecnológico.",
-            "reflection": "Para el inversor promedio, la turbulencia en Nvidia indica que la exposición a empresas de IA está sujeta a riesgos regulatorios y de mercado. En los próximos días habrá que seguir cualquier anuncio del Tesoro o la SEC sobre restricciones a China y la respuesta de Nvidia en sus resultados trimestrales."
+            "imageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/wall-street-historic-stock-market-selloff-1.jpg?ve=1&tl=1",
+            "imageSearchQuery": "Wall Street selloff Nvidia stock decline 2026",
+            "caption": "El Dow y el S&P 500 se desploman mientras Nvidia pierde un 14 % y el Nasdaq cae a territorio de corrección.",
+            "biasLeft": "Los medios progresistas resaltan la incertidumbre sistémica que genera la dependencia de Nvidia en el mercado chino, pidiendo respuestas claras sobre las ventas de chips a China. Además, subrayan que la volatilidad reciente pone de relieve la necesidad de regulaciones más estrictas para evitar riesgos financieros amplificados por la IA. Enfatizan también el impacto potencial sobre los trabajadores y la economía real si se mantiene la turbulencia.",
+            "biasNeutral": "No hay fuentes centristas o wire en los artículos proporcionados que ofrezcan una cobertura neutral del tema.",
+            "biasRight": "Los medios conservadores destacan la magnitud histórica de la caída del mercado y el golpe a la confianza de los inversionistas, vinculándolo a temores sobre la IA y la exposición a riesgos externos. Señalan que la caída de Nvidia y de otras acciones como Anthropic refleja una sobrevaloración del sector tecnológico. Subrayan la importancia de la seguridad económica y la soberanía tecnológica frente a la presión china.",
+            "reflection": "Para el ciudadano de a pie, la caída de Nvidia y el retroceso del mercado afectan directamente los fondos de pensiones y los ahorros vinculados a índices bursátiles. En los próximos días, la señal a vigilar es la respuesta de Nvidia y del gobierno estadounidense sobre las ventas de chips a China, ya que cualquier anuncio podría estabilizar o agravar la volatilidad del mercado."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/22/multimedia/22dc-nvidia-bessent-cfzt/22dc-nvidia-bessent-cfzt-mediumSquareAt3X.jpg\" alt=\"Jensen Huang y su equipo enfrentan la presión de EE.UU. mientras las acciones de Nvidia caen un 14% tras la controversia sobre la venta de chips a China.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Jensen Huang y su equipo enfrentan la presión de EE.UU. mientras las acciones de Nvidia caen un 14% tras la controversia sobre la venta de chips a China.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas resaltan la exigencia de transparencia de Nvidia ante el gobierno estadounidense, enfocándose en la responsabilidad corporativa y en los riesgos de suministrar tecnología avanzada a un régimen autoritario. Subrayan la necesidad de respuestas claras sobre la política de exportación y sus implicaciones éticas.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los informes centristas no aparecen en los artículos proporcionados; no se encontró cobertura neutral específica del tema.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores ponen el acento en la caída abrupta del mercado, describiendo el desplome de Nvidia como una señal de que la sobrevaloración del sector de IA está retrocediendo. Enfatizan el impacto económico de la venta de acciones y el temor de que la presión regulatoria pueda frenar el crecimiento del sector tecnológico.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el inversor promedio, la turbulencia en Nvidia indica que la exposición a empresas de IA está sujeta a riesgos regulatorios y de mercado. En los próximos días habrá que seguir cualquier anuncio del Tesoro o la SEC sobre restricciones a China y la respuesta de Nvidia en sus resultados trimestrales.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/wall-street-historic-stock-market-selloff-1.jpg?ve=1&amp;tl=1\" alt=\"El Dow y el S&amp;P 500 se desploman mientras Nvidia pierde un 14 % y el Nasdaq cae a territorio de corrección.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El Dow y el S&amp;P 500 se desploman mientras Nvidia pierde un 14 % y el Nasdaq cae a territorio de corrección.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas resaltan la incertidumbre sistémica que genera la dependencia de Nvidia en el mercado chino, pidiendo respuestas claras sobre las ventas de chips a China. Además, subrayan que la volatilidad reciente pone de relieve la necesidad de regulaciones más estrictas para evitar riesgos financieros amplificados por la IA. Enfatizan también el impacto potencial sobre los trabajadores y la economía real si se mantiene la turbulencia.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">No hay fuentes centristas o wire en los artículos proporcionados que ofrezcan una cobertura neutral del tema.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores destacan la magnitud histórica de la caída del mercado y el golpe a la confianza de los inversionistas, vinculándolo a temores sobre la IA y la exposición a riesgos externos. Señalan que la caída de Nvidia y de otras acciones como Anthropic refleja una sobrevaloración del sector tecnológico. Subrayan la importancia de la seguridad económica y la soberanía tecnológica frente a la presión china.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el ciudadano de a pie, la caída de Nvidia y el retroceso del mercado afectan directamente los fondos de pensiones y los ahorros vinculados a índices bursátiles. En los próximos días, la señal a vigilar es la respuesta de Nvidia y del gobierno estadounidense sobre las ventas de chips a China, ya que cualquier anuncio podría estabilizar o agravar la volatilidad del mercado.</p>"
         },
         {
           "id": "topic-2",
-          "headline": "El debut en bolsa de Anthropic convierte a miles de empleados en millonarios",
-          "summary": "La oferta pública inicial de la startup de IA, cotizada bajo el ticker ANT, superó expectativas y destinó hasta un 20 % de sus acciones a inversores minoristas, generando ganancias significativas para sus trabajadores. El hecho marca un hito en la financiación del sector de inteligencia artificial y amplía el acceso de fondos de pensiones a esta tecnología.",
+          "headline": "El alza de las facturas de energía amenaza el poder adquisitivo de millones de hogares",
+          "summary": "Con el nuevo año se prevé un salto importante de los precios de la electricidad y el gas, lo que obligará a muchas familias a recortar gastos. El director de Centrica advierte que el número de personas que no podrán pagar sus facturas crecerá considerablemente.",
           "tags": [
-            "#Anthropic",
+            "#Energía",
+            "#Facturas",
+            "#Hogares"
+          ],
+          "source_ids": [
+            1,
+            5
+          ],
+          "sources": [
+            {
+              "source": "Neutral (BBC Business)",
+              "title": "Energy bills will soar - here's how you can ease the pain",
+              "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "Neutral (BBC Business)",
+              "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
+              "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7208/live/d02d4240-e682-11f1-99b6-a35a62fa4264.jpg",
+            "imageSearchQuery": "UK energy bills surge 2024 households",
+            "caption": "Los hogares británicos se preparan para facturas de energía que amenazan su poder adquisitivo.",
+            "biasLeft": "Los artículos no presentan la visión de medios progresistas sobre el tema.",
+            "biasNeutral": "Los textos se centran en los datos concretos: el aumento de las tarifas y las recomendaciones para reducir el consumo. Incluyen la advertencia del director de Centrica sobre el crecimiento de clientes que no podrán pagar. No se pronuncian a favor ni en contra de políticas específicas.",
+            "biasRight": "Los artículos no presentan la visión de medios conservadores sobre el tema.",
+            "reflection": "Para la gente común, una subida de la factura implica recortar otros gastos esenciales o incurrir en deudas. En los próximos días, hay que vigilar la publicación del nuevo índice de precios de energía y cualquier anuncio de medidas regulatorias que puedan suavizar el impacto."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7208/live/d02d4240-e682-11f1-99b6-a35a62fa4264.jpg\" alt=\"Los hogares británicos se preparan para facturas de energía que amenazan su poder adquisitivo.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Los hogares británicos se preparan para facturas de energía que amenazan su poder adquisitivo.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los artículos no presentan la visión de medios progresistas sobre el tema.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los textos se centran en los datos concretos: el aumento de las tarifas y las recomendaciones para reducir el consumo. Incluyen la advertencia del director de Centrica sobre el crecimiento de clientes que no podrán pagar. No se pronuncian a favor ni en contra de políticas específicas.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los artículos no presentan la visión de medios conservadores sobre el tema.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para la gente común, una subida de la factura implica recortar otros gastos esenciales o incurrir en deudas. En los próximos días, hay que vigilar la publicación del nuevo índice de precios de energía y cualquier anuncio de medidas regulatorias que puedan suavizar el impacto.</p>"
+        },
+        {
+          "id": "topic-3",
+          "headline": "El IPO de Anthropic convierte a miles de empleados en millonarios y abre la puerta a inversores minoristas",
+          "summary": "La salida a bolsa de la startup de inteligencia artificial registró una demanda histórica, reservando hasta un 20 % de sus acciones para el público. El repunte beneficia a los trabajadores con paquetes de acciones y permite que fondos de pensiones y cuentas 401(k) accedan al sector de IA.",
+          "tags": [
+            "#AI",
             "#IPO",
-            "#IA",
-            "#Inversión"
+            "#Anthropic"
           ],
           "source_ids": [
             11,
@@ -501,23 +524,23 @@
           ],
           "deepDive": {
             "imageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/anthropic-sign-nasdaq-nyc.jpg?ve=1&tl=1",
-            "imageSearchQuery": "Anthropic IPO Nasdaq debut crowd celebrating",
-            "caption": "Miles de empleados de Anthropic se convierten en millonarios al ver su acción despegar en la bolsa.",
-            "biasLeft": "No hay cobertura de medios progresistas en los artículos proporcionados.",
-            "biasNeutral": "No se encontró cobertura de medios centristas en los artículos suministrados.",
-            "biasRight": "Los medios de derecha resaltan la creación de riqueza para los trabajadores y el entusiasmo de los inversores minoristas, señalando la demanda masiva de acciones y el potencial de crecimiento del sector de IA. También destacan la importancia de que fondos de pensiones y planes 401(k) puedan participar, lo que sugiere un impacto amplio en la economía doméstica.",
-            "reflection": "Para la gente común, el éxito de la IPO de Anthropic muestra cómo una empresa de IA puede generar oportunidades de riqueza inesperadas, incluso para empleados de rango medio. En los próximos días, vigila la evolución del precio de la acción ANT y la inclusión de la empresa en fondos indexados, ya que eso influirá en los portafolios de inversión y jubilación de muchos."
+            "imageSearchQuery": "Anthropic IPO Nasdaq debut crowd signing",
+            "caption": "Miles de empleados de Anthropic celebran su nuevo estatus de millonarios mientras la empresa abre sus puertas al mercado público.",
+            "biasLeft": "Los medios progresistas no cubrieron este tema en los artículos proporcionados.",
+            "biasNeutral": "Los medios centristas no aparecen en los artículos suministrados; por lo tanto, no hay cobertura neutral disponible.",
+            "biasRight": "Los reportes de Fox Business resaltan el impacto económico del IPO, señalando cómo la oferta incluye hasta un 20 % de acciones para inversores minoristas y cómo los fondos de pensiones podrían incorporar a Anthropic en sus carteras. Se enfatiza la oportunidad de riqueza repentina para los empleados y la potencial expansión de la exposición a IA en los 401(k) estadounidenses.",
+            "reflection": "Este hecho importa porque transforma a miles de trabajadores en propietarios de capital y abre la puerta a que los pequeños inversores participen en una de las mayores apuestas de IA. En los próximos días, hay que vigilar la evolución del precio de la acción ANT y la inclusión de la empresa en fondos de retiro, ya que ambos indicadores marcarán la magnitud del impacto financiero para la clase media."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/anthropic-sign-nasdaq-nyc.jpg?ve=1&amp;tl=1\" alt=\"Miles de empleados de Anthropic se convierten en millonarios al ver su acción despegar en la bolsa.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Miles de empleados de Anthropic se convierten en millonarios al ver su acción despegar en la bolsa.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">No hay cobertura de medios progresistas en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">No se encontró cobertura de medios centristas en los artículos suministrados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios de derecha resaltan la creación de riqueza para los trabajadores y el entusiasmo de los inversores minoristas, señalando la demanda masiva de acciones y el potencial de crecimiento del sector de IA. También destacan la importancia de que fondos de pensiones y planes 401(k) puedan participar, lo que sugiere un impacto amplio en la economía doméstica.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para la gente común, el éxito de la IPO de Anthropic muestra cómo una empresa de IA puede generar oportunidades de riqueza inesperadas, incluso para empleados de rango medio. En los próximos días, vigila la evolución del precio de la acción ANT y la inclusión de la empresa en fondos indexados, ya que eso influirá en los portafolios de inversión y jubilación de muchos.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/anthropic-sign-nasdaq-nyc.jpg?ve=1&amp;tl=1\" alt=\"Miles de empleados de Anthropic celebran su nuevo estatus de millonarios mientras la empresa abre sus puertas al mercado público.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Miles de empleados de Anthropic celebran su nuevo estatus de millonarios mientras la empresa abre sus puertas al mercado público.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no cubrieron este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas no aparecen en los artículos suministrados; por lo tanto, no hay cobertura neutral disponible.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los reportes de Fox Business resaltan el impacto económico del IPO, señalando cómo la oferta incluye hasta un 20 % de acciones para inversores minoristas y cómo los fondos de pensiones podrían incorporar a Anthropic en sus carteras. Se enfatiza la oportunidad de riqueza repentina para los empleados y la potencial expansión de la exposición a IA en los 401(k) estadounidenses.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Este hecho importa porque transforma a miles de trabajadores en propietarios de capital y abre la puerta a que los pequeños inversores participen en una de las mayores apuestas de IA. En los próximos días, hay que vigilar la evolución del precio de la acción ANT y la inclusión de la empresa en fondos de retiro, ya que ambos indicadores marcarán la magnitud del impacto financiero para la clase media.</p>"
         },
         {
-          "id": "topic-3",
-          "headline": "El director de Centrica advierte que más hogares no podrán pagar la energía tras el aumento de tarifas",
-          "summary": "Chris O’Shea, CEO de la compañía británica, señaló que el salto de precios previsto para el próximo año ampliará el número de familias que se verán obligadas a elegir entre la luz y otras necesidades básicas. La alerta subraya la presión social que generan los costos energéticos en medio de la inflación.",
+          "id": "topic-4",
+          "headline": "Poundland necesita un comprador en pocos días o caerá en administración",
+          "summary": "El minorista británico de descuento se enfrenta a una fecha límite para encontrar una oferta antes de que los acreedores activen procedimientos concursales. La posible desaparición pone en riesgo miles de empleos y la continuidad de sus tiendas en todo el país.",
           "tags": [
-            "#Energía",
-            "#Relevos",
-            "#UK"
+            "#Retail",
+            "#Poundland",
+            "#Quiebra"
           ],
           "source_ids": [
             2
@@ -525,64 +548,40 @@
           "sources": [
             {
               "source": "Neutral (BBC Business)",
-              "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
-              "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss"
+              "title": "What is going on with Poundland?",
+              "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7208/live/d02d4240-e682-11f1-99b6-a35a62fa4264.jpg",
-            "imageSearchQuery": "Centrica CEO Chris O'Shea energy bill increase UK",
-            "caption": "El director de Centrica, Chris O'Shea, advierte que el próximo alza tarifaria dejará a más hogares sin capacidad de pagar la luz.",
-            "biasLeft": "Los medios de izquierda no aparecen en los artículos proporcionados, por lo que no hay énfasis identificable. En consecuencia, no se destacan narrativas que subrayen la injusticia social o la necesidad de intervención estatal.",
-            "biasNeutral": "El informe de la BBC se centra en la declaración de O'Shea, quien señala que el número de personas que no podrán pagar sus facturas aumentará con la subida de precios. Se citan cifras de la propia empresa y se menciona la preocupación del ejecutivo sin entrar en juicios de valor. El texto mantiene un tono descriptivo y presenta la información como un hecho pendiente de seguimiento.",
-            "biasRight": "Los medios conservadores no aparecen en los artículos proporcionados, por lo que no hay un enfoque que enfatice el impacto económico o la responsabilidad del gobierno. No se presentan argumentos sobre la necesidad de mantener la estabilidad del mercado o la seguridad energética.",
-            "reflection": "Este asunto afecta directamente a cualquier consumidor que reciba una factura de energía, ya que una subida de tarifas puede reducir su capacidad de gasto en otras áreas esenciales. En los próximos días, hay que observar la respuesta de Ofgem y posibles protestas de consumidores, que indicarán cuán urgente será la presión sobre los reguladores y el gobierno."
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f2b3/live/3c7f3110-d7bf-11f1-a719-bf3dc3a3d5b5.jpg",
+            "imageSearchQuery": "Poundland buyer administration UK retail",
+            "caption": "Los pasillos de Poundland están a la espera de un comprador mientras la empresa corre el riesgo de caer en administración en cuestión de días.",
+            "biasLeft": "Los medios de izquierda no abordaron este tema en los artículos proporcionados.",
+            "biasNeutral": "Los medios centristas describen la urgencia de Poundland para encontrar un comprador y explican que, de no lograrlo, la cadena entrará en administración. Se limitan a los hechos sin añadir juicios políticos y plantean preguntas sobre las causas de la crisis.",
+            "biasRight": "Los medios de derecha no abordaron este tema en los artículos proporcionados.",
+            "reflection": "Este asunto afecta directamente a los consumidores que dependen de los precios bajos de Poundland y a los empleados que podrían perder sus puestos. En los próximos días, la señal clave será si se anuncia un comprador o si la empresa se declara en administración."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7208/live/d02d4240-e682-11f1-99b6-a35a62fa4264.jpg\" alt=\"El director de Centrica, Chris O&#39;Shea, advierte que el próximo alza tarifaria dejará a más hogares sin capacidad de pagar la luz.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El director de Centrica, Chris O&#39;Shea, advierte que el próximo alza tarifaria dejará a más hogares sin capacidad de pagar la luz.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios de izquierda no aparecen en los artículos proporcionados, por lo que no hay énfasis identificable. En consecuencia, no se destacan narrativas que subrayen la injusticia social o la necesidad de intervención estatal.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">El informe de la BBC se centra en la declaración de O&#39;Shea, quien señala que el número de personas que no podrán pagar sus facturas aumentará con la subida de precios. Se citan cifras de la propia empresa y se menciona la preocupación del ejecutivo sin entrar en juicios de valor. El texto mantiene un tono descriptivo y presenta la información como un hecho pendiente de seguimiento.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no aparecen en los artículos proporcionados, por lo que no hay un enfoque que enfatice el impacto económico o la responsabilidad del gobierno. No se presentan argumentos sobre la necesidad de mantener la estabilidad del mercado o la seguridad energética.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Este asunto afecta directamente a cualquier consumidor que reciba una factura de energía, ya que una subida de tarifas puede reducir su capacidad de gasto en otras áreas esenciales. En los próximos días, hay que observar la respuesta de Ofgem y posibles protestas de consumidores, que indicarán cuán urgente será la presión sobre los reguladores y el gobierno.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f2b3/live/3c7f3110-d7bf-11f1-a719-bf3dc3a3d5b5.jpg\" alt=\"Los pasillos de Poundland están a la espera de un comprador mientras la empresa corre el riesgo de caer en administración en cuestión de días.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Los pasillos de Poundland están a la espera de un comprador mientras la empresa corre el riesgo de caer en administración en cuestión de días.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios de izquierda no abordaron este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas describen la urgencia de Poundland para encontrar un comprador y explican que, de no lograrlo, la cadena entrará en administración. Se limitan a los hechos sin añadir juicios políticos y plantean preguntas sobre las causas de la crisis.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios de derecha no abordaron este tema en los artículos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Este asunto afecta directamente a los consumidores que dependen de los precios bajos de Poundland y a los empleados que podrían perder sus puestos. En los próximos días, la señal clave será si se anuncia un comprador o si la empresa se declara en administración.</p>"
         },
         {
-          "id": "topic-4",
-          "headline": "‘The Hunger Games: Sunrise on the Reaping’ abre con 120 millones de dólares, triplicando la cifra de su predecesor",
-          "summary": "El nuevo capítulo de la saga batió récords de taquilla en su estreno, impulsando a Lionsgate a una racha de éxitos y demostrando la vigencia del universo distópico entre el público. Este desempeño sugiere que la franquicia sigue siendo un motor importante para el cine comercial.",
+          "id": "topic-5",
+          "headline": "El cine y los videojuegos impulsan ganancias: ‘The Hunger Games: Sunrise on the Reaping’ rompe récords y GTA VI renueva la bolsa",
+          "summary": "La nueva entrega de la saga Hunger Games debutó con 120 millones de dólares, casi tres veces la apertura de su predecesor, mientras que el lanzamiento de GTA VI elevó las acciones de Take‑Two más de un 6 %. Ambos éxitos demuestran el poder económico del entretenimiento de gran presupuesto.",
           "tags": [
+            "#Entretenimiento",
             "#Cine",
-            "#HungerGames",
-            "#Taquilla"
+            "#Videojuegos"
           ],
           "source_ids": [
-            1
+            4,
+            14
           ],
           "sources": [
             {
               "source": "Left (NYT Business)",
               "title": "‘Hunger Games’ Rebounds With $120 Million Opening for ‘Sunrise on the Reaping’ at Box Office",
               "url": "https://www.nytimes.com/2026/11/22/business/media/hunger-games-box-office.html"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://tse2.mm.bing.net/th?q=Hunger%20Games%20Sunrise%20on%20the%20Reaping%20opening%20weekend%20box%20office%20news%20photo&w=1280&h=720&rs=1&pid=ImgDetMain",
-            "imageSearchQuery": "Hunger Games Sunrise on the Reaping opening weekend box office",
-            "caption": "La nueva entrega de ‘Los Juegos del Hambre’ arrasa con 120 millones de dólares en su estreno, triplicando la apertura de su predecesor.",
-            "biasLeft": "Los medios progresistas subrayan que el éxito de la película muestra una recuperación del sector cinematográfico tras la pandemia, resaltando la capacidad de la franquicia para conectar con audiencias diversas. Además, destacan que el fuerte desempeño refuerza la apuesta por grandes producciones de entretenimiento que generan empleo y visibilidad cultural.",
-            "biasNeutral": "Los medios centristas no cubrieron este tema en los artículos proporcionados.",
-            "biasRight": "Los medios conservadores no cubrieron este tema en los artículos proporcionados.",
-            "reflection": "Este repunte de taquilla implica más empleos en la cadena de producción y distribución, y sugiere que los consumidores siguen gastando en experiencias cinematográficas. En los próximos días convendrá observar si otras grandes películas replican este impulso, lo que indicaría la solidez del mercado frente a la competencia del streaming."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://tse2.mm.bing.net/th?q=Hunger%20Games%20Sunrise%20on%20the%20Reaping%20opening%20weekend%20box%20office%20news%20photo&amp;w=1280&amp;h=720&amp;rs=1&amp;pid=ImgDetMain\" alt=\"La nueva entrega de ‘Los Juegos del Hambre’ arrasa con 120 millones de dólares en su estreno, triplicando la apertura de su predecesor.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La nueva entrega de ‘Los Juegos del Hambre’ arrasa con 120 millones de dólares en su estreno, triplicando la apertura de su predecesor.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan que el éxito de la película muestra una recuperación del sector cinematográfico tras la pandemia, resaltando la capacidad de la franquicia para conectar con audiencias diversas. Además, destacan que el fuerte desempeño refuerza la apuesta por grandes producciones de entretenimiento que generan empleo y visibilidad cultural.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas no cubrieron este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no cubrieron este tema en los artículos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Este repunte de taquilla implica más empleos en la cadena de producción y distribución, y sugiere que los consumidores siguen gastando en experiencias cinematográficas. En los próximos días convendrá observar si otras grandes películas replican este impulso, lo que indicaría la solidez del mercado frente a la competencia del streaming.</p>"
-        },
-        {
-          "id": "topic-5",
-          "headline": "Take‑Two sube más del 6 % tras el lanzamiento de ‘Grand Theft Auto VI’ tras 13 años de espera",
-          "summary": "El tan esperado título de Rockstar recibió una calificación de 99 en Metacritic, equiparándose con clásicos como ‘The Legend of Zelda: Ocarina of Time’, y revitalizó la cotización de la empresa que había tenido un año difícil. El éxito del juego refuerza la posición de la compañía en el mercado de videojuegos.",
-          "tags": [
-            "#GTA6",
-            "#TakeTwo",
-            "#Videojuegos"
-          ],
-          "source_ids": [
-            14
-          ],
-          "sources": [
+            },
             {
               "source": "Right (Fox Business)",
               "title": "Take-Two stock jumps over 6% as Rockstar's long-awaited ‘GTA VI’ arrives after 13-year wait",
@@ -591,14 +590,14 @@
           ],
           "deepDive": {
             "imageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/grand-theft-auto-billboard-1.jpg?ve=1&tl=1",
-            "imageSearchQuery": "Grand Theft Auto VI launch billboard Take Two stock surge",
-            "caption": "El lanzamiento de GTA VI dispara las acciones de Take‑Two en más del 6 % al día de su anuncio.",
-            "biasLeft": "Los medios progresistas no cubren este tema en los artículos proporcionados.",
-            "biasNeutral": "Los medios centristas no aparecen entre las fuentes citadas para esta noticia.",
-            "biasRight": "Los medios conservadores resaltan el impulso económico: el salto de más del 6 % en la cotización de Take‑Two y el reconocimiento del juego con un 99 en Metacritic, señal de recuperación tras un año difícil.",
-            "reflection": "Para el inversor promedio, el repunte bursátil indica que la expectativa de ventas de GTA VI podría traducirse en ganancias reales pronto. En los próximos días conviene vigilar los movimientos del precio de la acción y cualquier anuncio de ingresos preliminares del juego."
+            "imageSearchQuery": "GTA VI launch billboard, Hunger Games Sunrise on the Reaping premiere, Take-Two stock surge",
+            "caption": "El estreno de ‘The Hunger Games: Sunrise on the Reaping’ rompe taquillas mientras GTA VI eleva la cotización de Take‑Two.",
+            "biasLeft": "Los medios de izquierda resaltan que el éxito de la película indica una demanda popular por narrativas que cuestionan el poder y que el repunte beneficia a un estudio independiente como Lionsgate. También señalan que la enorme recaudación refleja el atractivo de historias con contenido social crítico.",
+            "biasNeutral": "Los reportes centran su cobertura en los números: una apertura de 120 millones de dólares para la película y un aumento de más del 6 % en la acción de Take‑Two tras el anuncio de GTA VI. Además, se menciona la puntuación de 99 en Metacritic, equiparable a la de Zelda 1998.",
+            "biasRight": "Los portales conservadores ponen énfasis en el impacto económico, destacando que la subida de la bolsa de Take‑Two compensa un año difícil y subraya la capacidad del sector del entretenimiento para generar ganancias. También resaltan la calidad del juego, citando su puntuación casi perfecta como prueba de que la inversión en grandes franquicias sigue siendo rentable.",
+            "reflection": "Para el consumidor e inversionista, el doble impulso muestra que el ocio sigue siendo un motor de gasto y de valor bursátil. En los próximos días, será clave vigilar los resultados trimestrales de Lionsgate y Take‑Two, así como la respuesta del público a la continuación de la saga de GTA."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/grand-theft-auto-billboard-1.jpg?ve=1&amp;tl=1\" alt=\"El lanzamiento de GTA VI dispara las acciones de Take‑Two en más del 6 % al día de su anuncio.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El lanzamiento de GTA VI dispara las acciones de Take‑Two en más del 6 % al día de su anuncio.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no cubren este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas no aparecen entre las fuentes citadas para esta noticia.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores resaltan el impulso económico: el salto de más del 6 % en la cotización de Take‑Two y el reconocimiento del juego con un 99 en Metacritic, señal de recuperación tras un año difícil.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el inversor promedio, el repunte bursátil indica que la expectativa de ventas de GTA VI podría traducirse en ganancias reales pronto. En los próximos días conviene vigilar los movimientos del precio de la acción y cualquier anuncio de ingresos preliminares del juego.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/grand-theft-auto-billboard-1.jpg?ve=1&amp;tl=1\" alt=\"El estreno de ‘The Hunger Games: Sunrise on the Reaping’ rompe taquillas mientras GTA VI eleva la cotización de Take‑Two.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El estreno de ‘The Hunger Games: Sunrise on the Reaping’ rompe taquillas mientras GTA VI eleva la cotización de Take‑Two.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios de izquierda resaltan que el éxito de la película indica una demanda popular por narrativas que cuestionan el poder y que el repunte beneficia a un estudio independiente como Lionsgate. También señalan que la enorme recaudación refleja el atractivo de historias con contenido social crítico.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los reportes centran su cobertura en los números: una apertura de 120 millones de dólares para la película y un aumento de más del 6 % en la acción de Take‑Two tras el anuncio de GTA VI. Además, se menciona la puntuación de 99 en Metacritic, equiparable a la de Zelda 1998.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los portales conservadores ponen énfasis en el impacto económico, destacando que la subida de la bolsa de Take‑Two compensa un año difícil y subraya la capacidad del sector del entretenimiento para generar ganancias. También resaltan la calidad del juego, citando su puntuación casi perfecta como prueba de que la inversión en grandes franquicias sigue siendo rentable.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el consumidor e inversionista, el doble impulso muestra que el ocio sigue siendo un motor de gasto y de valor bursátil. En los próximos días, será clave vigilar los resultados trimestrales de Lionsgate y Take‑Two, así como la respuesta del público a la continuación de la saga de GTA.</p>"
         }
       ],
       "rawCount": 15
