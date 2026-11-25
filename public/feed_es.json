@@ -1,207 +1,214 @@
 {
-  "last_updated": "2026-11-25T00:25:41.183Z",
+  "last_updated": "2026-11-25T10:57:16.368Z",
   "language": "es",
   "categories": {
     "GLOBAL_MACRO": {
       "items": [
         {
           "id": "topic-1",
-          "headline": "El Papa Francisco revela en su diario privado una crisis espiritual y tentaciones del diablo",
-          "summary": "En un manuscrito publicado por la Santa Sede, el pontífice describió una profunda angustia interior que vivió entre 2021 y 2022, incluida una visión del infierno en 2018. La publicación abre debate sobre la salud mental de los líderes religiosos y su impacto en la Iglesia.",
+          "headline": "Yemen, Irán, Corea del Norte y Rusia intensifican conflictos que amenazan la estabilidad regional",
+          "summary": "Los hutíes avanzan en territorio yemení mientras Irán se enfrenta a la posibilidad de ataques estadounidenses y una advertencia israelí sobre armas químicas. Al mismo tiempo, Corea del Norte expulsó diplomáticos suizos y un misil ruso sobrevoló Polonia, elevando la tensión en varios frentes.",
           "tags": [
-            "#Vaticano",
-            "#PabloFrancisco",
-            "#Religión"
-          ],
-          "source_ids": [
-            0
-          ],
-          "sources": [
-            {
-              "source": "Right (Fox)",
-              "title": "Vatican releases Pope Francis' private diary detailing spiritual crisis, encounters with the devil",
-              "url": "https://www.foxnews.com/world/vatican-releases-pope-francis-private-diary-detailing-spiritual-crisis-encounters-devil"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/2e42a093-pope-francis.jpg",
-            "imageSearchQuery": "Pope Francis private diary spiritual crisis devil",
-            "caption": "El papa Francisco confiesa en su diario privado una crisis espiritual y tentaciones del diablo.",
-            "biasLeft": "No hay cobertura de medios progresistas o de izquierda en los artículos proporcionados.",
-            "biasNeutral": "No se identifican fuentes centradas o neutrales en los artículos suministrados.",
-            "biasRight": "Los medios conservadores destacan el carácter escandaloso del hallazgo, subrayando la supuesta vulnerabilidad del pontífice ante tentaciones demoníacas y el impacto moral que ello puede tener en la autoridad de la Iglesia. También enfatizan la decisión del Vaticano de publicar el diario como una muestra de transparencia o como una estrategia de control de la narrativa. Finalmente, el relato se presenta como una señal de decadencia espiritual que podría alimentar críticas a la institución católica.",
-            "reflection": "Este episodio importa porque revela que incluso la máxima autoridad católica enfrenta dudas internas, lo que puede influir en la fe de millones de creyentes. En los próximos días, habrá que observar las reacciones oficiales del Vaticano y cualquier discurso del papa que busque reconducir la percepción pública."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2018/09/2e42a093-pope-francis.jpg\" alt=\"El papa Francisco confiesa en su diario privado una crisis espiritual y tentaciones del diablo.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El papa Francisco confiesa en su diario privado una crisis espiritual y tentaciones del diablo.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">No hay cobertura de medios progresistas o de izquierda en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">No se identifican fuentes centradas o neutrales en los artículos suministrados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores destacan el carácter escandaloso del hallazgo, subrayando la supuesta vulnerabilidad del pontífice ante tentaciones demoníacas y el impacto moral que ello puede tener en la autoridad de la Iglesia. También enfatizan la decisión del Vaticano de publicar el diario como una muestra de transparencia o como una estrategia de control de la narrativa. Finalmente, el relato se presenta como una señal de decadencia espiritual que podría alimentar críticas a la institución católica.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Este episodio importa porque revela que incluso la máxima autoridad católica enfrenta dudas internas, lo que puede influir en la fe de millones de creyentes. En los próximos días, habrá que observar las reacciones oficiales del Vaticano y cualquier discurso del papa que busque reconducir la percepción pública.</p>"
-        },
-        {
-          "id": "topic-2",
-          "headline": "EE. UU. y China intensifican su disputa tecnológica tras el veredicto contra Huawei y la investigación a Nvidia",
-          "summary": "Un jurado en Nueva York declaró culpable a Huawei de robar secretos comerciales, mientras la Fiscalía de EE. UU. evita responder a preguntas sobre una investigación a Nvidia que ha visto caer sus acciones. Los casos subrayan la creciente rivalidad entre Washington y Pekín por el dominio de la inteligencia artificial y los semiconductores.",
-          "tags": [
-            "#Tecnología",
-            "#EEUU",
-            "#China",
-            "#Huawei",
-            "#Nvidia"
+            "#conflicto",
+            "#seguridad",
+            "#OrienteMedio",
+            "#Europa"
           ],
           "source_ids": [
             1,
             3,
+            10,
+            13,
             14
           ],
           "sources": [
             {
-              "source": "Neutral (BBC)",
-              "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-              "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "Neutral (BBC)",
-              "title": "US attorney general dodges questions about Nvidia investigation",
-              "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss"
+              "source": "Left (NYT)",
+              "title": "Losses Mount for Yemeni Government as Houthi Militia Advances",
+              "url": "https://www.nytimes.com/2026/11/25/world/middleeast/yemen-houthis-war-government-losses.html"
             },
             {
               "source": "Left (NYT)",
-              "title": "For China, Jensen Huang’s Return to Nvidia Is a Mixed Blessing",
-              "url": "https://www.nytimes.com/2026/11/24/world/asia/jensen-huang-nvidia-china.html"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
-            "imageSearchQuery": "Huawei trial New York trade secrets Nvidia investigation US",
-            "caption": "Un jurado de Nueva York declara a Huawei culpable de robar secretos comerciales, mientras EE. UU. intensifica la presión sobre Nvidia por su vínculo con China.",
-            "biasLeft": "Los medios progresistas resaltan que el caso de Nvidia y el regreso de Jensen Huang a la empresa subrayan la dependencia de EE. UU. en China para la IA, y advierten que esto podría acelerar la carrera de China hacia la autosuficiencia tecnológica. Enfatizan la dimensión humana, señalando el papel de los legisladores que exigen respuestas sobre la influencia de Trump.",
-            "biasNeutral": "Los medios neutros informan los hechos: Huawei fue hallada culpable de robar secretos comerciales pero absuelta de extorsión, y el fiscal general de EE. UU. evitó responder a preguntas sobre la investigación a Nvidia, mientras la acción de la compañía cayó un 7 %. Presentan ambas historias sin atribuir motivaciones políticas.",
-            "biasRight": "Los artículos de derecha no cubren este tema en los textos proporcionados.",
-            "reflection": "Para el ciudadano de a pie, el enfrentamiento tecnológico entre EE. UU. y China puede traducirse en precios más altos de dispositivos y posibles restricciones al acceso a IA. En los próximos días hay que observar si EE. UU. impone nuevas sanciones a Nvidia o a proveedores chinos, y cómo responde Beijing con políticas de autosuficiencia en chips."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg\" alt=\"Un jurado de Nueva York declara a Huawei culpable de robar secretos comerciales, mientras EE. UU. intensifica la presión sobre Nvidia por su vínculo con China.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Un jurado de Nueva York declara a Huawei culpable de robar secretos comerciales, mientras EE. UU. intensifica la presión sobre Nvidia por su vínculo con China.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas resaltan que el caso de Nvidia y el regreso de Jensen Huang a la empresa subrayan la dependencia de EE. UU. en China para la IA, y advierten que esto podría acelerar la carrera de China hacia la autosuficiencia tecnológica. Enfatizan la dimensión humana, señalando el papel de los legisladores que exigen respuestas sobre la influencia de Trump.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios neutros informan los hechos: Huawei fue hallada culpable de robar secretos comerciales pero absuelta de extorsión, y el fiscal general de EE. UU. evitó responder a preguntas sobre la investigación a Nvidia, mientras la acción de la compañía cayó un 7 %. Presentan ambas historias sin atribuir motivaciones políticas.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los artículos de derecha no cubren este tema en los textos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el ciudadano de a pie, el enfrentamiento tecnológico entre EE. UU. y China puede traducirse en precios más altos de dispositivos y posibles restricciones al acceso a IA. En los próximos días hay que observar si EE. UU. impone nuevas sanciones a Nvidia o a proveedores chinos, y cómo responde Beijing con políticas de autosuficiencia en chips.</p>"
-        },
-        {
-          "id": "topic-3",
-          "headline": "Polonia solicita tropas estadounidenses y la OTAN autoriza disparar misiles rusos tras crecientes amenazas de Moscú",
-          "summary": "Después de que un dron ruso violara su espacio aéreo y de varios incidentes con misiles Kh‑101, Polonia ha renovado su petición de una presencia militar permanente de EE. UU. En paralelo, el presidente de Letonia advierte que las operaciones de sabotaje y asesinato de Rusia contra aliados de la OTAN podrían intensificarse pronto.",
-          "tags": [
-            "#Europa",
-            "#OTAN",
-            "#Rusia",
-            "#Polonia",
-            "#Letonia"
-          ],
-          "source_ids": [
-            4,
-            5
-          ],
-          "sources": [
-            {
-              "source": "Right (Fox)",
-              "title": "NATO fighter jet cleared to shoot down Russian missile over Poland as Warsaw pushes for US troops",
-              "url": "https://www.foxnews.com/world/nato-jet-cleared-shoot-russian-missile-poland-warsaw-pushes-us-troops"
+              "title": "North Korea Kicks Out Swiss Diplomats in Spat Linked to Ukraine War",
+              "url": "https://www.nytimes.com/2026/11/25/world/asia/north-korea-switzerland-diplomats.html"
             },
             {
               "source": "Right (Fox)",
-              "title": "European leader warns Russian aggression could escalate within weeks or months",
-              "url": "https://www.foxnews.com/world/european-leader-warns-russian-aggression-could-escalate-within-weeks-months"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/swedish-jas-39-gripen.jpg",
-            "imageSearchQuery": "Poland NATO missile intercept US troops request",
-            "caption": "Un caza de la OTAN se prepara para derribar un misil ruso sobre el espacio aéreo polaco mientras Varsovia insiste en la llegada permanente de tropas estadounidenses.",
-            "biasLeft": "Los medios progresistas no cubren este tema en los artículos proporcionados.",
-            "biasNeutral": "Los medios centrados no aparecen en la muestra, por lo que no hay información neutral disponible.",
-            "biasRight": "Los medios conservadores resaltan la amenaza directa de Rusia y la necesidad urgente de reforzar la defensa polaca con tropas estadounidenses. Subrayan la decisión de la OTAN de autorizar el uso de fuerza letal contra misiles rusos como una medida de soberanía y seguridad. También enfatizan el riesgo de que la escalada provoque una mayor presión sobre la alianza transatlántica.",
-            "reflection": "Este asunto afecta a cualquier ciudadano europeo que teme que una confrontación militar llegue a su territorio. En los próximos días habrá que observar cómo evoluciona la autorización de la OTAN para disparar y si EE. UU. avanza con la instalación de tropas permanentes en Polonia."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/11/swedish-jas-39-gripen.jpg\" alt=\"Un caza de la OTAN se prepara para derribar un misil ruso sobre el espacio aéreo polaco mientras Varsovia insiste en la llegada permanente de tropas estadounidenses.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Un caza de la OTAN se prepara para derribar un misil ruso sobre el espacio aéreo polaco mientras Varsovia insiste en la llegada permanente de tropas estadounidenses.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no cubren este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centrados no aparecen en la muestra, por lo que no hay información neutral disponible.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores resaltan la amenaza directa de Rusia y la necesidad urgente de reforzar la defensa polaca con tropas estadounidenses. Subrayan la decisión de la OTAN de autorizar el uso de fuerza letal contra misiles rusos como una medida de soberanía y seguridad. También enfatizan el riesgo de que la escalada provoque una mayor presión sobre la alianza transatlántica.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Este asunto afecta a cualquier ciudadano europeo que teme que una confrontación militar llegue a su territorio. En los próximos días habrá que observar cómo evoluciona la autorización de la OTAN para disparar y si EE. UU. avanza con la instalación de tropas permanentes en Polonia.</p>"
-        },
-        {
-          "id": "topic-4",
-          "headline": "Escalada de tensiones en Oriente Medio: Irán, Arabia Saudita, Irak y Siria enfrentan nuevas amenazas",
-          "summary": "Israel avisa que podría lanzar un ataque preventivo contra supuestos armas químicas iraníes, mientras los hutíes atacan un rascacielos en Riyadh y el gobierno iraquí busca controlar fronteras kurdas y recursos petroleros. Además, el número de víctimas infantiles por minas terrestres en Siria sigue aumentando, reflejando el costo humano de los conflictos prolongados.",
-          "tags": [
-            "#OrienteMedio",
-            "#Irán",
-            "#ArabiaSaudita",
-            "#Irak",
-            "#Siria"
-          ],
-          "source_ids": [
-            2,
-            6,
-            7,
-            11
-          ],
-          "sources": [
+              "title": "Trump administration weighs targeting Iran's top regime leaders in bid to end war: report",
+              "url": "https://www.foxnews.com/world/trump-administration-weighs-targeting-irans-top-regime-leaders-bid-end-war-report"
+            },
             {
               "source": "Right (Fox)",
               "title": "Israel raises prospect of preemptive strike over emerging Iranian chemical weapons threat",
               "url": "https://www.foxnews.com/world/israel-raises-prospect-preemptive-strike-emerging-iranian-chemical-weapons-threat"
             },
             {
-              "source": "Left (NYT)",
-              "title": "Iraq’s Prime Minister Aims to Wrest More Power from Kurdistan Region",
-              "url": "https://www.nytimes.com/2026/11/24/world/middleeast/iraq-prime-minister-kurdistan-control.html"
-            },
-            {
-              "source": "Left (NYT)",
-              "title": "Houthi Attack on Skyscraper in Saudi Capital Wounds 11, Officials Say",
-              "url": "https://www.nytimes.com/2026/11/24/world/middleeast/saudi-skyscraper-houthi-strike.html"
-            },
-            {
-              "source": "Neutral (BBC)",
-              "title": "Land mine casualties soar in Syria, two years after war",
-              "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss"
+              "source": "Right (Fox)",
+              "title": "NATO fighter jet cleared to shoot down Russian missile over Poland as Warsaw pushes for US troops",
+              "url": "https://www.foxnews.com/world/nato-jet-cleared-shoot-russian-missile-poland-warsaw-pushes-us-troops"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/israel-defense-minister-israel-katz.jpg",
-            "imageSearchQuery": "Israel Iran chemical weapons preemptive strike",
-            "caption": "El ministro israelí Katz advierte de una posible acción preventiva contra el programa químico iraní mientras el Medio Oriente se encuentra al borde de una nueva escalada.",
-            "biasLeft": "Los medios progresistas se centran en el impacto humano y la dimensión política de los conflictos: en Irak destacan la lucha del gobierno contra milicias respaldadas por Irán y el intento de controlar recursos críticos, mientras que en Arabia Saudita resaltan los daños civiles provocados por los ataques de los hutíes. Además, subrayan la responsabilidad de potencias externas en alimentar la violencia.",
-            "biasNeutral": "Los informes de la BBC presentan datos duros y contextuales, como el número de niños víctimas de minas en Siria, sin emitir juicios de valor. El enfoque está en la cruda realidad del legado de la guerra y la necesidad de desminado, ofreciendo cifras y testimonios para ilustrar la magnitud del problema.",
-            "biasRight": "Fox News enfatiza la amenaza a la seguridad nacional, resaltando la supuesta capacidad química de Irán y la necesidad de una respuesta preventiva respaldada por Estados Unidos e Israel. El discurso se centra en la soberanía, la defensa y el posible costo de la inacción, pintando al régimen iraní como un enemigo estratégico.",
-            "reflection": "Para la gente común, la posibilidad de un ataque preventivo o nuevos bombardeos significa más incertidumbre y riesgos de desplazamiento o pérdida de vidas. En los próximos días, hay que vigilar cualquier anuncio oficial de acción militar de Israel o represalias de Irán y los grupos respaldados por él."
+            "imageUrl": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-Yemen-assess-promo/25int-Yemen-assess-vhjk-mediumSquareAt3X.jpg",
+            "imageSearchQuery": "Yemen Houthi advance Saudi Arabia conflict November 2026",
+            "caption": "Los rebeldes hutíes afianzan posiciones estratégicas mientras la guerra con Arabia Saudí se intensifica en el sur de Yemen.",
+            "biasLeft": "Los medios progresistas resaltan la expansión de los hutíes como una respuesta a la intervención saudí y sus consecuencias humanitarias, enfatizando el sufrimiento de civiles y la necesidad de una solución política inclusiva. También critican la presión internacional sobre Corea del Norte como un mecanismo de control que afecta a poblaciones vulnerables.",
+            "biasNeutral": "Los artículos de prensa centrista no aparecen entre las fuentes suministradas; por lo tanto, no hay cobertura neutral directa de este conjunto de conflictos.",
+            "biasRight": "Los medios conservadores ponen el acento en la amenaza a la seguridad nacional, describiendo posibles ataques estadounidenses a líderes iraníes y la preparación de Israel para un golpe preventivo. Además, destacan la intrusión de misiles rusos en el espacio aéreo polaco como evidencia de la agresión rusa y la necesidad de una presencia militar estadounidense permanente en la región.",
+            "reflection": "Este cúmulo de tensiones puede repercutir en los precios del petróleo y en la seguridad de las rutas comerciales, impactando la vida cotidiana de los consumidores. En los próximos días, vigile cualquier anuncio de acciones militares de EE.UU. o de la OTAN, así como respuestas diplomáticas de Irán o Rusia, que podrían marcar una escalada o una búsqueda de desescalada."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/02/israel-defense-minister-israel-katz.jpg\" alt=\"El ministro israelí Katz advierte de una posible acción preventiva contra el programa químico iraní mientras el Medio Oriente se encuentra al borde de una nueva escalada.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El ministro israelí Katz advierte de una posible acción preventiva contra el programa químico iraní mientras el Medio Oriente se encuentra al borde de una nueva escalada.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas se centran en el impacto humano y la dimensión política de los conflictos: en Irak destacan la lucha del gobierno contra milicias respaldadas por Irán y el intento de controlar recursos críticos, mientras que en Arabia Saudita resaltan los daños civiles provocados por los ataques de los hutíes. Además, subrayan la responsabilidad de potencias externas en alimentar la violencia.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los informes de la BBC presentan datos duros y contextuales, como el número de niños víctimas de minas en Siria, sin emitir juicios de valor. El enfoque está en la cruda realidad del legado de la guerra y la necesidad de desminado, ofreciendo cifras y testimonios para ilustrar la magnitud del problema.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Fox News enfatiza la amenaza a la seguridad nacional, resaltando la supuesta capacidad química de Irán y la necesidad de una respuesta preventiva respaldada por Estados Unidos e Israel. El discurso se centra en la soberanía, la defensa y el posible costo de la inacción, pintando al régimen iraní como un enemigo estratégico.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para la gente común, la posibilidad de un ataque preventivo o nuevos bombardeos significa más incertidumbre y riesgos de desplazamiento o pérdida de vidas. En los próximos días, hay que vigilar cualquier anuncio oficial de acción militar de Israel o represalias de Irán y los grupos respaldados por él.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/25/multimedia/25int-Yemen-assess-promo/25int-Yemen-assess-vhjk-mediumSquareAt3X.jpg\" alt=\"Los rebeldes hutíes afianzan posiciones estratégicas mientras la guerra con Arabia Saudí se intensifica en el sur de Yemen.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Los rebeldes hutíes afianzan posiciones estratégicas mientras la guerra con Arabia Saudí se intensifica en el sur de Yemen.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas resaltan la expansión de los hutíes como una respuesta a la intervención saudí y sus consecuencias humanitarias, enfatizando el sufrimiento de civiles y la necesidad de una solución política inclusiva. También critican la presión internacional sobre Corea del Norte como un mecanismo de control que afecta a poblaciones vulnerables.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los artículos de prensa centrista no aparecen entre las fuentes suministradas; por lo tanto, no hay cobertura neutral directa de este conjunto de conflictos.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores ponen el acento en la amenaza a la seguridad nacional, describiendo posibles ataques estadounidenses a líderes iraníes y la preparación de Israel para un golpe preventivo. Además, destacan la intrusión de misiles rusos en el espacio aéreo polaco como evidencia de la agresión rusa y la necesidad de una presencia militar estadounidense permanente en la región.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Este cúmulo de tensiones puede repercutir en los precios del petróleo y en la seguridad de las rutas comerciales, impactando la vida cotidiana de los consumidores. En los próximos días, vigile cualquier anuncio de acciones militares de EE.UU. o de la OTAN, así como respuestas diplomáticas de Irán o Rusia, que podrían marcar una escalada o una búsqueda de desescalada.</p>"
         },
         {
-          "id": "topic-5",
-          "headline": "Francia vuelve a los tribunales: el exmandatario Sarkozy y un policía bajo juicio por casos de violencia",
-          "summary": "Nicolas Sarkozy y su esposa Carla Bruni enfrentarán juicio por presuntos delitos, mientras que el tribunal reabre la acusación de homicidio contra el agente que mató al adolescente Nahel Merzouk, provocando protestas nacionales. Ambos procesos reavivan el debate sobre la responsabilidad de las élites y la reforma policial en Francia.",
+          "id": "topic-2",
+          "headline": "Casos de alto perfil en México, Hungría, Irán y EE. UU. ponen a prueba la rendición de cuentas y los derechos humanos",
+          "summary": "México investiga a un fiscal sospechoso de colusión con la CIA y cárteles, mientras Hungría abre archivos de la policía secreta comunista. En EE. UU., el FBI detuvo a Thomas Markle por posesión de material sexual infantil y en Irán dos opositores esperan ejecución tras un juicio controvertido.",
           "tags": [
-            "#Francia",
-            "#Sarkozy",
-            "#Justicia",
-            "#Policía"
+            "#derechoshumanos",
+            "#justicia",
+            "#política"
           ],
           "source_ids": [
-            9,
-            12
+            0,
+            5,
+            7,
+            11
+          ],
+          "sources": [
+            {
+              "source": "Left (NYT)",
+              "title": "Mexico Investigates Prosecutor Who Aided the C.I.A. Over Cartel Collusion",
+              "url": "https://www.nytimes.com/2026/11/25/world/americas/mexico-prosecutor-cia-us.html"
+            },
+            {
+              "source": "Left (NYT)",
+              "title": "Hungary Threw Open Its Secret Police Files. Let the Finger Pointing Begin.",
+              "url": "https://www.nytimes.com/2026/11/25/world/europe/hungary-threw-open-its-secret-police-files-let-the-finger-pointing-begin.html"
+            },
+            {
+              "source": "Neutral (BBC)",
+              "title": "Thomas Markle charged in US for possessing child sex abuse images",
+              "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "Right (Fox)",
+              "title": "Iran to execute 2 anti-regime protesters at dawn after 3 days in death row holding cells",
+              "url": "https://www.foxnews.com/world/iran-execute-2-anti-regime-protesters-dawn-3-days-death-row-holding-cells"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-mexico-zuany-tqjc/24int-mexico-zuany-tqjc-mediumSquareAt3X.jpg",
+            "imageSearchQuery": "Mexico CIA prosecutor cartel",
+            "caption": "El exfiscal mexicano, buscado por una orden de captura, huye a EE. UU. mientras se le acusa de colaborar con la CIA y de colusión con cárteles.",
+            "biasLeft": "Los medios progresistas subrayan la vulnerabilidad del Estado mexicano ante la injerencia extranjera y la impunidad de los cárteles, presentando al caso como una muestra de cómo la lucha contra el narcotráfico se entrelaza con intereses de inteligencia. Además, la publicación húngara de los archivos de la policía secreta se usa para denunciar la persistencia de estructuras autoritarias heredadas del comunismo. No se menciona el caso de Irán ni el de Thomas Markle.",
+            "biasNeutral": "BBC se limita a relatar los hechos: Thomas Markle fue detenido por posesión de imágenes de abuso sexual infantil tras una redada del FBI en un trastero de Los Ángeles. El informe evita juicios de valor y se centra en la acusación y el proceso legal. No aborda los otros casos de México, Hungría o Irán.",
+            "biasRight": "Fox News enfatiza la amenaza que representan los manifestantes anti‑régimen en Irán, señalando la ejecución inminente como una medida de seguridad del Estado y un mensaje de soberanía frente a la presión internacional. El tono es defensivo y destaca la necesidad de estabilidad. No cubre los escándalos de México, Hungría o el proceso contra Markle.",
+            "reflection": "Para el ciudadano, estos episodios revelan cómo la política de seguridad y los derechos humanos se entrelazan en distintas latitudes, afectando la confianza en las instituciones. En los próximos días habrá seguimiento judicial al exfiscal mexicano y posibles reacciones internacionales a la ejecución iraní, señales que pueden influir en políticas migratorias y de cooperación policial."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/24/multimedia/24int-mexico-zuany-tqjc/24int-mexico-zuany-tqjc-mediumSquareAt3X.jpg\" alt=\"El exfiscal mexicano, buscado por una orden de captura, huye a EE. UU. mientras se le acusa de colaborar con la CIA y de colusión con cárteles.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El exfiscal mexicano, buscado por una orden de captura, huye a EE. UU. mientras se le acusa de colaborar con la CIA y de colusión con cárteles.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan la vulnerabilidad del Estado mexicano ante la injerencia extranjera y la impunidad de los cárteles, presentando al caso como una muestra de cómo la lucha contra el narcotráfico se entrelaza con intereses de inteligencia. Además, la publicación húngara de los archivos de la policía secreta se usa para denunciar la persistencia de estructuras autoritarias heredadas del comunismo. No se menciona el caso de Irán ni el de Thomas Markle.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">BBC se limita a relatar los hechos: Thomas Markle fue detenido por posesión de imágenes de abuso sexual infantil tras una redada del FBI en un trastero de Los Ángeles. El informe evita juicios de valor y se centra en la acusación y el proceso legal. No aborda los otros casos de México, Hungría o Irán.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Fox News enfatiza la amenaza que representan los manifestantes anti‑régimen en Irán, señalando la ejecución inminente como una medida de seguridad del Estado y un mensaje de soberanía frente a la presión internacional. El tono es defensivo y destaca la necesidad de estabilidad. No cubre los escándalos de México, Hungría o el proceso contra Markle.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el ciudadano, estos episodios revelan cómo la política de seguridad y los derechos humanos se entrelazan en distintas latitudes, afectando la confianza en las instituciones. En los próximos días habrá seguimiento judicial al exfiscal mexicano y posibles reacciones internacionales a la ejecución iraní, señales que pueden influir en políticas migratorias y de cooperación policial.</p>"
+        },
+        {
+          "id": "topic-3",
+          "headline": "Nuevos datos revelan la magnitud de las pérdidas civiles en la guerra entre Rusia y Ucrania",
+          "summary": "Documentos filtrados muestran que Rusia ha perdido cerca de 500 000 vidas desde el inicio del conflicto, mientras que testimonios personales revelan la complejidad y el dolor de las familias ucranianas atrapadas en la violencia. Ambos enfoques subrayan el enorme costo humano del enfrentamiento.",
+          "tags": [
+            "#Ucrania",
+            "#Rusia",
+            "#civiles"
+          ],
+          "source_ids": [
+            8,
+            9
           ],
           "sources": [
             {
               "source": "Neutral (BBC)",
-              "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
-              "url": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss"
+              "title": "Russia's own figures show it has lost almost 500,000 people in Ukraine war",
+              "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss"
             },
             {
-              "source": "Left (NYT)",
-              "title": "Murder Charge Reinstated for French Police Officer in Teen’s Shooting",
-              "url": "https://www.nytimes.com/2026/11/24/world/europe/france-nahel-merzouk.html"
+              "source": "Neutral (BBC)",
+              "title": "My family died in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+              "url": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/84cb/live/68cc7a10-e81e-11f1-ab42-55d8d8278025.jpg",
-            "imageSearchQuery": "Sarkozy trial France police shooting Nahel Merzouk court",
-            "caption": "Sarkozy y su esposa Carla Bruni ingresan al tribunal mientras el país sigue pendiente del juicio al policía implicado en la muerte de Nahel.",
-            "biasLeft": "Los medios progresistas subrayan la dimensión estructural del caso, vinculándolo a la violencia policial contra jóvenes de origen inmigrante y a la necesidad de una reforma profunda del cuerpo policial. Enfatizan la indignación popular que siguió al tiroteo de Nahel y la urgencia de que la justicia sea rápida y contundente.",
-            "biasNeutral": "Los reportes neutrales se limitan a los hechos: Sarkozy y Bruni enfrentarán un juicio por presuntos actos de violencia, y el oficial de policía vuelve a estar bajo proceso tras la reinstauración del cargo de asesinato. Se menciona que Sarkozy es el primer ex‑presidente francés encarcelado y se describen los antecedentes del caso de Nahel sin juicios de valor.",
-            "biasRight": "Los medios conservadores no cubrieron este tema en los artículos suministrados.",
-            "reflection": "Este caso muestra que ni la élite política ni las fuerzas de seguridad están exentas de rendir cuentas, lo que afecta la percepción de igualdad ante la ley. En los próximos días, la atención se centrará en los veredictos y en cualquier indicio de medidas legislativas sobre la reforma policial o la inmunidad de los mandatarios."
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9e47/live/6a03aa70-e832-11f1-917e-35f1674fb52c.jpg",
+            "imageSearchQuery": "Russia Ukraine war casualties 2023 leaked figures",
+            "caption": "Los archivos filtrados revelan que casi medio millón de rusos han muerto o desaparecido desde que inició la invasión a Ucrania.",
+            "biasLeft": "Los medios de izquierda no abordaron este tema en los artículos citados.",
+            "biasNeutral": "Los informes de la BBC presentan los datos de mortalidad rusos tal como aparecen en documentos oficiales y filtrados, resaltando la magnitud de las pérdidas sin emitir juicios políticos y subrayando la dificultad de verificar cifras exactas en medio del conflicto.",
+            "biasRight": "Los medios de derecha no abordaron este tema en los artículos citados.",
+            "reflection": "Entender la escala de las bajas rusas ayuda a calibrar la presión interna que podría influir en la voluntad de continuar la guerra. En los próximos días, vigile cualquier anuncio oficial ruso sobre reclutamiento o cambios en la estrategia militar, ya que podrían indicar ajustes ante el costo humano revelado."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/84cb/live/68cc7a10-e81e-11f1-ab42-55d8d8278025.jpg\" alt=\"Sarkozy y su esposa Carla Bruni ingresan al tribunal mientras el país sigue pendiente del juicio al policía implicado en la muerte de Nahel.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Sarkozy y su esposa Carla Bruni ingresan al tribunal mientras el país sigue pendiente del juicio al policía implicado en la muerte de Nahel.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan la dimensión estructural del caso, vinculándolo a la violencia policial contra jóvenes de origen inmigrante y a la necesidad de una reforma profunda del cuerpo policial. Enfatizan la indignación popular que siguió al tiroteo de Nahel y la urgencia de que la justicia sea rápida y contundente.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los reportes neutrales se limitan a los hechos: Sarkozy y Bruni enfrentarán un juicio por presuntos actos de violencia, y el oficial de policía vuelve a estar bajo proceso tras la reinstauración del cargo de asesinato. Se menciona que Sarkozy es el primer ex‑presidente francés encarcelado y se describen los antecedentes del caso de Nahel sin juicios de valor.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no cubrieron este tema en los artículos suministrados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Este caso muestra que ni la élite política ni las fuerzas de seguridad están exentas de rendir cuentas, lo que afecta la percepción de igualdad ante la ley. En los próximos días, la atención se centrará en los veredictos y en cualquier indicio de medidas legislativas sobre la reforma policial o la inmunidad de los mandatarios.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9e47/live/6a03aa70-e832-11f1-917e-35f1674fb52c.jpg\" alt=\"Los archivos filtrados revelan que casi medio millón de rusos han muerto o desaparecido desde que inició la invasión a Ucrania.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Los archivos filtrados revelan que casi medio millón de rusos han muerto o desaparecido desde que inició la invasión a Ucrania.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios de izquierda no abordaron este tema en los artículos citados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los informes de la BBC presentan los datos de mortalidad rusos tal como aparecen en documentos oficiales y filtrados, resaltando la magnitud de las pérdidas sin emitir juicios políticos y subrayando la dificultad de verificar cifras exactas en medio del conflicto.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios de derecha no abordaron este tema en los artículos citados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Entender la escala de las bajas rusas ayuda a calibrar la presión interna que podría influir en la voluntad de continuar la guerra. En los próximos días, vigile cualquier anuncio oficial ruso sobre reclutamiento o cambios en la estrategia militar, ya que podrían indicar ajustes ante el costo humano revelado.</p>"
+        },
+        {
+          "id": "topic-4",
+          "headline": "NASA y la industria tecnológica se enfocan en una misión al asteroide y en la investigación de Nvidia",
+          "summary": "Cuatro años después del impacto de un asteroide, una nave espacial regresa para estudiar los daños, mientras en EE. UU. el fiscal general esquiva preguntas sobre la investigación antimonopolio a Nvidia que ha visto caer sus acciones. Ambas historias reflejan la creciente interacción entre ciencia, tecnología y política.",
+          "tags": [
+            "#ciencia",
+            "#tecnología",
+            "#NASA",
+            "#Nvidia"
+          ],
+          "source_ids": [
+            4,
+            6
+          ],
+          "sources": [
+            {
+              "source": "Neutral (BBC)",
+              "title": "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage",
+              "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "Neutral (BBC)",
+              "title": "US attorney general dodges questions about Nvidia investigation",
+              "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/abbb/live/4b2b41d0-e8a5-11f1-99a1-253766e7ad8b.jpg",
+            "imageSearchQuery": "NASA asteroid DART mission spacecraft impact",
+            "caption": "La sonda DART vuelve a la órbita del asteroide que desvió para medir el daño tras el choque artificial.",
+            "biasLeft": "Los medios de tendencia progresista no cubrieron este tema en los artículos citados.",
+            "biasNeutral": "Los medios centristas describen los hechos de forma directa: la misión que estudia el asteroide alterado y la caída del precio de Nvidia tras la investigación del fiscal.",
+            "biasRight": "Los medios conservadores no abordaron este asunto en los artículos proporcionados.",
+            "reflection": "El seguimiento del asteroide muestra si nuestras técnicas de defensa planetaria son efectivas, lo que afecta la seguridad a largo plazo. La investigación de Nvidia podría mover el mercado bursátil y señalar un mayor escrutinio regulatorio sobre la industria tecnológica. En los próximos días, vigile los resultados de la misión DART y cualquier comunicado oficial del Departamento de Justicia sobre Nvidia."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/abbb/live/4b2b41d0-e8a5-11f1-99a1-253766e7ad8b.jpg\" alt=\"La sonda DART vuelve a la órbita del asteroide que desvió para medir el daño tras el choque artificial.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La sonda DART vuelve a la órbita del asteroide que desvió para medir el daño tras el choque artificial.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios de tendencia progresista no cubrieron este tema en los artículos citados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas describen los hechos de forma directa: la misión que estudia el asteroide alterado y la caída del precio de Nvidia tras la investigación del fiscal.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no abordaron este asunto en los artículos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>El seguimiento del asteroide muestra si nuestras técnicas de defensa planetaria son efectivas, lo que afecta la seguridad a largo plazo. La investigación de Nvidia podría mover el mercado bursátil y señalar un mayor escrutinio regulatorio sobre la industria tecnológica. En los próximos días, vigile los resultados de la misión DART y cualquier comunicado oficial del Departamento de Justicia sobre Nvidia.</p>"
+        },
+        {
+          "id": "topic-5",
+          "headline": "El aumento de perros callejeros en Mauricio genera conflictos con residentes y turistas",
+          "summary": "La proliferación de perros sin dueño en la isla paradisiaca ha provocado que locales y visitantes se sientan inseguros, mientras las autoridades buscan soluciones para controlar la población animal. El problema destaca la tensión entre el turismo y la gestión urbana en destinos costeros.",
+          "tags": [
+            "#sociedad",
+            "#medioambiente",
+            "#turismo"
+          ],
+          "source_ids": [
+            2
+          ],
+          "sources": [
+            {
+              "source": "Left (NYT)",
+              "title": "Island Paradise of Mauritius Has Sun, Beaches and Too Many Dogs",
+              "url": "https://www.nytimes.com/2026/11/25/world/africa/maritius-stray-dogs.html"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://static01.nyt.com/images/2026/11/19/multimedia/00int-mauritius-dogs-dispatch-promo-bltj/00int-mauritius-dogs-dispatch-promo-bltj-mediumSquareAt3X.jpg",
+            "imageSearchQuery": "Mauritius stray dogs conflict tourists residents",
+            "caption": "Los perros callejeros invaden las playas de Mauricio, donde turistas y vecinos se ven obligados a esquivarlos.",
+            "biasLeft": "Los medios progresistas resaltan la crisis de los animales abandonados, subrayando la falta de políticas de control y la vulnerabilidad de la población local frente a ataques. Enfatizan la necesidad de programas de esterilización y adopción, y critican la gestión municipal por priorizar el turismo sobre la seguridad de los residentes.",
+            "biasNeutral": "No se encontró cobertura de medios centristas en los artículos proporcionados; por tanto, no hay evidencia de un enfoque neutral.",
+            "biasRight": "No se halló cobertura de medios conservadores en los artículos proporcionados; por tanto, no se pueden identificar énfasis de derecha.",
+            "reflection": "Para los habitantes y visitantes, la proliferación de perros sueltos afecta la percepción de seguridad y la calidad de la experiencia turística. En los próximos días, habrá que observar si el gobierno local anuncia medidas de control o campañas de adopción, lo que indicaría cómo se prioriza la seguridad pública frente al costo económico."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/19/multimedia/00int-mauritius-dogs-dispatch-promo-bltj/00int-mauritius-dogs-dispatch-promo-bltj-mediumSquareAt3X.jpg\" alt=\"Los perros callejeros invaden las playas de Mauricio, donde turistas y vecinos se ven obligados a esquivarlos.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Los perros callejeros invaden las playas de Mauricio, donde turistas y vecinos se ven obligados a esquivarlos.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas resaltan la crisis de los animales abandonados, subrayando la falta de políticas de control y la vulnerabilidad de la población local frente a ataques. Enfatizan la necesidad de programas de esterilización y adopción, y critican la gestión municipal por priorizar el turismo sobre la seguridad de los residentes.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">No se encontró cobertura de medios centristas en los artículos proporcionados; por tanto, no hay evidencia de un enfoque neutral.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">No se halló cobertura de medios conservadores en los artículos proporcionados; por tanto, no se pueden identificar énfasis de derecha.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para los habitantes y visitantes, la proliferación de perros sueltos afecta la percepción de seguridad y la calidad de la experiencia turística. En los próximos días, habrá que observar si el gobierno local anuncia medidas de control o campañas de adopción, lo que indicaría cómo se prioriza la seguridad pública frente al costo económico.</p>"
         }
       ],
       "rawCount": 15
@@ -210,33 +217,25 @@
       "items": [
         {
           "id": "topic-1",
-          "headline": "Jensen Huang vuelve a Nvidia mientras el DOJ investiga el desvío de chips a China",
-          "summary": "El Departamento de Justicia ha recopilado pruebas de que los procesadores de alta gama de Nvidia se estaban desviando ilegalmente a China, y el regreso de Huang al cargo fue impulsado por el presidente Trump, lo que provocó la caída del valor de la empresa y la denuncia de los legisladores. El caso ha puesto bajo escrutinio la gobernanza corporativa y la seguridad de la cadena de suministro de semiconductores.",
+          "headline": "El regreso de Jensen Huang a Nvidia genera polémica por la intervención de Trump y la investigación federal",
+          "summary": "Tras la reapertura del CEO Jensen Huang, el presidente Donald Trump presionó para anular la decisión del consejo de directores y devolverle el puesto. La medida ha despertado interrogantes sobre la independencia de la empresa y ha llevado al fiscal general de EE. UU. a eludir preguntas sobre una posible investigación antimonopolio.",
           "tags": [
             "#Nvidia",
             "#JensenHuang",
-            "#EEUU",
-            "#SeguridadTecnológica"
+            "#PolíticaTecnológica"
           ],
           "source_ids": [
-            0,
-            2,
             3,
+            4,
             6,
-            7,
             9,
             11
           ],
           "sources": [
             {
-              "source": "Left (NYT Tech)",
-              "title": "Blanche Downplays Questions Over Nvidia as Investigators Examine Company’s Customers",
-              "url": "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html"
-            },
-            {
-              "source": "Left (NYT Tech)",
-              "title": "Jensen Huang Apologizes to Nvidia Employees, Says He Is in Therapy",
-              "url": "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html"
+              "source": "Neutral (BBC Tech)",
+              "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
+              "url": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_medium=RSS&at_campaign=rss"
             },
             {
               "source": "Neutral (BBC Tech)",
@@ -245,107 +244,77 @@
             },
             {
               "source": "Left (NYT Tech)",
-              "title": "From Chinese Factory Town to the Nvidia Scandal: The Rise of Alice Huang",
-              "url": "https://www.nytimes.com/2026/11/24/business/nvidia-alice-huang-china.html"
+              "title": "Jensen Huang Apologizes to Nvidia Employees, Says He Is in Therapy",
+              "url": "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html"
             },
             {
-              "source": "Neutral (BBC Tech)",
-              "title": "Faisal Islam: Fears over the AI boom haven't gone away",
-              "url": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss"
+              "source": "Left (NYT Tech)",
+              "title": "From Chinese Factory Town to the Nvidia Scandal: The Rise of Alice Huang",
+              "url": "https://www.nytimes.com/2026/11/24/business/nvidia-alice-huang-china.html"
             },
             {
               "source": "Left (NYT Tech)",
               "title": "With Jensen Huang’s Return as C.E.O., Trump Effectively Overrode Nvidia’s Board",
               "url": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html"
-            },
-            {
-              "source": "Neutral (BBC Tech)",
-              "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-              "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-doj-nvidia-01-zpmh/24dc-doj-nvidia-01-zpmh-mediumSquareAt3X.jpg",
-            "imageSearchQuery": "Jensen Huang Nvidia DOJ chip diversion China",
-            "caption": "Jensen Huang retoma el mando de Nvidia mientras el DOJ sigue el rastro de chips desviados a China.",
-            "biasLeft": "Los medios progresistas resaltan la violación del código de conducta de Huang y su disculpa pública, subrayando la falta de ética corporativa. También destacan la presión de Trump sobre el consejo de administración y la narrativa de una posible colusión política. Además, ponen énfasis en el origen de Alice Huang y su vínculo con la espionaje industrial.",
-            "biasNeutral": "Los medios centristas se limitan a informar la caída del 7 % de la cotización de Nvidia y la evasión de preguntas del fiscal general. Señalan la preocupación persistente sobre la explosión de la IA y el contexto de la investigación del DOJ sin emitir juicios. Presentan los hechos y las reacciones de los legisladores de forma neutral.",
-            "biasRight": "Los medios de derecha no cubren este tema en los artículos proporcionados.",
-            "reflection": "Para los inversores y los empleados de la industria tecnológica, la combinación de una investigación federal y la turbulencia en la cúpula ejecutiva puede traducirse en volatilidad del mercado y posibles sanciones. En los próximos días, vigile la respuesta oficial del DOJ y cualquier anuncio de medidas regulatorias que puedan afectar la cadena de suministro de chips."
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
+            "imageSearchQuery": "Jensen Huang return Nvidia Trump investigation",
+            "caption": "Jensen Huang vuelve al mando de Nvidia bajo la sombra de la intervención de Trump y una investigación federal.",
+            "biasLeft": "Los medios progresistas subrayan la autocrítica de Huang, su disculpa pública y el reconocimiento de violar el código de conducta, presentándolo como una falla personal que refleja problemas estructurales de gobernanza. También resaltan la presión de Trump como una intromisión política que socava la independencia del directorio. Además, destacan la historia de Alice Huang para ilustrar posibles riesgos de espionaje y conflicto de intereses.",
+            "biasNeutral": "Los informes neutrales describen los hechos: la caída del 7 % en el precio de la acción, la negativa del fiscal general a responder preguntas y la controversia sobre la reinstauración de Huang impulsada por Trump. Se limitan a presentar cifras y declaraciones oficiales sin tomar partido.",
+            "biasRight": "Los artículos de fuentes conservadoras no cubren este tema en los documentos proporcionados.",
+            "reflection": "Para el ciudadano corriente, la disputa afecta directamente el valor de las acciones de Nvidia y la disponibilidad de productos de IA que dependen de su hardware. En los próximos días, hay que vigilar cualquier anuncio del DOJ o del propio consejo de administración que indique si se impone alguna sanción o restricción."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/24/multimedia/24dc-doj-nvidia-01-zpmh/24dc-doj-nvidia-01-zpmh-mediumSquareAt3X.jpg\" alt=\"Jensen Huang retoma el mando de Nvidia mientras el DOJ sigue el rastro de chips desviados a China.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Jensen Huang retoma el mando de Nvidia mientras el DOJ sigue el rastro de chips desviados a China.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas resaltan la violación del código de conducta de Huang y su disculpa pública, subrayando la falta de ética corporativa. También destacan la presión de Trump sobre el consejo de administración y la narrativa de una posible colusión política. Además, ponen énfasis en el origen de Alice Huang y su vínculo con la espionaje industrial.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas se limitan a informar la caída del 7 % de la cotización de Nvidia y la evasión de preguntas del fiscal general. Señalan la preocupación persistente sobre la explosión de la IA y el contexto de la investigación del DOJ sin emitir juicios. Presentan los hechos y las reacciones de los legisladores de forma neutral.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios de derecha no cubren este tema en los artículos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para los inversores y los empleados de la industria tecnológica, la combinación de una investigación federal y la turbulencia en la cúpula ejecutiva puede traducirse en volatilidad del mercado y posibles sanciones. En los próximos días, vigile la respuesta oficial del DOJ y cualquier anuncio de medidas regulatorias que puedan afectar la cadena de suministro de chips.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png\" alt=\"Jensen Huang vuelve al mando de Nvidia bajo la sombra de la intervención de Trump y una investigación federal.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Jensen Huang vuelve al mando de Nvidia bajo la sombra de la intervención de Trump y una investigación federal.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan la autocrítica de Huang, su disculpa pública y el reconocimiento de violar el código de conducta, presentándolo como una falla personal que refleja problemas estructurales de gobernanza. También resaltan la presión de Trump como una intromisión política que socava la independencia del directorio. Además, destacan la historia de Alice Huang para ilustrar posibles riesgos de espionaje y conflicto de intereses.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los informes neutrales describen los hechos: la caída del 7 % en el precio de la acción, la negativa del fiscal general a responder preguntas y la controversia sobre la reinstauración de Huang impulsada por Trump. Se limitan a presentar cifras y declaraciones oficiales sin tomar partido.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los artículos de fuentes conservadoras no cubren este tema en los documentos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el ciudadano corriente, la disputa afecta directamente el valor de las acciones de Nvidia y la disponibilidad de productos de IA que dependen de su hardware. En los próximos días, hay que vigilar cualquier anuncio del DOJ o del propio consejo de administración que indique si se impone alguna sanción o restricción.</p>"
         },
         {
           "id": "topic-2",
-          "headline": "Huawei es hallada culpable de robar secretos comerciales en juicio de Nueva York",
-          "summary": "Un jurado federal condenó a la compañía china por apropiarse indebidamente de propiedad intelectual ajena, aunque la absolvió de los cargos de extorsión. La sentencia intensifica la tensión entre EE. UU. y China en el ámbito de la tecnología.",
+          "headline": "Un jurado de Nueva York declara culpable a Huawei por robar secretos comerciales estadounidenses",
+          "summary": "Después de varios meses de juicio, el tribunal halló a Huawei responsable de apropiarse indebidamente de información confidencial de empresas estadounidenses, aunque lo absolvía de cargos de extorsión. El veredicto podría traducirse en multas millonarias y restricciones adicionales a la operatividad de la compañía en EE. UU.",
           "tags": [
             "#Huawei",
             "#PropiedadIntelectual",
             "#EEUU"
           ],
           "source_ids": [
-            1
+            0
           ],
           "sources": [
             {
               "source": "Neutral (BBC Tech)",
-              "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+              "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
               "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss"
             }
           ],
           "deepDive": {
             "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
-            "caption": "Huawei es hallada culpable de robar secretos comerciales en juicio de Nueva York",
-            "biasLeft": "",
-            "biasNeutral": "",
-            "biasRight": "",
-            "reflection": "El análisis profundo falló temporalmente para este tema."
+            "imageSearchQuery": "Huawei New York trial courthouse",
+            "caption": "Un jurado de Nueva York declara a Huawei culpable de robar secretos comerciales estadounidenses.",
+            "biasLeft": "Los medios progresistas no cubren este tema en los artículos proporcionados.",
+            "biasNeutral": "Los medios neutrales se centran en los hechos del veredicto: Huawei fue hallado culpable de robar secretos comerciales, pero absuelto de cargos de extorsión. Señalan la duración del proceso y la falta de pruebas para el delito de racketeering. Mantienen un tono descriptivo sin atribuir motivaciones políticas.",
+            "biasRight": "Los medios conservadores no cubren este tema en los artículos proporcionados.",
+            "reflection": "Este fallo subraya el riesgo de que empresas tecnológicas extranjeras vulneren la propiedad intelectual estadounidense, lo que puede traducirse en pérdida de empleos y competitividad. En los próximos días, habrá que vigilar si el gobierno EE. UU. impone sanciones adicionales o restricciones de mercado a Huawei."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg\" alt=\"Huawei es hallada culpable de robar secretos comerciales en juicio de Nueva York\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Huawei es hallada culpable de robar secretos comerciales en juicio de Nueva York</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\"></div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\"></div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\"></div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>El análisis profundo falló temporalmente para este tema.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg\" alt=\"Un jurado de Nueva York declara a Huawei culpable de robar secretos comerciales estadounidenses.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Un jurado de Nueva York declara a Huawei culpable de robar secretos comerciales estadounidenses.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no cubren este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios neutrales se centran en los hechos del veredicto: Huawei fue hallado culpable de robar secretos comerciales, pero absuelto de cargos de extorsión. Señalan la duración del proceso y la falta de pruebas para el delito de racketeering. Mantienen un tono descriptivo sin atribuir motivaciones políticas.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no cubren este tema en los artículos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Este fallo subraya el riesgo de que empresas tecnológicas extranjeras vulneren la propiedad intelectual estadounidense, lo que puede traducirse en pérdida de empleos y competitividad. En los próximos días, habrá que vigilar si el gobierno EE. UU. impone sanciones adicionales o restricciones de mercado a Huawei.</p>"
         },
         {
           "id": "topic-3",
-          "headline": "Ingeniero de OpenAI detenido por grabar clandestinamente reuniones internas",
-          "summary": "Abdulrahman Alfozan, arrestado en octubre, fue liberado bajo fianza de un millón de dólares después de que los fiscales alegaran que había registrado secretamente decenas de encuentros corporativos. El caso plantea serias dudas sobre la confidencialidad dentro de las empresas de IA.",
+          "headline": "Apple, United Airlines y el FBI anuncian nuevas medidas contra agentes de IA no autorizados",
+          "summary": "Apple lanzó una actualización de macOS que permite a los usuarios bloquear a los agentes de IA el acceso a carpetas sensibles, mientras United Airlines prohibió que sistemas automáticos reserven vuelos en su plataforma. Al mismo tiempo, el FBI advirtió que una herramienta de hacking basada en IA puede vulnerar sistemas críticos en menos de tres horas, intensificando el debate sobre la regulación de la IA.",
           "tags": [
-            "#OpenAI",
-            "#SeguridadInterna"
+            "#SeguridadIA",
+            "#Apple",
+            "#UnitedAirlines",
+            "#FBI"
           ],
           "source_ids": [
-            4
-          ],
-          "sources": [
-            {
-              "source": "Left (NYT Tech)",
-              "title": "OpenAI Engineer Secretly Recorded Dozens of Meetings, Prosecutors Say",
-              "url": "https://www.nytimes.com/2026/11/23/technology/openai-engineer-secret-recordings.html"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://static01.nyt.com/images/2026/11/23/multimedia/23biz-openai-bugging-1-jmpw/23biz-openai-bugging-1-jmpw-mediumSquareAt3X.jpg",
-            "imageSearchQuery": "OpenAI engineer secret recordings meetings Abdulrahman Alfozan",
-            "caption": "El ingeniero de OpenAI, Abdulrahman Alfozan, arrestado tras supuestamente haber grabado a escondidas decenas de reuniones internas.",
-            "biasLeft": "Los medios progresistas subrayan la vulnerabilidad de la cultura corporativa ante la vigilancia interna y ponen énfasis en la falta de canales seguros para denunciar irregularidades. Destacan la posible violación de derechos de privacidad de los empleados y la necesidad de una regulación más fuerte de las empresas tecnológicas. Además, sugieren que el caso revela un problema sistémico de falta de transparencia en la industria de IA.",
-            "biasNeutral": "No se encontró cobertura neutral o de centro en los artículos suministrados; por lo tanto, no hay información disponible que muestre un enfoque puramente factual sin carga ideológica.",
-            "biasRight": "No se encontró cobertura conservadora o de derecha en los artículos suministrados; por lo tanto, no hay información disponible que destaque impactos económicos, de seguridad o de soberanía.",
-            "reflection": "Este caso importa porque muestra cómo la falta de controles internos puede poner en riesgo la confidencialidad de proyectos de IA que afectan a usuarios y competidores. En los próximos días, habrá que vigilar si las autoridades presentan cargos formales y si OpenAI revisa sus políticas de privacidad y vigilancia interna."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/23/multimedia/23biz-openai-bugging-1-jmpw/23biz-openai-bugging-1-jmpw-mediumSquareAt3X.jpg\" alt=\"El ingeniero de OpenAI, Abdulrahman Alfozan, arrestado tras supuestamente haber grabado a escondidas decenas de reuniones internas.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El ingeniero de OpenAI, Abdulrahman Alfozan, arrestado tras supuestamente haber grabado a escondidas decenas de reuniones internas.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan la vulnerabilidad de la cultura corporativa ante la vigilancia interna y ponen énfasis en la falta de canales seguros para denunciar irregularidades. Destacan la posible violación de derechos de privacidad de los empleados y la necesidad de una regulación más fuerte de las empresas tecnológicas. Además, sugieren que el caso revela un problema sistémico de falta de transparencia en la industria de IA.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">No se encontró cobertura neutral o de centro en los artículos suministrados; por lo tanto, no hay información disponible que muestre un enfoque puramente factual sin carga ideológica.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">No se encontró cobertura conservadora o de derecha en los artículos suministrados; por lo tanto, no hay información disponible que destaque impactos económicos, de seguridad o de soberanía.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Este caso importa porque muestra cómo la falta de controles internos puede poner en riesgo la confidencialidad de proyectos de IA que afectan a usuarios y competidores. En los próximos días, habrá que vigilar si las autoridades presentan cargos formales y si OpenAI revisa sus políticas de privacidad y vigilancia interna.</p>"
-        },
-        {
-          "id": "topic-4",
-          "headline": "Empresas y autoridades advierten sobre los riesgos de agentes de IA en sistemas críticos",
-          "summary": "United Airlines prohibió a agentes de IA no autorizados reservar vuelos para proteger los puntos MileagePlus, mientras Apple lanzó controles de acceso a carpetas para limitar la lectura de archivos por IA. Paralelamente, el FBI alertó que la herramienta de hacking ARTEX puede vulnerar cuentas corporativas en menos de tres horas.",
-          "tags": [
-            "#IA",
-            "#Seguridad",
-            "#Regulación"
-          ],
-          "source_ids": [
-            5,
             8,
-            13
+            10,
+            13,
+            2,
+            7
           ],
           "sources": [
             {
@@ -362,60 +331,94 @@
               "source": "Right (Fox Tech)",
               "title": "FBI warns AI hackers can breach systems in under 3 hours",
               "url": "https://www.foxnews.com/tech/fbi-warns-ai-hackers-breach-systems-under-3-hours"
+            },
+            {
+              "source": "Left (NYT Tech)",
+              "title": "How to Talk to Your Family About A.I. Doom at Thanksgiving",
+              "url": "https://www.nytimes.com/2026/11/25/technology/thanksgiving-ai-doom-family.html"
+            },
+            {
+              "source": "Left (NYT Tech)",
+              "title": "OpenAI Engineer Secretly Recorded Dozens of Meetings, Prosecutors Say",
+              "url": "https://www.nytimes.com/2026/11/23/technology/openai-engineer-secret-recordings.html"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/hacker-photo-1.jpg",
-            "imageSearchQuery": "AI hacking tool ARTEX FBI warning Microsoft 365 breach",
-            "caption": "El FBI alerta: la herramienta de IA ARTEX puede abrir brechas en sistemas críticos en menos de tres horas.",
-            "biasLeft": "Los medios progresistas no cubren este tema en los artículos proporcionados.",
-            "biasNeutral": "Los medios centristas no aparecen en los artículos disponibles para este asunto.",
-            "biasRight": "Los reportes de la derecha enfatizan la amenaza inmediata que representan los agentes de IA para la seguridad de infraestructuras críticas, subrayando la necesidad de respuestas rápidas de empresas y autoridades para evitar pérdidas económicas y de datos.",
-            "reflection": "Esto importa porque cualquier vulnerabilidad explotada por IA puede comprometer datos personales y operativos de empresas y usuarios. En los próximos días, vigile si se anuncian nuevas prohibiciones o medidas de seguridad adicionales por parte de compañías y agencias regulatorias."
+            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/apple-macbook-air-computers-2010.jpg",
+            "imageSearchQuery": "Apple macOS AI security United Airlines AI booking ban FBI AI hacking tool",
+            "caption": "Apple refuerza la protección de macOS mientras United prohíbe agentes de IA en sus reservas, y el FBI alerta sobre un nuevo software de hacking.",
+            "biasLeft": "Los medios progresistas no cubrieron este tema en los artículos proporcionados.",
+            "biasNeutral": "Los medios centristas no ofrecieron cobertura sobre este tema en los artículos suministrados.",
+            "biasRight": "Los informes de Fox Tech subrayan la amenaza que representan los agentes de IA no autorizados para la seguridad de datos y la integridad de los sistemas corporativos. Destacan el riesgo económico para los usuarios de United, cuyo programa de millas podría verse comprometido por compras automatizadas. También resaltan la respuesta del FBI, que advierte que la herramienta de hacking ARTEX puede abrir brechas en menos de tres horas, reforzando la necesidad de controles estrictos.",
+            "reflection": "Para el viajero, la medida de United implica que sus reservas ya no podrán confiar en bots de IA, lo que obliga a usar canales oficiales y reduce el riesgo de perder millas. Los usuarios de Mac deben revisar los nuevos permisos de acceso a carpetas para evitar que aplicaciones de IA exploren sus archivos. En los próximos días, vigile si aparecen más avisos de otras empresas o reguladores que amplíen estas restricciones."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2025/12/hacker-photo-1.jpg\" alt=\"El FBI alerta: la herramienta de IA ARTEX puede abrir brechas en sistemas críticos en menos de tres horas.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El FBI alerta: la herramienta de IA ARTEX puede abrir brechas en sistemas críticos en menos de tres horas.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no cubren este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas no aparecen en los artículos disponibles para este asunto.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los reportes de la derecha enfatizan la amenaza inmediata que representan los agentes de IA para la seguridad de infraestructuras críticas, subrayando la necesidad de respuestas rápidas de empresas y autoridades para evitar pérdidas económicas y de datos.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Esto importa porque cualquier vulnerabilidad explotada por IA puede comprometer datos personales y operativos de empresas y usuarios. En los próximos días, vigile si se anuncian nuevas prohibiciones o medidas de seguridad adicionales por parte de compañías y agencias regulatorias.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2025/09/apple-macbook-air-computers-2010.jpg\" alt=\"Apple refuerza la protección de macOS mientras United prohíbe agentes de IA en sus reservas, y el FBI alerta sobre un nuevo software de hacking.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Apple refuerza la protección de macOS mientras United prohíbe agentes de IA en sus reservas, y el FBI alerta sobre un nuevo software de hacking.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no cubrieron este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas no ofrecieron cobertura sobre este tema en los artículos suministrados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los informes de Fox Tech subrayan la amenaza que representan los agentes de IA no autorizados para la seguridad de datos y la integridad de los sistemas corporativos. Destacan el riesgo económico para los usuarios de United, cuyo programa de millas podría verse comprometido por compras automatizadas. También resaltan la respuesta del FBI, que advierte que la herramienta de hacking ARTEX puede abrir brechas en menos de tres horas, reforzando la necesidad de controles estrictos.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el viajero, la medida de United implica que sus reservas ya no podrán confiar en bots de IA, lo que obliga a usar canales oficiales y reduce el riesgo de perder millas. Los usuarios de Mac deben revisar los nuevos permisos de acceso a carpetas para evitar que aplicaciones de IA exploren sus archivos. En los próximos días, vigile si aparecen más avisos de otras empresas o reguladores que amplíen estas restricciones.</p>"
         },
         {
-          "id": "topic-5",
-          "headline": "IA se extiende al consumo y la medicina: Meta Muse, smartwatch de Google y robot quirúrgico aprobado",
-          "summary": "Meta probó su asistente de IA Muse antes de su lanzamiento en Reino Unido, Google demostró que un smartwatch con IA detecta hipertensión aunque con errores, y la FDA autorizó un robot endoscópico del tamaño de una aguja para extirpar tumores de vejiga. Estas iniciativas evidencian la rápida adopción de la IA en la vida diaria y la atención sanitaria.",
+          "id": "topic-4",
+          "headline": "EA incorpora a John Motson generado por IA en FIFA 27 y Google prueba smartwatch que detecta hipertensión con IA",
+          "summary": "Electronic Arts introducirá en su próximo juego FIFA 27 una versión digital del comentarista John Motson creada mediante inteligencia artificial, con el aval de su familia. Por su parte, Google presentó un estudio que muestra cómo un reloj inteligente con IA puede identificar hipertensión, aunque aún falla en aproximadamente un tercio de los casos.",
           "tags": [
-            "#IA",
-            "#Salud",
-            "#Innovación"
+            "#InteligenciaArtificial",
+            "#Videojuegos",
+            "#SaludDigital"
           ],
           "source_ids": [
-            10,
-            12,
-            14
+            1,
+            12
           ],
           "sources": [
             {
               "source": "Neutral (BBC Tech)",
-              "title": "Helpful but awkward: My week with Meta's Muse ahead of its UK launch",
-              "url": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss"
+              "title": "EA adds AI-generated John Motson to FC 27 video game",
+              "url": "https://www.bbc.co.uk/news/articles/c65y10j841jpo?at_medium=RSS&at_campaign=rss"
             },
             {
               "source": "Right (Fox Tech)",
               "title": "Google AI smartwatch could flag high blood pressure",
               "url": "https://www.foxnews.com/tech/google-ai-smartwatch-could-flag-high-blood-pressure"
-            },
-            {
-              "source": "Right (Fox Tech)",
-              "title": "FDA clears tiny surgical robot to remove bladder tumors",
-              "url": "https://www.foxnews.com/tech/fda-clears-tiny-surgical-robot-remove-bladder-tumors"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1e19/live/7721db50-e819-11f1-a094-5fdc692f3e33.jpg",
-            "imageSearchQuery": "Meta Muse launch, Google AI smartwatch, bladder tumor robot",
-            "caption": "El nuevo Meta Muse llega a Reino Unido mientras Google prueba un reloj que detecta presión alta y la FDA aprueba un robot diminuto para extirpar tumores de vejiga.",
-            "biasLeft": "Los medios progresistas no abordaron este tema en los artículos proporcionados.",
-            "biasNeutral": "La BBC describe la experiencia de usar Meta Muse, señalando su potencial para integrar IA en el consumo cotidiano pero también sus torpezas de usabilidad. El informe se centra en hechos concretos y en la comparación con otras plataformas de mensajería. No entra en valoraciones políticas ni económicas.",
-            "biasRight": "Fox Tech destaca que el reloj inteligente de Google usa IA para identificar hipertensión, subrayando la promesa de salud preventiva aunque reconoce que falla en uno de cada tres casos. En la cobertura del robot quirúrgico, se enfatiza la innovación tecnológica estadounidense y la autorización de la FDA, presentándolo como un avance competitivo en medicina de precisión.",
-            "reflection": "Para el ciudadano, estos desarrollos significan más herramientas de salud personal y tratamientos menos invasivos, pero también la necesidad de evaluar la precisión y el costo. En los próximos días habrá que vigilar los resultados de los ensayos de presión arterial del smartwatch y la adopción clínica del robot para medir su impacto real."
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5aca/live/065259e0-e4e5-11f1-b039-c1944465024e.jpg",
+            "imageSearchQuery": "John Motson AI FIFA 27 Google smartwatch hypertension",
+            "caption": "El icónico comentarista John Motson vuelve a los píxeles como avatar de IA, mientras Google ensaya un reloj que detecta la hipertensión sin manguito.",
+            "biasLeft": "No se encontró cobertura de estos temas en medios de tendencia progresista entre los artículos proporcionados.",
+            "biasNeutral": "BBC informa de forma directa que EA incorporará a Motson generado por IA en FIFA 27, subrayando el consentimiento de su familia y la fecha de lanzamiento. El enfoque es estrictamente descriptivo, sin entrar en debate sobre la ética de la IA.",
+            "biasRight": "Fox Tech destaca la capacidad de la IA de Google para identificar hipertensión mediante sensores del smartwatch, enfatizando el potencial de innovación médica, aunque menciona que el estudio de Nature reveló que la herramienta falla en aproximadamente un tercio de los casos.",
+            "reflection": "Para los jugadores, la inclusión de Motson muestra cómo la IA está transformando la representación de figuras públicas en el entretenimiento digital. Para los usuarios de salud, el reloj de Google sugiere una nueva forma de monitorizar la presión arterial, pero su precisión limitada obliga a seguir de cerca las validaciones regulatorias y los resultados de pruebas en los próximos días."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1e19/live/7721db50-e819-11f1-a094-5fdc692f3e33.jpg\" alt=\"El nuevo Meta Muse llega a Reino Unido mientras Google prueba un reloj que detecta presión alta y la FDA aprueba un robot diminuto para extirpar tumores de vejiga.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El nuevo Meta Muse llega a Reino Unido mientras Google prueba un reloj que detecta presión alta y la FDA aprueba un robot diminuto para extirpar tumores de vejiga.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no abordaron este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">La BBC describe la experiencia de usar Meta Muse, señalando su potencial para integrar IA en el consumo cotidiano pero también sus torpezas de usabilidad. El informe se centra en hechos concretos y en la comparación con otras plataformas de mensajería. No entra en valoraciones políticas ni económicas.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Fox Tech destaca que el reloj inteligente de Google usa IA para identificar hipertensión, subrayando la promesa de salud preventiva aunque reconoce que falla en uno de cada tres casos. En la cobertura del robot quirúrgico, se enfatiza la innovación tecnológica estadounidense y la autorización de la FDA, presentándolo como un avance competitivo en medicina de precisión.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el ciudadano, estos desarrollos significan más herramientas de salud personal y tratamientos menos invasivos, pero también la necesidad de evaluar la precisión y el costo. En los próximos días habrá que vigilar los resultados de los ensayos de presión arterial del smartwatch y la adopción clínica del robot para medir su impacto real.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5aca/live/065259e0-e4e5-11f1-b039-c1944465024e.jpg\" alt=\"El icónico comentarista John Motson vuelve a los píxeles como avatar de IA, mientras Google ensaya un reloj que detecta la hipertensión sin manguito.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El icónico comentarista John Motson vuelve a los píxeles como avatar de IA, mientras Google ensaya un reloj que detecta la hipertensión sin manguito.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">No se encontró cobertura de estos temas en medios de tendencia progresista entre los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">BBC informa de forma directa que EA incorporará a Motson generado por IA en FIFA 27, subrayando el consentimiento de su familia y la fecha de lanzamiento. El enfoque es estrictamente descriptivo, sin entrar en debate sobre la ética de la IA.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Fox Tech destaca la capacidad de la IA de Google para identificar hipertensión mediante sensores del smartwatch, enfatizando el potencial de innovación médica, aunque menciona que el estudio de Nature reveló que la herramienta falla en aproximadamente un tercio de los casos.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para los jugadores, la inclusión de Motson muestra cómo la IA está transformando la representación de figuras públicas en el entretenimiento digital. Para los usuarios de salud, el reloj de Google sugiere una nueva forma de monitorizar la presión arterial, pero su precisión limitada obliga a seguir de cerca las validaciones regulatorias y los resultados de pruebas en los próximos días.</p>"
+        },
+        {
+          "id": "topic-5",
+          "headline": "Los microcoches ganan popularidad entre los jóvenes europeos",
+          "summary": "Los vehículos urbanos de dimensiones reducidas, antes asociados a personas mayores o rurales, están siendo adoptados por una generación más joven que busca movilidad asequible y menos contaminante. Las ventas en varios países de Europa indican una transformación del mercado automotriz hacia modelos más compactos y eléctricos.",
+          "tags": [
+            "#Microcoches",
+            "#MovilidadUrbana",
+            "#Europa"
+          ],
+          "source_ids": [
+            5
+          ],
+          "sources": [
+            {
+              "source": "Neutral (BBC Tech)",
+              "title": "Why tiny cars are taking off across Europe",
+              "url": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2edb/live/5d054030-ddcf-11f1-b441-2b33b063138f.jpg",
+            "imageSearchQuery": "tiny cars Europe youth adoption",
+            "caption": "Jóvenes europeos se suben a los microcoches mientras la ciudad se vuelve más compacta y sostenible.",
+            "biasLeft": "Los medios progresistas no aparecen en los artículos proporcionados; por lo tanto, no se observa un enfoque que destaque la justicia social o la reducción de la huella de carbono como eje central.",
+            "biasNeutral": "Los reportes neutros resaltan el cambio de percepción: de vehículos para mayores y zonas rurales a una opción de moda entre los jóvenes urbanos, subrayando datos de ventas y la expansión de modelos compactos.",
+            "biasRight": "Los medios conservadores no están representados en los textos suministrados; no se detecta un énfasis en el coste económico, la competitividad industrial o la seguridad vial desde esa perspectiva.",
+            "reflection": "Este auge implica que los jóvenes encontrarán una alternativa más barata y práctica para desplazarse, lo que puede aliviar la presión sobre el transporte público y el tráfico. En los próximos días, vigila los anuncios de fabricantes sobre nuevos modelos y cualquier política municipal que favorezca la infraestructura para microcoches."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2edb/live/5d054030-ddcf-11f1-b441-2b33b063138f.jpg\" alt=\"Jóvenes europeos se suben a los microcoches mientras la ciudad se vuelve más compacta y sostenible.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Jóvenes europeos se suben a los microcoches mientras la ciudad se vuelve más compacta y sostenible.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no aparecen en los artículos proporcionados; por lo tanto, no se observa un enfoque que destaque la justicia social o la reducción de la huella de carbono como eje central.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los reportes neutros resaltan el cambio de percepción: de vehículos para mayores y zonas rurales a una opción de moda entre los jóvenes urbanos, subrayando datos de ventas y la expansión de modelos compactos.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no están representados en los textos suministrados; no se detecta un énfasis en el coste económico, la competitividad industrial o la seguridad vial desde esa perspectiva.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Este auge implica que los jóvenes encontrarán una alternativa más barata y práctica para desplazarse, lo que puede aliviar la presión sobre el transporte público y el tráfico. En los próximos días, vigila los anuncios de fabricantes sobre nuevos modelos y cualquier política municipal que favorezca la infraestructura para microcoches.</p>"
         }
       ],
       "rawCount": 15
@@ -424,121 +427,164 @@
       "items": [
         {
           "id": "topic-1",
-          "headline": "El nuevo tope de precios de la energía eleva la factura doméstica y se confirma el pago único de £100",
-          "summary": "A partir de enero, el regulador Ofgem aplicará un límite superior al precio del gas que encarecerá notablemente las facturas de los hogares británicos. Al mismo tiempo, el gobierno ha anunciado un pago único de £100 para aliviar el impacto económico en los consumidores.",
+          "headline": "El precio de la energía doméstica en Reino Unido sube un 26 % tras el aumento del gas",
+          "summary": "A partir de enero, la factura promedio de una familia británica pasará de £1,723 a £2,166 si los precios actuales se mantienen. El regulador Ofgem advierte que el nuevo tope afectará a millones de hogares, obligándolos a buscar ahorros.",
           "tags": [
             "#energía",
-            "#costoshogar"
+            "#UK",
+            "#facturas",
+            "#inflación"
           ],
           "source_ids": [
             0,
-            8
-          ],
-          "sources": [
-            {
-              "source": "Neutral (BBC Business)",
-              "title": "Households braced for soaring energy bills with new price cap to be announced",
-              "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "Neutral (BBC Business)",
-              "title": "Will I get the £100 energy payment and when will I receive it?",
-              "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8ca0/live/03fac650-e7fb-11f1-ab60-79086b6495b8.jpg",
-            "imageSearchQuery": "UK energy price cap January 2024 household bill",
-            "caption": "El nuevo tope de precios de la energía eleva la factura de los hogares mientras se confirma el pago único de £100.",
-            "biasLeft": "En los artículos proporcionados no aparece una cobertura con sesgo progresista.",
-            "biasNeutral": "Los medios neutros destacan los datos clave: el aumento del precio máximo regulado para la energía doméstica en enero y la entrega de un pago único de £100 a millones de hogares. Señalan la normativa de Ofgem y los plazos de pago sin emitir juicios de valor.",
-            "biasRight": "En los artículos proporcionados no aparece una cobertura con sesgo conservador.",
-            "reflection": "Para la gente corriente, el alza del tope significa facturas más altas justo cuando la inflación sigue presionando el bolsillo. El punto a seguir es la fecha exacta en que se hará efectivo el abono de £100 y cualquier ajuste adicional de Ofgem antes de fin de mes."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8ca0/live/03fac650-e7fb-11f1-ab60-79086b6495b8.jpg\" alt=\"El nuevo tope de precios de la energía eleva la factura de los hogares mientras se confirma el pago único de £100.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El nuevo tope de precios de la energía eleva la factura de los hogares mientras se confirma el pago único de £100.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">En los artículos proporcionados no aparece una cobertura con sesgo progresista.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios neutros destacan los datos clave: el aumento del precio máximo regulado para la energía doméstica en enero y la entrega de un pago único de £100 a millones de hogares. Señalan la normativa de Ofgem y los plazos de pago sin emitir juicios de valor.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">En los artículos proporcionados no aparece una cobertura con sesgo conservador.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para la gente corriente, el alza del tope significa facturas más altas justo cuando la inflación sigue presionando el bolsillo. El punto a seguir es la fecha exacta en que se hará efectivo el abono de £100 y cualquier ajuste adicional de Ofgem antes de fin de mes.</p>"
-        },
-        {
-          "id": "topic-2",
-          "headline": "Cumbre DealBook 2026 reúne a líderes para debatir confianza empresarial, IA, empleo y reforma sanitaria",
-          "summary": "El evento, que celebra el 25.º aniversario de DealBook, abordó la pérdida de confianza en los negocios, la regulación de la inteligencia artificial y los retos laborales de los jóvenes. También se discutieron las repercusiones políticas tras las elecciones de medio término y la necesidad de reformar un sistema de salud en crisis.",
-          "tags": [
-            "#negocios",
-            "#IA",
-            "#empleo",
-            "#salud"
-          ],
-          "source_ids": [
-            1,
-            2,
-            3,
             4,
             5
           ],
           "sources": [
             {
-              "source": "Left (NYT Business)",
-              "title": "DealBook Summit 2026: The Cost of Being Pragmatic in a Chaotic World",
-              "url": "https://www.nytimes.com/2026/11/24/business/dealbook/world-chaos-pragmatism.html"
+              "source": "Neutral (BBC Business)",
+              "title": "Energy bills will soar - here's how you can ease the pain",
+              "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "source": "Left (NYT Business)",
-              "title": "DealBook Summit 2026: Help Wanted to Succeed in an A.I. World",
-              "url": "https://www.nytimes.com/2026/11/24/business/dealbook/work-jobs-task-force.html"
+              "source": "Neutral (BBC Business)",
+              "title": "Energy bills to rise by 26% from January after gas prices surge",
+              "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "source": "Left (NYT Business)",
-              "title": "DealBook Summit 2026: After the Upheaval From the Midterm Elections, Who Has the Edge in 2028?",
-              "url": "https://www.nytimes.com/2026/11/24/business/dealbook/midterm-elections-task-force.html"
-            },
-            {
-              "source": "Left (NYT Business)",
-              "title": "DealBook Summit 2026: Rein in A.I., but Don’t Pause It",
-              "url": "https://www.nytimes.com/2026/11/24/business/dealbook/ai-task-force.html"
-            },
-            {
-              "source": "Left (NYT Business)",
-              "title": "DealBook Summit 2026: It’s Time to Fix Health Care",
-              "url": "https://www.nytimes.com/2026/11/24/business/dealbook/health-care-task-force.html"
+              "source": "Neutral (BBC Business)",
+              "title": "What will the energy cap changes mean for my bills?",
+              "url": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-dealbook-cover-web/25sp-dealbook-cover-web-mediumSquareAt3X.jpg",
-            "imageSearchQuery": "DealBook Summit 2026 leaders conference New York",
-            "caption": "Líderes empresariales y expertos se reúnen en la Cumbre DealBook 2026 para debatir la confianza en los negocios, la IA, el empleo y la reforma sanitaria.",
-            "biasLeft": "Los medios progresistas subrayan la crisis de confianza que erosiona a las empresas y la necesidad de políticas públicas que regulen la IA sin frenar la innovación. Insisten en que la reforma sanitaria es una cuestión de justicia social, señalando los costos desmesurados y la falta de acceso como síntomas de un sistema disfuncional. También enfatizan que los jóvenes necesitan apoyo estructural para entrar al mercado laboral dominado por la automatización.",
-            "biasNeutral": "No se encuentran fuentes neutrales entre los artículos suministrados; por lo tanto, no hay cobertura centrada exclusivamente en hechos verificables sin un enfoque ideológico.",
-            "biasRight": "No se encuentran fuentes conservadoras entre los artículos suministrados; por lo tanto, no hay cobertura que destaque impactos económicos o de seguridad desde una perspectiva de derechas.",
-            "reflection": "Este debate importa porque la forma en que se regule la IA y se reforme la salud afectará directamente los salarios, los costos médicos y la estabilidad de empleo de la gente común. En los próximos días, vigila los comunicados oficiales sobre propuestas regulatorias de IA y cualquier anuncio de cambios legislativos en el sistema de salud."
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cb60/live/6bdfdbb0-e8ba-11f1-99b6-a35a62fa4264.jpg",
+            "imageSearchQuery": "UK energy bill increase 2024 gas price spike",
+            "caption": "Los británicos enfrentarán un aumento del 26 % en sus facturas domésticas de energía a partir de enero.",
+            "biasLeft": "Los medios progresistas no aparecen en los artículos proporcionados; por lo tanto, no hay énfasis de izquierda sobre este tema.",
+            "biasNeutral": "Los informes se centran en datos concretos: la subida del 26 % eleva la factura anual típica de £1,723 a £2,166, y explican cómo el techo regulado (energy cap) de Ofgem está siendo ajustado. También ofrecen consejos para reducir el gasto.",
+            "biasRight": "Los medios conservadores no aparecen en los artículos proporcionados; no se identifican enfoques de derecha sobre este asunto.",
+            "reflection": "Este incremento afecta directamente el presupuesto familiar, obligando a los hogares a recortar gastos o buscar tarifas más baratas. En los próximos días, hay que vigilar el comunicado de Ofgem sobre el nuevo energy cap y cualquier evolución del precio del gas en los mercados internacionales."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/25/multimedia/25sp-dealbook-cover-web/25sp-dealbook-cover-web-mediumSquareAt3X.jpg\" alt=\"Líderes empresariales y expertos se reúnen en la Cumbre DealBook 2026 para debatir la confianza en los negocios, la IA, el empleo y la reforma sanitaria.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Líderes empresariales y expertos se reúnen en la Cumbre DealBook 2026 para debatir la confianza en los negocios, la IA, el empleo y la reforma sanitaria.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan la crisis de confianza que erosiona a las empresas y la necesidad de políticas públicas que regulen la IA sin frenar la innovación. Insisten en que la reforma sanitaria es una cuestión de justicia social, señalando los costos desmesurados y la falta de acceso como síntomas de un sistema disfuncional. También enfatizan que los jóvenes necesitan apoyo estructural para entrar al mercado laboral dominado por la automatización.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">No se encuentran fuentes neutrales entre los artículos suministrados; por lo tanto, no hay cobertura centrada exclusivamente en hechos verificables sin un enfoque ideológico.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">No se encuentran fuentes conservadoras entre los artículos suministrados; por lo tanto, no hay cobertura que destaque impactos económicos o de seguridad desde una perspectiva de derechas.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Este debate importa porque la forma en que se regule la IA y se reforme la salud afectará directamente los salarios, los costos médicos y la estabilidad de empleo de la gente común. En los próximos días, vigila los comunicados oficiales sobre propuestas regulatorias de IA y cualquier anuncio de cambios legislativos en el sistema de salud.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cb60/live/6bdfdbb0-e8ba-11f1-99b6-a35a62fa4264.jpg\" alt=\"Los británicos enfrentarán un aumento del 26 % en sus facturas domésticas de energía a partir de enero.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Los británicos enfrentarán un aumento del 26 % en sus facturas domésticas de energía a partir de enero.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no aparecen en los artículos proporcionados; por lo tanto, no hay énfasis de izquierda sobre este tema.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los informes se centran en datos concretos: la subida del 26 % eleva la factura anual típica de £1,723 a £2,166, y explican cómo el techo regulado (energy cap) de Ofgem está siendo ajustado. También ofrecen consejos para reducir el gasto.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no aparecen en los artículos proporcionados; no se identifican enfoques de derecha sobre este asunto.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Este incremento afecta directamente el presupuesto familiar, obligando a los hogares a recortar gastos o buscar tarifas más baratas. En los próximos días, hay que vigilar el comunicado de Ofgem sobre el nuevo energy cap y cualquier evolución del precio del gas en los mercados internacionales.</p>"
+        },
+        {
+          "id": "topic-2",
+          "headline": "Los retrasos de vuelos en EE. UU. alcanzan niveles de 15 años bajo la presidencia de Trump",
+          "summary": "Los aviones quedan varados en pista durante hasta tres horas, una tendencia que se ha disparado desde 2020 sin que la FAA imponga sanciones. Los viajeros enfrentan incertidumbre y pérdidas económicas mientras se debate la falta de supervisión.",
+          "tags": [
+            "#vuelos",
+            "#Trump",
+            "#FAA",
+            "#retrasos"
+          ],
+          "source_ids": [
+            2
+          ],
+          "sources": [
+            {
+              "source": "Left (NYT Business)",
+              "title": "Trapped on the Tarmac: 3-Hour Flight Delays Spike Under Trump",
+              "url": "https://www.nytimes.com/2026/11/25/upshot/tarmac-delays-flights-trump.html"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://static01.nyt.com/images/2026/11/24/multimedia/2026-11-16-tarmacdelays-index/2026-11-16-tarmacdelays-index-mediumSquareAt3X-v12.png",
+            "imageSearchQuery": "US airline tarmac delays Trump administration",
+            "caption": "Pasajeros encadenados al suelo mientras los aviones esperan horas para despegar bajo la gestión de Trump.",
+            "biasLeft": "Los medios progresistas resaltan la falta de cumplimiento de normas de la FAA y la vulneración de los derechos de los viajeros, señalando que la ausencia de sanciones permite que las aerolíneas prioricen sus ganancias sobre la seguridad y el bienestar del público.",
+            "biasNeutral": "No se encontró cobertura neutral o de centro en los artículos proporcionados.",
+            "biasRight": "No se encontró cobertura conservadora o de derecha en los artículos proporcionados.",
+            "reflection": "Para el viajero cotidiano, estos retrasos significan pérdidas de tiempo y dinero, además de mayor estrés en los aeropuertos. En los próximos días, hay que vigilar si la FAA anuncia nuevas inspecciones o multas que puedan reducir la duración de las demoras."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/24/multimedia/2026-11-16-tarmacdelays-index/2026-11-16-tarmacdelays-index-mediumSquareAt3X-v12.png\" alt=\"Pasajeros encadenados al suelo mientras los aviones esperan horas para despegar bajo la gestión de Trump.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Pasajeros encadenados al suelo mientras los aviones esperan horas para despegar bajo la gestión de Trump.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas resaltan la falta de cumplimiento de normas de la FAA y la vulneración de los derechos de los viajeros, señalando que la ausencia de sanciones permite que las aerolíneas prioricen sus ganancias sobre la seguridad y el bienestar del público.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">No se encontró cobertura neutral o de centro en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">No se encontró cobertura conservadora o de derecha en los artículos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el viajero cotidiano, estos retrasos significan pérdidas de tiempo y dinero, además de mayor estrés en los aeropuertos. En los próximos días, hay que vigilar si la FAA anuncia nuevas inspecciones o multas que puedan reducir la duración de las demoras.</p>"
         },
         {
           "id": "topic-3",
-          "headline": "Nvidia reincorpora a Jensen Huang como CEO y sus acciones se disparan, mientras persiste la investigación federal",
-          "summary": "El consejo de Nvidia nombró de nuevo a su cofundador Jensen Huang como director ejecutivo, lo que impulsó la cotización de la compañía y calmó temporalmente los temores del mercado de IA. Sin embargo, el fiscal general de EE. UU. evitó responder a preguntas sobre un sondeo sobre posible intervención de inteligencia extranjera.",
+          "headline": "Bob Iger abandona Disney y se publica una biografía crítica sobre su gestión",
+          "summary": "La obra “The House of Mouse” cuestiona la imagen pública que Iger cultivó durante su mandato y llega justo antes de su última reunión del consejo. La publicación alimenta el debate sobre el legado del ejecutivo en la era del streaming.",
+          "tags": [
+            "#Disney",
+            "#BobIger",
+            "#biografía",
+            "#entretenimiento"
+          ],
+          "source_ids": [
+            3
+          ],
+          "sources": [
+            {
+              "source": "Left (NYT Business)",
+              "title": "As Bob Iger Exits Disney for Good, an Unwelcome Biography Arrives",
+              "url": "https://www.nytimes.com/2026/11/25/business/media/bob-iger-disney-robbie-whelan.html"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-disney-iger-3-ctbh/24biz-disney-iger-3-ctbh-mediumSquareAt3X.jpg",
+            "imageSearchQuery": "Bob Iger Disney departure biography final board meeting",
+            "caption": "Bob Iger se despide del consejo de Disney mientras una biografía crítica pone bajo la lupa su legado.",
+            "biasLeft": "Los medios progresistas subrayan la narrativa de poder corporativo y la falta de responsabilidad social en la gestión de Iger, resaltando cómo la biografía desmonta la imagen de ‘magia’ que cultivó. Enfatizan también el impacto de sus decisiones en los trabajadores y en la cultura de la empresa.",
+            "biasNeutral": "No hay cobertura de medios centristas en los artículos proporcionados.",
+            "biasRight": "No hay cobertura de medios conservadores en los artículos proporcionados.",
+            "reflection": "Este cambio de liderazgo puede alterar la estrategia de Disney, afectando desde los precios de sus parques hasta la línea editorial de sus contenidos. En los próximos días, vigile los comunicados oficiales y la reacción del mercado de valores para anticipar la dirección que tomará la compañía bajo un nuevo mando."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/24/multimedia/24biz-disney-iger-3-ctbh/24biz-disney-iger-3-ctbh-mediumSquareAt3X.jpg\" alt=\"Bob Iger se despide del consejo de Disney mientras una biografía crítica pone bajo la lupa su legado.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Bob Iger se despide del consejo de Disney mientras una biografía crítica pone bajo la lupa su legado.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan la narrativa de poder corporativo y la falta de responsabilidad social en la gestión de Iger, resaltando cómo la biografía desmonta la imagen de ‘magia’ que cultivó. Enfatizan también el impacto de sus decisiones en los trabajadores y en la cultura de la empresa.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">No hay cobertura de medios centristas en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">No hay cobertura de medios conservadores en los artículos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Este cambio de liderazgo puede alterar la estrategia de Disney, afectando desde los precios de sus parques hasta la línea editorial de sus contenidos. En los próximos días, vigile los comunicados oficiales y la reacción del mercado de valores para anticipar la dirección que tomará la compañía bajo un nuevo mando.</p>"
+        },
+        {
+          "id": "topic-4",
+          "headline": "Martha Firestone Ford, dueña de los Detroit Lions, fallece a los 101 años",
+          "summary": "Ford tomó el control del equipo tras la muerte de su esposo en 2014, convirtiéndose en una de las pocas propietarias femeninas de la NFL. Su legado incluye esfuerzos por mantener la estabilidad del club y fomentar la participación de las mujeres en el deporte.",
+          "tags": [
+            "#NFL",
+            "#DetroitLions",
+            "#MarthaFord",
+            "#deporte"
+          ],
+          "source_ids": [
+            6
+          ],
+          "sources": [
+            {
+              "source": "Left (NYT Business)",
+              "title": "Martha Firestone Ford, Owner of Detroit Lions, Dies at 101",
+              "url": "https://www.nytimes.com/2026/11/24/business/martha-firestone-ford-dead.html"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://static01.nyt.com/images/2021/02/22/obituaries/Ford-01/Ford-01-mediumSquareAt3X-v2.jpg",
+            "imageSearchQuery": "Martha Firestone Ford Detroit Lions death",
+            "caption": "Martha Firestone Ford, la centenaria dueña de los Detroit Lions, falleció dejando una década de liderazgo femenino en la NFL.",
+            "biasLeft": "Los medios progresistas subrayan su papel como una de las pocas mujeres dueñas en la NFL, resaltando la brecha de género en la liga y su legado como pionera para la inclusión femenina en cargos de alto nivel.",
+            "biasNeutral": "No se encontró cobertura neutral o de centro en los artículos suministrados; por lo tanto, no hay información disponible de esa perspectiva.",
+            "biasRight": "No se encontró cobertura conservadora o de derecha en los artículos suministrados; por lo tanto, no hay información disponible de esa perspectiva.",
+            "reflection": "La muerte de Martha Firestone Ford marca el fin de una era de control familiar sobre los Lions, lo que podría desencadenar cambios en la gestión del equipo y su relación con la comunidad de Detroit. En los próximos días, habrá que vigilar cualquier anuncio sobre la sucesión o venta del equipo, ya que influirá en la estabilidad financiera y el empleo local."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2021/02/22/obituaries/Ford-01/Ford-01-mediumSquareAt3X-v2.jpg\" alt=\"Martha Firestone Ford, la centenaria dueña de los Detroit Lions, falleció dejando una década de liderazgo femenino en la NFL.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Martha Firestone Ford, la centenaria dueña de los Detroit Lions, falleció dejando una década de liderazgo femenino en la NFL.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan su papel como una de las pocas mujeres dueñas en la NFL, resaltando la brecha de género en la liga y su legado como pionera para la inclusión femenina en cargos de alto nivel.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">No se encontró cobertura neutral o de centro en los artículos suministrados; por lo tanto, no hay información disponible de esa perspectiva.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">No se encontró cobertura conservadora o de derecha en los artículos suministrados; por lo tanto, no hay información disponible de esa perspectiva.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>La muerte de Martha Firestone Ford marca el fin de una era de control familiar sobre los Lions, lo que podría desencadenar cambios en la gestión del equipo y su relación con la comunidad de Detroit. En los próximos días, habrá que vigilar cualquier anuncio sobre la sucesión o venta del equipo, ya que influirá en la estabilidad financiera y el empleo local.</p>"
+        },
+        {
+          "id": "topic-5",
+          "headline": "Jensen Huang vuelve a dirigir Nvidia tras intervención del gobierno de EE. UU., impulsando la cotización y el debate sobre IA",
+          "summary": "El consejo reinstaló al cofundador como CEO después de presiones de Washington y una investigación sobre espionaje extranjero, lo que alivió la incertidumbre del mercado y disparó el precio de sus acciones. Al mismo tiempo, la volatilidad del sector IA se refleja en la caída de Nvidia y el boom de la IPO de Anthropic, que ha creado nuevos millonarios entre sus empleados.",
           "tags": [
             "#Nvidia",
+            "#JensenHuang",
             "#IA",
-            "#mercados",
-            "#investigación"
+            "#mercado",
+            "#tecnología"
           ],
           "source_ids": [
             7,
-            9,
             10,
             11,
-            12
+            12,
+            13,
+            14
           ],
           "sources": [
             {
               "source": "Neutral (BBC Business)",
-              "title": "US attorney general dodges questions about Nvidia investigation",
-              "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "Neutral (BBC Business)",
-              "title": "Faisal Islam: Fears over the AI boom haven't gone away",
-              "url": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss"
+              "title": "Trump's rescue of Nvidia's Huang brings political risks",
+              "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss"
             },
             {
               "source": "Right (Fox Business)",
@@ -554,64 +600,7 @@
               "source": "Right (Fox Business)",
               "title": "Stocks soar on Jensen Huang’s return to Nvidia",
               "url": "https://www.foxbusiness.com/markets/stocks-november-23-2026"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://a57.foxnews.com/static/foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/jensen-huang-stage-open-arms.jpg?ve=1&tl=1",
-            "imageSearchQuery": "Jensen Huang reinstated CEO Nvidia stock surge",
-            "caption": "Jensen Huang vuelve al mando de Nvidia mientras sus acciones se disparan y el gobierno federal sigue investigando.",
-            "biasLeft": "Los artículos de izquierda no aparecen entre las fuentes suministradas.",
-            "biasNeutral": "BBC señala que, pese al repunte de la acción, el precio cayó un 7 % tras la presión de legisladores que exigen explicaciones sobre la posible influencia del expresidente Trump en la restitución de Huang. Además, se recuerda que los temores sobre la explosión de la IA persisten y que su regreso no resolverá los problemas estructurales del sector.",
-            "biasRight": "Fox Business celebra la reincorporación de Huang como la eliminación de una gran incertidumbre que frenaba al mercado de IA, destacando el salto de los índices y la confianza de Wall Street. También menciona la participación del gobierno estadounidense como un factor que legitima la decisión y subraya la continuidad de una investigación independiente sobre supuestos esfuerzos de inteligencia extranjera.",
-            "reflection": "Para el inversor promedio, el movimiento indica que Nvidia podría volver a liderar la ola de ganancias del sector IA, pero la investigación federal sigue siendo una sombra que podría afectar futuros movimientos regulatorios. En los próximos días, vigile la respuesta del Congreso y cualquier anuncio oficial de la investigación para anticipar posibles impactos en el precio de la acción."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static/foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/jensen-huang-stage-open-arms.jpg?ve=1&amp;tl=1\" alt=\"Jensen Huang vuelve al mando de Nvidia mientras sus acciones se disparan y el gobierno federal sigue investigando.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Jensen Huang vuelve al mando de Nvidia mientras sus acciones se disparan y el gobierno federal sigue investigando.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los artículos de izquierda no aparecen entre las fuentes suministradas.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">BBC señala que, pese al repunte de la acción, el precio cayó un 7 % tras la presión de legisladores que exigen explicaciones sobre la posible influencia del expresidente Trump en la restitución de Huang. Además, se recuerda que los temores sobre la explosión de la IA persisten y que su regreso no resolverá los problemas estructurales del sector.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Fox Business celebra la reincorporación de Huang como la eliminación de una gran incertidumbre que frenaba al mercado de IA, destacando el salto de los índices y la confianza de Wall Street. También menciona la participación del gobierno estadounidense como un factor que legitima la decisión y subraya la continuidad de una investigación independiente sobre supuestos esfuerzos de inteligencia extranjera.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el inversor promedio, el movimiento indica que Nvidia podría volver a liderar la ola de ganancias del sector IA, pero la investigación federal sigue siendo una sombra que podría afectar futuros movimientos regulatorios. En los próximos días, vigile la respuesta del Congreso y cualquier anuncio oficial de la investigación para anticipar posibles impactos en el precio de la acción.</p>"
-        },
-        {
-          "id": "topic-4",
-          "headline": "Un jurado de Nueva York declara culpable a Huawei por robar secretos comerciales",
-          "summary": "Tras varios meses de juicio, Huawei fue hallada responsable de apropiarse indebidamente de propiedad intelectual ajena, aunque fue absuelta de cargos de extorsión. La decisión podría repercutir en sus operaciones internacionales y en la tensa relación tecnológica entre EE. UU. y China.",
-          "tags": [
-            "#Huawei",
-            "#propiedadintelectual",
-            "#EEUU"
-          ],
-          "source_ids": [
-            6
-          ],
-          "sources": [
-            {
-              "source": "Neutral (BBC Business)",
-              "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-              "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
-            "imageSearchQuery": "Huawei New York jury trade secrets trial",
-            "caption": "Un jurado de Manhattan declara a Huawei culpable de robar secretos comerciales.",
-            "biasLeft": "Los medios progresistas no aparecen en los artículos suministrados, por lo que no hay evidencia de su enfoque. No se puede extraer una línea editorial de izquierda a partir de la información disponible.",
-            "biasNeutral": "Los informes se limitan a describir el veredicto del jurado después de un juicio de varios meses, señalando que Huawei fue hallado culpable de robo de propiedad intelectual pero absuelto de cargos de extorsión. No se añaden interpretaciones ni juicios de valor, solo los hechos básicos del caso.",
-            "biasRight": "Los medios conservadores no aparecen en los artículos suministrados, por lo que no hay evidencia de su enfoque. No se puede inferir una cobertura de derecha a partir de la información disponible.",
-            "reflection": "El fallo puede traducirse en restricciones adicionales a la tecnología de Huawei y en posibles indemnizaciones para empresas estadounidenses. En los próximos días será crucial seguir las decisiones judiciales sobre multas y cualquier medida regulatoria que impacte al mercado de telecomunicaciones."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg\" alt=\"Un jurado de Manhattan declara a Huawei culpable de robar secretos comerciales.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Un jurado de Manhattan declara a Huawei culpable de robar secretos comerciales.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no aparecen en los artículos suministrados, por lo que no hay evidencia de su enfoque. No se puede extraer una línea editorial de izquierda a partir de la información disponible.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los informes se limitan a describir el veredicto del jurado después de un juicio de varios meses, señalando que Huawei fue hallado culpable de robo de propiedad intelectual pero absuelto de cargos de extorsión. No se añaden interpretaciones ni juicios de valor, solo los hechos básicos del caso.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no aparecen en los artículos suministrados, por lo que no hay evidencia de su enfoque. No se puede inferir una cobertura de derecha a partir de la información disponible.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>El fallo puede traducirse en restricciones adicionales a la tecnología de Huawei y en posibles indemnizaciones para empresas estadounidenses. En los próximos días será crucial seguir las decisiones judiciales sobre multas y cualquier medida regulatoria que impacte al mercado de telecomunicaciones.</p>"
-        },
-        {
-          "id": "topic-5",
-          "headline": "Caída histórica del Dow y S&P 500 tras la venta masiva de acciones de IA, mientras la salida a bolsa de Anthropic crea millonarios",
-          "summary": "Un fuerte descenso en las acciones vinculadas a la inteligencia artificial empujó a los principales índices estadounidenses a territorio de corrección, borrando las ganancias del Nasdaq del año. Paralelamente, la IPO de Anthropic generó una bonanza inesperada, convirtiendo a miles de empleados en millonarios de la noche a la mañana.",
-          "tags": [
-            "#bolsa",
-            "#IA",
-            "#Anthropic",
-            "#WallStreet"
-          ],
-          "source_ids": [
-            13,
-            14
-          ],
-          "sources": [
+            },
             {
               "source": "Right (Fox Business)",
               "title": "Wall Street suffers historic losses as Dow, S&P 500 plunge into correction territory",
@@ -624,15 +613,15 @@
             }
           ],
           "deepDive": {
-            "imageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/wall-street-historic-stock-market-selloff-1.jpg?ve=1&tl=1",
-            "imageSearchQuery": "Dow plunge AI selloff Anthropic IPO",
-            "caption": "El Dow y el S&P 500 se desploman mientras la salida a bolsa de Anthropic convierte a miles de empleados en millonarios.",
-            "biasLeft": "Los medios progresistas no cubrieron este tema en los artículos proporcionados.",
-            "biasNeutral": "Los medios neutrales no abordaron este tema en los artículos suministrados.",
-            "biasRight": "Fox Business destaca la caída histórica del Dow y el S&P 500 como una corrección impulsada por el miedo a la IA y la venta masiva de acciones de Nvidia. También subraya que la IPO de Anthropic generó riqueza instantánea para miles de trabajadores del sector tecnológico. El énfasis está en el impacto económico inmediato y la volatilidad del mercado de IA.",
-            "reflection": "Para un inversor individual, la caída de los índices señala que la exposición a acciones de IA está bajo presión y puede requerir reajustes de cartera. En los próximos días, vigile los movimientos de precios de Nvidia y cualquier anuncio regulatorio o de resultados que pueda estabilizar o agravar la venta masiva."
+            "imageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/jensen-huang-stage-open-arms.jpg?ve=1&tl=1",
+            "imageSearchQuery": "Jensen Huang reinstated Nvidia CEO",
+            "caption": "Jensen Huang vuelve al mando de Nvidia bajo la presión del gobierno estadounidense, mientras la acción dispara al alza.",
+            "biasLeft": "Los medios progresistas no aparecen entre los artículos proporcionados, por lo que no hay cobertura de izquierda sobre este tema.",
+            "biasNeutral": "BBC Business destaca que la intervención del presidente Trump para restituir a Huang enlaza estrechamente a ambos, subrayando los riesgos políticos que ello conlleva. Señala la posible percepción de favoritismo gubernamental y su impacto en la confianza del mercado. Además, plantea preguntas sobre la separación entre política y empresas tecnológicas.",
+            "biasRight": "Fox Business se centra en el impulso inmediato de la cotización de Nvidia y la eliminación de una incertidumbre para los inversores de IA. Resalta la influencia de la presión gubernamental como una señal de seguridad nacional y vigilancia contra posibles espionajes extranjeros. También menciona el contexto de la reciente caída del sector de IA y la necesidad de estabilizar el mercado.",
+            "reflection": "Para el inversor medio, la reinstauración de Huang significa que Nvidia podría recuperar parte de la pérdida de valor reciente y que el sector de IA seguirá siendo volátil. En los próximos días, hay que vigilar el movimiento del precio de la acción y cualquier anuncio oficial sobre la investigación de inteligencia extranjera."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/wall-street-historic-stock-market-selloff-1.jpg?ve=1&amp;tl=1\" alt=\"El Dow y el S&amp;P 500 se desploman mientras la salida a bolsa de Anthropic convierte a miles de empleados en millonarios.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El Dow y el S&amp;P 500 se desploman mientras la salida a bolsa de Anthropic convierte a miles de empleados en millonarios.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no cubrieron este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios neutrales no abordaron este tema en los artículos suministrados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Fox Business destaca la caída histórica del Dow y el S&amp;P 500 como una corrección impulsada por el miedo a la IA y la venta masiva de acciones de Nvidia. También subraya que la IPO de Anthropic generó riqueza instantánea para miles de trabajadores del sector tecnológico. El énfasis está en el impacto económico inmediato y la volatilidad del mercado de IA.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para un inversor individual, la caída de los índices señala que la exposición a acciones de IA está bajo presión y puede requerir reajustes de cartera. En los próximos días, vigile los movimientos de precios de Nvidia y cualquier anuncio regulatorio o de resultados que pueda estabilizar o agravar la venta masiva.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/jensen-huang-stage-open-arms.jpg?ve=1&amp;tl=1\" alt=\"Jensen Huang vuelve al mando de Nvidia bajo la presión del gobierno estadounidense, mientras la acción dispara al alza.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Jensen Huang vuelve al mando de Nvidia bajo la presión del gobierno estadounidense, mientras la acción dispara al alza.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no aparecen entre los artículos proporcionados, por lo que no hay cobertura de izquierda sobre este tema.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">BBC Business destaca que la intervención del presidente Trump para restituir a Huang enlaza estrechamente a ambos, subrayando los riesgos políticos que ello conlleva. Señala la posible percepción de favoritismo gubernamental y su impacto en la confianza del mercado. Además, plantea preguntas sobre la separación entre política y empresas tecnológicas.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Fox Business se centra en el impulso inmediato de la cotización de Nvidia y la eliminación de una incertidumbre para los inversores de IA. Resalta la influencia de la presión gubernamental como una señal de seguridad nacional y vigilancia contra posibles espionajes extranjeros. También menciona el contexto de la reciente caída del sector de IA y la necesidad de estabilizar el mercado.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el inversor medio, la reinstauración de Huang significa que Nvidia podría recuperar parte de la pérdida de valor reciente y que el sector de IA seguirá siendo volátil. En los próximos días, hay que vigilar el movimiento del precio de la acción y cualquier anuncio oficial sobre la investigación de inteligencia extranjera.</p>"
         }
       ],
       "rawCount": 15
