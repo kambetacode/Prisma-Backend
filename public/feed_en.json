@@ -1,59 +1,156 @@
 {
-  "last_updated": "2026-11-26T13:42:37.365Z",
+  "last_updated": "2026-11-26T22:49:09.024Z",
   "language": "en",
   "categories": {
     "GLOBAL_MACRO": {
       "items": [
         {
           "id": "topic-1",
-          "headline": "Dozens of Brazilians Enlisted in Russian Army After False Salary Promises",
-          "summary": "Recruited with promises of high pay, many Brazilians were sent to the front lines with little training and now face brutal combat conditions. The scheme underscores Russia’s manpower shortages and raises alarm over illegal foreign recruitment.",
+          "headline": "Fuel‑related accidents in Spain, Thailand and Egypt kill or injure dozens and raise environmental worries",
+          "summary": "A diesel tanker capsized off Ibiza, a refinery explosion in Bangkok injured nine people, and a fuel‑truck crash on Cairo’s Ring Road sparked a blaze that left 31 dead. The incidents are prompting authorities in each country to assess ecological damage and tighten safety oversight.",
           "tags": [
-            "#Russia",
-            "#Brazil",
-            "#Mercenaries",
-            "#Recruitment"
+            "#industrialAccident",
+            "#environment",
+            "#publicSafety"
           ],
           "source_ids": [
-            5,
-            6
+            0,
+            9,
+            10
+          ],
+          "sources": [
+            {
+              "source": "Neutral (BBC)",
+              "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+              "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "Right (Fox)",
+              "title": "Bangkok oil refinery explosion injures at least 9, Thailand company monitoring air quality",
+              "url": "https://www.foxnews.com/world/bangkok-oil-refinery-explosion-injures-least-9-thailand-company-monitoring-air-quality"
+            },
+            {
+              "source": "Right (Fox)",
+              "title": "Egypt detains driver suspected of causing Cairo fuel tanker crash and inferno that left 31 dead",
+              "url": "https://www.foxnews.com/world/egypt-detains-driver-suspected-causing-cairo-fuel-tanker-crash-inferno-left-31-dead"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/vehicle-fire-giza-egypt.jpg",
+            "imageSearchQuery": "Cairo fuel tanker crash Ring Road Egypt fire",
+            "caption": "Flames engulf a mangled fuel tanker on Cairo’s Ring Road, where a crash claimed 31 lives.",
+            "biasLeft": "No left‑leaning source was included among the supplied articles, so a progressive framing cannot be demonstrated here.",
+            "biasNeutral": "The BBC report sticks to the basics: a diesel tanker with up to 7,000 tonnes capsized near Ibiza, one person died and officials are still gauging environmental impact. It avoids speculation and focuses on the immediate facts.",
+            "biasRight": "Fox News highlights the human toll and immediate response: in Thailand an oil refinery blast injured nine, with authorities sending air‑quality alerts; in Egypt the driver is detained and prosecutors outline the crash, underscoring accountability and the need for security at fuel‑transport hubs.",
+            "reflection": "For everyday citizens, these incidents remind that fuel logistics can suddenly become public‑safety hazards, affecting travel routes, air quality and local economies. Watch for official updates on spill containment in Spain and any regulatory changes announced in Thailand or Egypt in the coming days."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/11/vehicle-fire-giza-egypt.jpg\" alt=\"Flames engulf a mangled fuel tanker on Cairo’s Ring Road, where a crash claimed 31 lives.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Flames engulf a mangled fuel tanker on Cairo’s Ring Road, where a crash claimed 31 lives.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">No left‑leaning source was included among the supplied articles, so a progressive framing cannot be demonstrated here.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC report sticks to the basics: a diesel tanker with up to 7,000 tonnes capsized near Ibiza, one person died and officials are still gauging environmental impact. It avoids speculation and focuses on the immediate facts.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Fox News highlights the human toll and immediate response: in Thailand an oil refinery blast injured nine, with authorities sending air‑quality alerts; in Egypt the driver is detained and prosecutors outline the crash, underscoring accountability and the need for security at fuel‑transport hubs.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday citizens, these incidents remind that fuel logistics can suddenly become public‑safety hazards, affecting travel routes, air quality and local economies. Watch for official updates on spill containment in Spain and any regulatory changes announced in Thailand or Egypt in the coming days.</p>"
+        },
+        {
+          "id": "topic-2",
+          "headline": "Britain activates reserve air‑crew as Russian sabotage threats rise",
+          "summary": "The UK Ministry of Defence has begun contacting former service members to refresh its strategic reserve of fighter pilots and support staff, citing a surge in suspected Russian sabotage across Europe. The move aims to ensure readiness amid heightened geopolitical tension.",
+          "tags": [
+            "#UKDefense",
+            "#Russia",
+            "#militaryReadiness"
+          ],
+          "source_ids": [
+            2
+          ],
+          "sources": [
+            {
+              "source": "Right (Fox)",
+              "title": "UK shields fighter jets, contacts reservists in Cold War-scale push amid Russia threat",
+              "url": "https://www.foxnews.com/world/uk-shields-fighter-jets-contacts-reservists-cold-war-scale-push-amid-russia-threat"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/uk-fighter-jet.jpg",
+            "imageSearchQuery": "UK fighter jet reserve crew Russia sabotage",
+            "caption": "British warplanes on standby as the MoD revives a Cold‑War‑era reserve of veteran pilots to counter a surge in Russian sabotage threats.",
+            "biasLeft": "Left‑leaning outlets did not cover this specific topic in the provided sources.",
+            "biasNeutral": "Center or wire services did not cover this specific topic in the provided sources.",
+            "biasRight": "Conservative outlets frame the move as a necessary, decisive step to protect national security and economic stability against Russian sabotage, stressing the need for a rapid, sovereign response. They highlight the government’s readiness and the cost‑effectiveness of tapping experienced reservists rather than expanding new procurement. The narrative underscores a resurgence of Cold‑War‑style vigilance to deter aggression.",
+            "reflection": "For ordinary citizens, the activation of reserve air‑crew signals that the UK government sees a credible, near‑term threat to critical infrastructure, which could affect travel, energy supplies, or local economies. In the coming days, watch for official statements on specific sabotage incidents and any parliamentary debate on funding or deployment of the reserve force."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/11/uk-fighter-jet.jpg\" alt=\"British warplanes on standby as the MoD revives a Cold‑War‑era reserve of veteran pilots to counter a surge in Russian sabotage threats.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">British warplanes on standby as the MoD revives a Cold‑War‑era reserve of veteran pilots to counter a surge in Russian sabotage threats.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left‑leaning outlets did not cover this specific topic in the provided sources.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">Center or wire services did not cover this specific topic in the provided sources.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Conservative outlets frame the move as a necessary, decisive step to protect national security and economic stability against Russian sabotage, stressing the need for a rapid, sovereign response. They highlight the government’s readiness and the cost‑effectiveness of tapping experienced reservists rather than expanding new procurement. The narrative underscores a resurgence of Cold‑War‑style vigilance to deter aggression.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For ordinary citizens, the activation of reserve air‑crew signals that the UK government sees a credible, near‑term threat to critical infrastructure, which could affect travel, energy supplies, or local economies. In the coming days, watch for official statements on specific sabotage incidents and any parliamentary debate on funding or deployment of the reserve force.</p>"
+        },
+        {
+          "id": "topic-3",
+          "headline": "Two Italians killed when an Iranian drone strikes a Kuwait oil facility",
+          "summary": "Iranian‑launched drones hit a refinery in Kuwait, killing two Italian workers and adding to a series of attacks on Gulf states that host U.S. bases. The strikes come as diplomatic efforts to end the regional war remain stalled.",
+          "tags": [
+            "#MiddleEast",
+            "#Iran",
+            "#Kuwait",
+            "#droneAttack"
+          ],
+          "source_ids": [
+            3
           ],
           "sources": [
             {
               "source": "Left (NYT)",
-              "title": "Lured by High Salaries, Some Brazilians Were Duped Into Fighting for Russia",
-              "url": "https://www.nytimes.com/2026/11/26/world/americas/brazil-recruiting-russia-army.html"
-            },
-            {
-              "source": "Left (NYT)",
-              "title": "Brazilian Duped Into Fighting for Russia: ‘War Is Hell’",
-              "url": "https://www.nytimes.com/2026/11/26/world/americas/brazil-soldier-ukraine-war.html"
+              "title": "Two Italians Killed in Iranian Drone Attack on Kuwait, Officials Say",
+              "url": "https://www.nytimes.com/2026/11/26/world/middleeast/italians-killed-iran-drone-attack-kuwait.html"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://static01.nyt.com/images/2026/02/02/multimedia/00int-brazil-russia-soldiers-01-pmvf/00int-brazil-russia-soldiers-01-pmvf-mediumSquareAt3X.jpg",
-            "imageSearchQuery": "Brazilians recruited Russian army false salary promises front line",
-            "caption": "A Brazilian recruit in full Russian uniform stands amid a muddy trench, eyes fixed on a horizon that promised a payday that never arrived.",
-            "biasLeft": "The NYT frames the story as a human‑rights tragedy, stressing how recruiters exploited economic desperation with promises of \"high salaries\" that proved empty. It foregrounds the personal anguish of soldiers who find themselves on a foreign front with minimal training, casting the scheme as a predatory manipulation of vulnerable migrants. The language leans toward systemic critique, implying broader failures in both Brazilian and Russian oversight.",
-            "biasNeutral": "No centrist or wire‑service coverage appears among the supplied sources; therefore no neutral framing can be identified.",
-            "biasRight": "No conservative or right‑leaning outlets are represented in the provided articles, so no right‑wing angle can be described.",
-            "reflection": "For ordinary Brazilians, the story signals how easy it is for unscrupulous recruiters to weaponize economic hardship, turning citizens into expendable pawns in a distant war. Watch for any official Brazilian government response or crackdowns on recruitment networks in the coming days, as that will indicate whether the pattern might expand or be contained."
+            "imageUrl": "https://tse2.mm.bing.net/th?q=Iranian%20drone%20strike%20Kuwait%20oil%20facility%20Italians%20killed%20news%20photo&w=1280&h=720&rs=1&pid=ImgDetMain",
+            "imageSearchQuery": "Iranian drone strike Kuwait oil facility Italians killed",
+            "caption": "Two Italian workers lie dead after an Iranian‑launched drone hits a Kuwait oil plant.",
+            "biasLeft": "The left‑leaning coverage frames the attack as part of a dangerous escalation surrounding U.S. bases in the Gulf, stressing the human cost of a war that seems to be spiralling. It highlights the victims as ordinary civilians caught in a geopolitical tug‑of‑war and questions the policy choices that keep the region in conflict.",
+            "biasNeutral": "No neutral or wire‑service article was provided, so a balanced factual perspective is absent from the sources.",
+            "biasRight": "No conservative or right‑leaning source was supplied, so a security‑or‑economy‑focused angle is not present in the given material.",
+            "reflection": "The incident matters because it shows how quickly a regional clash can spill into civilian tragedy and disrupt global oil supplies, which can affect fuel prices at the pump. Watch for official statements from Kuwait, Iran and the United States in the next few days to gauge whether retaliation or diplomatic de‑escalation will follow."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/02/02/multimedia/00int-brazil-russia-soldiers-01-pmvf/00int-brazil-russia-soldiers-01-pmvf-mediumSquareAt3X.jpg\" alt=\"A Brazilian recruit in full Russian uniform stands amid a muddy trench, eyes fixed on a horizon that promised a payday that never arrived.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">A Brazilian recruit in full Russian uniform stands amid a muddy trench, eyes fixed on a horizon that promised a payday that never arrived.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The NYT frames the story as a human‑rights tragedy, stressing how recruiters exploited economic desperation with promises of &quot;high salaries&quot; that proved empty. It foregrounds the personal anguish of soldiers who find themselves on a foreign front with minimal training, casting the scheme as a predatory manipulation of vulnerable migrants. The language leans toward systemic critique, implying broader failures in both Brazilian and Russian oversight.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">No centrist or wire‑service coverage appears among the supplied sources; therefore no neutral framing can be identified.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No conservative or right‑leaning outlets are represented in the provided articles, so no right‑wing angle can be described.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For ordinary Brazilians, the story signals how easy it is for unscrupulous recruiters to weaponize economic hardship, turning citizens into expendable pawns in a distant war. Watch for any official Brazilian government response or crackdowns on recruitment networks in the coming days, as that will indicate whether the pattern might expand or be contained.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://tse2.mm.bing.net/th?q=Iranian%20drone%20strike%20Kuwait%20oil%20facility%20Italians%20killed%20news%20photo&amp;w=1280&amp;h=720&amp;rs=1&amp;pid=ImgDetMain\" alt=\"Two Italian workers lie dead after an Iranian‑launched drone hits a Kuwait oil plant.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Two Italian workers lie dead after an Iranian‑launched drone hits a Kuwait oil plant.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The left‑leaning coverage frames the attack as part of a dangerous escalation surrounding U.S. bases in the Gulf, stressing the human cost of a war that seems to be spiralling. It highlights the victims as ordinary civilians caught in a geopolitical tug‑of‑war and questions the policy choices that keep the region in conflict.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">No neutral or wire‑service article was provided, so a balanced factual perspective is absent from the sources.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No conservative or right‑leaning source was supplied, so a security‑or‑economy‑focused angle is not present in the given material.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>The incident matters because it shows how quickly a regional clash can spill into civilian tragedy and disrupt global oil supplies, which can affect fuel prices at the pump. Watch for official statements from Kuwait, Iran and the United States in the next few days to gauge whether retaliation or diplomatic de‑escalation will follow.</p>"
         },
         {
-          "id": "topic-2",
-          "headline": "German Boat Dealer Accused of Supplying Vessels to Channel Migrant Smuggling Networks",
-          "summary": "Investigators say a sizable share of early‑2026 Channel crossings used boats or engines sold by the dealer, linking his business to people‑smuggling rings. The case has sparked extradition disputes and broader scrutiny of supply chains that enable illegal migration.",
+          "id": "topic-4",
+          "headline": "North Korea halts missile shipments to Russia after tension over Moscow’s outreach to South Korea",
+          "summary": "Ukrainian intelligence reports that Pyongyang paused deliveries of ballistic missiles and artillery to Russia following friction over Moscow’s diplomatic overtures to Seoul. The suspension could limit Russia’s access to weapons for its war in Ukraine.",
           "tags": [
-            "#MigrantSmuggling",
-            "#Germany",
-            "#ChannelCrossings",
-            "#HumanTrafficking"
+            "#NorthKorea",
+            "#Russia",
+            "#missiles",
+            "#Ukraine"
           ],
           "source_ids": [
-            8,
-            9
+            5
+          ],
+          "sources": [
+            {
+              "source": "Right (Fox)",
+              "title": "Ukrainian intelligence says North Korea paused missile deliveries to Russia amid friction over South Korea",
+              "url": "https://www.foxnews.com/world/ukrainian-intelligence-north-korea-paused-missile-deliveries-russia-friction-south-korea"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/vladimir-putin-jo-yong-won-moscow.jpg",
+            "imageSearchQuery": "North Korea missile shipments Russia South Korea tension",
+            "caption": "North Korean officials pause missile and artillery deliveries to Russia amid friction over Moscow’s outreach to Seoul.",
+            "biasLeft": "No progressive or left‑leaning outlets are represented in the supplied material, so no left‑wing framing can be described.",
+            "biasNeutral": "No centrist or wire‑service outlets are included in the source list, so a neutral perspective is absent.",
+            "biasRight": "The right‑leaning Fox piece emphasizes the security fallout: Russia’s war machine losing a key supplier, the diplomatic sting of Pyongyang reacting to Moscow’s overtures to South Korea, and the broader implications for U.S. allies in the region.",
+            "reflection": "The pause signals a possible wobble in Russia’s access to North Korean missile technology, which could affect the intensity of the conflict in Ukraine. Watch for any official statements from Pyongyang or Moscow in the next few days that confirm whether the halt is temporary or a longer‑term shift."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/11/vladimir-putin-jo-yong-won-moscow.jpg\" alt=\"North Korean officials pause missile and artillery deliveries to Russia amid friction over Moscow’s outreach to Seoul.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">North Korean officials pause missile and artillery deliveries to Russia amid friction over Moscow’s outreach to Seoul.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">No progressive or left‑leaning outlets are represented in the supplied material, so no left‑wing framing can be described.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">No centrist or wire‑service outlets are included in the source list, so a neutral perspective is absent.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">The right‑leaning Fox piece emphasizes the security fallout: Russia’s war machine losing a key supplier, the diplomatic sting of Pyongyang reacting to Moscow’s overtures to South Korea, and the broader implications for U.S. allies in the region.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>The pause signals a possible wobble in Russia’s access to North Korean missile technology, which could affect the intensity of the conflict in Ukraine. Watch for any official statements from Pyongyang or Moscow in the next few days that confirm whether the halt is temporary or a longer‑term shift.</p>"
+        },
+        {
+          "id": "topic-5",
+          "headline": "German boat dealer accused of supplying vessels to migrant smuggling networks across the Channel",
+          "summary": "Investigations reveal that a German boat merchant provided a significant share of the craft used in early‑2026 Channel crossings, prompting extradition proceedings to France where he faces charges of smuggling, conspiracy and involuntary manslaughter. Authorities say his equipment was pivotal to the surge in illegal arrivals.",
+          "tags": [
+            "#migration",
+            "#smuggling",
+            "#Germany",
+            "#ChannelCrossings"
+          ],
+          "source_ids": [
+            13,
+            14
           ],
           "sources": [
             {
@@ -69,107 +166,14 @@
           ],
           "deepDive": {
             "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/db1b/live/69c522b0-e962-11f1-a094-5fdc692f3e33.jpg",
-            "imageSearchQuery": "Marvin Reuter German boat dealer Channel migrant smuggling",
-            "caption": "BBC cameras catch German boat dealer Marvin Reuter as he fights extradition to France over alleged links to Channel migrant smuggling gangs.",
-            "biasLeft": "Left‑leaning outlets are not represented in the provided sources; no progressive framing is available here.",
-            "biasNeutral": "The BBC sticks to the facts: Reuter is contesting extradition to face smuggling, conspiracy and involuntary manslaughter charges, and investigators say roughly a third of early‑2026 crossings involved boats or engines from his firm. The report also notes the legal uncertainty surrounding his case.",
-            "biasRight": "Right‑leaning coverage is not present in the supplied articles; no conservative emphasis is available.",
-            "reflection": "This matters because it highlights a potential supply chain that could be fuelling dangerous Channel crossings, affecting public safety and immigration policy. Watch for any court rulings on Reuter's extradition and for official statements on tightening boat‑sale regulations in the coming days."
+            "imageSearchQuery": "Marvin Reuter German boat dealer Channel migrant smuggling boats 2026",
+            "caption": "German boat dealer Marvin Reuter faces extradition as investigators link his firm to a third of Channel crossings in early 2026.",
+            "biasLeft": "Left‑leaning coverage is not present in the supplied articles.",
+            "biasNeutral": "Neutral outlets lay out the core facts: Reuter is accused of supplying small boats and engines to smuggling gangs, he is contesting extradition to France, and investigators say roughly a third of early‑2026 crossings involved his company's vessels. They also flag the pending charges of smuggling, criminal conspiracy and involuntary manslaughter.",
+            "biasRight": "Right‑leaning coverage is not present in the supplied articles.",
+            "reflection": "The case matters because it highlights a supply chain that directly fuels dangerous Channel crossings, affecting public safety and immigration policy. Watch for court rulings on Reuter's extradition and any official statements on tightening boat‑sale regulations in the coming days."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/db1b/live/69c522b0-e962-11f1-a094-5fdc692f3e33.jpg\" alt=\"BBC cameras catch German boat dealer Marvin Reuter as he fights extradition to France over alleged links to Channel migrant smuggling gangs.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">BBC cameras catch German boat dealer Marvin Reuter as he fights extradition to France over alleged links to Channel migrant smuggling gangs.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left‑leaning outlets are not represented in the provided sources; no progressive framing is available here.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC sticks to the facts: Reuter is contesting extradition to face smuggling, conspiracy and involuntary manslaughter charges, and investigators say roughly a third of early‑2026 crossings involved boats or engines from his firm. The report also notes the legal uncertainty surrounding his case.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Right‑leaning coverage is not present in the supplied articles; no conservative emphasis is available.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>This matters because it highlights a potential supply chain that could be fuelling dangerous Channel crossings, affecting public safety and immigration policy. Watch for any court rulings on Reuter&#39;s extradition and for official statements on tightening boat‑sale regulations in the coming days.</p>"
-        },
-        {
-          "id": "topic-3",
-          "headline": "Myanmar Rejects Key Provisions of ICJ Ruling on Rohingya Genocide",
-          "summary": "Despite the International Court of Justice finding Myanmar responsible for genocide, the junta has refused to carry out measures such as reparations and investigations. The defiance deepens the country’s diplomatic isolation and prolongs the Rohingya’s plight.",
-          "tags": [
-            "#Myanmar",
-            "#ICJ",
-            "#Rohingya",
-            "#Genocide"
-          ],
-          "source_ids": [
-            2
-          ],
-          "sources": [
-            {
-              "source": "Neutral (BBC)",
-              "title": "Myanmar refuses to comply with parts of ICJ genocide ruling",
-              "url": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7152/live/395fc860-e975-11f1-acd8-af22a7ebb474.jpg",
-            "imageSearchQuery": "Myanmar ICJ ruling Rohingya genocide compliance protest",
-            "caption": "Myanmar’s government rejects key parts of the ICJ’s genocide verdict, sparking fresh criticism from human‑rights groups.",
-            "biasLeft": "Left‑leaning coverage is not present in the supplied article.",
-            "biasNeutral": "The BBC piece sticks to the facts: the ICJ found Myanmar guilty of genocide, and the junta has said it will not implement several of the court’s orders. It notes the ruling’s legal weight without inserting editorial commentary.",
-            "biasRight": "Right‑leaning coverage is not present in the supplied article.",
-            "reflection": "The decision matters because it tests whether an international court can enforce its rulings against a sovereign state that refuses to cooperate. Watch for any diplomatic push‑back or sanctions in the coming days as the UN and affected nations respond to Myanmar’s defiance."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7152/live/395fc860-e975-11f1-acd8-af22a7ebb474.jpg\" alt=\"Myanmar’s government rejects key parts of the ICJ’s genocide verdict, sparking fresh criticism from human‑rights groups.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Myanmar’s government rejects key parts of the ICJ’s genocide verdict, sparking fresh criticism from human‑rights groups.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left‑leaning coverage is not present in the supplied article.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC piece sticks to the facts: the ICJ found Myanmar guilty of genocide, and the junta has said it will not implement several of the court’s orders. It notes the ruling’s legal weight without inserting editorial commentary.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Right‑leaning coverage is not present in the supplied article.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>The decision matters because it tests whether an international court can enforce its rulings against a sovereign state that refuses to cooperate. Watch for any diplomatic push‑back or sanctions in the coming days as the UN and affected nations respond to Myanmar’s defiance.</p>"
-        },
-        {
-          "id": "topic-4",
-          "headline": "UK Net Migration Falls to Lowest Level Since 1997, Driven by Decline in Non‑EU Arrivals",
-          "summary": "Latest statistics show a sharp drop in people moving to Britain, largely due to fewer arrivals from outside the European Union after tighter immigration controls. The trend could reshape the labour market and pressure public services that rely on migrant workers.",
-          "tags": [
-            "#UK",
-            "#Migration",
-            "#ImmigrationPolicy",
-            "#LaborMarket"
-          ],
-          "source_ids": [
-            0
-          ],
-          "sources": [
-            {
-              "source": "Left (NYT)",
-              "title": "Net Migration to U.K. Falls to Lowest Level Since 1997, Excluding Pandemic",
-              "url": "https://www.nytimes.com/2026/11/26/world/europe/uk-net-migration-data.html"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://static01.nyt.com/images/2026/11/26/multimedia/26int-uk-immigration-tbmc/26int-uk-immigration-tbmc-mediumSquareAt3X.jpg",
-            "imageSearchQuery": "UK net migration 1997 lowest level non-EU arrivals",
-            "caption": "Net migration to Britain hits its lowest point since 1997 as non‑EU arrivals tumble.",
-            "biasLeft": "Progressive outlets stress that the drop is a direct outcome of a hostile public mood toward immigrants, casting the government's tightening as a reaction to a backlash rather than a policy triumph. They warn that curbing non‑EU arrivals could hurt the labour market and raise human‑rights concerns.",
-            "biasNeutral": "No neutral or wire‑service coverage was provided in the supplied articles.",
-            "biasRight": "No conservative or right‑leaning coverage was provided in the supplied articles.",
-            "reflection": "For everyday Britons, a shrinking pool of non‑EU workers could tighten labor supply in sectors that rely on migrant labor, potentially nudging wages up or causing shortages. Keep an eye on forthcoming statements from the Home Office or the next Office for National Statistics migration release for signs of policy shifts."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/26/multimedia/26int-uk-immigration-tbmc/26int-uk-immigration-tbmc-mediumSquareAt3X.jpg\" alt=\"Net migration to Britain hits its lowest point since 1997 as non‑EU arrivals tumble.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Net migration to Britain hits its lowest point since 1997 as non‑EU arrivals tumble.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Progressive outlets stress that the drop is a direct outcome of a hostile public mood toward immigrants, casting the government&#39;s tightening as a reaction to a backlash rather than a policy triumph. They warn that curbing non‑EU arrivals could hurt the labour market and raise human‑rights concerns.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">No neutral or wire‑service coverage was provided in the supplied articles.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No conservative or right‑leaning coverage was provided in the supplied articles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday Britons, a shrinking pool of non‑EU workers could tighten labor supply in sectors that rely on migrant labor, potentially nudging wages up or causing shortages. Keep an eye on forthcoming statements from the Home Office or the next Office for National Statistics migration release for signs of policy shifts.</p>"
-        },
-        {
-          "id": "topic-5",
-          "headline": "Diesel Tanker Carrying Up to 7,000 Tonnes Sinks Near Ibiza, One Fatality Confirmed",
-          "summary": "The vessel’s sinking raises fears of an oil spill that could damage Mediterranean marine life, prompting Spanish authorities to begin environmental assessments. Families of the crew mourn the loss of one sailor while rescue teams continue salvage operations.",
-          "tags": [
-            "#MaritimeAccident",
-            "#Ibiza",
-            "#EnvironmentalRisk",
-            "#Shipping"
-          ],
-          "source_ids": [
-            1
-          ],
-          "sources": [
-            {
-              "source": "Neutral (BBC)",
-              "title": "Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one",
-              "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/87e9/live/68ba1950-e978-11f1-acd8-af22a7ebb474.jpg",
-            "imageSearchQuery": "diesel tanker sink Ibiza 7000 tonnes",
-            "caption": "A diesel tanker capsizes off the coast of Ibiza, leaving one crew member dead and a looming environmental threat.",
-            "biasLeft": "Left‑leaning coverage is not present in the provided source.",
-            "biasNeutral": "The BBC sticks to the basics: a diesel tanker carrying up to 7,000 tonnes sank near Ibiza, one fatality was confirmed, and authorities are still assessing possible environmental damage.",
-            "biasRight": "Right‑leaning coverage is not present in the provided source.",
-            "reflection": "For anyone living or vacationing along the Balearic coast, the spill could affect beaches, fishing waters, and tourism revenue, so monitoring cleanup efforts and any advisories is essential. Watch for official updates on pollution levels and any restrictions on marine activities in the coming days."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/87e9/live/68ba1950-e978-11f1-acd8-af22a7ebb474.jpg\" alt=\"A diesel tanker capsizes off the coast of Ibiza, leaving one crew member dead and a looming environmental threat.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">A diesel tanker capsizes off the coast of Ibiza, leaving one crew member dead and a looming environmental threat.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left‑leaning coverage is not present in the provided source.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC sticks to the basics: a diesel tanker carrying up to 7,000 tonnes sank near Ibiza, one fatality was confirmed, and authorities are still assessing possible environmental damage.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Right‑leaning coverage is not present in the provided source.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For anyone living or vacationing along the Balearic coast, the spill could affect beaches, fishing waters, and tourism revenue, so monitoring cleanup efforts and any advisories is essential. Watch for official updates on pollution levels and any restrictions on marine activities in the coming days.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/db1b/live/69c522b0-e962-11f1-a094-5fdc692f3e33.jpg\" alt=\"German boat dealer Marvin Reuter faces extradition as investigators link his firm to a third of Channel crossings in early 2026.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">German boat dealer Marvin Reuter faces extradition as investigators link his firm to a third of Channel crossings in early 2026.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left‑leaning coverage is not present in the supplied articles.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">Neutral outlets lay out the core facts: Reuter is accused of supplying small boats and engines to smuggling gangs, he is contesting extradition to France, and investigators say roughly a third of early‑2026 crossings involved his company&#39;s vessels. They also flag the pending charges of smuggling, criminal conspiracy and involuntary manslaughter.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Right‑leaning coverage is not present in the supplied articles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>The case matters because it highlights a supply chain that directly fuels dangerous Channel crossings, affecting public safety and immigration policy. Watch for court rulings on Reuter&#39;s extradition and any official statements on tightening boat‑sale regulations in the coming days.</p>"
         }
       ],
       "rawCount": 15
@@ -178,51 +182,28 @@
       "items": [
         {
           "id": "topic-1",
-          "headline": "U.S. rule forces Nvidia to stop selling advanced AI chips to four Southeast Asian nations",
-          "summary": "Nvidia announced it will pause shipments of its latest AI processors to Singapore, Malaysia, Thailand and the Philippines after Washington introduced a licensing requirement for countries that want to buy high‑end chips. The move underscores growing U.S. pressure to curb China’s access to cutting‑edge AI hardware and could disrupt regional data‑center plans.",
+          "headline": "Nvidia’s CEO Jensen Huang reinstated amid political pressure, sparking board conflict and employee backlash",
+          "summary": "After being forced out, Huang was restored to the helm of Nvidia following direct intervention by former President Donald Trump, overturning the board’s earlier decision. The move has prompted internal apologies, therapy disclosures, and renewed scrutiny of corporate governance in the tech sector.",
           "tags": [
             "#Nvidia",
-            "#USExportControls",
-            "#AIchips"
+            "#CorporateGovernance",
+            "#Politics",
+            "#TechLeadership"
           ],
           "source_ids": [
-            0
+            0,
+            9,
+            10,
+            11,
+            13,
+            14
           ],
           "sources": [
             {
               "source": "Left (NYT Tech)",
-              "title": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
-              "url": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://tse2.mm.bing.net/th?q=Nvidia%20AI%20chip%20export%20ban%20Southeast%20Asia%20news%20photo&w=1280&h=720&rs=1&pid=ImgDetMain",
-            "imageSearchQuery": "Nvidia AI chip export ban Southeast Asia",
-            "caption": "Nvidia trucks halted at a Southeast Asian port as U.S. export rules cut off advanced AI chip sales.",
-            "biasLeft": "The article underscores how the new U.S. rule will require licenses for companies in the four Southeast Asian nations to purchase advanced AI chips, framing it as part of a broader effort to tighten technology flows to China. It emphasizes the potential impact on the regional tech ecosystem and the responsibility of corporations to navigate evolving export controls.",
-            "biasNeutral": "No neutral coverage is provided in the source; the piece presents the U.S. rule and Nvidia’s compliance without offering alternative perspectives or detailed analysis of the broader trade implications.",
-            "biasRight": "No right‑leaning coverage is present in the source; the article does not discuss economic, security, or sovereignty concerns from a conservative viewpoint.",
-            "reflection": "For businesses in the affected countries, the ban could mean higher costs and project delays as they seek licenses for AI hardware. Keep an eye on any further licensing announcements and how quickly Nvidia and other exporters resume shipments, as these developments will signal the U.S. stance on AI export controls."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://tse2.mm.bing.net/th?q=Nvidia%20AI%20chip%20export%20ban%20Southeast%20Asia%20news%20photo&amp;w=1280&amp;h=720&amp;rs=1&amp;pid=ImgDetMain\" alt=\"Nvidia trucks halted at a Southeast Asian port as U.S. export rules cut off advanced AI chip sales.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Nvidia trucks halted at a Southeast Asian port as U.S. export rules cut off advanced AI chip sales.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The article underscores how the new U.S. rule will require licenses for companies in the four Southeast Asian nations to purchase advanced AI chips, framing it as part of a broader effort to tighten technology flows to China. It emphasizes the potential impact on the regional tech ecosystem and the responsibility of corporations to navigate evolving export controls.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">No neutral coverage is provided in the source; the piece presents the U.S. rule and Nvidia’s compliance without offering alternative perspectives or detailed analysis of the broader trade implications.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No right‑leaning coverage is present in the source; the article does not discuss economic, security, or sovereignty concerns from a conservative viewpoint.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For businesses in the affected countries, the ban could mean higher costs and project delays as they seek licenses for AI hardware. Keep an eye on any further licensing announcements and how quickly Nvidia and other exporters resume shipments, as these developments will signal the U.S. stance on AI export controls.</p>"
-        },
-        {
-          "id": "topic-2",
-          "headline": "Nvidia’s CEO Jensen Huang returns after Trump‑backed board dispute, sparking investigations",
-          "summary": "After a brief ouster, Huang was reinstated as chief executive following pressure from the White House, prompting an inquiry by the U.S. attorney general and criticism from shareholders. The episode has raised questions about corporate governance, political influence, and the company’s culture, especially after Huang’s public apology for conduct violations.",
-          "tags": [
-            "#Nvidia",
-            "#CorporateGovernance",
-            "#Politics"
-          ],
-          "source_ids": [
-            7,
-            8,
-            9,
-            13,
-            11
-          ],
-          "sources": [
+              "title": "Jensen Huang Is Back, and So Is His Plaque at Denny’s",
+              "url": "https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html"
+            },
             {
               "source": "Neutral (BBC Tech)",
               "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
@@ -240,37 +221,38 @@
             },
             {
               "source": "Left (NYT Tech)",
-              "title": "With Jensen Huang’s Return as C.E.O., Trump Effectively Overrode Nvidia’s Board",
-              "url": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html"
+              "title": "From Chinese Factory Town to the Nvidia Scandal: The Rise of Alice Huang",
+              "url": "https://www.nytimes.com/2026/11/24/business/nvidia-alice-huang-china.html"
             },
             {
               "source": "Left (NYT Tech)",
-              "title": "From Chinese Factory Town to the Nvidia Scandal: The Rise of Alice Huang",
-              "url": "https://www.nytimes.com/2026/11/24/business/nvidia-alice-huang-china.html"
+              "title": "With Jensen Huang’s Return as C.E.O., Trump Effectively Overrode Nvidia’s Board",
+              "url": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bde3/live/fa4083e0-e8b6-11f1-9e64-bddd508b9881.jpg",
-            "imageSearchQuery": "Jensen Huang return Nvidia board dispute Trump",
-            "caption": "Jensen Huang steps back into Nvidia’s headquarters amid a board showdown fueled by former President Trump.",
-            "biasLeft": "The New York Times highlights Huang’s personal missteps, noting his public apology, therapy, and breach of Nvidia’s code of conduct. It frames Trump’s intervention as a direct override of board authority, stressing governance failure and political meddling. The coverage also ties the scandal to broader concerns about corporate espionage and Chinese influence.",
-            "biasNeutral": "BBC Tech sticks to the timeline: the board tried to oust Huang, Trump backed his reinstatement, and the share price fell 7%. It reports the attorney general’s evasive answers and points out how Huang made himself “impossible to fire,” without taking a side.",
-            "biasRight": "No right‑leaning outlets covered this story in the supplied articles.",
-            "reflection": "For investors and employees, Huang’s comeback signals possible regulatory scrutiny and continued stock volatility, so watch for SEC or DOJ filings in the next few days. The episode also serves as a barometer for how political interference can reshape corporate leadership, affecting confidence in governance across tech firms."
+            "imageUrl": "https://static01.nyt.com/images/2026/11/26/multimedia/26xp-dennys-lmgz/26xp-dennys-lmgz-mediumSquareAt3X.jpg",
+            "imageSearchQuery": "Jensen Huang reinstated Nvidia Denny's plaque San Jose",
+            "caption": "A restored Jensen Huang plaque hangs over a Denny’s booth in San Jose after the CEO’s controversial return.",
+            "biasLeft": "The New York Times frames Huang’s comeback as a product of political pressure, emphasizing President Trump’s role in overriding Nvidia’s board and highlighting the CEO’s admission of code‑of‑conduct violations and therapy. It also spotlights employee backlash and the broader governance concerns raised by the episode.",
+            "biasNeutral": "BBC pieces stick to the facts: they note the share‑price dip, the attorney general’s evasiveness about the investigation, and an editor’s commentary on Huang’s perceived irreplaceability. The coverage raises questions about the legal scrutiny and the political backdrop without taking a moral stance.",
+            "biasRight": "No right‑leaning outlets are represented in the provided articles.",
+            "reflection": "For investors and workers, the saga signals how political interference can upend corporate governance and affect stock performance. In the coming days, watch for any board votes, regulatory filings, or statements from the attorney general that could either cement or reverse Huang’s reinstatement."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bde3/live/fa4083e0-e8b6-11f1-9e64-bddd508b9881.jpg\" alt=\"Jensen Huang steps back into Nvidia’s headquarters amid a board showdown fueled by former President Trump.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Jensen Huang steps back into Nvidia’s headquarters amid a board showdown fueled by former President Trump.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The New York Times highlights Huang’s personal missteps, noting his public apology, therapy, and breach of Nvidia’s code of conduct. It frames Trump’s intervention as a direct override of board authority, stressing governance failure and political meddling. The coverage also ties the scandal to broader concerns about corporate espionage and Chinese influence.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">BBC Tech sticks to the timeline: the board tried to oust Huang, Trump backed his reinstatement, and the share price fell 7%. It reports the attorney general’s evasive answers and points out how Huang made himself “impossible to fire,” without taking a side.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No right‑leaning outlets covered this story in the supplied articles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For investors and employees, Huang’s comeback signals possible regulatory scrutiny and continued stock volatility, so watch for SEC or DOJ filings in the next few days. The episode also serves as a barometer for how political interference can reshape corporate leadership, affecting confidence in governance across tech firms.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/26/multimedia/26xp-dennys-lmgz/26xp-dennys-lmgz-mediumSquareAt3X.jpg\" alt=\"A restored Jensen Huang plaque hangs over a Denny’s booth in San Jose after the CEO’s controversial return.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">A restored Jensen Huang plaque hangs over a Denny’s booth in San Jose after the CEO’s controversial return.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The New York Times frames Huang’s comeback as a product of political pressure, emphasizing President Trump’s role in overriding Nvidia’s board and highlighting the CEO’s admission of code‑of‑conduct violations and therapy. It also spotlights employee backlash and the broader governance concerns raised by the episode.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">BBC pieces stick to the facts: they note the share‑price dip, the attorney general’s evasiveness about the investigation, and an editor’s commentary on Huang’s perceived irreplaceability. The coverage raises questions about the legal scrutiny and the political backdrop without taking a moral stance.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No right‑leaning outlets are represented in the provided articles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For investors and workers, the saga signals how political interference can upend corporate governance and affect stock performance. In the coming days, watch for any board votes, regulatory filings, or statements from the attorney general that could either cement or reverse Huang’s reinstatement.</p>"
         },
         {
-          "id": "topic-3",
-          "headline": "U.S. regulator approves SpaceX’s million‑satellite ‘Starmind’ constellation to boost AI computing",
-          "summary": "The Federal Communications Commission cleared SpaceX’s plan to launch up to one million small data‑relay satellites, designed to provide low‑latency, energy‑efficient connections for AI workloads worldwide. The approval could accelerate cloud‑based AI services but also raises concerns about orbital congestion.",
+          "id": "topic-2",
+          "headline": "U.S. regulator clears SpaceX’s plan to launch a million low‑orbit data satellites for AI computing",
+          "summary": "The Federal Communications Commission approved SpaceX’s Starmind constellation, which aims to deploy up to one million inexpensive satellites to provide AI‑intensive computing power. Officials say the design cuts both cost and energy use, addressing the rapid rise in demand for cloud‑based AI services.",
           "tags": [
             "#SpaceX",
-            "#SatelliteInternet",
-            "#AIComputing"
+            "#Satellites",
+            "#AI",
+            "#Regulation"
           ],
           "source_ids": [
-            1
+            3
           ],
           "sources": [
             {
@@ -281,26 +263,107 @@
           ],
           "deepDive": {
             "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5383/live/4c315c90-e968-11f1-a094-5fdc692f3e33.jpg",
-            "imageSearchQuery": "SpaceX Starmind satellite constellation regulator approval AI computing",
-            "caption": "SpaceX’s million‑satellite Starmind constellation gets the green light to power the next wave of AI workloads.",
-            "biasLeft": "No left‑leaning coverage of this specific topic appears in the provided articles.",
-            "biasNeutral": "The BBC report sticks to the facts: U.S. regulators have approved SpaceX’s Starmind project, a one‑million‑satellite network designed to deliver cheap, energy‑efficient AI compute. It notes the ambition to meet soaring demand without delving into political angles.",
-            "biasRight": "No right‑leaning coverage of this specific topic appears in the provided articles.",
-            "reflection": "For everyday users, the approval means AI services could become faster and cheaper as the satellite network comes online, potentially lowering subscription costs. Watch for SpaceX’s launch timetable and any follow‑up statements from the regulator in the next few days—they’ll indicate how quickly the infrastructure will start affecting cloud‑AI pricing."
+            "imageSearchQuery": "SpaceX Starmind million satellite constellation approval",
+            "caption": "SpaceX gets the green light to deploy its million‑satellite Starmind network, promising low‑cost AI compute from orbit.",
+            "biasLeft": "Left‑leaning outlets are not represented in the supplied material, so no progressive framing can be reported.",
+            "biasNeutral": "The neutral BBC piece sticks to the facts: the U.S. regulator approved SpaceX's plan, and the Starmind constellation is pitched as the most cost‑ and energy‑efficient way to satisfy rising AI computing demand.",
+            "biasRight": "Right‑leaning outlets are not represented in the supplied material, so no conservative framing can be reported.",
+            "reflection": "For everyday users, this matters because cheaper, space‑based AI compute could lower the price of AI services and speed up new features. Keep an eye on SpaceX's launch timeline and any follow‑up regulatory statements in the next few days, as they will indicate how quickly the network might start affecting cloud‑AI pricing and data‑center competition."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5383/live/4c315c90-e968-11f1-a094-5fdc692f3e33.jpg\" alt=\"SpaceX’s million‑satellite Starmind constellation gets the green light to power the next wave of AI workloads.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">SpaceX’s million‑satellite Starmind constellation gets the green light to power the next wave of AI workloads.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">No left‑leaning coverage of this specific topic appears in the provided articles.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC report sticks to the facts: U.S. regulators have approved SpaceX’s Starmind project, a one‑million‑satellite network designed to deliver cheap, energy‑efficient AI compute. It notes the ambition to meet soaring demand without delving into political angles.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No right‑leaning coverage of this specific topic appears in the provided articles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday users, the approval means AI services could become faster and cheaper as the satellite network comes online, potentially lowering subscription costs. Watch for SpaceX’s launch timetable and any follow‑up statements from the regulator in the next few days—they’ll indicate how quickly the infrastructure will start affecting cloud‑AI pricing.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5383/live/4c315c90-e968-11f1-a094-5fdc692f3e33.jpg\" alt=\"SpaceX gets the green light to deploy its million‑satellite Starmind network, promising low‑cost AI compute from orbit.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">SpaceX gets the green light to deploy its million‑satellite Starmind network, promising low‑cost AI compute from orbit.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left‑leaning outlets are not represented in the supplied material, so no progressive framing can be reported.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The neutral BBC piece sticks to the facts: the U.S. regulator approved SpaceX&#39;s plan, and the Starmind constellation is pitched as the most cost‑ and energy‑efficient way to satisfy rising AI computing demand.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Right‑leaning outlets are not represented in the supplied material, so no conservative framing can be reported.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday users, this matters because cheaper, space‑based AI compute could lower the price of AI services and speed up new features. Keep an eye on SpaceX&#39;s launch timeline and any follow‑up regulatory statements in the next few days, as they will indicate how quickly the network might start affecting cloud‑AI pricing and data‑center competition.</p>"
+        },
+        {
+          "id": "topic-3",
+          "headline": "Huawei found guilty of stealing U.S. trade secrets but cleared of racketeering charges",
+          "summary": "A New York federal jury convicted Huawei of misappropriating American technology while acquitting it of broader racketeering allegations. The verdict adds another chapter to the ongoing trade and security tensions between the United States and China.",
+          "tags": [
+            "#Huawei",
+            "#TradeSecrets",
+            "#Legal",
+            "#USChinaRelations"
+          ],
+          "source_ids": [
+            7
+          ],
+          "sources": [
+            {
+              "source": "Neutral (BBC Tech)",
+              "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+              "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
+            "imageSearchQuery": "Huawei New York trial trade secrets verdict",
+            "caption": "A courtroom in New York as a jury finds Huawei guilty of stealing U.S. trade secrets but clears it of racketeering.",
+            "biasLeft": "Left‑leaning coverage is not present in the supplied article.",
+            "biasNeutral": "The neutral report sticks to the facts: a New York jury convicted Huawei of trade‑secret theft after a months‑long trial, while acquitting it of racketeering. It notes the legal distinction between the two charges and the broader context of U.S.–China tech tensions without editorializing.",
+            "biasRight": "Right‑leaning coverage is not present in the supplied article.",
+            "reflection": "The verdict signals how aggressively the U.S. will pursue alleged intellectual‑property violations, which could affect the availability and price of Huawei devices for consumers. Keep an eye on whether Huawei appeals the decision and how U.S. regulators respond, as both will shape future market access and supply‑chain dynamics."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg\" alt=\"A courtroom in New York as a jury finds Huawei guilty of stealing U.S. trade secrets but clears it of racketeering.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">A courtroom in New York as a jury finds Huawei guilty of stealing U.S. trade secrets but clears it of racketeering.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left‑leaning coverage is not present in the supplied article.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The neutral report sticks to the facts: a New York jury convicted Huawei of trade‑secret theft after a months‑long trial, while acquitting it of racketeering. It notes the legal distinction between the two charges and the broader context of U.S.–China tech tensions without editorializing.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Right‑leaning coverage is not present in the supplied article.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>The verdict signals how aggressively the U.S. will pursue alleged intellectual‑property violations, which could affect the availability and price of Huawei devices for consumers. Keep an eye on whether Huawei appeals the decision and how U.S. regulators respond, as both will shape future market access and supply‑chain dynamics.</p>"
         },
         {
           "id": "topic-4",
-          "headline": "Anthropic’s disappointing IPO price threatens funding pipeline for younger AI start‑ups",
-          "summary": "The chatbot maker went public at a valuation far below expectations, and its share slump is likely to make venture capitalists more cautious about pouring money into the next wave of AI firms. Analysts warn the market correction could slow innovation in a sector that has been riding a speculative boom.",
+          "headline": "AI‑driven scams and security loopholes expose shoppers and travelers to fraud",
+          "summary": "Fake real‑estate listings generated by AI, data‑broker leaks ahead of Black Friday, and a claimed Gmail‑stealing malware have raised alarm among consumers, while United Airlines has barred unauthorised AI agents from its booking platform. Experts advise using reverse‑image tools, live video tours and strong device security to mitigate the risks.",
+          "tags": [
+            "#AI",
+            "#Scams",
+            "#Cybersecurity",
+            "#ConsumerProtection"
+          ],
+          "source_ids": [
+            1,
+            2,
+            5,
+            12
+          ],
+          "sources": [
+            {
+              "source": "Right (Fox Tech)",
+              "title": "Housefishing could fool you with AI real estate photos",
+              "url": "https://www.foxnews.com/tech/housefishing-could-fool-you-ai-real-estate-photos"
+            },
+            {
+              "source": "Right (Fox Tech)",
+              "title": "Your holiday shopping data needs a cleanup before Black Friday",
+              "url": "https://www.foxnews.com/tech/holiday-shopping-data-needs-cleanup-before-black-friday"
+            },
+            {
+              "source": "Right (Fox Tech)",
+              "title": "Can hackers still read Gmail after a password change?",
+              "url": "https://www.foxnews.com/tech/can-hackers-still-read-gmail-after-password-change"
+            },
+            {
+              "source": "Right (Fox Tech)",
+              "title": "What United Airlines banning AI agents from booking flights means for your travel plans",
+              "url": "https://www.foxnews.com/tech/united-airlines-banning-ai-agents-booking-flights-means-travel-plans"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/united-airlines-flight-passenger-boards-wrong-flight-fox-news.jpg",
+            "imageSearchQuery": "United Airlines AI travel booking scam",
+            "caption": "United Airlines warns that rogue AI bots are trying to hijack flight reservations and drain MileagePlus miles.",
+            "biasLeft": "Left‑leaning outlets did not publish a story on this specific set of AI‑driven scams. Consequently there is no progressive framing to report here.",
+            "biasNeutral": "Center‑leaning wire services did not cover this topic in the supplied material, so no neutral angle is available.",
+            "biasRight": "Fox Tech emphasizes the immediate financial danger to shoppers and travelers, stressing how AI‑generated photos and unauthorized bots can steal money and loyalty miles. It frames the issue as a security loophole caused by lax verification and data‑broker practices, urging users to employ tools like Google Lens and live video walkthroughs. The coverage leans toward personal vigilance rather than regulatory solutions.",
+            "reflection": "This matters because anyone booking a flight or buying a holiday deal could be duped by AI‑fabricated listings or phishing texts, leading to real monetary loss. Keep an eye on a surge of fake USPS delivery texts before Black Friday and any alerts from United about unauthorized AI bookings in the coming days."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/02/united-airlines-flight-passenger-boards-wrong-flight-fox-news.jpg\" alt=\"United Airlines warns that rogue AI bots are trying to hijack flight reservations and drain MileagePlus miles.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">United Airlines warns that rogue AI bots are trying to hijack flight reservations and drain MileagePlus miles.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left‑leaning outlets did not publish a story on this specific set of AI‑driven scams. Consequently there is no progressive framing to report here.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">Center‑leaning wire services did not cover this topic in the supplied material, so no neutral angle is available.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Fox Tech emphasizes the immediate financial danger to shoppers and travelers, stressing how AI‑generated photos and unauthorized bots can steal money and loyalty miles. It frames the issue as a security loophole caused by lax verification and data‑broker practices, urging users to employ tools like Google Lens and live video walkthroughs. The coverage leans toward personal vigilance rather than regulatory solutions.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>This matters because anyone booking a flight or buying a holiday deal could be duped by AI‑fabricated listings or phishing texts, leading to real monetary loss. Keep an eye on a surge of fake USPS delivery texts before Black Friday and any alerts from United about unauthorized AI bookings in the coming days.</p>"
+        },
+        {
+          "id": "topic-5",
+          "headline": "Anthropic’s disappointing IPO puts pressure on venture capital funding for early‑stage AI start‑ups",
+          "summary": "The AI‑focused firm’s share price fell sharply after its market debut, prompting investors to reconsider aggressive financing of younger AI companies. Analysts warn the dip could act as a brake on the current frenzy of venture‑capital money flowing into the sector.",
           "tags": [
             "#Anthropic",
             "#IPO",
-            "#VentureCapital"
+            "#VentureCapital",
+            "#AIStartups"
           ],
           "source_ids": [
-            2
+            4
           ],
           "sources": [
             {
@@ -311,83 +374,14 @@
           ],
           "deepDive": {
             "imageUrl": "https://static01.nyt.com/images/2026/11/26/multimedia/25biz-anthropic-pop-2-qlhp/25biz-anthropic-pop-2-qlhp-mediumSquareAt3X.jpg",
-            "imageSearchQuery": "Anthropic IPO debut low price Silicon Valley startup funding",
-            "caption": "Anthropic’s first‑day share slide casts a long shadow over fledgling AI firms hoping for venture capital.",
-            "biasLeft": "Left‑leaning coverage frames the weak debut as a symptom of a speculative AI boom that privileges hype over responsible development. It stresses how the price drop could choke financing for younger, more diverse startups that need steady capital. The tone warns that investors may become more risk‑averse, slowing progress on inclusive AI research.",
-            "biasNeutral": "Neutral outlets are not represented in the provided sources, so no centrist framing can be reported here.",
-            "biasRight": "Right‑leaning outlets are not present among the supplied articles, so no conservative angle can be summarized.",
-            "reflection": "For anyone watching the AI job market or hoping to fund a new venture, the IPO’s poor performance signals tighter money and tougher fundraising conditions. In the coming days, watch whether major VCs adjust their check sizes or shift focus to later‑stage deals."
+            "imageSearchQuery": "Anthropic IPO share price drop Silicon Valley AI startup funding",
+            "caption": "Anthropic’s stock tumble casts a long shadow over the AI startup boom.",
+            "biasLeft": "Progressive outlets stress how the failed debut punctures the hype‑driven cash flood into AI labs, warning that unchecked venture money fuels inequality and speculative bubbles. They frame the drop as a symptom of a broader tech‑industry culture that prioritizes rapid growth over worker welfare and public accountability. The language leans toward systemic caution, urging a more measured, inclusive approach to funding.",
+            "biasNeutral": "No centrist or wire service coverage was provided among the supplied articles.",
+            "biasRight": "No conservative or right‑leaning coverage was provided among the supplied articles.",
+            "reflection": "For everyday investors and tech workers, Anthropic’s stumble could tighten the flow of early‑stage AI capital, making seed rounds harder to close and slowing hiring at fledgling labs. Watch for any statements from major VCs about tightening check sizes or for the next AI‑related IPO filing as a barometer of whether the market is recalibrating or just waiting for the next hype wave."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/26/multimedia/25biz-anthropic-pop-2-qlhp/25biz-anthropic-pop-2-qlhp-mediumSquareAt3X.jpg\" alt=\"Anthropic’s first‑day share slide casts a long shadow over fledgling AI firms hoping for venture capital.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Anthropic’s first‑day share slide casts a long shadow over fledgling AI firms hoping for venture capital.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left‑leaning coverage frames the weak debut as a symptom of a speculative AI boom that privileges hype over responsible development. It stresses how the price drop could choke financing for younger, more diverse startups that need steady capital. The tone warns that investors may become more risk‑averse, slowing progress on inclusive AI research.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">Neutral outlets are not represented in the provided sources, so no centrist framing can be reported here.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Right‑leaning outlets are not present among the supplied articles, so no conservative angle can be summarized.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For anyone watching the AI job market or hoping to fund a new venture, the IPO’s poor performance signals tighter money and tougher fundraising conditions. In the coming days, watch whether major VCs adjust their check sizes or shift focus to later‑stage deals.</p>"
-        },
-        {
-          "id": "topic-5",
-          "headline": "AI‑related security, entertainment and industry moves: Gmail malware claims, airline AI booking ban, Apple Mac safeguards, Huawei verdict, floating city proposal, AI commentator in FIFA, and AI health‑monitoring smartwatch",
-          "summary": "Google refuted allegations that a password‑stealing tool can bypass Gmail password changes, United Airlines blocked unauthorised AI agents from its reservation system, and Apple added folder‑level permissions for AI tools on macOS. Meanwhile, a New York jury found Huawei guilty of stealing U.S. trade secrets, Oculus founder Palmer Luckey unveiled a concept for a thousand‑year floating industrial city, EA introduced an AI‑generated John Motson commentator for FIFA 27, and researchers demonstrated a smartwatch that can flag hypertension using AI, though it missed about one‑third of cases. The wave of actions highlights how artificial intelligence is reshaping security, entertainment, legal, and even speculative infrastructure realms.",
-          "tags": [
-            "#Cybersecurity",
-            "#AIRegulation",
-            "#EntertainmentAI",
-            "#Huawei",
-            "#FloatingCity",
-            "#HealthTech"
-          ],
-          "source_ids": [
-            3,
-            4,
-            5,
-            6,
-            10,
-            12,
-            14
-          ],
-          "sources": [
-            {
-              "source": "Right (Fox Tech)",
-              "title": "Can hackers still read Gmail after a password change?",
-              "url": "https://www.foxnews.com/tech/can-hackers-still-read-gmail-after-password-change"
-            },
-            {
-              "source": "Right (Fox Tech)",
-              "title": "Tech billionaire plans 1,000-year floating city at sea",
-              "url": "https://www.foxnews.com/tech/tech-billionaire-plans-1000-year-floating-city-sea"
-            },
-            {
-              "source": "Neutral (BBC Tech)",
-              "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
-              "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "Neutral (BBC Tech)",
-              "title": "EA adds AI-generated John Motson to FC 27 video game",
-              "url": "https://www.bbc.co.uk/news/articles/c65y10j841jpo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "Right (Fox Tech)",
-              "title": "What United Airlines banning AI agents from booking flights means for your travel plans",
-              "url": "https://www.foxnews.com/tech/united-airlines-banning-ai-agents-booking-flights-means-travel-plans"
-            },
-            {
-              "source": "Right (Fox Tech)",
-              "title": "Apple tightens Mac security as AI agents seek your files",
-              "url": "https://www.foxnews.com/tech/apple-tightens-mac-security-ai-agents-seek-your-files"
-            },
-            {
-              "source": "Right (Fox Tech)",
-              "title": "Google AI smartwatch could flag high blood pressure",
-              "url": "https://www.foxnews.com/tech/google-ai-smartwatch-could-flag-high-blood-pressure"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/Gmail.jpg",
-            "imageSearchQuery": "Gmail password change malware Remus Stealer",
-            "caption": "Hackers claim they can still read Gmail after a password change, sparking debate over the real threat of malware.",
-            "biasLeft": "No left‑leaning coverage appears in these articles.",
-            "biasNeutral": "BBC pieces stick to the facts: Huawei was found guilty of stealing trade secrets but not racketeering, and EA is adding an AI‑generated John Motson to its new football game, noting the consent of the former commentator’s family.",
-            "biasRight": "Fox Tech articles stress the practical security implications—malware targets infected devices, airlines block AI agents to protect loyalty miles, Apple adds folder‑level AI permissions, and a tech billionaire proposes a 1,000‑year floating city to bypass local regulations.",
-            "reflection": "For everyday users, the Gmail malware claim means staying on top of device security updates; the airline AI ban signals that automated travel bots might soon face restrictions; and Apple’s new folder controls hint at tighter privacy safeguards. Watch Gmail’s security bulletins and United Airlines’ policy announcements over the next few days to see how these measures are rolled out."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2024/04/Gmail.jpg\" alt=\"Hackers claim they can still read Gmail after a password change, sparking debate over the real threat of malware.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Hackers claim they can still read Gmail after a password change, sparking debate over the real threat of malware.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">No left‑leaning coverage appears in these articles.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">BBC pieces stick to the facts: Huawei was found guilty of stealing trade secrets but not racketeering, and EA is adding an AI‑generated John Motson to its new football game, noting the consent of the former commentator’s family.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Fox Tech articles stress the practical security implications—malware targets infected devices, airlines block AI agents to protect loyalty miles, Apple adds folder‑level AI permissions, and a tech billionaire proposes a 1,000‑year floating city to bypass local regulations.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday users, the Gmail malware claim means staying on top of device security updates; the airline AI ban signals that automated travel bots might soon face restrictions; and Apple’s new folder controls hint at tighter privacy safeguards. Watch Gmail’s security bulletins and United Airlines’ policy announcements over the next few days to see how these measures are rolled out.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/26/multimedia/25biz-anthropic-pop-2-qlhp/25biz-anthropic-pop-2-qlhp-mediumSquareAt3X.jpg\" alt=\"Anthropic’s stock tumble casts a long shadow over the AI startup boom.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Anthropic’s stock tumble casts a long shadow over the AI startup boom.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Progressive outlets stress how the failed debut punctures the hype‑driven cash flood into AI labs, warning that unchecked venture money fuels inequality and speculative bubbles. They frame the drop as a symptom of a broader tech‑industry culture that prioritizes rapid growth over worker welfare and public accountability. The language leans toward systemic caution, urging a more measured, inclusive approach to funding.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">No centrist or wire service coverage was provided among the supplied articles.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No conservative or right‑leaning coverage was provided among the supplied articles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday investors and tech workers, Anthropic’s stumble could tighten the flow of early‑stage AI capital, making seed rounds harder to close and slowing hiring at fledgling labs. Watch for any statements from major VCs about tightening check sizes or for the next AI‑related IPO filing as a barometer of whether the market is recalibrating or just waiting for the next hype wave.</p>"
         }
       ],
       "rawCount": 15
@@ -396,19 +390,37 @@
       "items": [
         {
           "id": "topic-1",
-          "headline": "Nvidia reinstates Jensen Huang as CEO, boosting its share price and calming AI‑sector investors",
-          "summary": "The board voted to put co‑founder Jensen Huang back at the helm after a brief ouster, a move that lifted Nvidia stock and eased concerns about leadership turmoil in the AI boom. Analysts say the decision removes a key uncertainty for investors betting on continued demand for AI chips.",
+          "headline": "Nvidia reinstates co‑founder Jensen Huang as CEO, sparking renewed AI optimism",
+          "summary": "The board’s decision to put Jensen Huang back at the helm lifted a major overhang on the AI trade, sending Nvidia shares higher and encouraging investors in the sector. At the same time, AI‑powered shopping assistants and vertical data‑center designs are gaining attention as the industry looks for sustainable growth.",
           "tags": [
             "#Nvidia",
             "#AI",
-            "#stocks"
+            "#TechLeadership"
           ],
           "source_ids": [
+            0,
+            5,
+            6,
             12,
             13,
             14
           ],
           "sources": [
+            {
+              "source": "Left (NYT Business)",
+              "title": "Jensen Huang Is Back, and So Is His Plaque at Denny’s",
+              "url": "https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html"
+            },
+            {
+              "source": "Left (NYT Business)",
+              "title": "Who Picked This Gift? My A.I. Holiday Shopper.",
+              "url": "https://www.nytimes.com/2026/11/26/business/holiday-shopping-ai-agents.html"
+            },
+            {
+              "source": "Left (NYT Business)",
+              "title": "Data Center Developer Wanted to Build Up, Not Out. Kansas City Said No.",
+              "url": "https://www.nytimes.com/2026/11/26/business/energy-environment/vertical-data-center-kansas-city.html"
+            },
             {
               "source": "Right (Fox Business)",
               "title": "What Jensen Huang’s return means for Nvidia – and Wall Street",
@@ -427,94 +439,40 @@
           ],
           "deepDive": {
             "imageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/jensen-huang-stage-open-arms.jpg?ve=1&tl=1",
-            "imageSearchQuery": "Jensen Huang Nvidia CEO reinstated",
-            "caption": "Jensen Huang steps back onto the Nvidia stage as the board restores him to CEO, sparking a rally in the chipmaker’s stock.",
-            "biasLeft": "No progressive or left‑leaning outlets are represented among the provided sources.",
-            "biasNeutral": "No centrist or wire service outlets are represented among the provided sources.",
-            "biasRight": "Right‑leaning coverage frames Huang’s return as the removal of a major overhang on the AI trade, underscoring the market‑boosting effect and investor relief. It also highlights the backdrop of a foreign‑intelligence probe, suggesting that the board acted to reassure both shareholders and national‑security officials. The narrative ties Nvidia’s rebound to broader confidence in U.S. tech leadership and economic resilience.",
-            "reflection": "For everyday investors, Huang’s reinstatement signals that Nvidia’s AI momentum is likely to stay intact, which could keep its stock and related tech funds buoyant. Watch the upcoming PCE inflation report and Nvidia’s earnings release for clues on whether the rally sustains or faces new headwinds."
+            "imageSearchQuery": "Jensen Huang reinstated Nvidia CEO 2026 AI rally",
+            "caption": "Jensen Huang returns to the podium as Nvidia’s chief executive, a visual cue that the AI market’s mood is shifting back to optimism.",
+            "biasLeft": "The New York Times leans into the human‑interest side, noting that a Denny’s plaque honoring Huang was restored after his comeback. The piece treats the story as a cultural footnote rather than a market event, underscoring the founder’s humble, everyday‑person image.",
+            "biasNeutral": "No centrist or wire service article appears among the supplied sources, so a neutral factual baseline is missing.",
+            "biasRight": "Fox Business frames Huang’s return as a market catalyst, stressing that the board’s move lifts a major overhang on AI stocks, fuels a rally in Nvidia shares, and even references U.S. government input as a security‑related backdrop.",
+            "reflection": "For investors and tech workers, Huang’s reinstatement signals that Nvidia’s growth engine – and by extension the broader AI sector – may regain momentum, potentially stabilizing stock volatility. Watch the next few days for Nvidia’s earnings guidance and any regulatory comments that could affect the AI supply chain."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/jensen-huang-stage-open-arms.jpg?ve=1&amp;tl=1\" alt=\"Jensen Huang steps back onto the Nvidia stage as the board restores him to CEO, sparking a rally in the chipmaker’s stock.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Jensen Huang steps back onto the Nvidia stage as the board restores him to CEO, sparking a rally in the chipmaker’s stock.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">No progressive or left‑leaning outlets are represented among the provided sources.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">No centrist or wire service outlets are represented among the provided sources.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Right‑leaning coverage frames Huang’s return as the removal of a major overhang on the AI trade, underscoring the market‑boosting effect and investor relief. It also highlights the backdrop of a foreign‑intelligence probe, suggesting that the board acted to reassure both shareholders and national‑security officials. The narrative ties Nvidia’s rebound to broader confidence in U.S. tech leadership and economic resilience.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday investors, Huang’s reinstatement signals that Nvidia’s AI momentum is likely to stay intact, which could keep its stock and related tech funds buoyant. Watch the upcoming PCE inflation report and Nvidia’s earnings release for clues on whether the rally sustains or faces new headwinds.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/jensen-huang-stage-open-arms.jpg?ve=1&amp;tl=1\" alt=\"Jensen Huang returns to the podium as Nvidia’s chief executive, a visual cue that the AI market’s mood is shifting back to optimism.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Jensen Huang returns to the podium as Nvidia’s chief executive, a visual cue that the AI market’s mood is shifting back to optimism.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The New York Times leans into the human‑interest side, noting that a Denny’s plaque honoring Huang was restored after his comeback. The piece treats the story as a cultural footnote rather than a market event, underscoring the founder’s humble, everyday‑person image.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">No centrist or wire service article appears among the supplied sources, so a neutral factual baseline is missing.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Fox Business frames Huang’s return as a market catalyst, stressing that the board’s move lifts a major overhang on AI stocks, fuels a rally in Nvidia shares, and even references U.S. government input as a security‑related backdrop.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For investors and tech workers, Huang’s reinstatement signals that Nvidia’s growth engine – and by extension the broader AI sector – may regain momentum, potentially stabilizing stock volatility. Watch the next few days for Nvidia’s earnings guidance and any regulatory comments that could affect the AI supply chain.</p>"
         },
         {
           "id": "topic-2",
-          "headline": "U.S. tightens AI‑chip export rules, halting Nvidia sales to Southeast Asia and pushing Huawei into a central role for China’s AI ambitions",
-          "summary": "A new licensing requirement forces Nvidia to stop selling advanced AI chips to four Southeast Asian countries, part of a broader effort to limit China’s access to high‑performance technology. With Nvidia’s supply constrained, Chinese giant Huawei is becoming a pivotal substitute for Beijing’s AI projects.",
+          "headline": "Poundland chain faces closure as UK shoppers confront higher mortgage costs",
+          "summary": "The discount retailer is winding down stores amid a dispute with its U.S. owners, leaving staff and suppliers uncertain about their future. Concurrently, about a million households will see monthly mortgage payments rise by roughly £100, tightening budgets for many Britons.",
           "tags": [
-            "#USChinaTechWar",
-            "#Nvidia",
-            "#Huawei"
+            "#Poundland",
+            "#UKRetail",
+            "#Mortgage"
           ],
           "source_ids": [
-            2,
-            7
-          ],
-          "sources": [
-            {
-              "source": "Left (NYT Business)",
-              "title": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
-              "url": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html"
-            },
-            {
-              "source": "Left (NYT Business)",
-              "title": "Trump Tried to Cripple Huawei. Now It Is Central to China’s A.I. Push.",
-              "url": "https://www.nytimes.com/2026/11/26/business/huawei-trump-china-ai.html"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://static01.nyt.com/images/2026/11/25/multimedia/Biz-China-Huawei-03-wcft/Biz-China-Huawei-03-wcft-mediumSquareAt3X.jpg",
-            "imageSearchQuery": "Nvidia AI chip export ban Southeast Asia Huawei AI China",
-            "caption": "Huawei’s labs buzz as U.S. curbs on Nvidia chips force Beijing to lean on the homegrown giant for its AI push.",
-            "biasLeft": "Left‑leaning coverage stresses how the export rules tighten U.S. pressure on China while inadvertently boosting Huawei’s strategic importance, framing it as a clash of tech sovereignty and geopolitical rivalry. It highlights the human cost of the chip shortage for Asian developers and paints the policy as part of a broader pattern of American containment. The tone is wary of the consequences for global innovation and for the companies caught in the middle.",
-            "biasNeutral": "No neutral or centrist outlets are represented in the supplied articles.",
-            "biasRight": "No conservative or right‑leaning outlets are represented in the supplied articles.",
-            "reflection": "For everyday users, tighter chip export rules could delay AI‑powered products and services that rely on Nvidia hardware, potentially raising prices or limiting features. Keep an eye on any follow‑up licensing announcements from the Commerce Department and on Huawei’s rollout of its own AI chips, which will indicate how quickly China can fill the gap."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/25/multimedia/Biz-China-Huawei-03-wcft/Biz-China-Huawei-03-wcft-mediumSquareAt3X.jpg\" alt=\"Huawei’s labs buzz as U.S. curbs on Nvidia chips force Beijing to lean on the homegrown giant for its AI push.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Huawei’s labs buzz as U.S. curbs on Nvidia chips force Beijing to lean on the homegrown giant for its AI push.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left‑leaning coverage stresses how the export rules tighten U.S. pressure on China while inadvertently boosting Huawei’s strategic importance, framing it as a clash of tech sovereignty and geopolitical rivalry. It highlights the human cost of the chip shortage for Asian developers and paints the policy as part of a broader pattern of American containment. The tone is wary of the consequences for global innovation and for the companies caught in the middle.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">No neutral or centrist outlets are represented in the supplied articles.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No conservative or right‑leaning outlets are represented in the supplied articles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday users, tighter chip export rules could delay AI‑powered products and services that rely on Nvidia hardware, potentially raising prices or limiting features. Keep an eye on any follow‑up licensing announcements from the Commerce Department and on Huawei’s rollout of its own AI chips, which will indicate how quickly China can fill the gap.</p>"
-        },
-        {
-          "id": "topic-3",
-          "headline": "Norse Atlantic suspends all flights and warns of imminent bankruptcy without fresh capital",
-          "summary": "The low‑cost transatlantic airline halted operations on Friday as it searches for emergency funding, saying it will file for insolvency if a lifeline does not materialise. The suspension leaves hundreds of passengers stranded and raises questions about the viability of budget carriers in a volatile travel market.",
-          "tags": [
-            "#airline",
-            "#bankruptcy",
-            "#NorseAtlantic"
-          ],
-          "source_ids": [
-            1
+            4,
+            7,
+            8
           ],
           "sources": [
             {
               "source": "Neutral (BBC Business)",
-              "title": "Norse Atlantic suspends all flights as it faces potential collapse",
-              "url": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/df47/live/6f07a020-e98c-11f1-9d1c-4dcc8fcde666.jpg",
-            "imageSearchQuery": "Norse Atlantic grounded aircraft airport suspension",
-            "caption": "Norse Atlantic planes sit idle as the low‑cost carrier halts all flights pending a cash lifeline.",
-            "biasLeft": "Left‑leaning outlets do not appear in the supplied material.",
-            "biasNeutral": "The BBC story sticks to the basics: the airline has stopped every flight, is hunting for urgent funding and will be forced into bankruptcy if fresh capital does not arrive. It notes the immediacy of the crisis without speculation about causes beyond the lack of money. The tone is factual, with an implicit warning that passengers and staff face disruption.",
-            "biasRight": "Right‑leaning outlets do not appear in the supplied material.",
-            "reflection": "For travelers, the suspension means abrupt cancellations, refunds and a scramble for alternative routes; for employees, it signals looming job losses. Watch for any announcement of a financing deal or a formal bankruptcy filing in the next few days, as those will determine whether the airline disappears entirely or gets a chance to restructure."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/df47/live/6f07a020-e98c-11f1-9d1c-4dcc8fcde666.jpg\" alt=\"Norse Atlantic planes sit idle as the low‑cost carrier halts all flights pending a cash lifeline.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Norse Atlantic planes sit idle as the low‑cost carrier halts all flights pending a cash lifeline.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left‑leaning outlets do not appear in the supplied material.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC story sticks to the basics: the airline has stopped every flight, is hunting for urgent funding and will be forced into bankruptcy if fresh capital does not arrive. It notes the immediacy of the crisis without speculation about causes beyond the lack of money. The tone is factual, with an implicit warning that passengers and staff face disruption.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Right‑leaning outlets do not appear in the supplied material.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For travelers, the suspension means abrupt cancellations, refunds and a scramble for alternative routes; for employees, it signals looming job losses. Watch for any announcement of a financing deal or a formal bankruptcy filing in the next few days, as those will determine whether the airline disappears entirely or gets a chance to restructure.</p>"
-        },
-        {
-          "id": "topic-4",
-          "headline": "Poundland’s owners and managers dispute responsibility for the discount chain’s collapse",
-          "summary": "British MPs and Poundland’s leadership point fingers at U.S. private‑equity owner Gordon Brothers, while the firm argues the retailer would have failed even without its involvement. The clash highlights the risks of aggressive cost‑cutting strategies in the fast‑moving consumer goods sector.",
-          "tags": [
-            "#retail",
-            "#Poundland",
-            "#privateequity"
-          ],
-          "source_ids": [
-            0
-          ],
-          "sources": [
+              "title": "When will Poundland shops close? Five key questions answered",
+              "url": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "Neutral (BBC Business)",
+              "title": "Millions of people to see average monthly mortgage payments rise by £100",
+              "url": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss"
+            },
             {
               "source": "Neutral (BBC Business)",
               "title": "Simon Jack: Is Poundland's US owner to blame for its collapse?",
@@ -522,45 +480,124 @@
             }
           ],
           "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/db70/live/c33d5240-e999-11f1-a094-5fdc692f3e33.jpg",
-            "imageSearchQuery": "Poundland collapse Gordon Brothers US owner",
-            "caption": "Poundland’s storefront shutters as owners and managers clash over who caused the chain’s downfall.",
-            "biasLeft": "Left‑leaning coverage is absent from the supplied articles.",
-            "biasNeutral": "The BBC piece sticks to the facts: Poundland’s management and several MPs point the finger at Gordon Brothers, the US private‑equity owner, while Gordon Brothers argues the business would have collapsed without their intervention last year. It highlights the blame‑game without taking a partisan stance.",
-            "biasRight": "Right‑leaning coverage is absent from the supplied articles.",
-            "reflection": "For shoppers and employees, the dispute signals whether the chain might be salvaged or face further store closures, affecting jobs and cheap‑price access. Watch for any statements from Gordon Brothers or a court filing in the next few days that could determine the chain’s fate."
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b760/live/084c3aa0-e9b2-11f1-859a-37130cd3a1d7.jpg",
+            "imageSearchQuery": "Poundland store closure UK mortgage cost increase",
+            "caption": "Poundland aisles shutter as households feel the pinch of higher mortgage payments.",
+            "biasLeft": "Left‑leaning coverage is not present in the supplied articles, so no progressive framing can be identified.",
+            "biasNeutral": "The BBC pieces stick to the facts: they outline how many Poundland outlets may shut, detail the £100 monthly rise in average mortgage payments, and note the dispute over blame between the retailer’s management and its US owner, Gordon Brothers.",
+            "biasRight": "Right‑leaning coverage is not present in the supplied articles, so no conservative angle can be identified.",
+            "reflection": "For everyday Britons, the twin pressures of losing a cheap‑price retailer and higher mortgage bills tighten household budgets. Watch for announcements of further Poundland closures and any official data on mortgage‑rate movements in the coming week, as both will signal how deep the cost‑of‑living squeeze is becoming."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/db70/live/c33d5240-e999-11f1-a094-5fdc692f3e33.jpg\" alt=\"Poundland’s storefront shutters as owners and managers clash over who caused the chain’s downfall.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Poundland’s storefront shutters as owners and managers clash over who caused the chain’s downfall.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left‑leaning coverage is absent from the supplied articles.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC piece sticks to the facts: Poundland’s management and several MPs point the finger at Gordon Brothers, the US private‑equity owner, while Gordon Brothers argues the business would have collapsed without their intervention last year. It highlights the blame‑game without taking a partisan stance.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Right‑leaning coverage is absent from the supplied articles.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For shoppers and employees, the dispute signals whether the chain might be salvaged or face further store closures, affecting jobs and cheap‑price access. Watch for any statements from Gordon Brothers or a court filing in the next few days that could determine the chain’s fate.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b760/live/084c3aa0-e9b2-11f1-859a-37130cd3a1d7.jpg\" alt=\"Poundland aisles shutter as households feel the pinch of higher mortgage payments.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Poundland aisles shutter as households feel the pinch of higher mortgage payments.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left‑leaning coverage is not present in the supplied articles, so no progressive framing can be identified.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC pieces stick to the facts: they outline how many Poundland outlets may shut, detail the £100 monthly rise in average mortgage payments, and note the dispute over blame between the retailer’s management and its US owner, Gordon Brothers.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Right‑leaning coverage is not present in the supplied articles, so no conservative angle can be identified.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday Britons, the twin pressures of losing a cheap‑price retailer and higher mortgage bills tighten household budgets. Watch for announcements of further Poundland closures and any official data on mortgage‑rate movements in the coming week, as both will signal how deep the cost‑of‑living squeeze is becoming.</p>"
         },
         {
-          "id": "topic-5",
-          "headline": "UK and EU sign post‑Brexit treaty with a ten‑year termination clause",
-          "summary": "The new agreement, whose full text and implementing legislation were released today, formalises trade and cooperation arrangements while allowing either side to end the pact after a decade. Lawmakers say the clause provides flexibility as both parties navigate lingering economic and regulatory differences.",
+          "id": "topic-3",
+          "headline": "European Central Bank names Pablo Hernández de Cos as president as Travelodge appoints new CEO",
+          "summary": "Following Christine Lagarde’s early departure, the ECB selected Pablo Hernández de Cos to steer monetary policy for the eurozone. In the UK, the budget‑hotel chain Travelodge announced a new chief executive to replace Jo Boydell, marking a leadership shift in the hospitality sector.",
           "tags": [
-            "#UKEU",
-            "#trade",
-            "#politics"
+            "#ECB",
+            "#Leadership",
+            "#Travelodge"
           ],
           "source_ids": [
-            8
+            3,
+            9
           ],
           "sources": [
             {
+              "source": "Left (NYT Business)",
+              "title": "European Central Bank Chooses Pablo Hernández de Cos as Next President",
+              "url": "https://www.nytimes.com/2026/11/26/business/ecb-pablo-hernandez-de-cos.html"
+            },
+            {
               "source": "Neutral (BBC Business)",
-              "title": "New UK-EU treaty has 10-year termination clause",
-              "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss"
+              "title": "New boss appointed to lead Travelodge",
+              "url": "https://www.bbc.co.uk/news/articles/cqx2wx89kg0eo?at_medium=RSS&at_campaign=rss"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/65b5/live/0c44e020-e972-11f1-99b6-a35a62fa4264.jpg",
-            "imageSearchQuery": "UK EU post-Brexit treaty ten-year termination clause signing",
-            "caption": "British and EU officials seal a post‑Brexit deal that contains a ten‑year exit clause.",
-            "biasLeft": "Left‑leaning outlets are not represented in the supplied source, so no left‑wing framing can be reported.",
-            "biasNeutral": "The neutral report sticks to the facts: the UK and EU have signed a treaty that includes a ten‑year termination clause, and the full text will be released later today along with accompanying legislation.",
-            "biasRight": "Right‑leaning outlets are not represented in the supplied source, so no conservative framing can be reported.",
-            "reflection": "For everyday citizens, the clause offers a safety valve that could reshape trade rules if relations sour, which matters for jobs and prices. Keep an eye on the publication of the treaty text and any parliamentary debate that might signal whether the ten‑year clock will be reset or challenged."
+            "imageUrl": "https://static01.nyt.com/images/2026/11/25/multimedia/25Biz-ECB-Leaders-01-vmhk/25Biz-ECB-Leaders-01-vmhk-mediumSquareAt3X.jpg",
+            "imageSearchQuery": "Pablo Hernández de Cos ECB president appointment",
+            "caption": "Pablo Hernández de Cos takes the reins at the ECB while Travelodge readies for a fresh CEO.",
+            "biasLeft": "The NYT piece frames the ECB shuffle as a moment of institutional renewal, underscoring the democratic implications of an early exit by a high‑profile figure like Lagarde. It hints at the broader systemic impact on European monetary policy and stresses the need for transparent leadership transitions.",
+            "biasNeutral": "The BBC report sticks to the basics: Jo Boydell steps down, a new CEO arrives on December 1, and the company is based in Thame. It offers no editorial spin, merely laying out the who, what, and when.",
+            "biasRight": "No right‑leaning source was provided for this story, so no conservative framing can be reported.",
+            "reflection": "For everyday Europeans and UK travelers, the ECB's new president could shape interest rates and inflation outlooks, affecting mortgages and prices. Keep an eye on any early policy statements from Hernández de Cos in the coming week, as they will hint at the ECB's direction under his leadership."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/65b5/live/0c44e020-e972-11f1-99b6-a35a62fa4264.jpg\" alt=\"British and EU officials seal a post‑Brexit deal that contains a ten‑year exit clause.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">British and EU officials seal a post‑Brexit deal that contains a ten‑year exit clause.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left‑leaning outlets are not represented in the supplied source, so no left‑wing framing can be reported.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The neutral report sticks to the facts: the UK and EU have signed a treaty that includes a ten‑year termination clause, and the full text will be released later today along with accompanying legislation.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Right‑leaning outlets are not represented in the supplied source, so no conservative framing can be reported.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday citizens, the clause offers a safety valve that could reshape trade rules if relations sour, which matters for jobs and prices. Keep an eye on the publication of the treaty text and any parliamentary debate that might signal whether the ten‑year clock will be reset or challenged.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/25/multimedia/25Biz-ECB-Leaders-01-vmhk/25Biz-ECB-Leaders-01-vmhk-mediumSquareAt3X.jpg\" alt=\"Pablo Hernández de Cos takes the reins at the ECB while Travelodge readies for a fresh CEO.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Pablo Hernández de Cos takes the reins at the ECB while Travelodge readies for a fresh CEO.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The NYT piece frames the ECB shuffle as a moment of institutional renewal, underscoring the democratic implications of an early exit by a high‑profile figure like Lagarde. It hints at the broader systemic impact on European monetary policy and stresses the need for transparent leadership transitions.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC report sticks to the basics: Jo Boydell steps down, a new CEO arrives on December 1, and the company is based in Thame. It offers no editorial spin, merely laying out the who, what, and when.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No right‑leaning source was provided for this story, so no conservative framing can be reported.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday Europeans and UK travelers, the ECB&#39;s new president could shape interest rates and inflation outlooks, affecting mortgages and prices. Keep an eye on any early policy statements from Hernández de Cos in the coming week, as they will hint at the ECB&#39;s direction under his leadership.</p>"
+        },
+        {
+          "id": "topic-4",
+          "headline": "US stocks rebound and SpaceX donates shares to Trump‑aligned accounts amid tariff debate",
+          "summary": "The Dow Jones recovered after a sharp intraday drop, while Elon Musk’s SpaceX pledged a share of Class A stock to every active Trump‑supporting account. Analysts argue that recent US tariff moves pose limited long‑term risk for global trade, even as political financing draws scrutiny.",
+          "tags": [
+            "#DowJones",
+            "#SpaceX",
+            "#Trump",
+            "#Tariffs"
+          ],
+          "source_ids": [
+            11,
+            10,
+            2
+          ],
+          "sources": [
+            {
+              "source": "Right (Fox Business)",
+              "title": "Dow closes higher after erasing 1,100-point loss as S&P 500, Nasdaq slip",
+              "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026"
+            },
+            {
+              "source": "Right (Fox Business)",
+              "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
+              "url": "https://www.foxbusiness.com/markets/elon-musk-spacex-pledge-major-stock-donations-active-trump-accounts"
+            },
+            {
+              "source": "Neutral (BBC Business)",
+              "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+              "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/elon-musk-spacex-trump-accounts-donation.jpg?ve=1&tl=1",
+            "imageSearchQuery": "SpaceX stock donation Trump accounts Elon Musk share giveaway",
+            "caption": "SpaceX's logo flashes alongside a rising Dow ticker as the company promises a share to every active Trump‑aligned account.",
+            "biasLeft": "Left‑leaning outlets are not represented in the supplied articles; they would likely stress the ethical concerns of a private firm channeling stock to politically affiliated accounts and question the influence on democratic processes.",
+            "biasNeutral": "The BBC piece sticks to the numbers, noting that other nations are rerouting trade after Trump's first tariff wave and suggesting the threat has faded as the world looks beyond his term. It frames the issue as a shifting geopolitical calculus rather than a partisan fight.",
+            "biasRight": "Fox Business highlights the market bounce, stressing that the Dow clawed back more than a thousand points and that the SpaceX donation is a pro‑business, pro‑Trump gesture. The tone is upbeat, presenting the stock rally and the donation as signs of confidence in the U.S. economy.",
+            "reflection": "For everyday investors, the Dow's rebound means short‑term portfolio gains, while the SpaceX giveaway signals how corporate capital can be marshaled for political allies. Watch for any policy tweaks in the tariff debate and any regulatory scrutiny of corporate political donations over the next few days."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/elon-musk-spacex-trump-accounts-donation.jpg?ve=1&amp;tl=1\" alt=\"SpaceX&#39;s logo flashes alongside a rising Dow ticker as the company promises a share to every active Trump‑aligned account.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">SpaceX&#39;s logo flashes alongside a rising Dow ticker as the company promises a share to every active Trump‑aligned account.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">Left‑leaning outlets are not represented in the supplied articles; they would likely stress the ethical concerns of a private firm channeling stock to politically affiliated accounts and question the influence on democratic processes.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">The BBC piece sticks to the numbers, noting that other nations are rerouting trade after Trump&#39;s first tariff wave and suggesting the threat has faded as the world looks beyond his term. It frames the issue as a shifting geopolitical calculus rather than a partisan fight.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">Fox Business highlights the market bounce, stressing that the Dow clawed back more than a thousand points and that the SpaceX donation is a pro‑business, pro‑Trump gesture. The tone is upbeat, presenting the stock rally and the donation as signs of confidence in the U.S. economy.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>For everyday investors, the Dow&#39;s rebound means short‑term portfolio gains, while the SpaceX giveaway signals how corporate capital can be marshaled for political allies. Watch for any policy tweaks in the tariff debate and any regulatory scrutiny of corporate political donations over the next few days.</p>"
+        },
+        {
+          "id": "topic-5",
+          "headline": "Dan Carney, co‑founder of Pizza Hut, dies at 95, leaving a global pizza empire",
+          "summary": "Carney helped turn a modest Kansas‑state pizza stand into the world’s largest pizza chain, shaping fast‑food culture for decades. His death marks the end of an era for an entrepreneur whose brand became a household name worldwide.",
+          "tags": [
+            "#PizzaHut",
+            "#BusinessLegacy",
+            "#Obituary"
+          ],
+          "source_ids": [
+            1
+          ],
+          "sources": [
+            {
+              "source": "Left (NYT Business)",
+              "title": "Dan Carney Has Died. He Co-Founded Pizza Hut and Then Made It Ubiquitous.",
+              "url": "https://www.nytimes.com/2026/11/26/business/dan-carney-dead.html"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://tse2.mm.bing.net/th?q=Dan%20Carney%20Pizza%20Hut%20founder%20death%202024%20news%20photo&w=1280&h=720&rs=1&pid=ImgDetMain",
+            "imageSearchQuery": "Dan Carney Pizza Hut founder death 2024",
+            "caption": "Dan Carney, the Kansas‑born entrepreneur who turned a modest brick hut into a global pizza empire, dies at 95.",
+            "biasLeft": "The NYT piece frames Carney as a visionary who democratized fast‑food pizza, highlighting how a small‑town idea reshaped American eating habits and created countless jobs. It leans into a narrative of entrepreneurial ingenuity serving ordinary people, underscoring the cultural impact of a brand that became a staple of everyday life.",
+            "biasNeutral": "No neutral or wire‑service coverage is present among the supplied sources, so no center‑leaning perspective can be reported here.",
+            "biasRight": "No conservative or right‑leaning outlet coverage appears in the provided material, so a right‑wing angle cannot be summarized.",
+            "reflection": "Carney’s passing reminds consumers that the familiar red‑roofed outlets they frequent were built on a single entrepreneur’s ambition, not a faceless corporation. In the coming days, watch for any statements from Pizza Hut’s parent company about leadership transitions or strategic shifts that could affect menu choices or franchise operations."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://tse2.mm.bing.net/th?q=Dan%20Carney%20Pizza%20Hut%20founder%20death%202024%20news%20photo&amp;w=1280&amp;h=720&amp;rs=1&amp;pid=ImgDetMain\" alt=\"Dan Carney, the Kansas‑born entrepreneur who turned a modest brick hut into a global pizza empire, dies at 95.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Dan Carney, the Kansas‑born entrepreneur who turned a modest brick hut into a global pizza empire, dies at 95.</div>\n</div>\n<h2>How Each Side Frames It</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Progressive Lens</div>\n    <div class=\"bias-content\">The NYT piece frames Carney as a visionary who democratized fast‑food pizza, highlighting how a small‑town idea reshaped American eating habits and created countless jobs. It leans into a narrative of entrepreneurial ingenuity serving ordinary people, underscoring the cultural impact of a brand that became a staple of everyday life.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Center & Wire Lens</div>\n    <div class=\"bias-content\">No neutral or wire‑service coverage is present among the supplied sources, so no center‑leaning perspective can be reported here.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Conservative Lens</div>\n    <div class=\"bias-content\">No conservative or right‑leaning outlet coverage appears in the provided material, so a right‑wing angle cannot be summarized.</div>\n  </div>\n</div>\n<h2>Why It Actually Matters</h2>\n<p>Carney’s passing reminds consumers that the familiar red‑roofed outlets they frequent were built on a single entrepreneur’s ambition, not a faceless corporation. In the coming days, watch for any statements from Pizza Hut’s parent company about leadership transitions or strategic shifts that could affect menu choices or franchise operations.</p>"
         }
       ],
       "rawCount": 15
