@@ -1,92 +1,131 @@
 {
-  "last_updated": "2026-11-26T22:52:09.079Z",
+  "last_updated": "2026-11-27T06:59:54.630Z",
   "language": "es",
   "categories": {
     "GLOBAL_MACRO": {
       "items": [
         {
           "id": "topic-1",
-          "headline": "Accidentes con tanques de combustible provocan muertos y peligros medioambientales en tres países",
-          "summary": "Un petrolero con hasta 7 000 toneladas de diésel se volcó cerca de Ibiza, una explosión en una refinería tailandesa dejó al menos nueve heridos y un camión cisterna provocó un incendio mortal en El Cairo. Los tres incidentes reavivan la preocupación por la seguridad del transporte de energía y sus posibles efectos sobre el medio ambiente y la población.",
+          "headline": "Una tormenta de Acción de Gracias deja millones sin luz y provoca inundaciones en EE. UU.",
+          "summary": "El frente frío se precipitó sobre el país, provocando vientos de más de 120 km/h, lluvias torrenciales y caídas de energía que afectaron a casi un millón de consumidores. El desastre interrumpió vuelos y obligó a la gente a buscar refugio en zonas más seguras.",
           "tags": [
-            "#seguridad",
-            "#energía",
-            "#medioambiente"
+            "#EEUU",
+            "#Tormenta",
+            "#Inundaciones",
+            "#Apagones"
           ],
           "source_ids": [
             0,
-            9,
-            10
+            8
           ],
           "sources": [
             {
               "source": "Neutral (BBC)",
-              "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
-              "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss"
+              "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+              "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss"
             },
             {
-              "source": "Right (Fox)",
-              "title": "Bangkok oil refinery explosion injures at least 9, Thailand company monitoring air quality",
-              "url": "https://www.foxnews.com/world/bangkok-oil-refinery-explosion-injures-least-9-thailand-company-monitoring-air-quality"
-            },
-            {
-              "source": "Right (Fox)",
-              "title": "Egypt detains driver suspected of causing Cairo fuel tanker crash and inferno that left 31 dead",
-              "url": "https://www.foxnews.com/world/egypt-detains-driver-suspected-causing-cairo-fuel-tanker-crash-inferno-left-31-dead"
+              "source": "Neutral (BBC)",
+              "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
+              "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/vehicle-fire-giza-egypt.jpg",
-            "imageSearchQuery": "Egypt fuel tanker crash Cairo Ring Road fire",
-            "caption": "Una columna de llamas envuelve la carretera del Anillo de El Cairo tras el choque de una cisterna de combustible que dejó 31 muertos.",
-            "biasLeft": "Los medios de izquierda no cubrieron este tema en los artículos proporcionados.",
-            "biasNeutral": "BBC se centra en los datos concretos: la lancha diesel de 7.000 toneladas se volcó cerca de Ibiza, provocando una muerte y una evaluación preliminar de los daños medioambientales. El informe mantiene un tono descriptivo y evita especulaciones sobre causas o responsabilidades. Asimismo, señala la necesidad de seguir monitorizando el impacto ecológico.",
-            "biasRight": "Fox destaca la gravedad de los incidentes al subrayar el número de víctimas y la amenaza a la seguridad pública, especialmente en El Cairo y Bangkok. En Tailandia, la cobertura resalta la respuesta tecnológica de la empresa al monitorear la calidad del aire, insinuando que la industria está bajo control. En Egipto, enfatiza la detención del conductor, sugiriendo una narrativa de culpabilidad individual y orden del Estado.",
-            "reflection": "Estos accidentes ponen en evidencia riesgos reales para la vida cotidiana y la salud ambiental que pueden afectar a cualquier comunidad costera o urbana. En los próximos días, conviene seguir los comunicados de autoridades marítimas y de protección civil para detectar posibles alertas de contaminación o nuevas medidas de seguridad."
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/af5b/live/7a140030-e9f0-11f1-99b6-a35a62fa4264.jpg",
+            "imageSearchQuery": "Thanksgiving storm US flooding power outage flight delays",
+            "caption": "Techos arrancados y calles inundadas bajo la furiosa tormenta de Acción de Gracias que dejó a casi un millón de estadounidenses sin luz.",
+            "biasLeft": "Los medios progresistas no aparecen en los artículos citados.",
+            "biasNeutral": "Los informes neutros se centran en los hechos: casi un millón de usuarios sin electricidad, lluvias intensas que provocan inundaciones y retrasos en los vuelos en ambas costas. No se añaden opiniones ni análisis de responsabilidad. Se limita a describir la magnitud del evento y sus consecuencias inmediatas.",
+            "biasRight": "Los medios conservadores tampoco están representados en las fuentes proporcionadas.",
+            "reflection": "Para la gente, la falta de energía y las inundaciones pueden afectar la preparación de la cena de Acción de Gracias y los planes de viaje. En los próximos días, conviene seguir las actualizaciones de los servicios eléctricos y de las aerolíneas para anticipar posibles cortes prolongados o más interrupciones de vuelo."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/11/vehicle-fire-giza-egypt.jpg\" alt=\"Una columna de llamas envuelve la carretera del Anillo de El Cairo tras el choque de una cisterna de combustible que dejó 31 muertos.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Una columna de llamas envuelve la carretera del Anillo de El Cairo tras el choque de una cisterna de combustible que dejó 31 muertos.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios de izquierda no cubrieron este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">BBC se centra en los datos concretos: la lancha diesel de 7.000 toneladas se volcó cerca de Ibiza, provocando una muerte y una evaluación preliminar de los daños medioambientales. El informe mantiene un tono descriptivo y evita especulaciones sobre causas o responsabilidades. Asimismo, señala la necesidad de seguir monitorizando el impacto ecológico.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Fox destaca la gravedad de los incidentes al subrayar el número de víctimas y la amenaza a la seguridad pública, especialmente en El Cairo y Bangkok. En Tailandia, la cobertura resalta la respuesta tecnológica de la empresa al monitorear la calidad del aire, insinuando que la industria está bajo control. En Egipto, enfatiza la detención del conductor, sugiriendo una narrativa de culpabilidad individual y orden del Estado.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Estos accidentes ponen en evidencia riesgos reales para la vida cotidiana y la salud ambiental que pueden afectar a cualquier comunidad costera o urbana. En los próximos días, conviene seguir los comunicados de autoridades marítimas y de protección civil para detectar posibles alertas de contaminación o nuevas medidas de seguridad.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/af5b/live/7a140030-e9f0-11f1-99b6-a35a62fa4264.jpg\" alt=\"Techos arrancados y calles inundadas bajo la furiosa tormenta de Acción de Gracias que dejó a casi un millón de estadounidenses sin luz.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Techos arrancados y calles inundadas bajo la furiosa tormenta de Acción de Gracias que dejó a casi un millón de estadounidenses sin luz.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no aparecen en los artículos citados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los informes neutros se centran en los hechos: casi un millón de usuarios sin electricidad, lluvias intensas que provocan inundaciones y retrasos en los vuelos en ambas costas. No se añaden opiniones ni análisis de responsabilidad. Se limita a describir la magnitud del evento y sus consecuencias inmediatas.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores tampoco están representados en las fuentes proporcionadas.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para la gente, la falta de energía y las inundaciones pueden afectar la preparación de la cena de Acción de Gracias y los planes de viaje. En los próximos días, conviene seguir las actualizaciones de los servicios eléctricos y de las aerolíneas para anticipar posibles cortes prolongados o más interrupciones de vuelo.</p>"
         },
         {
           "id": "topic-2",
-          "headline": "Reino Unido moviliza reservistas y refuerza su flota de cazas ante la escalada de amenazas rusas",
-          "summary": "El gobierno británico está contactando a antiguos miembros de las fuerzas armadas para actualizar su reserva estratégica mientras aumenta la protección de sus aviones de combate. La medida responde a la creciente actividad de sabotaje y espionaje atribuidos a Rusia en Europa.",
+          "headline": "Crisis en Crimea: apagón masivo pone a prueba el control de Putin y Zelenski reclama apoyo estadounidense",
+          "summary": "Las redes eléctricas de Crimea fallaron durante una tormenta, dejando a ciudades como Sevastopol sin energía y revelando vulnerabilidades en la ocupación rusa. Mientras tanto, el presidente de Ucrania pidió a EE. UU. una respuesta más firme frente a la agresión rusa, criticando la falta de presión sobre Putin.",
           "tags": [
-            "#defensa",
+            "#Ucrania",
             "#Rusia",
-            "#seguridad"
+            "#Apagón",
+            "#Geopolítica"
           ],
           "source_ids": [
-            2
+            2,
+            4
           ],
           "sources": [
             {
               "source": "Right (Fox)",
-              "title": "UK shields fighter jets, contacts reservists in Cold War-scale push amid Russia threat",
-              "url": "https://www.foxnews.com/world/uk-shields-fighter-jets-contacts-reservists-cold-war-scale-push-amid-russia-threat"
+              "title": "Putin's grip on Crimea tested amid major blackout as Zelenskyy warns of looming Russian strike",
+              "url": "https://www.foxnews.com/world/putins-grip-crimea-tested-amid-major-blackout-zelenskyy-warns-imminent-russia-strike"
+            },
+            {
+              "source": "Neutral (BBC)",
+              "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/uk-fighter-jet.jpg",
-            "imageSearchQuery": "UK fighter jets reservists Russia threat",
-            "caption": "El Reino Unido activa a sus reservistas y refuerza la flota de cazas ante la creciente amenaza rusa.",
-            "biasLeft": "Los medios progresistas no cubren este tema en los artículos proporcionados.",
-            "biasNeutral": "Los medios centristas no cubren este tema en los artículos proporcionados.",
-            "biasRight": "Los medios conservadores destacan la necesidad de proteger la soberanía británica, subrayando el costo de los cazas y la urgencia de una respuesta rápida ante el sabotaje ruso.",
-            "reflection": "Para el ciudadano británico, la movilización de reservistas implica posibles convocatorias y un incremento del gasto en defensa que repercutirá en la economía doméstica. En los próximos días habrá que vigilar los anuncios oficiales sobre el número de reservistas llamados y cualquier despliegue concreto de los cazas."
+            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/crimea-blackout-putin.jpg",
+            "imageSearchQuery": "Crimea blackout 2026 power outage Putin Zelensky",
+            "caption": "Simferopol queda a oscuras mientras la rivalidad entre Moscú y Kyiv se vuelve más palpable.",
+            "biasLeft": "Los medios de izquierda no cubrieron este tema en los artículos proporcionados.",
+            "biasNeutral": "BBC se centra en la frustración de Zelensky con la política estadounidense, citando su crítica a la falta de presión sobre Rusia y el extraño elogio de Trump a Putin, sin entrar en detalles del apagón.",
+            "biasRight": "Fox destaca la vulnerabilidad del control de Putin en Crimea tras el apagón masivo y subraya la advertencia de Zelensky sobre un posible nuevo ataque ruso, enmarcándolo como un desafío a la seguridad rusa.",
+            "reflection": "Para la gente común, el corte de energía en Crimea muestra cuán frágil es la infraestructura bajo conflicto, lo que puede traducirse en escasez y peligros cotidianos. En los próximos días, vigile si Moscú responde con medidas militares o si EE. UU. incrementa su presión diplomática, señales que definirán la escalada o el enfriamiento de la crisis."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/11/uk-fighter-jet.jpg\" alt=\"El Reino Unido activa a sus reservistas y refuerza la flota de cazas ante la creciente amenaza rusa.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El Reino Unido activa a sus reservistas y refuerza la flota de cazas ante la creciente amenaza rusa.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no cubren este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas no cubren este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores destacan la necesidad de proteger la soberanía británica, subrayando el costo de los cazas y la urgencia de una respuesta rápida ante el sabotaje ruso.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el ciudadano británico, la movilización de reservistas implica posibles convocatorias y un incremento del gasto en defensa que repercutirá en la economía doméstica. En los próximos días habrá que vigilar los anuncios oficiales sobre el número de reservistas llamados y cualquier despliegue concreto de los cazas.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/11/crimea-blackout-putin.jpg\" alt=\"Simferopol queda a oscuras mientras la rivalidad entre Moscú y Kyiv se vuelve más palpable.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Simferopol queda a oscuras mientras la rivalidad entre Moscú y Kyiv se vuelve más palpable.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios de izquierda no cubrieron este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">BBC se centra en la frustración de Zelensky con la política estadounidense, citando su crítica a la falta de presión sobre Rusia y el extraño elogio de Trump a Putin, sin entrar en detalles del apagón.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Fox destaca la vulnerabilidad del control de Putin en Crimea tras el apagón masivo y subraya la advertencia de Zelensky sobre un posible nuevo ataque ruso, enmarcándolo como un desafío a la seguridad rusa.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para la gente común, el corte de energía en Crimea muestra cuán frágil es la infraestructura bajo conflicto, lo que puede traducirse en escasez y peligros cotidianos. En los próximos días, vigile si Moscú responde con medidas militares o si EE. UU. incrementa su presión diplomática, señales que definirán la escalada o el enfriamiento de la crisis.</p>"
         },
         {
           "id": "topic-3",
-          "headline": "Revelan documentos que muestran la rápida designación de Peter Mandelson y sus vínculos con Jeffrey Epstein",
-          "summary": "Las nuevas fichas publicadas por el Reino Unido exponen la prematura nombramiento de Mandelson como embajador y sus contactos continuos con el grupo de presión Global Counsel, vinculado al acaudalado financista Jeffrey Epstein. La filtración abre de nuevo el debate sobre la integridad de las altas citas diplomáticas.",
+          "headline": "Ataques con drones iraníes a Kuwait dejan dos italianos muertos y generan acusaciones de falso flag",
+          "summary": "Dos italianos fallecieron en un ataque con drones que golpeó instalaciones militares en Kuwait, mientras un exasesor iraní acusaba a Ucrania de orquestar el golpe para captar la atención de Trump. El incidente refleja la creciente amenaza de ataques aéreos en la región del Golfo.",
           "tags": [
-            "#política",
-            "#escándalo",
-            "#EEPP"
+            "#Irán",
+            "#Kuwait",
+            "#Drones",
+            "#Seguridad"
           ],
           "source_ids": [
-            1
+            3,
+            7
+          ],
+          "sources": [
+            {
+              "source": "Right (Fox)",
+              "title": "Iran accuses Zelenskyy of 'false flag' Kuwait drone strike op to get Trump's attention",
+              "url": "https://www.foxnews.com/world/iran-accuses-zelenskyy-false-flag-kuwait-drone-strike-op-get-trumps-attention"
+            },
+            {
+              "source": "Left (NYT)",
+              "title": "Two Italians Killed in Iranian Drone Attack on Kuwait, Officials Say",
+              "url": "https://www.nytimes.com/2026/11/26/world/middleeast/italians-killed-iran-drone-attack-kuwait.html"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/kuwait-iran-us-air-force-jets.jpg",
+            "imageSearchQuery": "Iran drone attack Kuwait Italians killed",
+            "caption": "Dos italianos pierden la vida cuando un dron iraní impacta en Kuwait, mientras Irán acusa a Ucrania de un operativo de bandera falsa.",
+            "biasLeft": "Los medios progresistas resaltan la tragedia humana de los dos ciudadanos italianos y enmarcan el ataque como parte de una escalada de hostilidades contra países que albergan bases estadounidenses. Subrayan la falta de avances en las conversaciones de paz y la presión sobre Irán para que cese sus agresiones. Se enfocan en la vulnerabilidad de los civiles y la necesidad de una solución diplomática.",
+            "biasNeutral": "No se encontró ningún artículo de fuentes centristas o de prensa neutral entre los proporcionados.",
+            "biasRight": "Los medios conservadores ponen énfasis en la teoría de la bandera falsa, señalando a Ucrania como posible autor del ataque para llamar la atención de Donald Trump. Destacan la implicación de Irán en la desestabilización regional y la amenaza que representa para la seguridad de los aliados de EE. UU. El relato subraya la dimensión geopolítica y la posible manipulación de la información.",
+            "reflection": "El incidente muestra que la violencia en el Golfo afecta directamente a ciudadanos extranjeros y puede desencadenar respuestas militares de EE. UU. En los próximos días habrá que vigilar los comunicados oficiales de Washington, Irán y Ucrania para ver si se intensifica la retórica o se busca una escalada controlada."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/03/kuwait-iran-us-air-force-jets.jpg\" alt=\"Dos italianos pierden la vida cuando un dron iraní impacta en Kuwait, mientras Irán acusa a Ucrania de un operativo de bandera falsa.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Dos italianos pierden la vida cuando un dron iraní impacta en Kuwait, mientras Irán acusa a Ucrania de un operativo de bandera falsa.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas resaltan la tragedia humana de los dos ciudadanos italianos y enmarcan el ataque como parte de una escalada de hostilidades contra países que albergan bases estadounidenses. Subrayan la falta de avances en las conversaciones de paz y la presión sobre Irán para que cese sus agresiones. Se enfocan en la vulnerabilidad de los civiles y la necesidad de una solución diplomática.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">No se encontró ningún artículo de fuentes centristas o de prensa neutral entre los proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores ponen énfasis en la teoría de la bandera falsa, señalando a Ucrania como posible autor del ataque para llamar la atención de Donald Trump. Destacan la implicación de Irán en la desestabilización regional y la amenaza que representa para la seguridad de los aliados de EE. UU. El relato subraya la dimensión geopolítica y la posible manipulación de la información.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>El incidente muestra que la violencia en el Golfo afecta directamente a ciudadanos extranjeros y puede desencadenar respuestas militares de EE. UU. En los próximos días habrá que vigilar los comunicados oficiales de Washington, Irán y Ucrania para ver si se intensifica la retórica o se busca una escalada controlada.</p>"
+        },
+        {
+          "id": "topic-4",
+          "headline": "Revelan documentos que vinculan a Peter Mandelson con el lobby de Jeffrey Epstein",
+          "summary": "El Reino Unido publicó archivos que muestran cómo el político Peter Mandelson fue nombrado con rapidez a un cargo diplomático y su continua relación con Global Counsel, una firma de lobby vinculada a la red de Epstein. La filtración pone en duda la transparencia del proceso de nombramiento.",
+          "tags": [
+            "#ReinoUnido",
+            "#Política",
+            "#Escándalo"
+          ],
+          "source_ids": [
+            5
           ],
           "sources": [
             {
@@ -97,92 +136,44 @@
           ],
           "deepDive": {
             "imageUrl": "https://static01.nyt.com/images/2026/11/26/world/26int-uk-mandelson-apabut/26int-uk-mandelson-apabut-mediumSquareAt3X.jpg",
-            "imageSearchQuery": "Peter Mandelson Jeffrey Epstein documents appointment",
-            "caption": "Documentos recién publicados revelan la apresurada designación de Peter Mandelson y sus vínculos con el grupo de lobby Global Counsel, asociado a Jeffrey Epstein.",
-            "biasLeft": "Los medios progresistas destacan la falta de transparencia en la designación de Mandelson y subrayan sus relaciones continuas con un lobby vinculado a Epstein, señalando posibles conflictos de interés y la necesidad de rendición de cuentas.",
-            "biasNeutral": "No se dispone de cobertura neutral en los artículos proporcionados.",
-            "biasRight": "No se dispone de cobertura conservadora en los artículos proporcionados.",
-            "reflection": "Para el ciudadano, esto plantea dudas sobre quién influye en decisiones de alto nivel y si esas influencias comprometen la integridad institucional. En los próximos días, conviene vigilar si el Parlamento británico solicita una investigación formal o si se presentan medidas de reforma en la designación de funcionarios."
+            "imageSearchQuery": "Peter Mandelson Jeffrey Epstein documents UK lobbying",
+            "caption": "Documentos recién publicados revelan los contactos de Peter Mandelson con el grupo de lobby Global Counsel vinculado a Jeffrey Epstein.",
+            "biasLeft": "Los medios progresistas destacan la continuidad de Mandelson dentro de un entramado de élites que facilitan la impunidad de figuras como Epstein, subrayando la necesidad de una auditoría exhaustiva de sus vínculos. Se enfatiza la dimensión sistémica del poder y la falta de transparencia en los procesos de nombramiento político.",
+            "biasNeutral": "Los artículos de cobertura centrada o neutral no aparecen entre las fuentes proporcionadas, por lo que no se puede describir su enfoque.",
+            "biasRight": "Los medios conservadores no aparecen entre las fuentes proporcionadas, por lo que no se puede describir su enfoque.",
+            "reflection": "Para el ciudadano de a pie, este caso muestra cómo decisiones de alto nivel pueden estar influenciadas por intereses ocultos, lo que afecta la confianza en las instituciones. En los próximos días, vigile si se abre una investigación parlamentaria o si se presentan sanciones oficiales contra Mandelson."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/26/world/26int-uk-mandelson-apabut/26int-uk-mandelson-apabut-mediumSquareAt3X.jpg\" alt=\"Documentos recién publicados revelan la apresurada designación de Peter Mandelson y sus vínculos con el grupo de lobby Global Counsel, asociado a Jeffrey Epstein.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Documentos recién publicados revelan la apresurada designación de Peter Mandelson y sus vínculos con el grupo de lobby Global Counsel, asociado a Jeffrey Epstein.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas destacan la falta de transparencia en la designación de Mandelson y subrayan sus relaciones continuas con un lobby vinculado a Epstein, señalando posibles conflictos de interés y la necesidad de rendición de cuentas.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">No se dispone de cobertura neutral en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">No se dispone de cobertura conservadora en los artículos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el ciudadano, esto plantea dudas sobre quién influye en decisiones de alto nivel y si esas influencias comprometen la integridad institucional. En los próximos días, conviene vigilar si el Parlamento británico solicita una investigación formal o si se presentan medidas de reforma en la designación de funcionarios.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/26/world/26int-uk-mandelson-apabut/26int-uk-mandelson-apabut-mediumSquareAt3X.jpg\" alt=\"Documentos recién publicados revelan los contactos de Peter Mandelson con el grupo de lobby Global Counsel vinculado a Jeffrey Epstein.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Documentos recién publicados revelan los contactos de Peter Mandelson con el grupo de lobby Global Counsel vinculado a Jeffrey Epstein.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas destacan la continuidad de Mandelson dentro de un entramado de élites que facilitan la impunidad de figuras como Epstein, subrayando la necesidad de una auditoría exhaustiva de sus vínculos. Se enfatiza la dimensión sistémica del poder y la falta de transparencia en los procesos de nombramiento político.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los artículos de cobertura centrada o neutral no aparecen entre las fuentes proporcionadas, por lo que no se puede describir su enfoque.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no aparecen entre las fuentes proporcionadas, por lo que no se puede describir su enfoque.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el ciudadano de a pie, este caso muestra cómo decisiones de alto nivel pueden estar influenciadas por intereses ocultos, lo que afecta la confianza en las instituciones. En los próximos días, vigile si se abre una investigación parlamentaria o si se presentan sanciones oficiales contra Mandelson.</p>"
         },
         {
-          "id": "topic-4",
-          "headline": "Aumentan los incidentes militares y de espionaje vinculados a la guerra en Ucrania y tensiones en Oriente Medio",
-          "summary": "Un dron iraní abatió a dos italianos en Kuwait, mientras Corea del Norte detuvo temporalmente el envío de misiles a Rusia por tensiones con Seúl; además, un intento de secuestro a un vuelo de FlyDubai y el reclutamiento engañoso de brasileños para combatir en el frente ruso intensifican la sensación de inseguridad regional. Estos hechos reflejan la expansión del conflicto ucraniano y la creciente inestabilidad en el entorno de Oriente Medio.",
+          "id": "topic-5",
+          "headline": "Corea del Norte suspende envíos de misiles a Rusia tras tensiones con Corea del Sur",
+          "summary": "Inteligencia ucraniana informó que Corea del Norte ha detenido la entrega de misiles y artillería a Rusia, una decisión que responde a los conflictos derivados de la iniciativa de Moscú hacia Corea del Sur. El cambio podría alterar el equilibrio de poder en la región.",
           "tags": [
-            "#guerra",
-            "#Ucrania",
-            "#OrienteMedio"
+            "#CoreaDelNorte",
+            "#Rusia",
+            "#Geopolítica"
           ],
           "source_ids": [
-            3,
-            5,
-            6,
-            12
+            9
           ],
           "sources": [
-            {
-              "source": "Left (NYT)",
-              "title": "Two Italians Killed in Iranian Drone Attack on Kuwait, Officials Say",
-              "url": "https://www.nytimes.com/2026/11/26/world/middleeast/italians-killed-iran-drone-attack-kuwait.html"
-            },
             {
               "source": "Right (Fox)",
               "title": "Ukrainian intelligence says North Korea paused missile deliveries to Russia amid friction over South Korea",
               "url": "https://www.foxnews.com/world/ukrainian-intelligence-north-korea-paused-missile-deliveries-russia-friction-south-korea"
-            },
-            {
-              "source": "Right (Fox)",
-              "title": "FlyDubai to resume Tel Aviv flights following attempted hijacking incident",
-              "url": "https://www.foxnews.com/world/flydubai-resume-tel-aviv-flights-following-attempted-hijacking-incident"
-            },
-            {
-              "source": "Left (NYT)",
-              "title": "Lured by High Salaries, Some Brazilians Were Duped Into Fighting for Russia",
-              "url": "https://www.nytimes.com/2026/11/26/world/americas/brazil-recruiting-russia-army.html"
             }
           ],
           "deepDive": {
             "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/vladimir-putin-jo-yong-won-moscow.jpg",
-            "imageSearchQuery": "North Korea missile shipment pause Russia Ukraine conflict",
-            "caption": "Ucrania denuncia que Corea del Norte ha detenido el envío de misiles a Rusia tras roces con Seúl.",
-            "biasLeft": "Los medios progresistas no cubrieron este tema en los artículos proporcionados.",
-            "biasNeutral": "Los medios centristas o de agencia no publicaron ninguna pieza sobre este asunto entre las fuentes suministradas.",
-            "biasRight": "Los medios conservadores resaltan la dimensión de seguridad, subrayando que la pausa de misiles reduce temporalmente la capacidad bélica de Moscú en Ucrania. También enfatizan la presión de EE. UU. y sus aliados sobre Corea del Norte como una herramienta de diplomacia coercitiva. Finalmente, vinculan el hecho a la necesidad de reforzar la vigilancia de suministros de armas a regímenes autoritarios.",
-            "reflection": "Para la gente común, la suspensión de estos envíos puede traducirse en una disminución de la intensidad de los combates en el frente ucraniano en los próximos días. Es importante seguir si Rusia busca fuentes alternativas y cómo reaccionan Seúl y Washington, ya que cualquier cambio afectará la estabilidad regional y la percepción de amenaza."
+            "imageSearchQuery": "North Korea missile shipments Russia South Korea tension",
+            "caption": "Señalan que Pyongyang ha detenido el envío de misiles a Moscú tras el roce diplomático con Seúl.",
+            "biasLeft": "Los medios progresistas no cubren este tema en los artículos suministrados.",
+            "biasNeutral": "Los medios centristas no abordan este hecho en las fuentes proporcionadas.",
+            "biasRight": "Los medios conservadores destacan que la pausa de Pyongyang evidencia la vulnerabilidad de Rusia ante la presión occidental y refuerza la narrativa de que el Kremlin depende cada vez más de armas nortecoreanas. Subrayan la amenaza a la seguridad regional, señalando que cualquier fricción entre Corea del Norte y Corea del Sur puede repercutir en el equilibrio de poder en Asia Oriental. Además, resaltan el riesgo de que Rusia busque nuevos proveedores, lo que complicaría la respuesta de EE.UU. y sus aliados.",
+            "reflection": "Para el ciudadano, la interrupción de los envíos de misiles indica que la alianza Rusia‑Corea del Norte tiene fisuras, lo que podría reducir la presión militar sobre Ucrania y Europa. En los próximos días, habrá que observar si Moscú busca reemplazar esos cohetes con otras fuentes o si aumenta la diplomacia con Seúl para aliviar la tensión."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/11/vladimir-putin-jo-yong-won-moscow.jpg\" alt=\"Ucrania denuncia que Corea del Norte ha detenido el envío de misiles a Rusia tras roces con Seúl.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Ucrania denuncia que Corea del Norte ha detenido el envío de misiles a Rusia tras roces con Seúl.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no cubrieron este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas o de agencia no publicaron ninguna pieza sobre este asunto entre las fuentes suministradas.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores resaltan la dimensión de seguridad, subrayando que la pausa de misiles reduce temporalmente la capacidad bélica de Moscú en Ucrania. También enfatizan la presión de EE. UU. y sus aliados sobre Corea del Norte como una herramienta de diplomacia coercitiva. Finalmente, vinculan el hecho a la necesidad de reforzar la vigilancia de suministros de armas a regímenes autoritarios.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para la gente común, la suspensión de estos envíos puede traducirse en una disminución de la intensidad de los combates en el frente ucraniano en los próximos días. Es importante seguir si Rusia busca fuentes alternativas y cómo reaccionan Seúl y Washington, ya que cualquier cambio afectará la estabilidad regional y la percepción de amenaza.</p>"
-        },
-        {
-          "id": "topic-5",
-          "headline": "Tormentas severas inundan calles y derriban techos en EE. UU. durante el fin de semana de Acción de Gracias",
-          "summary": "Cientos de miles de estadounidenses se vieron afectados por lluvias torrenciales y vientos que dejaron techos destrozados y carreteras bajo el agua, coincidendo con las celebraciones de Acción de Gracias. Las autoridades continúan evaluando los daños y coordinando los esfuerzos de socorro.",
-          "tags": [
-            "#clima",
-            "#EEUU",
-            "#desastres"
-          ],
-          "source_ids": [
-            4
-          ],
-          "sources": [
-            {
-              "source": "Neutral (BBC)",
-              "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
-              "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e81d/live/7ff7f4c0-e9cd-11f1-99a1-253766e7ad8b.jpg",
-            "imageSearchQuery": "Thanksgiving severe weather US roofs flooded streets",
-            "caption": "Techos arrancados y calles inundadas bajo la tormenta que azotó EE. UU. durante el fin de semana de Acción de Gracias.",
-            "biasLeft": "Los medios progresistas no abordaron este hecho en los artículos proporcionados.",
-            "biasNeutral": "Los medios neutrales informan que cientos de miles de personas fueron afectadas, describen los daños a techos y la inundación de calles, y señalan que el fenómeno coincidió con el fin de semana festivo, sin entrar en interpretaciones políticas.",
-            "biasRight": "Los medios conservadores no cubren este tema en los artículos suministrados.",
-            "reflection": "Para la gente, la tormenta implica evacuaciones, cortes de energía y pérdidas materiales inmediatas. En los próximos días habrá que vigilar los avisos de la NOAA y la respuesta de los servicios de emergencia, que indicarán cuán grave será el impacto prolongado."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e81d/live/7ff7f4c0-e9cd-11f1-99a1-253766e7ad8b.jpg\" alt=\"Techos arrancados y calles inundadas bajo la tormenta que azotó EE. UU. durante el fin de semana de Acción de Gracias.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Techos arrancados y calles inundadas bajo la tormenta que azotó EE. UU. durante el fin de semana de Acción de Gracias.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no abordaron este hecho en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios neutrales informan que cientos de miles de personas fueron afectadas, describen los daños a techos y la inundación de calles, y señalan que el fenómeno coincidió con el fin de semana festivo, sin entrar en interpretaciones políticas.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no cubren este tema en los artículos suministrados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para la gente, la tormenta implica evacuaciones, cortes de energía y pérdidas materiales inmediatas. En los próximos días habrá que vigilar los avisos de la NOAA y la respuesta de los servicios de emergencia, que indicarán cuán grave será el impacto prolongado.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/11/vladimir-putin-jo-yong-won-moscow.jpg\" alt=\"Señalan que Pyongyang ha detenido el envío de misiles a Moscú tras el roce diplomático con Seúl.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Señalan que Pyongyang ha detenido el envío de misiles a Moscú tras el roce diplomático con Seúl.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no cubren este tema en los artículos suministrados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas no abordan este hecho en las fuentes proporcionadas.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores destacan que la pausa de Pyongyang evidencia la vulnerabilidad de Rusia ante la presión occidental y refuerza la narrativa de que el Kremlin depende cada vez más de armas nortecoreanas. Subrayan la amenaza a la seguridad regional, señalando que cualquier fricción entre Corea del Norte y Corea del Sur puede repercutir en el equilibrio de poder en Asia Oriental. Además, resaltan el riesgo de que Rusia busque nuevos proveedores, lo que complicaría la respuesta de EE.UU. y sus aliados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el ciudadano, la interrupción de los envíos de misiles indica que la alianza Rusia‑Corea del Norte tiene fisuras, lo que podría reducir la presión militar sobre Ucrania y Europa. En los próximos días, habrá que observar si Moscú busca reemplazar esos cohetes con otras fuentes o si aumenta la diplomacia con Seúl para aliviar la tensión.</p>"
         }
       ],
       "rawCount": 15
@@ -190,37 +181,33 @@
     "TECH_FRONTIER": {
       "items": [
         {
-          "id": "topic-1",
-          "headline": "Jensen Huang vuelve a Nvidia y la polémica política que lo rodea",
-          "summary": "Tras su reincorporación como CEO, Huang pidió disculpas a los empleados y reconoció infracciones al código de conducta, mientras que el presidente Trump intervino para revertir la decisión del consejo. El caso ha generado preguntas del Congreso y del fiscal general de EE.UU. sobre posibles irregularidades en la empresa.",
+          "id": "tema-1",
+          "headline": "Jensen Huang vuelve al mando de Nvidia y el caso se politiciza en EE. UU.",
+          "summary": "El regreso del cofundador a la presidencia de Nvidia, impulsado por la presión del presidente Trump, ha reabierto el debate sobre la gobernanza corporativa y la influencia política en la industria tecnológica. Al mismo tiempo, la caída de la acción de Anthropic evidencia la volatilidad del mercado de IA tras la re‑entrada de Huang.",
           "tags": [
             "#Nvidia",
+            "#IA",
             "#Política",
-            "#Gobierno"
+            "#MercadoTech"
           ],
           "source_ids": [
-            0,
-            9,
-            10,
+            1,
+            2,
             11,
             13,
-            14
+            14,
+            6
           ],
           "sources": [
+            {
+              "source": "Neutral (BBC Tech)",
+              "title": "Asia made a big AI bet on Nvidia. What happens now? ",
+              "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss"
+            },
             {
               "source": "Left (NYT Tech)",
               "title": "Jensen Huang Is Back, and So Is His Plaque at Denny’s",
               "url": "https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html"
-            },
-            {
-              "source": "Neutral (BBC Tech)",
-              "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
-              "url": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "Neutral (BBC Tech)",
-              "title": "US attorney general dodges questions about Nvidia investigation",
-              "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss"
             },
             {
               "source": "Left (NYT Tech)",
@@ -236,32 +223,40 @@
               "source": "Left (NYT Tech)",
               "title": "With Jensen Huang’s Return as C.E.O., Trump Effectively Overrode Nvidia’s Board",
               "url": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html"
+            },
+            {
+              "source": "Left (NYT Tech)",
+              "title": "Anthropic’s Stock Debut Could Hurt Tech Start-Ups",
+              "url": "https://www.nytimes.com/2026/11/25/technology/anthropic-stock-tech-start-ups.html"
             }
           ],
           "deepDive": {
             "imageUrl": "https://static01.nyt.com/images/2026/11/23/multimedia/23biz-nvidia-board-1-hjlv/23biz-nvidia-board-1-hjlv-mediumSquareAt3X.jpg",
-            "imageSearchQuery": "Jensen Huang return Nvidia board Trump intervention",
-            "caption": "Jensen Huang retoma la dirección de Nvidia mientras la presión política de Trump se hace visible en la sala del consejo.",
-            "biasLeft": "Los medios progresistas subrayan la intromisión de Trump en la gobernanza corporativa, señalando que anuló la decisión del consejo y que la reinstalación de Huang vulnera normas de ética. Además, destacan la disculpa de Huang y su reconocimiento de errores, enfocándose en el impacto humano y en la necesidad de mayor rendición de cuentas. También ponen el acento en la figura de Alice Huang como parte de una trama de espionaje que implica intereses estatales chinos.",
-            "biasNeutral": "Los informes de la BBC se centran en los hechos: la caída del 7 % en el valor de las acciones, la falta de respuestas del fiscal general y la entrevista con Zoe Kleinman sobre la irremplazabilidad de Huang. Presentan la cuestión de la intervención presidencial como un interrogante sin tomar posición, resaltando la incertidumbre que genera entre inversores y reguladores.",
-            "biasRight": "Los medios conservadores no abordaron este tema en los artículos citados.",
-            "reflection": "Para el ciudadano corriente, la controversia puede traducirse en volatilidad del mercado y en posibles restricciones regulatorias que afecten los precios de los productos de IA. En los próximos días, hay que vigilar cualquier anuncio de la Fiscalía o del Congreso sobre una investigación formal, así como la reacción del precio de Nvidia en bolsa."
+            "imageSearchQuery": "Jensen Huang return Nvidia CEO Trump board override",
+            "caption": "Jensen Huang retoma la dirección de Nvidia mientras el presidente Trump presiona para anular la decisión del consejo.",
+            "biasLeft": "Los medios progresistas subrayan que la reincorporación de Huang fue posible gracias a la intervención directa de Trump, señalando una vulnerabilidad de la gobernanza corporativa ante presiones políticas. También resaltan las disculpas de Huang por infringir el código de conducta y el contexto de un escándalo de espionaje que involucra a Alice Huang.",
+            "biasNeutral": "Los reportes neutrales se centran en la reacción de los mercados asiáticos, describiendo cómo las acciones subieron y bajaron tras el anuncio del regreso de Huang. Señalan la incertidumbre sobre el futuro de la apuesta masiva de Asia en IA sin entrar en juicios políticos.",
+            "biasRight": "Los medios conservadores no abordaron este tema en los artículos proporcionados.",
+            "reflection": "Para el inversor medio, el regreso de Huang y la implicación de Trump pueden traducirse en volatilidad adicional en las acciones de Nvidia y en el sector de IA. En los próximos días, conviene vigilar el precio de la acción y cualquier anuncio regulatorio o de política industrial que pueda derivarse de esta presión política."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/23/multimedia/23biz-nvidia-board-1-hjlv/23biz-nvidia-board-1-hjlv-mediumSquareAt3X.jpg\" alt=\"Jensen Huang retoma la dirección de Nvidia mientras la presión política de Trump se hace visible en la sala del consejo.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Jensen Huang retoma la dirección de Nvidia mientras la presión política de Trump se hace visible en la sala del consejo.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan la intromisión de Trump en la gobernanza corporativa, señalando que anuló la decisión del consejo y que la reinstalación de Huang vulnera normas de ética. Además, destacan la disculpa de Huang y su reconocimiento de errores, enfocándose en el impacto humano y en la necesidad de mayor rendición de cuentas. También ponen el acento en la figura de Alice Huang como parte de una trama de espionaje que implica intereses estatales chinos.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los informes de la BBC se centran en los hechos: la caída del 7 % en el valor de las acciones, la falta de respuestas del fiscal general y la entrevista con Zoe Kleinman sobre la irremplazabilidad de Huang. Presentan la cuestión de la intervención presidencial como un interrogante sin tomar posición, resaltando la incertidumbre que genera entre inversores y reguladores.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no abordaron este tema en los artículos citados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el ciudadano corriente, la controversia puede traducirse en volatilidad del mercado y en posibles restricciones regulatorias que afecten los precios de los productos de IA. En los próximos días, hay que vigilar cualquier anuncio de la Fiscalía o del Congreso sobre una investigación formal, así como la reacción del precio de Nvidia en bolsa.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/23/multimedia/23biz-nvidia-board-1-hjlv/23biz-nvidia-board-1-hjlv-mediumSquareAt3X.jpg\" alt=\"Jensen Huang retoma la dirección de Nvidia mientras el presidente Trump presiona para anular la decisión del consejo.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Jensen Huang retoma la dirección de Nvidia mientras el presidente Trump presiona para anular la decisión del consejo.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan que la reincorporación de Huang fue posible gracias a la intervención directa de Trump, señalando una vulnerabilidad de la gobernanza corporativa ante presiones políticas. También resaltan las disculpas de Huang por infringir el código de conducta y el contexto de un escándalo de espionaje que involucra a Alice Huang.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los reportes neutrales se centran en la reacción de los mercados asiáticos, describiendo cómo las acciones subieron y bajaron tras el anuncio del regreso de Huang. Señalan la incertidumbre sobre el futuro de la apuesta masiva de Asia en IA sin entrar en juicios políticos.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no abordaron este tema en los artículos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el inversor medio, el regreso de Huang y la implicación de Trump pueden traducirse en volatilidad adicional en las acciones de Nvidia y en el sector de IA. En los próximos días, conviene vigilar el precio de la acción y cualquier anuncio regulatorio o de política industrial que pueda derivarse de esta presión política.</p>"
         },
         {
-          "id": "topic-2",
-          "headline": "Fraudes impulsados por IA ponen en riesgo compradores y usuarios de correo",
-          "summary": "Estafadores usan imágenes generadas por IA en anuncios inmobiliarios y datos de corredores para crear falsas ofertas, mientras un malware llamado Remus Stealer pretende acceder a Gmail aun tras cambiar la contraseña. Herramientas como Google Lens y la verificación de video en tiempo real son recomendadas para detectar estas engañosas técnicas.",
+          "id": "tema-2",
+          "headline": "El auge de imágenes y datos falsos impulsados por IA genera nuevas estafas y riesgos de privacidad.",
+          "summary": "Fraudes inmobiliarios con fotos generadas por IA y datos de consumidores vendidos por brokers ponen en alerta a compradores y usuarios antes del Black Friday, mientras que ataques de malware apuntan a cuentas de Gmail y reservas de vuelos automatizadas. Herramientas como la búsqueda inversa de imágenes y la verificación en tiempo real se recomiendan para detectar estas falsificaciones.",
           "tags": [
-            "#Seguridad",
+            "#SeguridadDigital",
             "#IA",
+            "#Privacidad",
             "#Estafas"
           ],
           "source_ids": [
-            1,
-            2,
-            5
+            3,
+            4,
+            7,
+            12,
+            10
           ],
           "sources": [
             {
@@ -278,126 +273,126 @@
               "source": "Right (Fox Tech)",
               "title": "Can hackers still read Gmail after a password change?",
               "url": "https://www.foxnews.com/tech/can-hackers-still-read-gmail-after-password-change"
+            },
+            {
+              "source": "Right (Fox Tech)",
+              "title": "What United Airlines banning AI agents from booking flights means for your travel plans",
+              "url": "https://www.foxnews.com/tech/united-airlines-banning-ai-agents-booking-flights-means-travel-plans"
+            },
+            {
+              "source": "Neutral (BBC Tech)",
+              "title": "EA adds AI-generated John Motson to FC 27 video game",
+              "url": "https://www.bbc.co.uk/news/articles/c65y10j841jpo?at_medium=RSS&at_campaign=rss"
             }
           ],
           "deepDive": {
             "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/ai-generated-house-photos-001.jpg",
-            "imageSearchQuery": "AI housefishing scam real estate photos",
-            "caption": "Un comprador revisa una foto de una casa que parece perfecta, sin saber que la imagen fue generada por IA para atraerlo a un fraude inmobiliario.",
-            "biasLeft": "Los medios progresistas no han abordado este tema en los artículos proporcionados.",
-            "biasNeutral": "Los medios centristas tampoco cubren estos fraudes impulsados por IA en los textos suministrados.",
-            "biasRight": "Los medios conservadores destacan el riesgo económico y de seguridad que representan los fraudes de IA, subrayando la necesidad de herramientas como Google Lens y recorridos en video en vivo para detectar imágenes falsas, y advierten que los datos de compras pueden ser usados por estafadores para enviar mensajes de phishing que simulan al USPS.",
-            "reflection": "Esto importa porque cualquiera que busque comprar una casa o reciba notificaciones de entregas puede ser víctima de un engaño sofisticado. En los próximos días, mantente alerta ante fotos demasiado perfectas en anuncios inmobiliarios y mensajes de texto que reclamen entregas del servicio postal, y verifica siempre con fuentes oficiales antes de compartir información personal."
+            "imageSearchQuery": "AI generated house photos scam",
+            "caption": "Fotos de casas creadas por IA que engañan a compradores desprevenidos.",
+            "biasLeft": "Los medios progresistas no abordaron este tema en los artículos suministrados.",
+            "biasNeutral": "BBC Tech informó de forma descriptiva sobre un personaje virtual generado por IA para un videojuego, resaltando el consentimiento de la familia y la novedad tecnológica sin entrar en alarmismo.",
+            "biasRight": "Fox Tech destacó la facilidad con la que los estafadores pueden usar imágenes falsas y datos de corredores para engañar a consumidores, subrayando la necesidad de herramientas como Google Lens y recorridos en video para proteger la seguridad financiera y la privacidad.",
+            "reflection": "Este asunto importa porque cualquier comprador de vivienda o usuario que reciba notificaciones de entrega puede ser víctima de un fraude visualmente convincente. En los próximos días, vigile aumentos en denuncias de casas que no existen y alertas de mensajes de texto falsos de servicios de mensajería."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/11/ai-generated-house-photos-001.jpg\" alt=\"Un comprador revisa una foto de una casa que parece perfecta, sin saber que la imagen fue generada por IA para atraerlo a un fraude inmobiliario.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Un comprador revisa una foto de una casa que parece perfecta, sin saber que la imagen fue generada por IA para atraerlo a un fraude inmobiliario.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no han abordado este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas tampoco cubren estos fraudes impulsados por IA en los textos suministrados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores destacan el riesgo económico y de seguridad que representan los fraudes de IA, subrayando la necesidad de herramientas como Google Lens y recorridos en video en vivo para detectar imágenes falsas, y advierten que los datos de compras pueden ser usados por estafadores para enviar mensajes de phishing que simulan al USPS.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Esto importa porque cualquiera que busque comprar una casa o reciba notificaciones de entregas puede ser víctima de un engaño sofisticado. En los próximos días, mantente alerta ante fotos demasiado perfectas en anuncios inmobiliarios y mensajes de texto que reclamen entregas del servicio postal, y verifica siempre con fuentes oficiales antes de compartir información personal.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/11/ai-generated-house-photos-001.jpg\" alt=\"Fotos de casas creadas por IA que engañan a compradores desprevenidos.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Fotos de casas creadas por IA que engañan a compradores desprevenidos.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no abordaron este tema en los artículos suministrados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">BBC Tech informó de forma descriptiva sobre un personaje virtual generado por IA para un videojuego, resaltando el consentimiento de la familia y la novedad tecnológica sin entrar en alarmismo.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Fox Tech destacó la facilidad con la que los estafadores pueden usar imágenes falsas y datos de corredores para engañar a consumidores, subrayando la necesidad de herramientas como Google Lens y recorridos en video para proteger la seguridad financiera y la privacidad.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Este asunto importa porque cualquier comprador de vivienda o usuario que reciba notificaciones de entrega puede ser víctima de un fraude visualmente convincente. En los próximos días, vigile aumentos en denuncias de casas que no existen y alertas de mensajes de texto falsos de servicios de mensajería.</p>"
         },
         {
-          "id": "topic-3",
-          "headline": "La Comisión aprueba la constelación Starmind de SpaceX para suministrar datos a la IA",
-          "summary": "La propuesta de lanzar un millón de satélites de baja órbita busca proporcionar capacidad de cómputo de IA de forma más barata y con menor consumo energético. La autorización abre la puerta a una infraestructura global que podría acelerar servicios basados en inteligencia artificial.",
+          "id": "tema-3",
+          "headline": "SpaceX y un empresario tecnológico presentan proyectos de infraestructura extrema: satélites de datos y ciudad flotante milenaria.",
+          "summary": "La constelación Starmind de SpaceX, aprobada para lanzar un millón de satélites de bajo consumo, busca abastecer la creciente demanda de potencia computacional para IA. Paralelamente, Palmer Luckey propone SLAB, una ciudad industrial flotante diseñada para operar durante mil años fuera de la regulación californiana.",
           "tags": [
-            "#SpaceX",
             "#Satélites",
-            "#InteligenciaArtificial"
+            "#IA",
+            "#Innovación",
+            "#Infraestructura"
           ],
           "source_ids": [
-            3
+            5,
+            8
           ],
           "sources": [
             {
               "source": "Neutral (BBC Tech)",
               "title": "Musk's plan to send a million SpaceX data satellites into space approved",
               "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5383/live/4c315c90-e968-11f1-a094-5fdc692f3e33.jpg",
-            "imageSearchQuery": "SpaceX Starmind constellation launch AI data satellites",
-            "caption": "La Comisión aprueba la constelación Starmind de SpaceX, la nueva infraestructura de satélites diseñada para alimentar la IA a escala global.",
-            "biasLeft": "Los medios progresistas no abordaron este tema en los artículos proporcionados.",
-            "biasNeutral": "Los medios centristas destacan que la aprobación busca crear la constelación más barata y eficiente en energía para cubrir la creciente demanda de potencia computacional de la IA, subrayando tanto el potencial económico como los retos regulatorios.",
-            "biasRight": "Los medios conservadores no cubrieron este tema en los artículos proporcionados.",
-            "reflection": "Esto importa porque una red de satélites barata y de bajo consumo podría reducir los costos de los servicios de IA para empresas y usuarios finales. En los próximos días, habrá que seguir la agenda legislativa y los primeros lanzamientos para medir el impacto real en el mercado y en la competencia tecnológica internacional."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5383/live/4c315c90-e968-11f1-a094-5fdc692f3e33.jpg\" alt=\"La Comisión aprueba la constelación Starmind de SpaceX, la nueva infraestructura de satélites diseñada para alimentar la IA a escala global.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La Comisión aprueba la constelación Starmind de SpaceX, la nueva infraestructura de satélites diseñada para alimentar la IA a escala global.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no abordaron este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas destacan que la aprobación busca crear la constelación más barata y eficiente en energía para cubrir la creciente demanda de potencia computacional de la IA, subrayando tanto el potencial económico como los retos regulatorios.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no cubrieron este tema en los artículos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Esto importa porque una red de satélites barata y de bajo consumo podría reducir los costos de los servicios de IA para empresas y usuarios finales. En los próximos días, habrá que seguir la agenda legislativa y los primeros lanzamientos para medir el impacto real en el mercado y en la competencia tecnológica internacional.</p>"
-        },
-        {
-          "id": "topic-4",
-          "headline": "La salida a bolsa de Anthropic enfría la inversión en startups tecnológicas",
-          "summary": "El desplome inicial de las acciones de Anthropic ha generado dudas entre los inversores, que ahora son más cautelosos al financiar nuevas empresas de IA. Analistas advierten que la tendencia podría frenar el ritmo de financiación que caracterizó a Silicon Valley en los últimos años.",
-          "tags": [
-            "#Anthropic",
-            "#FinTech",
-            "#Inversión"
-          ],
-          "source_ids": [
-            4
-          ],
-          "sources": [
-            {
-              "source": "Left (NYT Tech)",
-              "title": "Anthropic’s Stock Debut Could Hurt Tech Start-Ups",
-              "url": "https://www.nytimes.com/2026/11/25/technology/anthropic-stock-tech-start-ups.html"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://static01.nyt.com/images/2026/11/26/multimedia/25biz-anthropic-pop-2-qlhp/25biz-anthropic-pop-2-qlhp-mediumSquareAt3X.jpg",
-            "imageSearchQuery": "Anthropic IPO, stock debut, Silicon Valley venture capital",
-            "caption": "El despliegue bursátil de Anthropic desploma y frena la avalancha de capital hacia nuevas startups de Silicon Valley.",
-            "biasLeft": "Los medios progresistas subrayan que la caída del precio de la acción de Anthropic expone la dependencia peligrosa de los jóvenes emprendedores en el capital de riesgo excesivo. Enfatizan el riesgo de una burbuja y la necesidad de un modelo de financiación más sostenible y equitativo. Además, señalan que el entusiasmo desmedido de Silicon Valley podría estar desplazando recursos de proyectos con mayor impacto social.",
-            "biasNeutral": "No se encontró cobertura de medios centristas o de información general en los artículos suministrados.",
-            "biasRight": "No se encontró cobertura de medios conservadores o de derecha en los artículos suministrados.",
-            "reflection": "Para un inversor o trabajador del sector tecnológico, la caída de Anthropic indica que la ola de financiación fácil podría estar desacelerándose, lo que afectará la disponibilidad de capital para startups emergentes. En los próximos días, vigile el movimiento del precio de la acción de Anthropic y los anuncios de rondas de financiación de otras startups para medir si la tendencia se confirma."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/26/multimedia/25biz-anthropic-pop-2-qlhp/25biz-anthropic-pop-2-qlhp-mediumSquareAt3X.jpg\" alt=\"El despliegue bursátil de Anthropic desploma y frena la avalancha de capital hacia nuevas startups de Silicon Valley.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El despliegue bursátil de Anthropic desploma y frena la avalancha de capital hacia nuevas startups de Silicon Valley.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan que la caída del precio de la acción de Anthropic expone la dependencia peligrosa de los jóvenes emprendedores en el capital de riesgo excesivo. Enfatizan el riesgo de una burbuja y la necesidad de un modelo de financiación más sostenible y equitativo. Además, señalan que el entusiasmo desmedido de Silicon Valley podría estar desplazando recursos de proyectos con mayor impacto social.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">No se encontró cobertura de medios centristas o de información general en los artículos suministrados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">No se encontró cobertura de medios conservadores o de derecha en los artículos suministrados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para un inversor o trabajador del sector tecnológico, la caída de Anthropic indica que la ola de financiación fácil podría estar desacelerándose, lo que afectará la disponibilidad de capital para startups emergentes. En los próximos días, vigile el movimiento del precio de la acción de Anthropic y los anuncios de rondas de financiación de otras startups para medir si la tendencia se confirma.</p>"
-        },
-        {
-          "id": "topic-5",
-          "headline": "Proyectos extremos y decisiones legales marcan la agenda tecnológica",
-          "summary": "Palmer Luckey anuncia una ciudad flotante diseñada para durar mil años, mientras que Huawei es condenada por robar secretos comerciales estadounidenses y EA incorpora un comentarista de fútbol generado por IA en su nuevo juego. Además, United Airlines prohíbe a agentes de IA reservar vuelos, citando riesgos para el programa de fidelidad.",
-          "tags": [
-            "#Innovación",
-            "#Legal",
-            "#IA"
-          ],
-          "source_ids": [
-            6,
-            7,
-            8,
-            12
-          ],
-          "sources": [
+            },
             {
               "source": "Right (Fox Tech)",
               "title": "Tech billionaire plans 1,000-year floating city at sea",
               "url": "https://www.foxnews.com/tech/tech-billionaire-plans-1000-year-floating-city-sea"
-            },
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5383/live/4c315c90-e968-11f1-a094-5fdc692f3e33.jpg",
+            "imageSearchQuery": "SpaceX Starmind satellites Palmer Luckey floating city",
+            "caption": "Un millón de satélites de SpaceX y una ciudad flotante milenaria compiten por redefinir la infraestructura del futuro.",
+            "biasLeft": "Los medios progresistas no cubren este tema en los artículos suministrados.",
+            "biasNeutral": "BBC informa que la Comisión aprobó el proyecto Starmind, una constelación de un millón de satélites de datos de SpaceX, destacando su bajo costo y consumo energético para atender la creciente demanda de computación de IA.",
+            "biasRight": "Fox señala que el empresario Palmer Luckey propone la ciudad flotante SLAB, una urbe industrial diseñada para durar mil años, subrayando su potencial económico y la posibilidad de operar fuera de las restricciones medioambientales de California.",
+            "reflection": "Para el ciudadano, la red de satélites podría traducirse en mejores servicios de internet y mayor disponibilidad de IA, mientras que la ciudad flotante plantea preguntas sobre empleo, impacto ambiental y competencia regulatoria. En los próximos días hay que observar cualquier decisión de reguladores estadounidenses y los movimientos de financiación de ambos proyectos."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5383/live/4c315c90-e968-11f1-a094-5fdc692f3e33.jpg\" alt=\"Un millón de satélites de SpaceX y una ciudad flotante milenaria compiten por redefinir la infraestructura del futuro.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Un millón de satélites de SpaceX y una ciudad flotante milenaria compiten por redefinir la infraestructura del futuro.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no cubren este tema en los artículos suministrados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">BBC informa que la Comisión aprobó el proyecto Starmind, una constelación de un millón de satélites de datos de SpaceX, destacando su bajo costo y consumo energético para atender la creciente demanda de computación de IA.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Fox señala que el empresario Palmer Luckey propone la ciudad flotante SLAB, una urbe industrial diseñada para durar mil años, subrayando su potencial económico y la posibilidad de operar fuera de las restricciones medioambientales de California.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el ciudadano, la red de satélites podría traducirse en mejores servicios de internet y mayor disponibilidad de IA, mientras que la ciudad flotante plantea preguntas sobre empleo, impacto ambiental y competencia regulatoria. En los próximos días hay que observar cualquier decisión de reguladores estadounidenses y los movimientos de financiación de ambos proyectos.</p>"
+        },
+        {
+          "id": "tema-4",
+          "headline": "Escasez de mecánicos de ascensores persiste pese a salarios altos y alta demanda.",
+          "summary": "Aunque el trabajo ofrece buenos salarios y una agenda de servicios constante, la falta de formación y la percepción de la profesión dificultan la contratación de técnicos especializados. El déficit amenaza la seguridad y el mantenimiento de los sistemas de elevación en edificios de todo el país.",
+          "tags": [
+            "#Empleo",
+            "#Formación",
+            "#Seguridad"
+          ],
+          "source_ids": [
+            0
+          ],
+          "sources": [
+            {
+              "source": "Neutral (BBC Tech)",
+              "title": "Why is there a shortage of 'wizard' elevator mechanics?",
+              "url": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8c0e/live/0c8a5940-e7e0-11f1-99a1-253766e7ad8b.jpg",
+            "imageSearchQuery": "elevator mechanic shortage training apprenticeship wages",
+            "caption": "Los ascensores siguen sin técnicos disponibles pese a sueldos atractivos y una demanda en auge.",
+            "biasLeft": "Los medios progresistas no abordaron este tema en los artículos proporcionados.",
+            "biasNeutral": "Los reportes neutros explican que, aunque los salarios son altos y la carga de trabajo abundante, la escasez persiste por la falta de programas de formación y la jubilación de la generación actual de técnicos. Además, la certificación obligatoria y los requisitos de seguridad dificultan la entrada de nuevos trabajadores.",
+            "biasRight": "Los medios conservadores no cubrieron este asunto en los textos facilitados.",
+            "reflection": "Para la gente común, la falta de mecánicos de ascensores se traduce en esperas más largas y potenciales riesgos de seguridad en edificios. En los próximos días hay que vigilar cualquier anuncio de incentivos gubernamentales o iniciativas de capacitación que intenten aliviar la brecha laboral."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8c0e/live/0c8a5940-e7e0-11f1-99a1-253766e7ad8b.jpg\" alt=\"Los ascensores siguen sin técnicos disponibles pese a sueldos atractivos y una demanda en auge.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Los ascensores siguen sin técnicos disponibles pese a sueldos atractivos y una demanda en auge.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no abordaron este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los reportes neutros explican que, aunque los salarios son altos y la carga de trabajo abundante, la escasez persiste por la falta de programas de formación y la jubilación de la generación actual de técnicos. Además, la certificación obligatoria y los requisitos de seguridad dificultan la entrada de nuevos trabajadores.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no cubrieron este asunto en los textos facilitados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para la gente común, la falta de mecánicos de ascensores se traduce en esperas más largas y potenciales riesgos de seguridad en edificios. En los próximos días hay que vigilar cualquier anuncio de incentivos gubernamentales o iniciativas de capacitación que intenten aliviar la brecha laboral.</p>"
+        },
+        {
+          "id": "tema-5",
+          "headline": "Un jurado declara a Huawei culpable de robar secretos comerciales estadounidenses, pero la absuelve de cargos de extorsión.",
+          "summary": "El veredicto, resultado de un proceso de varios meses en Nueva York, mantiene la presión sobre la empresa china en el contexto de la rivalidad tecnológica entre EE. UU. y China. La decisión también marca un precedente legal para futuros casos de propiedad intelectual y espionaje industrial.",
+          "tags": [
+            "#Huawei",
+            "#PropiedadIntelectual",
+            "#EEUU",
+            "#China"
+          ],
+          "source_ids": [
+            9
+          ],
+          "sources": [
             {
               "source": "Neutral (BBC Tech)",
               "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
               "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "Neutral (BBC Tech)",
-              "title": "EA adds AI-generated John Motson to FC 27 video game",
-              "url": "https://www.bbc.co.uk/news/articles/c65y10j841jpo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "Right (Fox Tech)",
-              "title": "What United Airlines banning AI agents from booking flights means for your travel plans",
-              "url": "https://www.foxnews.com/tech/united-airlines-banning-ai-agents-booking-flights-means-travel-plans"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/1000-year-floating-city.jpg",
-            "imageSearchQuery": "Palmer Luckey floating city SLAB sea platform",
-            "caption": "El magnate tech Palmer Luckey muestra su visión de una ciudad flotante que desafiaría mil años de regulaciones medioambientales.",
-            "biasLeft": "Los medios progresistas no cubren ninguno de los temas presentados en los artículos proporcionados.",
-            "biasNeutral": "BBC se centra en los hechos judiciales: el veredicto contra Huawei por robo de secretos y la incorporación de John Motson generado por IA en EA Sports, sin emitir juicios de valor.",
-            "biasRight": "Fox Tech resalta el potencial económico y de innovación del proyecto de ciudad flotante y advierte sobre los riesgos de agentes de IA no autorizados en reservas de vuelos, enfocándose en la competitividad y la seguridad nacional.",
-            "reflection": "Estos desarrollos marcan cómo la tecnología extrema y las decisiones judiciales pueden alterar industrias enteras, desde la energía hasta el entretenimiento. En los próximos días, vigila cualquier anuncio regulatorio sobre proyectos marítimos y cualquier actualización legal sobre Huawei, pues influirán en inversiones y políticas de privacidad."
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
+            "imageSearchQuery": "Huawei New York trial trade secrets racketeering verdict",
+            "caption": "Un jurado de Nueva York declara a Huawei culpable de robar secretos comerciales estadounidenses, pero la absuelve de los cargos de extorsión.",
+            "biasLeft": "Los medios de tendencia progresista no cubren este tema en los artículos proporcionados.",
+            "biasNeutral": "Los medios neutrales se limitan a relatar los hechos del proceso: la condena por robo de propiedad intelectual y la absolución de los cargos de extorsión, sin añadir juicios de valor.",
+            "biasRight": "Los medios conservadores no aparecen en los artículos suministrados.",
+            "reflection": "El veredicto afecta directamente a la percepción de la seguridad tecnológica entre EE. UU. y China, lo que podría traducirse en nuevas restricciones comerciales. En los próximos días habrá que vigilar cualquier anuncio oficial de sanciones o de cambios en la normativa de exportación de tecnología."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/11/1000-year-floating-city.jpg\" alt=\"El magnate tech Palmer Luckey muestra su visión de una ciudad flotante que desafiaría mil años de regulaciones medioambientales.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El magnate tech Palmer Luckey muestra su visión de una ciudad flotante que desafiaría mil años de regulaciones medioambientales.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no cubren ninguno de los temas presentados en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">BBC se centra en los hechos judiciales: el veredicto contra Huawei por robo de secretos y la incorporación de John Motson generado por IA en EA Sports, sin emitir juicios de valor.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Fox Tech resalta el potencial económico y de innovación del proyecto de ciudad flotante y advierte sobre los riesgos de agentes de IA no autorizados en reservas de vuelos, enfocándose en la competitividad y la seguridad nacional.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Estos desarrollos marcan cómo la tecnología extrema y las decisiones judiciales pueden alterar industrias enteras, desde la energía hasta el entretenimiento. En los próximos días, vigila cualquier anuncio regulatorio sobre proyectos marítimos y cualquier actualización legal sobre Huawei, pues influirán en inversiones y políticas de privacidad.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg\" alt=\"Un jurado de Nueva York declara a Huawei culpable de robar secretos comerciales estadounidenses, pero la absuelve de los cargos de extorsión.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Un jurado de Nueva York declara a Huawei culpable de robar secretos comerciales estadounidenses, pero la absuelve de los cargos de extorsión.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios de tendencia progresista no cubren este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios neutrales se limitan a relatar los hechos del proceso: la condena por robo de propiedad intelectual y la absolución de los cargos de extorsión, sin añadir juicios de valor.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no aparecen en los artículos suministrados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>El veredicto afecta directamente a la percepción de la seguridad tecnológica entre EE. UU. y China, lo que podría traducirse en nuevas restricciones comerciales. En los próximos días habrá que vigilar cualquier anuncio oficial de sanciones o de cambios en la normativa de exportación de tecnología.</p>"
         }
       ],
       "rawCount": 15
@@ -406,20 +401,26 @@
       "items": [
         {
           "id": "topic-1",
-          "headline": "Nvidia reinstala a Jensen Huang como CEO y la acción se dispara",
-          "summary": "El consejo de Nvidia decidió volver a nombrar a su cofundador Jensen Huang al frente de la compañía, eliminando una incertidumbre que había presionado el sector de la inteligencia artificial. La medida impulsó el precio de las acciones y alivió a los inversores que temían una desaceleración del impulso de la IA.",
+          "headline": "Jensen Huang vuelve al cargo de CEO de Nvidia y dispara la acción de la compañía",
+          "summary": "El consejo de Nvidia restituye a su cofundador Jensen Huang como director ejecutivo, una medida que elimina la incertidumbre sobre la estrategia de inteligencia artificial de la empresa. La noticia impulsó la cotización de Nvidia y revitalizó el optimismo en los mercados tecnológicos.",
           "tags": [
             "#Nvidia",
             "#InteligenciaArtificial",
             "#Mercados"
           ],
           "source_ids": [
-            0,
+            2,
+            3,
             12,
             13,
             14
           ],
           "sources": [
+            {
+              "source": "Neutral (BBC Business)",
+              "title": "Asia made a big AI bet on Nvidia. What happens now? ",
+              "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss"
+            },
             {
               "source": "Left (NYT Business)",
               "title": "Jensen Huang Is Back, and So Is His Plaque at Denny’s",
@@ -443,62 +444,26 @@
           ],
           "deepDive": {
             "imageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/jensen-huang-stage-open-arms.jpg?ve=1&tl=1",
-            "imageSearchQuery": "Jensen Huang reinstated CEO Nvidia stock surge",
-            "caption": "Jensen Huang vuelve al mando de Nvidia y sus acciones se disparan al instante.",
-            "biasLeft": "Los medios progresistas destacan el aspecto humano y simbólico del regreso, recordando la placa que Denny’s volvió a colocar en su honor. Subrayan la historia del cofundador que, mientras desayunaba, recuperó el cargo que había dejado. El enfoque está en la narrativa personal más que en los números del mercado.",
-            "biasNeutral": "No se encontró cobertura de centros o agencias de noticias neutrales en los artículos proporcionados.",
-            "biasRight": "Los medios conservadores se centran en la repercusión económica: la acción de Nvidia se disparó y elimina un riesgo para el comercio de IA. Señalan la intervención del gobierno estadounidense como un factor de seguridad y legitimidad. El mensaje principal es que el retorno de Huang impulsa a Wall Street y refuerza la posición estratégica de la compañía.",
-            "reflection": "Para el inversor promedio, el regreso de Huang indica una mayor confianza en el futuro de Nvidia y, por extensión, en el sector de IA. En los próximos días conviene seguir la reacción del mercado y los datos del informe PCE, que podrían confirmar si el impulso se mantiene."
+            "imageSearchQuery": "Jensen Huang Nvidia CEO return stock surge",
+            "caption": "Jensen Huang vuelve al mando de Nvidia mientras su acción se dispara en la bolsa.",
+            "biasLeft": "Los medios progresistas resaltan el lado humano de la noticia, recordando el humilde origen de Huang en una mesa de Denny’s y la restauración de su placa, para subrayar la historia del emprendedor inmigrante que lidera la revolución de la IA. El enfoque se centra en cómo su regreso simboliza la movilidad social y la diversidad en el sector tecnológico.",
+            "biasNeutral": "Los medios centristas describen la noticia como un hecho que ha provocado una montaña rusa en los mercados asiáticos, señalando que la reincorporación de Huang elimina una gran incertidumbre para los inversores en IA. Se limitan a reportar el movimiento del precio de las acciones y la reacción de los índices sin ofrecer juicios de valor.",
+            "biasRight": "Los medios conservadores enfatizan el impacto económico, señalando que el retorno de Huang quita un riesgo percibido al sector de IA y reaviva la confianza de Wall Street. También resaltan la intervención del gobierno estadounidense y la investigación de inteligencia extranjera como evidencia de la importancia estratégica de Nvidia. El mensaje subraya que la estabilidad de la empresa es clave para la competitividad estadounidense en tecnología.",
+            "reflection": "Para el ciudadano de a pie, la volatilidad de Nvidia afecta directamente a los fondos de pensiones y a los precios de productos con IA. En los próximos días, lo que hay que vigilar es la evolución del precio de la acción y cualquier anuncio regulatorio o de política fiscal que pueda influir en el sector."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/jensen-huang-stage-open-arms.jpg?ve=1&amp;tl=1\" alt=\"Jensen Huang vuelve al mando de Nvidia y sus acciones se disparan al instante.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Jensen Huang vuelve al mando de Nvidia y sus acciones se disparan al instante.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas destacan el aspecto humano y simbólico del regreso, recordando la placa que Denny’s volvió a colocar en su honor. Subrayan la historia del cofundador que, mientras desayunaba, recuperó el cargo que había dejado. El enfoque está en la narrativa personal más que en los números del mercado.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">No se encontró cobertura de centros o agencias de noticias neutrales en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores se centran en la repercusión económica: la acción de Nvidia se disparó y elimina un riesgo para el comercio de IA. Señalan la intervención del gobierno estadounidense como un factor de seguridad y legitimidad. El mensaje principal es que el retorno de Huang impulsa a Wall Street y refuerza la posición estratégica de la compañía.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el inversor promedio, el regreso de Huang indica una mayor confianza en el futuro de Nvidia y, por extensión, en el sector de IA. En los próximos días conviene seguir la reacción del mercado y los datos del informe PCE, que podrían confirmar si el impulso se mantiene.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/jensen-huang-stage-open-arms.jpg?ve=1&amp;tl=1\" alt=\"Jensen Huang vuelve al mando de Nvidia mientras su acción se dispara en la bolsa.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Jensen Huang vuelve al mando de Nvidia mientras su acción se dispara en la bolsa.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas resaltan el lado humano de la noticia, recordando el humilde origen de Huang en una mesa de Denny’s y la restauración de su placa, para subrayar la historia del emprendedor inmigrante que lidera la revolución de la IA. El enfoque se centra en cómo su regreso simboliza la movilidad social y la diversidad en el sector tecnológico.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas describen la noticia como un hecho que ha provocado una montaña rusa en los mercados asiáticos, señalando que la reincorporación de Huang elimina una gran incertidumbre para los inversores en IA. Se limitan a reportar el movimiento del precio de las acciones y la reacción de los índices sin ofrecer juicios de valor.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores enfatizan el impacto económico, señalando que el retorno de Huang quita un riesgo percibido al sector de IA y reaviva la confianza de Wall Street. También resaltan la intervención del gobierno estadounidense y la investigación de inteligencia extranjera como evidencia de la importancia estratégica de Nvidia. El mensaje subraya que la estabilidad de la empresa es clave para la competitividad estadounidense en tecnología.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el ciudadano de a pie, la volatilidad de Nvidia afecta directamente a los fondos de pensiones y a los precios de productos con IA. En los próximos días, lo que hay que vigilar es la evolución del precio de la acción y cualquier anuncio regulatorio o de política fiscal que pueda influir en el sector.</p>"
         },
         {
           "id": "topic-2",
-          "headline": "Cierre de tiendas Poundland genera incertidumbre entre empleados y proveedores",
-          "summary": "La cadena de descuento británica está cerrando cientos de locales, lo que afecta a miles de trabajadores y a la red de proveedores que dependen de sus pedidos. El debate se centra en la responsabilidad de la empresa matriz estadounidense y en la viabilidad del modelo de precios bajos.",
-          "tags": [
-            "#Poundland",
-            "#Retail",
-            "#Empleo"
-          ],
-          "source_ids": [
-            4,
-            8
-          ],
-          "sources": [
-            {
-              "source": "Neutral (BBC Business)",
-              "title": "When will Poundland shops close? Five key questions answered",
-              "url": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "Neutral (BBC Business)",
-              "title": "Simon Jack: Is Poundland's US owner to blame for its collapse?",
-              "url": "https://www.bbc.co.uk/news/articles/c62klzxvyzyqo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b760/live/084c3aa0-e9b2-11f1-859a-37130cd3a1d7.jpg",
-            "imageSearchQuery": "Poundland store closures staff suppliers UK",
-            "caption": "Los empleados de Poundland miran la señal de cierre mientras la cadena prepara el último cierre de sus tiendas.",
-            "biasLeft": "Los medios de izquierda no cubren este tema en los artículos proporcionados.",
-            "biasNeutral": "Los informes de la BBC se centran en los hechos: describen por qué Poundland está cerrando sus tiendas, qué ocurre con los trabajadores y los proveedores, y examinan la disputa entre la cadena y su propietario Gordon Brothers. Se presentan preguntas clave y respuestas sin emitir juicios ideológicos. Además, se indica que la empresa estadounidense culpa a sus socios de haber dejado que la cadena colapsara.",
-            "biasRight": "Los medios conservadores no abordan este tema en los artículos suministrados.",
-            "reflection": "Para los trabajadores y proveedores, el cierre implica pérdida de empleo y contratos, lo que afecta su seguridad financiera inmediata. En los próximos días, es crucial observar si Gordon Brothers anuncia planes de reestructuración o pagos de indemnizaciones, ya que eso determinará el impacto económico local."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b760/live/084c3aa0-e9b2-11f1-859a-37130cd3a1d7.jpg\" alt=\"Los empleados de Poundland miran la señal de cierre mientras la cadena prepara el último cierre de sus tiendas.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Los empleados de Poundland miran la señal de cierre mientras la cadena prepara el último cierre de sus tiendas.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios de izquierda no cubren este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los informes de la BBC se centran en los hechos: describen por qué Poundland está cerrando sus tiendas, qué ocurre con los trabajadores y los proveedores, y examinan la disputa entre la cadena y su propietario Gordon Brothers. Se presentan preguntas clave y respuestas sin emitir juicios ideológicos. Además, se indica que la empresa estadounidense culpa a sus socios de haber dejado que la cadena colapsara.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no abordan este tema en los artículos suministrados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para los trabajadores y proveedores, el cierre implica pérdida de empleo y contratos, lo que afecta su seguridad financiera inmediata. En los próximos días, es crucial observar si Gordon Brothers anuncia planes de reestructuración o pagos de indemnizaciones, ya que eso determinará el impacto económico local.</p>"
-        },
-        {
-          "id": "topic-3",
-          "headline": "El Banco Central Europeo nombra a Pablo Hernández de Cos como próximo presidente",
-          "summary": "Tras la salida anticipada de Christine Lagarde, el BCE elige al gobernador del Banco de España, Pablo Hernández de Cos, para liderar la política monetaria de la zona euro. Su nombramiento llega en un momento de inflación persistente y debates sobre futuras subidas de tipos.",
+          "headline": "Pablo Hernández de Cos nombrado presidente del Banco Central Europeo",
+          "summary": "Tras la salida anticipada de Christine Lagarde, el Consejo del BCE elige a Hernández de Cos para dirigir la institución, marcando un posible giro en la política monetaria de la zona euro. La decisión llega en un contexto de inflación persistente y debates sobre futuras subidas de tipos.",
           "tags": [
             "#BCE",
             "#PolíticaMonetaria",
             "#Europa"
           ],
           "source_ids": [
-            3
+            6
           ],
           "sources": [
             {
@@ -509,26 +474,56 @@
           ],
           "deepDive": {
             "imageUrl": "https://static01.nyt.com/images/2026/11/25/multimedia/25Biz-ECB-Leaders-01-vmhk/25Biz-ECB-Leaders-01-vmhk-mediumSquareAt3X.jpg",
-            "imageSearchQuery": "Pablo Hernandez de Cos European Central Bank president appointment",
-            "caption": "Pablo Hernández de Cos se prepara para dirigir el BCE en un momento de transición tras la salida anticipada de Christine Lagarde.",
-            "biasLeft": "Los medios progresistas subrayan la salida prematura de Lagarde como una oportunidad para reformar la política monetaria del BCE, poniendo énfasis en la necesidad de mayor enfoque en la justicia social y la estabilidad del empleo. Destacan también la trayectoria académica de Hernández de Cos y su potencial para impulsar una agenda más inclusiva y orientada a la mitigación de la desigualdad. Finalmente, señalan que su nombramiento podría abrir espacio a una mayor coordinación con políticas fiscales europeas.",
-            "biasNeutral": "No se encontraron fuentes centristas o neutrales que cubrieran este anuncio en los artículos proporcionados.",
-            "biasRight": "No se encontraron fuentes conservadoras o de derecha que abordaran este tema en los artículos proporcionados.",
-            "reflection": "El nuevo presidente del BCE influirá directamente en la evolución de los tipos de interés, lo que afecta a los préstamos hipotecarios y al ahorro de los hogares. En los próximos días, habrá que observar las declaraciones de Hernández de Cos sobre la inflación y cualquier indicio de cambio en la política de endurecimiento monetario."
+            "imageSearchQuery": "Pablo Hernández de Cos ECB president appointment",
+            "caption": "Pablo Hernández de Cos asume el liderazgo del BCE tras la salida anticipada de Christine Lagarde.",
+            "biasLeft": "Los medios progresistas destacan la salida prematura de Lagarde como una oportunidad para renovar la agenda del BCE hacia políticas más inclusivas y climáticas. Subrayan que Hernández de Cos llega en un momento de incertidumbre económica y social, lo que exige una visión centrada en la protección del empleo y la cohesión europea. También enfatizan la necesidad de mayor transparencia en la toma de decisiones del banco.",
+            "biasNeutral": "Los medios centristas no cubren este tema en los artículos proporcionados.",
+            "biasRight": "Los medios conservadores no cubren este tema en los artículos proporcionados.",
+            "reflection": "La designación de Hernández de Cos influirá en la política monetaria que afecta directamente a los tipos de interés de los préstamos y ahorros de los ciudadanos. En los próximos días, habrá que observar los primeros comunicados del nuevo presidente y cualquier indicio de cambios en la estrategia de inflación del BCE."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/25/multimedia/25Biz-ECB-Leaders-01-vmhk/25Biz-ECB-Leaders-01-vmhk-mediumSquareAt3X.jpg\" alt=\"Pablo Hernández de Cos se prepara para dirigir el BCE en un momento de transición tras la salida anticipada de Christine Lagarde.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Pablo Hernández de Cos se prepara para dirigir el BCE en un momento de transición tras la salida anticipada de Christine Lagarde.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan la salida prematura de Lagarde como una oportunidad para reformar la política monetaria del BCE, poniendo énfasis en la necesidad de mayor enfoque en la justicia social y la estabilidad del empleo. Destacan también la trayectoria académica de Hernández de Cos y su potencial para impulsar una agenda más inclusiva y orientada a la mitigación de la desigualdad. Finalmente, señalan que su nombramiento podría abrir espacio a una mayor coordinación con políticas fiscales europeas.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">No se encontraron fuentes centristas o neutrales que cubrieran este anuncio en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">No se encontraron fuentes conservadoras o de derecha que abordaran este tema en los artículos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>El nuevo presidente del BCE influirá directamente en la evolución de los tipos de interés, lo que afecta a los préstamos hipotecarios y al ahorro de los hogares. En los próximos días, habrá que observar las declaraciones de Hernández de Cos sobre la inflación y cualquier indicio de cambio en la política de endurecimiento monetario.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/25/multimedia/25Biz-ECB-Leaders-01-vmhk/25Biz-ECB-Leaders-01-vmhk-mediumSquareAt3X.jpg\" alt=\"Pablo Hernández de Cos asume el liderazgo del BCE tras la salida anticipada de Christine Lagarde.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Pablo Hernández de Cos asume el liderazgo del BCE tras la salida anticipada de Christine Lagarde.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas destacan la salida prematura de Lagarde como una oportunidad para renovar la agenda del BCE hacia políticas más inclusivas y climáticas. Subrayan que Hernández de Cos llega en un momento de incertidumbre económica y social, lo que exige una visión centrada en la protección del empleo y la cohesión europea. También enfatizan la necesidad de mayor transparencia en la toma de decisiones del banco.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas no cubren este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no cubren este tema en los artículos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>La designación de Hernández de Cos influirá en la política monetaria que afecta directamente a los tipos de interés de los préstamos y ahorros de los ciudadanos. En los próximos días, habrá que observar los primeros comunicados del nuevo presidente y cualquier indicio de cambios en la estrategia de inflación del BCE.</p>"
+        },
+        {
+          "id": "topic-3",
+          "headline": "Reino Unido acuerda pagar una cuota de participación para cubrir los costes operativos de la UE",
+          "summary": "Documentos legales revelan que el gobierno británico contribuirá al presupuesto de la Unión Europea como parte de los acuerdos post‑Brexit, garantizando la continuidad de ciertos servicios comunes. El pago, descrito como una 'cuota de participación', genera debate sobre su impacto fiscal interno.",
+          "tags": [
+            "#ReinoUnido",
+            "#UE",
+            "#Brexit"
+          ],
+          "source_ids": [
+            1
+          ],
+          "sources": [
+            {
+              "source": "Neutral (BBC Business)",
+              "title": "UK to pay 'participation' fee to deliver EU deals",
+              "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e264/live/8e58c180-e9e5-11f1-ab41-f1f84c0c758a.png",
+            "imageSearchQuery": "UK participation fee EU budget",
+            "caption": "El Reino Unido acepta pagar una cuota de participación para cubrir los costes operativos de la UE.",
+            "biasLeft": "Los artículos proporcionados no incluyen cobertura de medios progresistas; por lo tanto, no hay énfasis específico desde esa perspectiva.",
+            "biasNeutral": "Los medios neutrales describen que los documentos legales revelan la contribución del Reino Unido a los gastos corrientes de la UE, detallando el importe y el marco jurídico sin emitir juicios de valor.",
+            "biasRight": "Los artículos proporcionados no contienen aportes de medios conservadores; por lo tanto, no se destaca ningún ángulo económico, de seguridad o de soberanía.",
+            "reflection": "Para los contribuyentes británicos, la cuota representa un gasto adicional que podría influir en la presión fiscal o en la negociación de futuros acuerdos con la UE. En los próximos días convendrá seguir la respuesta del Parlamento y cualquier ajuste del monto acordado."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e264/live/8e58c180-e9e5-11f1-ab41-f1f84c0c758a.png\" alt=\"El Reino Unido acepta pagar una cuota de participación para cubrir los costes operativos de la UE.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El Reino Unido acepta pagar una cuota de participación para cubrir los costes operativos de la UE.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los artículos proporcionados no incluyen cobertura de medios progresistas; por lo tanto, no hay énfasis específico desde esa perspectiva.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios neutrales describen que los documentos legales revelan la contribución del Reino Unido a los gastos corrientes de la UE, detallando el importe y el marco jurídico sin emitir juicios de valor.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los artículos proporcionados no contienen aportes de medios conservadores; por lo tanto, no se destaca ningún ángulo económico, de seguridad o de soberanía.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para los contribuyentes británicos, la cuota representa un gasto adicional que podría influir en la presión fiscal o en la negociación de futuros acuerdos con la UE. En los próximos días convendrá seguir la respuesta del Parlamento y cualquier ajuste del monto acordado.</p>"
         },
         {
           "id": "topic-4",
-          "headline": "Más británicos enfrentarán al menos £100 adicionales en sus hipotecas mensuales",
-          "summary": "El último estudio revela que un número creciente de hogares que finalizan sus hipotecas a tipo fijo verán un aumento medio de £100 en sus pagos. Este incremento presiona los presupuestos familiares justo cuando la inflación sigue alta.",
+          "headline": "Más de un millón de hogares británicos verán subir su hipoteca mensual en alrededor de 100 £",
+          "summary": "Al terminar los plazos fijos, muchos prestatarios enfrentarán pagos mayores debido al aumento de los tipos de interés, lo que encarece el coste de la vivienda. La medida podría afectar el gasto de los consumidores y la estabilidad del mercado inmobiliario.",
           "tags": [
             "#Hipotecas",
             "#ReinoUnido",
-            "#CosteDeVida"
+            "#TipoDeInterés"
           ],
           "source_ids": [
-            7
+            9
           ],
           "sources": [
             {
@@ -539,44 +534,44 @@
           ],
           "deepDive": {
             "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0133/live/865c5960-e9a9-11f1-99b6-a35a62fa4264.jpg",
-            "imageSearchQuery": "UK mortgage payments increase £100",
-            "caption": "Miles de británicos verán cómo su cuota hipotecaria mensual sube alrededor de £100 al terminar los tipos fijos.",
-            "biasLeft": "Los medios progresistas no aparecen en los artículos proporcionados; por tanto no hay cobertura de este tema desde una perspectiva de izquierda.",
-            "biasNeutral": "Los medios centristas informan que, tras el vencimiento de los acuerdos de tipo fijo, más hogares británicos enfrentarán un alza promedio de £100 en sus pagos mensuales. Señalan la magnitud del impacto y advierten que la cifra podría ser mayor de lo estimado previamente.",
-            "biasRight": "Los medios conservadores no aparecen en los artículos proporcionados; por tanto no hay cobertura de este tema desde una perspectiva de derecha.",
-            "reflection": "Para el ciudadano medio, un aumento de £100 al mes puede significar recortar gastos o renegociar la hipoteca, afectando su presupuesto familiar. En los próximos días, vigile los comunicados de los bancos y los índices de tasas de referencia, que indicarán si la subida será temporal o se mantendrá."
+            "imageSearchQuery": "UK mortgage payments increase 100 pounds households",
+            "caption": "Más de un millón de familias británicas tendrán que ajustar sus finanzas porque su hipoteca subirá unos 100 £ al mes.",
+            "biasLeft": "Los medios progresistas no aparecen en los artículos proporcionados; no se registra cobertura de tendencia izquierdista sobre este tema.",
+            "biasNeutral": "Los informes neutrales indican que la cifra de hogares que verán incrementada su cuota hipotecaria supera el millón, y que el aumento de 100 £ es mayor de lo que se había calculado inicialmente. Se menciona que el alza se producirá cuando los préstamos fijos expiren y que afectará a la capacidad de gasto de muchas familias.",
+            "biasRight": "Los medios conservadores no aparecen en los artículos proporcionados; no se registra cobertura de tendencia derechista sobre este tema.",
+            "reflection": "Este incremento implica que miles de británicos deberán destinar más ingresos al pago de la vivienda, reduciendo el margen para otros gastos. En los próximos días, conviene vigilar las decisiones del Banco de Inglaterra y cualquier anuncio de política de tipos de interés, ya que influirán directamente en la magnitud de estos aumentos."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0133/live/865c5960-e9a9-11f1-99b6-a35a62fa4264.jpg\" alt=\"Miles de británicos verán cómo su cuota hipotecaria mensual sube alrededor de £100 al terminar los tipos fijos.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Miles de británicos verán cómo su cuota hipotecaria mensual sube alrededor de £100 al terminar los tipos fijos.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no aparecen en los artículos proporcionados; por tanto no hay cobertura de este tema desde una perspectiva de izquierda.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas informan que, tras el vencimiento de los acuerdos de tipo fijo, más hogares británicos enfrentarán un alza promedio de £100 en sus pagos mensuales. Señalan la magnitud del impacto y advierten que la cifra podría ser mayor de lo estimado previamente.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no aparecen en los artículos proporcionados; por tanto no hay cobertura de este tema desde una perspectiva de derecha.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el ciudadano medio, un aumento de £100 al mes puede significar recortar gastos o renegociar la hipoteca, afectando su presupuesto familiar. En los próximos días, vigile los comunicados de los bancos y los índices de tasas de referencia, que indicarán si la subida será temporal o se mantendrá.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0133/live/865c5960-e9a9-11f1-99b6-a35a62fa4264.jpg\" alt=\"Más de un millón de familias británicas tendrán que ajustar sus finanzas porque su hipoteca subirá unos 100 £ al mes.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Más de un millón de familias británicas tendrán que ajustar sus finanzas porque su hipoteca subirá unos 100 £ al mes.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no aparecen en los artículos proporcionados; no se registra cobertura de tendencia izquierdista sobre este tema.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los informes neutrales indican que la cifra de hogares que verán incrementada su cuota hipotecaria supera el millón, y que el aumento de 100 £ es mayor de lo que se había calculado inicialmente. Se menciona que el alza se producirá cuando los préstamos fijos expiren y que afectará a la capacidad de gasto de muchas familias.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no aparecen en los artículos proporcionados; no se registra cobertura de tendencia derechista sobre este tema.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Este incremento implica que miles de británicos deberán destinar más ingresos al pago de la vivienda, reduciendo el margen para otros gastos. En los próximos días, conviene vigilar las decisiones del Banco de Inglaterra y cualquier anuncio de política de tipos de interés, ya que influirán directamente en la magnitud de estos aumentos.</p>"
         },
         {
           "id": "topic-5",
-          "headline": "El Dow Jones recupera terreno tras una caída de 1.100 puntos",
-          "summary": "Los principales índices estadounidenses cerraron al alza después de que el Dow Jones recobrara más de 160 puntos, mitigando la fuerte pérdida registrada en la sesión. La recuperación se produce mientras los datos de inflación PCE mantienen la atención de los inversores.",
+          "headline": "Fallece Dan Carney, cofundador de Pizza Hut, a los 95 años",
+          "summary": "Carney, quien abrió el primer local de la cadena en una modesta caseta de Kansas, vio cómo su empresa se convirtió en la mayor franquicia de pizza del mundo. Su muerte cierra una vida vinculada al crecimiento del fast‑food estadounidense.",
           "tags": [
-            "#WallStreet",
-            "#DowJones",
-            "#MercadosFinancieros"
+            "#PizzaHut",
+            "#Negocios",
+            "#Fallecimiento"
           ],
           "source_ids": [
-            11
+            4
           ],
           "sources": [
             {
-              "source": "Right (Fox Business)",
-              "title": "Dow closes higher after erasing 1,100-point loss as S&P 500, Nasdaq slip",
-              "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026"
+              "source": "Left (NYT Business)",
+              "title": "Dan Carney Has Died. He Co-Founded Pizza Hut and Then Made It Ubiquitous.",
+              "url": "https://www.nytimes.com/2026/11/26/business/dan-carney-dead.html"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/wall-street-ai-stock-market-crash-2026.jpg?ve=1&tl=1",
-            "imageSearchQuery": "Dow Jones recovery after 1100 point drop",
-            "caption": "El Dow Jones rebota 164 puntos tras una caída de 1.100 en el mínimo del día.",
-            "biasLeft": "Los medios progresistas no cubren este episodio; no hay menciones en los artículos proporcionados. Esto refleja una ausencia de enfoque crítico sobre posibles causas estructurales.",
-            "biasNeutral": "Los medios centristas no aparecen en la muestra; no se dispone de ejemplos. La falta de cobertura neutral impide comparar la narrativa con otras perspectivas.",
-            "biasRight": "Fox Business destaca que el Dow recuperó terreno, subrayando la resiliencia del mercado y el alivio para los inversionistas tras la brusca caída. Además, señala que la recuperación atenúa temores de una recesión inminente.",
-            "reflection": "Para el ciudadano, la recuperación del Dow indica que la volatilidad reciente puede estar disminuyendo, lo que podría traducirse en menos temor al invertir. En los próximos días, vigile si los índices principales siguen firmes o si vuelven a retroceder, ya que eso afectará decisiones de ahorro y cartera."
+            "imageUrl": "https://tse2.mm.bing.net/th?q=Dan%20Carney%20Pizza%20Hut%20cofounder%20death%20news%20photo&w=1280&h=720&rs=1&pid=ImgDetMain",
+            "imageSearchQuery": "Dan Carney Pizza Hut cofounder death",
+            "caption": "Dan Carney, cofundador de Pizza Hut, fallece a los 95 años, tras transformar un humilde cobertizo en Kansas en la cadena de pizzas más grande del planeta.",
+            "biasLeft": "Los medios progresistas subrayan la historia del sueño americano que encarna Carney, resaltando cómo una pequeña tienda familiar se convirtió en un fenómeno cultural accesible para millones. Enfatizan el legado de democratizar la pizza, convirtiéndola en un alimento cotidiano para la clase trabajadora. Además, resaltan el valor simbólico de su muerte como cierre de una era de emprendimientos familiares que cambiaron la industria alimentaria.",
+            "biasNeutral": "En los artículos proporcionados no se incluye ningún medio de corte centrista o neutral que cubra esta noticia.",
+            "biasRight": "No se encontró cobertura de medios conservadores o de derecha sobre este tema en los textos suministrados.",
+            "reflection": "La muerte de Carney recuerda que detrás de las grandes marcas hay figuras históricas cuyo paso puede influir en la percepción pública de la empresa. En los próximos días será útil observar si Pizza Hut publica un comunicado oficial o si hay alguna reacción en los mercados que afecte a su matriz, Yum! Brands."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/wall-street-ai-stock-market-crash-2026.jpg?ve=1&amp;tl=1\" alt=\"El Dow Jones rebota 164 puntos tras una caída de 1.100 en el mínimo del día.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El Dow Jones rebota 164 puntos tras una caída de 1.100 en el mínimo del día.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no cubren este episodio; no hay menciones en los artículos proporcionados. Esto refleja una ausencia de enfoque crítico sobre posibles causas estructurales.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas no aparecen en la muestra; no se dispone de ejemplos. La falta de cobertura neutral impide comparar la narrativa con otras perspectivas.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Fox Business destaca que el Dow recuperó terreno, subrayando la resiliencia del mercado y el alivio para los inversionistas tras la brusca caída. Además, señala que la recuperación atenúa temores de una recesión inminente.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el ciudadano, la recuperación del Dow indica que la volatilidad reciente puede estar disminuyendo, lo que podría traducirse en menos temor al invertir. En los próximos días, vigile si los índices principales siguen firmes o si vuelven a retroceder, ya que eso afectará decisiones de ahorro y cartera.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://tse2.mm.bing.net/th?q=Dan%20Carney%20Pizza%20Hut%20cofounder%20death%20news%20photo&amp;w=1280&amp;h=720&amp;rs=1&amp;pid=ImgDetMain\" alt=\"Dan Carney, cofundador de Pizza Hut, fallece a los 95 años, tras transformar un humilde cobertizo en Kansas en la cadena de pizzas más grande del planeta.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Dan Carney, cofundador de Pizza Hut, fallece a los 95 años, tras transformar un humilde cobertizo en Kansas en la cadena de pizzas más grande del planeta.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan la historia del sueño americano que encarna Carney, resaltando cómo una pequeña tienda familiar se convirtió en un fenómeno cultural accesible para millones. Enfatizan el legado de democratizar la pizza, convirtiéndola en un alimento cotidiano para la clase trabajadora. Además, resaltan el valor simbólico de su muerte como cierre de una era de emprendimientos familiares que cambiaron la industria alimentaria.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">En los artículos proporcionados no se incluye ningún medio de corte centrista o neutral que cubra esta noticia.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">No se encontró cobertura de medios conservadores o de derecha sobre este tema en los textos suministrados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>La muerte de Carney recuerda que detrás de las grandes marcas hay figuras históricas cuyo paso puede influir en la percepción pública de la empresa. En los próximos días será útil observar si Pizza Hut publica un comunicado oficial o si hay alguna reacción en los mercados que afecte a su matriz, Yum! Brands.</p>"
         }
       ],
       "rawCount": 15
