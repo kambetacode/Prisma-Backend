@@ -1,91 +1,211 @@
 {
-  "last_updated": "2026-11-28T09:53:09.226Z",
+  "last_updated": "2026-11-28T18:01:18.357Z",
   "language": "es",
   "categories": {
     "GLOBAL_MACRO": {
       "items": [
         {
-          "id": "topic-1",
-          "headline": "Los vigilantes de extrema derecha provocan enfrentamientos en varias ciudades francesas",
-          "summary": "A lo largo de varias semanas, grupos de ultraderecha han estado combatiendo a los protestantes contra el gobierno, provocando disturbios en al menos diez localidades. El aumento de la violencia amenaza la estabilidad social y política del país.",
+          "id": "tema-1",
+          "headline": "Soberanía y elecciones en foco: Malvinas, Taiwán y España",
+          "summary": "Argentina rechazó la exploración petrolera en las Islas Malvinas, mientras en Taiwán un candidato crítico de Pekín perdió la alcaldía de la capital y en España se avecina una elección que podría desplazar al presidente Sánchez. Cada uno de estos episodios pone a prueba alianzas internacionales y la percepción de la legitimidad política en regiones disputadas.",
           "tags": [
-            "#Francia",
-            "#ExtremaDerecha",
-            "#Unrest",
-            "#Violencia"
+            "#soberanía",
+            "#elecciones",
+            "#Malvinas",
+            "#Taiwán",
+            "#España"
           ],
           "source_ids": [
-            1
+            0,
+            3,
+            11
+          ],
+          "sources": [
+            {
+              "source": "Neutral (BBC)",
+              "title": "Argentina's bid to stop Falklands oil drilling rejected",
+              "url": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "Left (NYT)",
+              "title": "A Critic of Beijing Falls Short in Taiwan’s Key Mayoral Election",
+              "url": "https://www.nytimes.com/2026/11/28/world/asia/taiwan-election-taipei-china.html"
+            },
+            {
+              "source": "Left (NYT)",
+              "title": "Spain’s Election Could Oust Sánchez, a Left-Wing Hero Abroad",
+              "url": "https://www.nytimes.com/2026/11/28/world/europe/spain-pedro-sanchez-conservatives-election.html"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1615/live/b6e6bd30-eb1d-11f1-8743-3f686b14075c.jpg",
+            "imageSearchQuery": "Falkland Islands oil drilling dispute Argentina UK Israel joint venture",
+            "caption": "Una plataforma petrolífera se prepara en el Atlántico Sur mientras Argentina intensifica su reclamo de soberanía sobre las Malvinas.",
+            "biasLeft": "Los medios progresistas resaltan la victoria del candidato opuesto a Pekín en la alcaldía de Taipéi como una señal de resistencia democrática frente a la presión china. En la cobertura española, Sánchez se pinta como un héroe de la izquierda que representa valores liberales en el exterior y se enfatiza la necesidad de frenar la derecha nacionalista. Ambos enfoques usan un lenguaje que subraya la lucha por la autodeterminación y los derechos humanos.",
+            "biasNeutral": "BBC se limita a los hechos: una empresa conjunta británico‑israelí iniciará la exploración de hidrocarburos, y la solicitud de Argentina para bloquear el proyecto fue rechazada. El artículo sitúa la disputa dentro del marco de la larga reivindicación argentina sobre la soberanía de las islas, sin emitir juicios de valor. Se presentan tanto los intereses económicos como los argumentos de la parte demandante.",
+            "biasRight": "Los medios conservadores no aparecen en los artículos proporcionados.",
+            "reflection": "Para el ciudadano de a pie, el conflicto de las Malvinas afecta la seguridad energética y la percepción de la autoridad estatal; la elección en Taiwán puede modificar la intensidad de las tensiones con China, y el voto en España definirá la dirección de políticas sociales y económicas en Europa. En los próximos días conviene observar las reacciones diplomáticas de Argentina y el discurso oficial de Pekín, así como los primeros resultados parciales de la votación española."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1615/live/b6e6bd30-eb1d-11f1-8743-3f686b14075c.jpg\" alt=\"Una plataforma petrolífera se prepara en el Atlántico Sur mientras Argentina intensifica su reclamo de soberanía sobre las Malvinas.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Una plataforma petrolífera se prepara en el Atlántico Sur mientras Argentina intensifica su reclamo de soberanía sobre las Malvinas.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas resaltan la victoria del candidato opuesto a Pekín en la alcaldía de Taipéi como una señal de resistencia democrática frente a la presión china. En la cobertura española, Sánchez se pinta como un héroe de la izquierda que representa valores liberales en el exterior y se enfatiza la necesidad de frenar la derecha nacionalista. Ambos enfoques usan un lenguaje que subraya la lucha por la autodeterminación y los derechos humanos.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">BBC se limita a los hechos: una empresa conjunta británico‑israelí iniciará la exploración de hidrocarburos, y la solicitud de Argentina para bloquear el proyecto fue rechazada. El artículo sitúa la disputa dentro del marco de la larga reivindicación argentina sobre la soberanía de las islas, sin emitir juicios de valor. Se presentan tanto los intereses económicos como los argumentos de la parte demandante.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no aparecen en los artículos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el ciudadano de a pie, el conflicto de las Malvinas afecta la seguridad energética y la percepción de la autoridad estatal; la elección en Taiwán puede modificar la intensidad de las tensiones con China, y el voto en España definirá la dirección de políticas sociales y económicas en Europa. En los próximos días conviene observar las reacciones diplomáticas de Argentina y el discurso oficial de Pekín, así como los primeros resultados parciales de la votación española.</p>"
+        },
+        {
+          "id": "tema-2",
+          "headline": "Ataques militares matan a civiles en Myanmar, Afganistán y Gaza",
+          "summary": "El ejército de Myanmar bombardeó un salón de bodas y una escuela, dejando decenas de muertos, mientras una explosión en una escuela de Afganistán cobró la vida de al menos diez niños y hería a más de cien. En Gaza, un ataque israelí a una clínica médica también provocó víctimas civiles, intensificando la denuncia internacional sobre la protección de la población no combatiente.",
+          "tags": [
+            "#ataquesmilitares",
+            "#civiles",
+            "#Myanmar",
+            "#Afganistán",
+            "#Gaza"
+          ],
+          "source_ids": [
+            1,
+            4,
+            5,
+            9
+          ],
+          "sources": [
+            {
+              "source": "Neutral (BBC)",
+              "title": "Dozens killed in Myanmar military strikes on wedding venue and school",
+              "url": "https://www.bbc.co.uk/news/articles/cm752q30q5leo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "Right (Fox)",
+              "title": "Explosion near Afghan school kills at least 10, injures 110 as children rushed to hospital",
+              "url": "https://www.foxnews.com/world/explosion-near-afghan-school-kills-least-10-injures-110-children-rushed-hospital"
+            },
+            {
+              "source": "Neutral (BBC)",
+              "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
+              "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "Neutral (BBC)",
+              "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+              "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/567f/live/7b882a50-eb48-11f1-867f-2ba50c8646d5.jpg",
+            "imageSearchQuery": "Myanmar military airstrike wedding venue school",
+            "caption": "Bombardeos del ejército birmano arrasan una boda y una escuela, dejando a decenas de civiles muertos.",
+            "biasLeft": "Los medios de izquierda no cubrieron este tema en los artículos proporcionados.",
+            "biasNeutral": "Los informes de la BBC se centran en los hechos: número de muertos, lugares de los ataques y la repetición de bombardeos contra objetivos civiles. También señalan la falta de responsabilización del gobierno militar y el clima de impunidad. No se introduce juicio moral, solo se describen los acontecimientos y sus consecuencias inmediatas.",
+            "biasRight": "Fox News reproduce la versión del Ministerio del Interior talibán, describiendo la explosión como un accidente por negligencia en un depósito de explosivos. El enfoque está en la seguridad interna y la falta de control de materiales peligrosos, sin profundizar en la dimensión civil del suceso.",
+            "reflection": "Estas muertes demuestran que la violencia sigue cobrando vidas inocentes en tres frentes distintos, lo que afecta directamente a familias y comunidades locales. En los próximos días habrá que observar si los gobiernos involucrados modifican sus estrategias militares o refuerzan la seguridad en zonas vulnerables."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/567f/live/7b882a50-eb48-11f1-867f-2ba50c8646d5.jpg\" alt=\"Bombardeos del ejército birmano arrasan una boda y una escuela, dejando a decenas de civiles muertos.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Bombardeos del ejército birmano arrasan una boda y una escuela, dejando a decenas de civiles muertos.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios de izquierda no cubrieron este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los informes de la BBC se centran en los hechos: número de muertos, lugares de los ataques y la repetición de bombardeos contra objetivos civiles. También señalan la falta de responsabilización del gobierno militar y el clima de impunidad. No se introduce juicio moral, solo se describen los acontecimientos y sus consecuencias inmediatas.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Fox News reproduce la versión del Ministerio del Interior talibán, describiendo la explosión como un accidente por negligencia en un depósito de explosivos. El enfoque está en la seguridad interna y la falta de control de materiales peligrosos, sin profundizar en la dimensión civil del suceso.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Estas muertes demuestran que la violencia sigue cobrando vidas inocentes en tres frentes distintos, lo que afecta directamente a familias y comunidades locales. En los próximos días habrá que observar si los gobiernos involucrados modifican sus estrategias militares o refuerzan la seguridad en zonas vulnerables.</p>"
+        },
+        {
+          "id": "tema-3",
+          "headline": "Ucrania amplía ataques profundos a Rusia y Zelensky compara a Putin con Hitler",
+          "summary": "Las fuerzas ucranianas incrementaron sus incursiones en territorio ruso con el objetivo de destruir infraestructura clave que financia la guerra, una estrategia que ha generado críticas desde la administración Trump. Al mismo tiempo, el presidente Zelensky acusó a Vladimir Putin de ser un asesino comparable a Hitler, reforzando la presión diplomática contra Moscú.",
+          "tags": [
+            "#Ucrania",
+            "#Rusia",
+            "#conflicto",
+            "#Zelensky",
+            "#Putin"
+          ],
+          "source_ids": [
+            6,
+            7
           ],
           "sources": [
             {
               "source": "Left (NYT)",
-              "title": "Far-Right Vigilantes Have Inflamed France’s Unrest, Officials Say",
-              "url": "https://www.nytimes.com/2026/11/28/world/europe/france-right-gangs-unrest.html"
+              "title": "Ukraine’s Deep Strikes Grow in Scale and Scope Across Russia and Beyond",
+              "url": "https://www.nytimes.com/2026/11/28/world/europe/ukraine-russia-long-range-strikes.html"
+            },
+            {
+              "source": "Right (Fox)",
+              "title": "Zelenskyy compares Putin to Hitler as Trump pushes to end Ukraine war: 'He's an aggressor and a killer'",
+              "url": "https://www.foxnews.com/world/zelenskyy-compares-putin-hitler-trump-pushes-end-ukraine-war-aggressor-killer"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://static01.nyt.com/images/2026/11/28/multimedia/28int-france-gangs-1-wzvb/28int-france-gangs-1-wzvb-mediumSquareAt3X.jpg",
-            "imageSearchQuery": "far right vigilantes France clashes towns",
-            "caption": "Vigilantes de extrema derecha confrontan a manifestantes en una calle de Lyon, mientras la tensión se extiende por varias ciudades francesas.",
-            "biasLeft": "Los medios progresistas subrayan que estos grupos de extrema derecha actúan como provocadores que alimentan la violencia y desvían la atención de los reclamos sociales subyacentes. Enfatizan la responsabilidad del Estado en garantizar la seguridad y condenan la falta de una respuesta policial eficaz. También resaltan la dimensión de polarización política que agrava el clima de inseguridad.",
-            "biasNeutral": "Los medios centristas informan que, según autoridades locales, los enfrentamientos se han registrado en al menos diez municipios, citando declaraciones oficiales sin atribuir culpas específicas. Señalan la necesidad de seguir investigando la organización de los grupos y el papel de la policía.",
-            "biasRight": "Los medios conservadores no aparecen en los artículos proporcionados; no hay cobertura de derecha sobre este tema en las fuentes citadas.",
-            "reflection": "Para la gente común, la presencia de grupos armados en las calles significa que la seguridad cotidiana está en juego y que pueden afectar desplazamientos y actividades diarias. En los próximos días hay que observar si las autoridades declaran estado de emergencia o intensifican la presencia policial en las ciudades donde se registraron los choques."
+            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2025/08/putin-zelenskyy.jpg",
+            "imageSearchQuery": "Zelensky Putin Hitler comparison Ukraine deep strikes Russia",
+            "caption": "Zelensky tilda a Putin de agresor y lo equipara a Hitler mientras Ucrania intensifica ataques dentro del territorio ruso.",
+            "biasLeft": "Los medios progresistas ponen el foco en la campaña para cortar combustible, armas y recursos financieros al ejército ruso, presentándola como una medida de presión legítima a favor de la defensa ucraniana. Además, critican la postura de la administración Trump, que cuestiona la efectividad y la moralidad de esos ataques profundos.",
+            "biasNeutral": "No se dispone de un artículo de prensa centrista que cubra este tema en los materiales proporcionados.",
+            "biasRight": "Los medios conservadores destacan la condena de Zelensky a Putin, resaltando su carácter de agresor y asesino, y la analogía con Hitler para subrayar la gravedad del peligro que representa para Occidente. También señalan la incompatibilidad de esa figura con cualquier acercamiento al presidente Trump, insinuando riesgos para la seguridad nacional y la política exterior de EE. UU.",
+            "reflection": "Para el ciudadano de a pie, la ampliación de los ataques ucranianos y la fuerte retórica contra Putin pueden traducirse en una escalada del conflicto que afecte los precios de energía y la estabilidad regional. En los próximos días conviene vigilar si Moscú responde con contraataques más intensos o con medidas diplomáticas que alteren la dinámica de la guerra."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/28/multimedia/28int-france-gangs-1-wzvb/28int-france-gangs-1-wzvb-mediumSquareAt3X.jpg\" alt=\"Vigilantes de extrema derecha confrontan a manifestantes en una calle de Lyon, mientras la tensión se extiende por varias ciudades francesas.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Vigilantes de extrema derecha confrontan a manifestantes en una calle de Lyon, mientras la tensión se extiende por varias ciudades francesas.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan que estos grupos de extrema derecha actúan como provocadores que alimentan la violencia y desvían la atención de los reclamos sociales subyacentes. Enfatizan la responsabilidad del Estado en garantizar la seguridad y condenan la falta de una respuesta policial eficaz. También resaltan la dimensión de polarización política que agrava el clima de inseguridad.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas informan que, según autoridades locales, los enfrentamientos se han registrado en al menos diez municipios, citando declaraciones oficiales sin atribuir culpas específicas. Señalan la necesidad de seguir investigando la organización de los grupos y el papel de la policía.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no aparecen en los artículos proporcionados; no hay cobertura de derecha sobre este tema en las fuentes citadas.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para la gente común, la presencia de grupos armados en las calles significa que la seguridad cotidiana está en juego y que pueden afectar desplazamientos y actividades diarias. En los próximos días hay que observar si las autoridades declaran estado de emergencia o intensifican la presencia policial en las ciudades donde se registraron los choques.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2025/08/putin-zelenskyy.jpg\" alt=\"Zelensky tilda a Putin de agresor y lo equipara a Hitler mientras Ucrania intensifica ataques dentro del territorio ruso.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Zelensky tilda a Putin de agresor y lo equipara a Hitler mientras Ucrania intensifica ataques dentro del territorio ruso.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas ponen el foco en la campaña para cortar combustible, armas y recursos financieros al ejército ruso, presentándola como una medida de presión legítima a favor de la defensa ucraniana. Además, critican la postura de la administración Trump, que cuestiona la efectividad y la moralidad de esos ataques profundos.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">No se dispone de un artículo de prensa centrista que cubra este tema en los materiales proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores destacan la condena de Zelensky a Putin, resaltando su carácter de agresor y asesino, y la analogía con Hitler para subrayar la gravedad del peligro que representa para Occidente. También señalan la incompatibilidad de esa figura con cualquier acercamiento al presidente Trump, insinuando riesgos para la seguridad nacional y la política exterior de EE. UU.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el ciudadano de a pie, la ampliación de los ataques ucranianos y la fuerte retórica contra Putin pueden traducirse en una escalada del conflicto que afecte los precios de energía y la estabilidad regional. En los próximos días conviene vigilar si Moscú responde con contraataques más intensos o con medidas diplomáticas que alteren la dinámica de la guerra.</p>"
         },
         {
-          "id": "topic-2",
-          "headline": "Pedro Sánchez se prepara para la elección con la derecha intentando destituirlo",
-          "summary": "El primer ministro español, considerado héroe en el extranjero, se enfrenta a una campaña de oposición de derecha en las elecciones nacionales. El resultado decidirá si mantiene su liderazgo frente a la creciente presión política.",
+          "id": "tema-4",
+          "headline": "OpenAI acusa a Apple de robar secretos comerciales",
+          "summary": "La empresa creadora de ChatGPT presentó una demanda contra Apple alegando que el gigante tecnológico se apropió de información confidencial a través de un exempleado. El caso, que ya está en los tribunales, podría sentar precedentes sobre la protección de la propiedad intelectual en el sector de la IA.",
           "tags": [
-            "#España",
-            "#PedroSánchez",
-            "#Elecciones",
-            "#Política"
+            "#tecnología",
+            "#propiedadintelectual",
+            "#OpenAI",
+            "#Apple"
           ],
           "source_ids": [
-            2,
             8
           ],
           "sources": [
             {
-              "source": "Left (NYT)",
-              "title": "Abroad, Spain’s Leader Is a Left-Wing Hero. Will He Lose Power at Home?",
-              "url": "https://www.nytimes.com/2026/11/28/world/europe/spain-pedro-sanchez-conservatives-election.html"
-            },
-            {
               "source": "Neutral (BBC)",
-              "title": "Spanish PM and rivals rally supporters in final pitch for votes",
-              "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss"
+              "title": "OpenAI counter-sues Apple over alleged theft of trade secrets",
+              "url": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://static01.nyt.com/images/2026/11/28/multimedia/28int-spain-election-zhfc/28int-spain-election-zhfc-mediumSquareAt3X.jpg",
-            "imageSearchQuery": "Pedro Sanchez election rally Spain 2026",
-            "caption": "Pedro Sánchez encabeza el último mitin antes de las elecciones, mientras la derecha lo amenaza con su destitución.",
-            "biasLeft": "Los medios progresistas pintan a Sánchez como un héroe de izquierdas en el exterior, resaltando su crítica a Trump y la imagen de una batalla contra una derecha que busca derrocarlo. Enfatizan el simbolismo de su liderazgo y la presión internacional que genera su candidatura.",
-            "biasNeutral": "Los medios centristas se centran en los hechos: Sánchez intenta romper con las encuestas y sus rivales lo acusan de mentir y traicionar. Informan de los mítines de última hora y de la polarización entre los partidos sin tomar partido.",
-            "biasRight": "Los medios conservadores no cubren este tema específico en los artículos proporcionados.",
-            "reflection": "El resultado de la elección determinará la dirección de las políticas sociales y económicas de España en los próximos años, impactando directamente en la vida cotidiana de los ciudadanos. En los próximos días, hay que vigilar los resultados parciales de voto y cualquier cambio en las encuestas que pueda alterar la dinámica de la campaña."
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea05/live/8d3ca800-eb36-11f1-9c9c-710a05f9c274.jpg",
+            "imageSearchQuery": "OpenAI Apple trade secrets lawsuit 2024",
+            "caption": "OpenAI acusa a Apple de apropiarse de secretos de IA a través de un ex‑empleado.",
+            "biasLeft": "Los medios progresistas no aparecen en los artículos proporcionados.",
+            "biasNeutral": "Los medios neutrales informan que OpenAI ha presentado una contrademanda contra Apple, alegando que la empresa se apoderó de tecnología confidencial mediante un ex trabajador. Señalan que el caso se sitúa en el contexto de una disputa legal más amplia sobre propiedad intelectual en el sector de la IA. Además, destacan que el proceso judicial podría retrasar colaboraciones entre ambas compañías.",
+            "biasRight": "Los medios conservadores no aparecen en los artículos proporcionados.",
+            "reflection": "Para el ciudadano corriente, este pleito podría traducirse en retrasos o cambios en los servicios de IA que usan en su día a día. En los próximos días habrá que observar los documentos judiciales y cualquier medida cautelar que afecte la disponibilidad de productos de OpenAI o de Apple."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/28/multimedia/28int-spain-election-zhfc/28int-spain-election-zhfc-mediumSquareAt3X.jpg\" alt=\"Pedro Sánchez encabeza el último mitin antes de las elecciones, mientras la derecha lo amenaza con su destitución.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Pedro Sánchez encabeza el último mitin antes de las elecciones, mientras la derecha lo amenaza con su destitución.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas pintan a Sánchez como un héroe de izquierdas en el exterior, resaltando su crítica a Trump y la imagen de una batalla contra una derecha que busca derrocarlo. Enfatizan el simbolismo de su liderazgo y la presión internacional que genera su candidatura.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas se centran en los hechos: Sánchez intenta romper con las encuestas y sus rivales lo acusan de mentir y traicionar. Informan de los mítines de última hora y de la polarización entre los partidos sin tomar partido.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no cubren este tema específico en los artículos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>El resultado de la elección determinará la dirección de las políticas sociales y económicas de España en los próximos años, impactando directamente en la vida cotidiana de los ciudadanos. En los próximos días, hay que vigilar los resultados parciales de voto y cualquier cambio en las encuestas que pueda alterar la dinámica de la campaña.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea05/live/8d3ca800-eb36-11f1-9c9c-710a05f9c274.jpg\" alt=\"OpenAI acusa a Apple de apropiarse de secretos de IA a través de un ex‑empleado.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">OpenAI acusa a Apple de apropiarse de secretos de IA a través de un ex‑empleado.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no aparecen en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios neutrales informan que OpenAI ha presentado una contrademanda contra Apple, alegando que la empresa se apoderó de tecnología confidencial mediante un ex trabajador. Señalan que el caso se sitúa en el contexto de una disputa legal más amplia sobre propiedad intelectual en el sector de la IA. Además, destacan que el proceso judicial podría retrasar colaboraciones entre ambas compañías.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no aparecen en los artículos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el ciudadano corriente, este pleito podría traducirse en retrasos o cambios en los servicios de IA que usan en su día a día. En los próximos días habrá que observar los documentos judiciales y cualquier medida cautelar que afecte la disponibilidad de productos de OpenAI o de Apple.</p>"
         },
         {
-          "id": "topic-3",
-          "headline": "El ejército estadounidense detiene un buque petrolero que intentaba evadir el bloqueo iraní",
-          "summary": "Durante la jornada del Día de Acción de Gracias, fuerzas de CENTCOM neutralizaron un buque comercial que trataba de sortear la zona de bloqueo de Irán. La acción refuerza la presencia militar de EE. UU. en el Golfo de Omán y complica las operaciones de Irán.",
+          "id": "tema-5",
+          "headline": "Desafíos en comunidades vulnerables: prisión siria, saber indígena canadiense, restricciones a mujeres en Afganistán, tensiones migratorias en Reino Unido y bloqueo naval iraní",
+          "summary": "Tras ser liberado de una cárcel siria, Ahmed al‑Shalh enfrenta los traumas de una década de encarcelamiento mientras Canadá pierde conocimientos tradicionales de los guardabosques inuit. En Afganistán, el Talibán prohibió el uso de nombres de mujer en registros oficiales, en Inglaterra un pueblo intenta separarse del Reino Unido por la llegada de cientos de solicitantes de asilo, y Estados Unidos derribó un buque que intentaba evadir el bloqueo naval impuesto por Irán en el Golfo de Omán.",
           "tags": [
-            "#EEUU",
-            "#Irán",
-            "#Bloqueo",
-            "#Marítimo"
+            "#comunidades",
+            "#derechoshumanos",
+            "#medioambiente",
+            "#migración",
+            "#bloqueonaviano"
           ],
           "source_ids": [
-            10
+            2,
+            10,
+            12,
+            13,
+            14
           ],
           "sources": [
+            {
+              "source": "Left (NYT)",
+              "title": "Freed From a Notorious Syrian Prison, but Still Trapped by Its Terror",
+              "url": "https://www.nytimes.com/2026/11/28/world/middleeast/syria-sednaya-prison-survivor.html"
+            },
+            {
+              "source": "Left (NYT)",
+              "title": "Canada’s Arctic Reservists Know the Land. Fewer Young People Do.",
+              "url": "https://www.nytimes.com/2026/11/28/world/canada/canada-rangers-quebec-arctic-military.html"
+            },
+            {
+              "source": "Right (Fox)",
+              "title": "Taliban reportedly strips women of their names in Afghan province, now being called 'goat' or 'grandmother'",
+              "url": "https://www.foxnews.com/world/taliban-strips-women-names-afghan-province-called-goat-grandmother"
+            },
+            {
+              "source": "Right (Fox)",
+              "title": "Tiny English village battles government over migrant housing plan amid crime fears for women",
+              "url": "https://www.foxnews.com/world/tiny-english-village-battles-government-over-migrant-housing-plan-amid-crime-fears-women"
+            },
             {
               "source": "Right (Fox)",
               "title": "US military disables tanker ship attempting to slip through Iran blockade on Thanksgiving Day",
@@ -93,77 +213,15 @@
             }
           ],
           "deepDive": {
-            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/hormuz_ship.jpg",
-            "imageSearchQuery": "US military disables tanker Gulf of Oman Thanksgiving blockade",
-            "caption": "El ejército EE. UU. golpea un petrolero que intentaba burlar el bloqueo iraní en el Golfo de Omán.",
-            "biasLeft": "Los medios progresistas no cubren este episodio en los artículos proporcionados.",
-            "biasNeutral": "Los medios centristas o de agencia no aparecen en los documentos suministrados, por lo que no hay cobertura neutral disponible.",
-            "biasRight": "Los medios conservadores subrayan la necesidad de proteger la libre circulación marítima y la seguridad de los aliados, presentando el ataque como una respuesta firme a la amenaza iraní y una defensa de los intereses económicos estadounidenses.",
-            "reflection": "Este incidente puede encarecer el combustible y generar incertidumbre en las rutas de transporte marítimo, afectando a consumidores y empresas. En los próximos días habrá que observar si Irán responde con acciones propias y cómo evoluciona la postura de EE. UU. frente al bloqueo."
+            "imageUrl": "https://static01.nyt.com/images/2026/11/28/multimedia/28syria-prisoner-01-bflz/28syria-prisoner-01-bflz-mediumSquareAt3X.jpg",
+            "imageSearchQuery": "Syrian prison Sednaya release Ahmed al-Shalh",
+            "caption": "Tras una década tras las rejas de Sednaya, Ahmed al‑Shalh vuelve a casa, mientras otras comunidades vulnerables siguen atrapadas en sus propias crisis.",
+            "biasLeft": "Los medios progresistas subrayan el trauma personal de al‑Shalh y la falta de apoyo tras su liberación, al tiempo que denuncian la erosión del saber indígena en el Ártico canadiense como una pérdida cultural irreversible. También critican la política de los talibanes y la falta de protección para las mujeres afganas.",
+            "biasNeutral": "No se encontró cobertura neutral o de centro entre los artículos proporcionados.",
+            "biasRight": "Los portales conservadores centran la atención en la amenaza que representa la llegada masiva de solicitantes de asilo a una pequeña localidad inglesa, en la supuesta degradación de la seguridad de las mujeres, y en la necesidad de bloquear el tráfico marítimo iraní por razones de seguridad nacional.",
+            "reflection": "Estas situaciones afectan directamente a personas que buscan una vida digna, desde un exprisionero sirio hasta jóvenes inuit que ven desaparecer sus tradiciones. En los próximos días convendrá observar si los gobiernos amplían medidas de seguridad o, por el contrario, aumentan la asistencia humanitaria y la protección de derechos."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/08/hormuz_ship.jpg\" alt=\"El ejército EE. UU. golpea un petrolero que intentaba burlar el bloqueo iraní en el Golfo de Omán.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El ejército EE. UU. golpea un petrolero que intentaba burlar el bloqueo iraní en el Golfo de Omán.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no cubren este episodio en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas o de agencia no aparecen en los documentos suministrados, por lo que no hay cobertura neutral disponible.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores subrayan la necesidad de proteger la libre circulación marítima y la seguridad de los aliados, presentando el ataque como una respuesta firme a la amenaza iraní y una defensa de los intereses económicos estadounidenses.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Este incidente puede encarecer el combustible y generar incertidumbre en las rutas de transporte marítimo, afectando a consumidores y empresas. En los próximos días habrá que observar si Irán responde con acciones propias y cómo evoluciona la postura de EE. UU. frente al bloqueo.</p>"
-        },
-        {
-          "id": "topic-4",
-          "headline": "El Talibán elimina el registro de nombres femeninos en una provincia afgana",
-          "summary": "En la provincia del norte de Afganistán, las autoridades talibanes han prohibido registrar nombres de mujeres, sustituyéndolos por epítetos como 'cabra' o 'abuela'. La medida refuerza la supresión de los derechos de las mujeres bajo el régimen.",
-          "tags": [
-            "#Afganistán",
-            "#Talibán",
-            "#DerechosDeLasMujeres",
-            "#Represión"
-          ],
-          "source_ids": [
-            6
-          ],
-          "sources": [
-            {
-              "source": "Right (Fox)",
-              "title": "Taliban reportedly strips women of their names in Afghan province, now being called 'goat' or 'grandmother'",
-              "url": "https://www.foxnews.com/world/taliban-strips-women-names-afghan-province-called-goat-grandmother"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/afghanistan-mothers-children-kandahar.jpg",
-            "imageSearchQuery": "Taliban women's name ban Afghan province",
-            "caption": "Mujeres afgana sin posibilidad de registrar su propio nombre, un nuevo golpe a su identidad en la provincia bajo control talibán.",
-            "biasLeft": "No hay cobertura de este tema en fuentes progresistas en los artículos proporcionados.",
-            "biasNeutral": "No hay cobertura de este tema en fuentes centristas en los artículos proporcionados.",
-            "biasRight": "Fox News destaca la prohibición como una muestra más del autoritarismo talibán y la irresponsabilidad de la retirada de EE. UU. bajo Biden. Se enfatiza el impacto cultural, describiendo cómo las mujeres son reducidas a apodos despectivos como \"cabra\" o \"abuela\". El relato subraya la amenaza a la soberanía y la seguridad regional que implica este tipo de medidas represivas.",
-            "reflection": "Para la gente que vive en Afganistán, la eliminación de sus nombres oficiales significa perder derechos básicos y reconocimiento legal, lo que complica aún más el acceso a servicios y empleo. En los próximos días, observar si otras provincias adoptan la misma política revelará si se trata de una orden aislada o de una campaña sistemática del Talibán."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/11/afghanistan-mothers-children-kandahar.jpg\" alt=\"Mujeres afgana sin posibilidad de registrar su propio nombre, un nuevo golpe a su identidad en la provincia bajo control talibán.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Mujeres afgana sin posibilidad de registrar su propio nombre, un nuevo golpe a su identidad en la provincia bajo control talibán.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">No hay cobertura de este tema en fuentes progresistas en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">No hay cobertura de este tema en fuentes centristas en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Fox News destaca la prohibición como una muestra más del autoritarismo talibán y la irresponsabilidad de la retirada de EE. UU. bajo Biden. Se enfatiza el impacto cultural, describiendo cómo las mujeres son reducidas a apodos despectivos como &quot;cabra&quot; o &quot;abuela&quot;. El relato subraya la amenaza a la soberanía y la seguridad regional que implica este tipo de medidas represivas.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para la gente que vive en Afganistán, la eliminación de sus nombres oficiales significa perder derechos básicos y reconocimiento legal, lo que complica aún más el acceso a servicios y empleo. En los próximos días, observar si otras provincias adoptan la misma política revelará si se trata de una orden aislada o de una campaña sistemática del Talibán.</p>"
-        },
-        {
-          "id": "topic-5",
-          "headline": "Turquía destruye la sede de un canal crítico",
-          "summary": "La policía turca allanó y destruyó las oficinas de Halk TV, un medio considerado crítico del gobierno. El operativo forma parte de una campaña más amplia para silenciar la disidencia y controlar la narrativa nacional.",
-          "tags": [
-            "#Turquía",
-            "#MediosDeComunicación",
-            "#Represión",
-            "#Política"
-          ],
-          "source_ids": [
-            5
-          ],
-          "sources": [
-            {
-              "source": "Neutral (BBC)",
-              "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
-              "url": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3aaf/live/e29d41d0-ead0-11f1-b97f-cdd549897b30.jpg",
-            "imageSearchQuery": "Halk TV headquarters raid Turkey",
-            "caption": "Policías irrumpen en la sede de Halk TV, el canal crítico con el gobierno, dejando su estudio envuelto en humo y escombros.",
-            "biasLeft": "Los medios de izquierda no cubren este tema en los artículos proporcionados.",
-            "biasNeutral": "Los reportes neutrales describen la incursión como parte de una serie de redadas contra medios críticos, citando al propietario de Halk TV que afirma que las autoridades “destruyeron” la sede. Se limita a presentar hechos y declaraciones sin emitir juicios de valor, señalando la tensión creciente entre el gobierno y la prensa independiente.",
-            "biasRight": "Los medios de derecha no cubren este tema en los artículos proporcionados.",
-            "reflection": "Este episodio muestra cómo el espacio para la crítica política se está reduciendo, lo que afecta directamente a la información que los ciudadanos reciben. En los próximos días, habrá que observar si se intensifican más redadas o si aparecen respuestas judiciales que puedan frenar la censura."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3aaf/live/e29d41d0-ead0-11f1-b97f-cdd549897b30.jpg\" alt=\"Policías irrumpen en la sede de Halk TV, el canal crítico con el gobierno, dejando su estudio envuelto en humo y escombros.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Policías irrumpen en la sede de Halk TV, el canal crítico con el gobierno, dejando su estudio envuelto en humo y escombros.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios de izquierda no cubren este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los reportes neutrales describen la incursión como parte de una serie de redadas contra medios críticos, citando al propietario de Halk TV que afirma que las autoridades “destruyeron” la sede. Se limita a presentar hechos y declaraciones sin emitir juicios de valor, señalando la tensión creciente entre el gobierno y la prensa independiente.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios de derecha no cubren este tema en los artículos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Este episodio muestra cómo el espacio para la crítica política se está reduciendo, lo que afecta directamente a la información que los ciudadanos reciben. En los próximos días, habrá que observar si se intensifican más redadas o si aparecen respuestas judiciales que puedan frenar la censura.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/28/multimedia/28syria-prisoner-01-bflz/28syria-prisoner-01-bflz-mediumSquareAt3X.jpg\" alt=\"Tras una década tras las rejas de Sednaya, Ahmed al‑Shalh vuelve a casa, mientras otras comunidades vulnerables siguen atrapadas en sus propias crisis.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Tras una década tras las rejas de Sednaya, Ahmed al‑Shalh vuelve a casa, mientras otras comunidades vulnerables siguen atrapadas en sus propias crisis.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan el trauma personal de al‑Shalh y la falta de apoyo tras su liberación, al tiempo que denuncian la erosión del saber indígena en el Ártico canadiense como una pérdida cultural irreversible. También critican la política de los talibanes y la falta de protección para las mujeres afganas.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">No se encontró cobertura neutral o de centro entre los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los portales conservadores centran la atención en la amenaza que representa la llegada masiva de solicitantes de asilo a una pequeña localidad inglesa, en la supuesta degradación de la seguridad de las mujeres, y en la necesidad de bloquear el tráfico marítimo iraní por razones de seguridad nacional.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Estas situaciones afectan directamente a personas que buscan una vida digna, desde un exprisionero sirio hasta jóvenes inuit que ven desaparecer sus tradiciones. En los próximos días convendrá observar si los gobiernos amplían medidas de seguridad o, por el contrario, aumentan la asistencia humanitaria y la protección de derechos.</p>"
         }
       ],
       "rawCount": 15
@@ -172,177 +230,70 @@
       "items": [
         {
           "id": "topic-1",
-          "headline": "El Departamento de Trabajo y Pensiones del Reino Unido sufre un ciberataque que mantiene sus servicios inactivos",
-          "summary": "Según el ex director tecnológico del gobierno, el ataque pudo haber sido perpetrado por hackers, aunque las autoridades aún no lo confirman. La interrupción afecta a millones de ciudadanos que dependen de pensiones y ayudas, generando incertidumbre sobre la seguridad de los datos.",
+          "headline": "Ciberataques revelan vulnerabilidades: datos robados, servicios públicos colapsados y posibles lecturas de correos",
+          "summary": "Tras una serie de incidentes, desde la filtración de datos personales hasta la paralización del Departamento de Pensiones del Reino Unido y la filtración de información de Gmail en la herramienta Gemini de Google, se evidencian fallas en la protección digital. Los expertos advierten que la exposición de datos puede prolongarse años y recomiendan medidas como el congelamiento gratuito de crédito y gestores de contraseñas.",
           "tags": [
             "#ciberseguridad",
-            "#ReinoUnido",
-            "#serviciospúblicos"
+            "#privacidad",
+            "#datos"
           ],
           "source_ids": [
-            0
+            0,
+            1,
+            7
           ],
           "sources": [
+            {
+              "source": "Right (Fox Tech)",
+              "title": "A data breach is only the beginning. Here's what criminals may do next",
+              "url": "https://www.foxnews.com/tech/data-breach-beginning-what-criminals-may-do-next"
+            },
             {
               "source": "Neutral (BBC Tech)",
               "title": "Pensions and benefits services still down after 'cyber incident'",
               "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1ac8/live/f4dc2df0-eafa-11f1-83de-2b6b9d423090.jpg",
-            "imageSearchQuery": "UK DWP cyber attack",
-            "caption": "Los servicios de pensiones y beneficios del DWP siguen paralizados tras un presunto ciberataque.",
-            "biasLeft": "Los medios de tendencia progresista no cubren este tema en los artículos proporcionados.",
-            "biasNeutral": "Los informes neutros se centran en la falta de confirmación oficial, mencionan que el ex CTO del gobierno sugiere la posibilidad de hackers y resaltan que los servicios siguen inactivos.",
-            "biasRight": "Los medios conservadores no abordan este asunto en los artículos suministrados.",
-            "reflection": "Para la ciudadanía, la interrupción de pensiones y beneficios puede significar retrasos en pagos esenciales. En los próximos días hay que vigilar si el gobierno confirma el origen del ataque y cuándo se restablecerán los servicios."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1ac8/live/f4dc2df0-eafa-11f1-83de-2b6b9d423090.jpg\" alt=\"Los servicios de pensiones y beneficios del DWP siguen paralizados tras un presunto ciberataque.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Los servicios de pensiones y beneficios del DWP siguen paralizados tras un presunto ciberataque.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios de tendencia progresista no cubren este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los informes neutros se centran en la falta de confirmación oficial, mencionan que el ex CTO del gobierno sugiere la posibilidad de hackers y resaltan que los servicios siguen inactivos.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no abordan este asunto en los artículos suministrados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para la ciudadanía, la interrupción de pensiones y beneficios puede significar retrasos en pagos esenciales. En los próximos días hay que vigilar si el gobierno confirma el origen del ataque y cuándo se restablecerán los servicios.</p>"
-        },
-        {
-          "id": "topic-2",
-          "headline": "La IA acelera la copia de videojuegos y ofrece soluciones matemáticas sin comprenderlas",
-          "summary": "Fans de Grand Theft Auto 6 emplean algoritmos y archivos filtrados para recrear el juego antes de su lanzamiento oficial, mientras investigadores advierten que la IA puede producir respuestas en matemáticas sin aportar intuición. Ambos fenómenos ponen en relieve los límites éticos y educativos de la inteligencia artificial.",
-          "tags": [
-            "#IA",
-            "#videojuegos",
-            "#matemáticas"
-          ],
-          "source_ids": [
-            1,
-            5
-          ],
-          "sources": [
-            {
-              "source": "Neutral (BBC Tech)",
-              "title": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
-              "url": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss"
             },
-            {
-              "source": "Left (NYT Tech)",
-              "title": "How A.I. Is Transforming Mathematics",
-              "url": "https://www.nytimes.com/2026/11/27/podcasts/hardfork-terence-tao.html"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/98a4/live/a2c48d10-e97d-11f1-99a1-253766e7ad8b.jpg",
-            "imageSearchQuery": "GTA 6 AI clone leaked files gamers",
-            "caption": "Jugadores usan IA para reconstruir GTA 6 mientras la versión de PC se retrasa.",
-            "biasLeft": "Los medios progresistas destacan que la IA está proporcionando respuestas matemáticas sin ofrecer comprensión, lo que alimenta una crítica a la dependencia tecnológica sin educación profunda. Subrayan el riesgo de que la cultura del «quick‑fix» desplace la investigación rigurosa.",
-            "biasNeutral": "Los reportes neutrales se centran en los hechos: la comunidad de jugadores está combinando modelos de IA con archivos filtrados para crear una copia jugable de GTA 6, y la falta de una versión oficial para PC genera incertidumbre. También describen la tendencia de la IA a generar soluciones sin explicarlas.",
-            "biasRight": "Los medios conservadores no cubren este tema en los artículos suministrados.",
-            "reflection": "Para el consumidor, la aparición de versiones no oficiales de GTA 6 plantea riesgos de seguridad y posibles pérdidas económicas si se compra contenido pirata. En los próximos días, vigile la aparición de plataformas que ofrezcan el juego clonado y cualquier reacción oficial de Rockstar sobre protección de propiedad intelectual."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/98a4/live/a2c48d10-e97d-11f1-99a1-253766e7ad8b.jpg\" alt=\"Jugadores usan IA para reconstruir GTA 6 mientras la versión de PC se retrasa.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Jugadores usan IA para reconstruir GTA 6 mientras la versión de PC se retrasa.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas destacan que la IA está proporcionando respuestas matemáticas sin ofrecer comprensión, lo que alimenta una crítica a la dependencia tecnológica sin educación profunda. Subrayan el riesgo de que la cultura del «quick‑fix» desplace la investigación rigurosa.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los reportes neutrales se centran en los hechos: la comunidad de jugadores está combinando modelos de IA con archivos filtrados para crear una copia jugable de GTA 6, y la falta de una versión oficial para PC genera incertidumbre. También describen la tendencia de la IA a generar soluciones sin explicarlas.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores no cubren este tema en los artículos suministrados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el consumidor, la aparición de versiones no oficiales de GTA 6 plantea riesgos de seguridad y posibles pérdidas económicas si se compra contenido pirata. En los próximos días, vigile la aparición de plataformas que ofrezcan el juego clonado y cualquier reacción oficial de Rockstar sobre protección de propiedad intelectual.</p>"
-        },
-        {
-          "id": "topic-3",
-          "headline": "Un ojo biónico entrenado con IA permite a investigadores generar fosfenos más predecibles",
-          "summary": "En la Universidad de California, Santa Bárbara, un prototipo de ojo artificial, basado en la respuesta cerebral de una persona ciega, logra estimular la visión con menor corriente eléctrica. El avance abre posibilidades de restaurar la vista a personas con degeneración retinal.",
-          "tags": [
-            "#salud",
-            "#IA",
-            "#visión"
-          ],
-          "source_ids": [
-            3
-          ],
-          "sources": [
-            {
-              "source": "Right (Fox Tech)",
-              "title": "AI bionic eye breakthrough could help restore sight",
-              "url": "https://www.foxnews.com/tech/ai-bionic-eye-breakthrough-restore-sight"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/woman-at-eye-doctor-getting-exam.jpg",
-            "imageSearchQuery": "bionic eye AI phosphenes UC Santa Barbara research",
-            "caption": "Un prototipo de ojo biónico entrenado con IA genera destellos de luz más predecibles al estimular el cerebro de un ciego.",
-            "biasLeft": "Los medios progresistas no cubrieron este tema en los artículos proporcionados.",
-            "biasNeutral": "Los medios centristas no abordaron este tema en los artículos proporcionados.",
-            "biasRight": "Los medios conservadores destacan que la tecnología, al requerir menos corriente, reduce costos operativos y abre oportunidades de mercado para la industria estadounidense. Subrayan el potencial de posicionar a EE. UU. como líder en biotecnología ocular, impulsando la competitividad global. También resaltan el beneficio de devolver la visión a personas con discapacidad sin depender de importaciones extranjeras de dispositivos médicos.",
-            "reflection": "Este avance podría traducirse en tratamientos más accesibles y menos invasivos para la ceguera, mejorando la calidad de vida de miles de personas. En los próximos días, vigile los comunicados de la Universidad de California y de startups de neurotecnología que anuncien pruebas clínicas o acuerdos de financiación, ya que indican cuán cerca está la comercialización."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2025/10/woman-at-eye-doctor-getting-exam.jpg\" alt=\"Un prototipo de ojo biónico entrenado con IA genera destellos de luz más predecibles al estimular el cerebro de un ciego.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Un prototipo de ojo biónico entrenado con IA genera destellos de luz más predecibles al estimular el cerebro de un ciego.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no cubrieron este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas no abordaron este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores destacan que la tecnología, al requerir menos corriente, reduce costos operativos y abre oportunidades de mercado para la industria estadounidense. Subrayan el potencial de posicionar a EE. UU. como líder en biotecnología ocular, impulsando la competitividad global. También resaltan el beneficio de devolver la visión a personas con discapacidad sin depender de importaciones extranjeras de dispositivos médicos.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Este avance podría traducirse en tratamientos más accesibles y menos invasivos para la ceguera, mejorando la calidad de vida de miles de personas. En los próximos días, vigile los comunicados de la Universidad de California y de startups de neurotecnología que anuncien pruebas clínicas o acuerdos de financiación, ya que indican cuán cerca está la comercialización.</p>"
-        },
-        {
-          "id": "topic-4",
-          "headline": "Herramientas de IA facilitan la exposición de datos personales y fraudes inmobiliarios",
-          "summary": "Un denunciante afirma que el chatbot Gemini de Google muestra correos electrónicos privados a revisores humanos, mientras que estafadores usan imágenes generadas por IA para vender propiedades falsas y los corredores de datos venden información de compras navideñas a estafadores. Estas prácticas aumentan el riesgo de suplantación y engaños para los consumidores.",
-          "tags": [
-            "#privacidad",
-            "#estafas",
-            "#IA"
-          ],
-          "source_ids": [
-            4,
-            8,
-            9
-          ],
-          "sources": [
             {
               "source": "Right (Fox Tech)",
               "title": "Google Gemini may expose private emails to reviewers",
               "url": "https://www.foxnews.com/tech/google-gemini-expose-private-emails-reviewers"
-            },
-            {
-              "source": "Right (Fox Tech)",
-              "title": "Housefishing could fool you with AI real estate photos",
-              "url": "https://www.foxnews.com/tech/housefishing-could-fool-you-ai-real-estate-photos"
-            },
-            {
-              "source": "Right (Fox Tech)",
-              "title": "Your holiday shopping data needs a cleanup before Black Friday",
-              "url": "https://www.foxnews.com/tech/holiday-shopping-data-needs-cleanup-before-black-friday"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/Gemini-App.jpg",
-            "imageSearchQuery": "Google Gemini email privacy AI real estate photo scams data broker exposure",
-            "caption": "Mientras una IA genera fotos de casas impecables para estafar a compradores, Gmail revela datos privados a revisores humanos.",
-            "biasLeft": "Los medios progresistas no han cubierto este tema en los artículos proporcionados.",
-            "biasNeutral": "Los medios centristas no aparecen en la muestra.",
-            "biasRight": "Los outlets de derecha destacan el riesgo de seguridad que supone la revisión humana de datos personales y la facilidad con la que los estafadores usan imágenes generadas por IA para engañar a los compradores. Señalan la necesidad de mayor vigilancia del consumidor y de posibles regulaciones que limiten el acceso de terceros a la información de los usuarios. Además, advierten que los fraudes inmobiliarios alimentan un mercado negro que perjudica la confianza en la compra de viviendas.",
-            "reflection": "Este asunto afecta a cualquier persona que usa Gmail o busca comprar una casa, pues sus datos pueden terminar en manos equivocadas y pueden ser engañados por imágenes falsas. En los próximos días, preste atención a avisos de Google sobre revisiones de contenido y a alertas de agencias inmobiliarias sobre fotos sospechosas; un aumento de denuncias será señal de que los fraudes se están expandiendo."
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8250/live/ce59c850-eb44-11f1-867f-2ba50c8646d5.jpg",
+            "imageSearchQuery": "UK DWP cyber attack services outage",
+            "caption": "Los servicios de pensiones y prestaciones del Reino Unido se paralizan después de un ciberataque que también pone en riesgo datos personales y correos electrónicos.",
+            "biasLeft": "Los medios de izquierda no cubren este tema en los artículos proporcionados.",
+            "biasNeutral": "BBC informa que el Departamento de Trabajo y Pensiones sigue sin confirmar la causa del colapso, centrándose en la interrupción del acceso de los beneficiarios y en la falta de información oficial. Señala que la caída afecta a millones de ciudadanos que dependen de los pagos. Además, menciona que la investigación aún está en curso.",
+            "biasRight": "Fox Tech enfatiza la dimensión de seguridad y el posible aprovechamiento económico de la filtración, recordando que los datos robados pueden reaparecer años después y sugiriendo congelar el crédito y usar gestores de contraseñas. También alerta sobre Google Gemini, que según un investigador, podría haber expuesto datos de facturación de Gmail a revisores humanos. El enfoque está en la amenaza a la soberanía digital y los costes de recuperación.",
+            "reflection": "Para el ciudadano promedio, la interrupción de pensiones implica retrasos en pagos esenciales y exposición a fraudes con su información. En los próximos días, vigile comunicados oficiales del DWP y alertas de bancos sobre actividades sospechosas. También preste atención a cualquier anuncio de Google sobre cambios en la revisión de datos de Gmail."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/07/Gemini-App.jpg\" alt=\"Mientras una IA genera fotos de casas impecables para estafar a compradores, Gmail revela datos privados a revisores humanos.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Mientras una IA genera fotos de casas impecables para estafar a compradores, Gmail revela datos privados a revisores humanos.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no han cubierto este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas no aparecen en la muestra.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los outlets de derecha destacan el riesgo de seguridad que supone la revisión humana de datos personales y la facilidad con la que los estafadores usan imágenes generadas por IA para engañar a los compradores. Señalan la necesidad de mayor vigilancia del consumidor y de posibles regulaciones que limiten el acceso de terceros a la información de los usuarios. Además, advierten que los fraudes inmobiliarios alimentan un mercado negro que perjudica la confianza en la compra de viviendas.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Este asunto afecta a cualquier persona que usa Gmail o busca comprar una casa, pues sus datos pueden terminar en manos equivocadas y pueden ser engañados por imágenes falsas. En los próximos días, preste atención a avisos de Google sobre revisiones de contenido y a alertas de agencias inmobiliarias sobre fotos sospechosas; un aumento de denuncias será señal de que los fraudes se están expandiendo.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8250/live/ce59c850-eb44-11f1-867f-2ba50c8646d5.jpg\" alt=\"Los servicios de pensiones y prestaciones del Reino Unido se paralizan después de un ciberataque que también pone en riesgo datos personales y correos electrónicos.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Los servicios de pensiones y prestaciones del Reino Unido se paralizan después de un ciberataque que también pone en riesgo datos personales y correos electrónicos.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios de izquierda no cubren este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">BBC informa que el Departamento de Trabajo y Pensiones sigue sin confirmar la causa del colapso, centrándose en la interrupción del acceso de los beneficiarios y en la falta de información oficial. Señala que la caída afecta a millones de ciudadanos que dependen de los pagos. Además, menciona que la investigación aún está en curso.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Fox Tech enfatiza la dimensión de seguridad y el posible aprovechamiento económico de la filtración, recordando que los datos robados pueden reaparecer años después y sugiriendo congelar el crédito y usar gestores de contraseñas. También alerta sobre Google Gemini, que según un investigador, podría haber expuesto datos de facturación de Gmail a revisores humanos. El enfoque está en la amenaza a la soberanía digital y los costes de recuperación.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el ciudadano promedio, la interrupción de pensiones implica retrasos en pagos esenciales y exposición a fraudes con su información. En los próximos días, vigile comunicados oficiales del DWP y alertas de bancos sobre actividades sospechosas. También preste atención a cualquier anuncio de Google sobre cambios en la revisión de datos de Gmail.</p>"
         },
         {
-          "id": "topic-5",
-          "headline": "El sector de IA vive turbulencias: inversiones masivas, escándalos corporativos y nuevas constelaciones de satélites",
-          "summary": "Asia apostó fuertemente por Nvidia, mientras la empresa enfrenta controversias sobre su liderazgo tras la reelección de Jensen Huang impulsada políticamente y el escándalo de espionaje de Alice Huang; al mismo tiempo, Google y Meta amplían su infraestructura de centros de datos y Musk busca lanzar un millón de satélites para computación de IA, y el debut bursátil de Anthropic genera dudas sobre la financiación de startups. Estos movimientos reflejan una carrera frenética por dominar la infraestructura y el capital de la inteligencia artificial.",
+          "id": "topic-2",
+          "headline": "Crisis y disputas en el sector de IA: el regreso de Jensen Huang, la caída de Anthropic y la demanda de OpenAI contra Apple",
+          "summary": "El regreso inesperado del fundador de Nvidia, impulsado por la presión política, coincide con la caída de la cotización de Anthropic y una demanda de OpenAI que acusa a Apple de robar secretos comerciales. Estas tensiones reflejan incertidumbre en la inversión y la gobernanza de las empresas de inteligencia artificial.",
           "tags": [
             "#IA",
             "#Nvidia",
-            "#satélites",
-            "#inversión",
-            "#gobierno"
+            "#OpenAI",
+            "#Apple",
+            "#inversión"
           ],
           "source_ids": [
-            2,
-            7,
             10,
             11,
             12,
             13,
-            14
+            14,
+            3
           ],
           "sources": [
-            {
-              "source": "Right (Fox Tech)",
-              "title": "Fox News AI Newsletter: Locals 'never seen nothing like' hulking Meta data center",
-              "url": "https://www.foxnews.com/tech/ai-newsletter-locals-never-seen-nothing-like-hulking-meta-data-center"
-            },
             {
               "source": "Neutral (BBC Tech)",
               "title": "Asia made a big AI bet on Nvidia. What happens now? ",
               "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "Neutral (BBC Tech)",
-              "title": "Musk's plan to send a million SpaceX data satellites into space approved",
-              "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss"
             },
             {
               "source": "Left (NYT Tech)",
@@ -363,18 +314,126 @@
               "source": "Left (NYT Tech)",
               "title": "With Jensen Huang’s Return as C.E.O., Trump Effectively Overrode Nvidia’s Board",
               "url": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html"
+            },
+            {
+              "source": "Neutral (BBC Tech)",
+              "title": "OpenAI counter-sues Apple over alleged theft of trade secrets",
+              "url": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5383/live/4c315c90-e968-11f1-a094-5fdc692f3e33.jpg",
-            "imageSearchQuery": "SpaceX Starmind satellite constellation AI computing",
-            "caption": "Un satélite de la recién aprobada constelación Starmind se eleva, marcando la carrera por más potencia de cómputo en la era de la IA.",
-            "biasLeft": "Los medios progresistas resaltan los escándalos éticos en Nvidia y la caída de la acción de Anthropic, argumentando que la falta de responsabilidad corporativa frena la innovación y pone en riesgo a las startups. Además, subrayan cómo la presión sobre los trabajadores y la cultura interna pueden traducirse en consecuencias sociales más amplias.",
-            "biasNeutral": "Los medios centristas se limitan a informar los hechos: la aprobación de la constelación de un millón de satélites de SpaceX y la reciente volatilidad de las acciones de Nvidia tras el retorno de Jensen Huang. Presentan datos de mercado y preguntas abiertas sobre el impacto a largo plazo sin emitir juicios de valor.",
-            "biasRight": "Los medios conservadores destacan la magnitud de la inversión en infraestructura de IA, señalando que el nuevo centro de datos de Meta y la constelación de satélites impulsarán la competitividad económica de EE. UU. y sus aliados. Enfatizan la necesidad de mantener la soberanía tecnológica frente a rivales como China.",
-            "reflection": "Para el ciudadano, la carrera por más capacidad de IA se traduce en cambios en precios de servicios digitales y en la disponibilidad de empleos vinculados a la nube y la telecomunicación. En los próximos días, vigile la aprobación regulatoria de más satélites y cualquier anuncio de inversión masiva en centros de datos, ya que marcarán la dirección del mercado y la seguridad de datos."
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2c76/live/9f54a560-e956-11f1-a629-63e812fa871f.jpg",
+            "imageSearchQuery": "Jensen Huang Nvidia, Anthropic stock drop, OpenAI Apple lawsuit",
+            "caption": "Jensen Huang vuelve al mando de Nvidia mientras la caída de Anthropic y la demanda de OpenAI contra Apple sacuden al sector de IA.",
+            "biasLeft": "Los medios progresistas resaltan la falta de ética de Huang, su admisión de violar el código de conducta y el papel de Trump al forzar su reincorporación, presentándolo como un problema de gobernanza corporativa y de influencia política. También advierten que la caída de la acción de Anthropic podría frenar la inversión en startups emergentes, subrayando el riesgo de una burbuja de capital en IA. El proceso judicial contra Apple se enmarca como un ejemplo de abuso de poder de las grandes tecnológicas contra la competencia.",
+            "biasNeutral": "Los reportes de la BBC se limitan a describir los hechos: la sorpresa del regreso de Huang, la volatilidad de las acciones asiáticas vinculada a Nvidia y la acusación de OpenAI contra Apple por supuestos robos de secretos. No ofrecen juicios de valor, sino que señalan los posibles efectos en los mercados y en la competencia tecnológica. Se mantiene una postura descriptiva y plantea preguntas sobre el futuro de la inversión en IA.",
+            "biasRight": "No se encontró cobertura de medios conservadores o de derechas en los artículos proporcionados.",
+            "reflection": "Para el inversor promedio, la turbulencia en Nvidia y Anthropic afecta directamente los precios de acciones y la disponibilidad de capital para proyectos de IA. Además, la disputa legal entre OpenAI y Apple podría redefinir cómo se protegen y comparten los secretos tecnológicos, influyendo en los productos que usamos día a día. En los próximos días, vigile el movimiento del precio de Nvidia, la evolución del caso judicial y cualquier anuncio de financiación para startups de IA."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5383/live/4c315c90-e968-11f1-a094-5fdc692f3e33.jpg\" alt=\"Un satélite de la recién aprobada constelación Starmind se eleva, marcando la carrera por más potencia de cómputo en la era de la IA.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Un satélite de la recién aprobada constelación Starmind se eleva, marcando la carrera por más potencia de cómputo en la era de la IA.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas resaltan los escándalos éticos en Nvidia y la caída de la acción de Anthropic, argumentando que la falta de responsabilidad corporativa frena la innovación y pone en riesgo a las startups. Además, subrayan cómo la presión sobre los trabajadores y la cultura interna pueden traducirse en consecuencias sociales más amplias.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas se limitan a informar los hechos: la aprobación de la constelación de un millón de satélites de SpaceX y la reciente volatilidad de las acciones de Nvidia tras el retorno de Jensen Huang. Presentan datos de mercado y preguntas abiertas sobre el impacto a largo plazo sin emitir juicios de valor.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores destacan la magnitud de la inversión en infraestructura de IA, señalando que el nuevo centro de datos de Meta y la constelación de satélites impulsarán la competitividad económica de EE. UU. y sus aliados. Enfatizan la necesidad de mantener la soberanía tecnológica frente a rivales como China.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el ciudadano, la carrera por más capacidad de IA se traduce en cambios en precios de servicios digitales y en la disponibilidad de empleos vinculados a la nube y la telecomunicación. En los próximos días, vigile la aprobación regulatoria de más satélites y cualquier anuncio de inversión masiva en centros de datos, ya que marcarán la dirección del mercado y la seguridad de datos.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2c76/live/9f54a560-e956-11f1-a629-63e812fa871f.jpg\" alt=\"Jensen Huang vuelve al mando de Nvidia mientras la caída de Anthropic y la demanda de OpenAI contra Apple sacuden al sector de IA.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Jensen Huang vuelve al mando de Nvidia mientras la caída de Anthropic y la demanda de OpenAI contra Apple sacuden al sector de IA.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas resaltan la falta de ética de Huang, su admisión de violar el código de conducta y el papel de Trump al forzar su reincorporación, presentándolo como un problema de gobernanza corporativa y de influencia política. También advierten que la caída de la acción de Anthropic podría frenar la inversión en startups emergentes, subrayando el riesgo de una burbuja de capital en IA. El proceso judicial contra Apple se enmarca como un ejemplo de abuso de poder de las grandes tecnológicas contra la competencia.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los reportes de la BBC se limitan a describir los hechos: la sorpresa del regreso de Huang, la volatilidad de las acciones asiáticas vinculada a Nvidia y la acusación de OpenAI contra Apple por supuestos robos de secretos. No ofrecen juicios de valor, sino que señalan los posibles efectos en los mercados y en la competencia tecnológica. Se mantiene una postura descriptiva y plantea preguntas sobre el futuro de la inversión en IA.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">No se encontró cobertura de medios conservadores o de derechas en los artículos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el inversor promedio, la turbulencia en Nvidia y Anthropic afecta directamente los precios de acciones y la disponibilidad de capital para proyectos de IA. Además, la disputa legal entre OpenAI y Apple podría redefinir cómo se protegen y comparten los secretos tecnológicos, influyendo en los productos que usamos día a día. En los próximos días, vigile el movimiento del precio de Nvidia, la evolución del caso judicial y cualquier anuncio de financiación para startups de IA.</p>"
+        },
+        {
+          "id": "topic-3",
+          "headline": "IA se infiltra en juegos, visión y matemáticas: clonar GTA 6, implantes de vista y respuestas sin comprensión",
+          "summary": "Jugadores usan modelos de IA y archivos filtrados para recrear versiones no oficiales de Grand Theft Auto 6, mientras investigadores de UC Santa Barbara prueban un ojo biónico que traduce señales cerebrales en destellos visuales, y matemáticos critican que la IA ofrece soluciones sin explicar el razonamiento. Estas aplicaciones ponen en debate la ética y el valor práctico de la tecnología.",
+          "tags": [
+            "#IA",
+            "#gaming",
+            "#salud",
+            "#matemáticas"
+          ],
+          "source_ids": [
+            4,
+            6,
+            8
+          ],
+          "sources": [
+            {
+              "source": "Neutral (BBC Tech)",
+              "title": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
+              "url": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "source": "Right (Fox Tech)",
+              "title": "AI bionic eye breakthrough could help restore sight",
+              "url": "https://www.foxnews.com/tech/ai-bionic-eye-breakthrough-restore-sight"
+            },
+            {
+              "source": "Left (NYT Tech)",
+              "title": "How A.I. Is Transforming Mathematics",
+              "url": "https://www.nytimes.com/2026/11/27/podcasts/hardfork-terence-tao.html"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4da6/live/634898f0-ea88-11f1-99b6-a35a62fa4264.jpg",
+            "imageSearchQuery": "AI clone GTA 6 leak",
+            "caption": "Jugadores usan IA para recrear GTA 6 mientras la ciencia abre la vista y la matemática pierde intuición.",
+            "biasLeft": "Los medios progresistas subrayan que la IA está entregando resultados sin comprensión, lo que podría erosionar la capacidad humana para razonar en matemáticas y generar una dependencia peligrosa. Además, advierten sobre la falta de transparencia en los algoritmos que alimentan estas respuestas.",
+            "biasNeutral": "El informe neutral describe cómo jugadores combinan inteligencia artificial con archivos filtrados para reproducir una versión no oficial de GTA 6, señalando que la versión oficial para PC aún puede tardar meses. El texto se limita a los hechos: la técnica usada, la reacción de la comunidad y la ausencia de un lanzamiento oficial.",
+            "biasRight": "Los medios conservadores resaltan el potencial económico y sanitario del ojo biónico impulsado por IA, al lograr fosfenos más predecibles con menos energía. Enfatizan que la innovación podría posicionar a EE. UU. como líder en neurotecnología y ofrecer una solución práctica a la ceguera.",
+            "reflection": "La gente verá cómo la IA transforma lo que jugamos, cómo vemos y cómo aprendemos, lo que afecta tanto su entretenimiento como su salud. En los próximos días habrá que vigilar si aparecen más versiones piratas de GTA 6 y si se anuncian ensayos clínicos o aprobaciones regulatorias del implante ocular. Estos indicadores mostrarán la velocidad con la que la IA se está integrando en la vida cotidiana."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4da6/live/634898f0-ea88-11f1-99b6-a35a62fa4264.jpg\" alt=\"Jugadores usan IA para recrear GTA 6 mientras la ciencia abre la vista y la matemática pierde intuición.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Jugadores usan IA para recrear GTA 6 mientras la ciencia abre la vista y la matemática pierde intuición.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan que la IA está entregando resultados sin comprensión, lo que podría erosionar la capacidad humana para razonar en matemáticas y generar una dependencia peligrosa. Además, advierten sobre la falta de transparencia en los algoritmos que alimentan estas respuestas.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">El informe neutral describe cómo jugadores combinan inteligencia artificial con archivos filtrados para reproducir una versión no oficial de GTA 6, señalando que la versión oficial para PC aún puede tardar meses. El texto se limita a los hechos: la técnica usada, la reacción de la comunidad y la ausencia de un lanzamiento oficial.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores resaltan el potencial económico y sanitario del ojo biónico impulsado por IA, al lograr fosfenos más predecibles con menos energía. Enfatizan que la innovación podría posicionar a EE. UU. como líder en neurotecnología y ofrecer una solución práctica a la ceguera.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>La gente verá cómo la IA transforma lo que jugamos, cómo vemos y cómo aprendemos, lo que afecta tanto su entretenimiento como su salud. En los próximos días habrá que vigilar si aparecen más versiones piratas de GTA 6 y si se anuncian ensayos clínicos o aprobaciones regulatorias del implante ocular. Estos indicadores mostrarán la velocidad con la que la IA se está integrando en la vida cotidiana.</p>"
+        },
+        {
+          "id": "topic-4",
+          "headline": "El secretario de Transporte Sean Duffy piloteó un Jetson ONE de $148 000 sobre el Kennedy Space Center",
+          "summary": "Duffy realizó un vuelo solitario con el vehículo eléctrico de despegue y aterrizaje vertical, mostrando el potencial de los eVTOLs, y dos días después cinco de estos aparatos surcaron el cielo en un espectáculo público. El episodio subraya el creciente interés por la movilidad aérea urbana.",
+          "tags": [
+            "#eVTOL",
+            "#aviación",
+            "#tecnología"
+          ],
+          "source_ids": [
+            2
+          ],
+          "sources": [
+            {
+              "source": "Right (Fox Tech)",
+              "title": "Transportation secretary Sean Duffy flies $148K Jetson ONE at NASA",
+              "url": "https://www.foxnews.com/tech/transportation-secretary-sean-duffy-flies-148k-jetson-one-nasa"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/duffy-jetson-one-nasa-001.jpg",
+            "imageSearchQuery": "Sean Duffy Jetson ONE Kennedy Space Center flight",
+            "caption": "El secretario de Transporte Sean Duffy piloteó solo el Jetson ONE de 148 000  dólares sobre el Kennedy Space Center.",
+            "biasLeft": "No hay cobertura de medios progresistas o de izquierda en los artículos proporcionados.",
+            "biasNeutral": "No se encontró ninguna fuente centrista o neutral que haya abordado este hecho en los textos entregados.",
+            "biasRight": "Los medios conservadores resaltan la apuesta del gobierno por la innovación tecnológica, subrayando el potencial económico de los eVTOLs y la capacidad de EE. UU. para liderar la aviación urbana. También se enfoca en la imagen de un secretario que se prueba a sí mismo los productos que podrían impulsar la competitividad industrial del país.",
+            "reflection": "Este episodio muestra que un alto funcionario está validando públicamente la tecnología eVTOL, lo que podría traducirse en apoyo regulatorio y financiamiento. En los próximos días, habrá que vigilar cualquier anuncio de políticas o incentivos federales relacionados con la movilidad aérea eléctrica."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static.foxnews.com/foxnews.com/content/uploads/2026/11/duffy-jetson-one-nasa-001.jpg\" alt=\"El secretario de Transporte Sean Duffy piloteó solo el Jetson ONE de 148 000  dólares sobre el Kennedy Space Center.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El secretario de Transporte Sean Duffy piloteó solo el Jetson ONE de 148 000  dólares sobre el Kennedy Space Center.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">No hay cobertura de medios progresistas o de izquierda en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">No se encontró ninguna fuente centrista o neutral que haya abordado este hecho en los textos entregados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores resaltan la apuesta del gobierno por la innovación tecnológica, subrayando el potencial económico de los eVTOLs y la capacidad de EE. UU. para liderar la aviación urbana. También se enfoca en la imagen de un secretario que se prueba a sí mismo los productos que podrían impulsar la competitividad industrial del país.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Este episodio muestra que un alto funcionario está validando públicamente la tecnología eVTOL, lo que podría traducirse en apoyo regulatorio y financiamiento. En los próximos días, habrá que vigilar cualquier anuncio de políticas o incentivos federales relacionados con la movilidad aérea eléctrica.</p>"
+        },
+        {
+          "id": "topic-5",
+          "headline": "Escasez de técnicos de ascensores: la demanda supera la oferta pese a salarios atractivos",
+          "summary": "Los elevadores, esenciales en edificios modernos, carecen de profesionales capacitados, lo que genera retrasos en mantenimientos y nuevas instalaciones. La falta se debe a la baja cantidad de programas de formación y al envejecimiento de la fuerza laboral actual.",
+          "tags": [
+            "#trabajo",
+            "#elevadores",
+            "#cursos"
+          ],
+          "source_ids": [
+            9
+          ],
+          "sources": [
+            {
+              "source": "Neutral (BBC Tech)",
+              "title": "Why is there a shortage of 'wizard' elevator mechanics?",
+              "url": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss"
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8c0e/live/0c8a5940-e7e0-11f1-99a1-253766e7ad8b.jpg",
+            "imageSearchQuery": "elevator mechanic shortage high wages",
+            "caption": "La escasez de técnicos de ascensores deja a los edificios sin la atención rápida que demandan los usuarios.",
+            "biasLeft": "Los medios de izquierda no cubren este tema en los artículos proporcionados.",
+            "biasNeutral": "Los medios centristas se centran en los datos: hay mucha demanda y buenos salarios, pero la oferta de técnicos sigue siendo insuficiente. Analizan posibles causas estructurales como la falta de programas de aprendizaje y la edad de la plantilla actual.",
+            "biasRight": "Los medios de derecha no cubren este tema en los artículos proporcionados.",
+            "reflection": "Para el ciudadano común, la falta de técnicos puede traducirse en esperas más largas y tarifas más altas al reparar un ascensor. En los próximos días, vigile los anuncios de aumentos salariales o de nuevas iniciativas de formación que intenten equilibrar la oferta y la demanda."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8c0e/live/0c8a5940-e7e0-11f1-99a1-253766e7ad8b.jpg\" alt=\"La escasez de técnicos de ascensores deja a los edificios sin la atención rápida que demandan los usuarios.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La escasez de técnicos de ascensores deja a los edificios sin la atención rápida que demandan los usuarios.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios de izquierda no cubren este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas se centran en los datos: hay mucha demanda y buenos salarios, pero la oferta de técnicos sigue siendo insuficiente. Analizan posibles causas estructurales como la falta de programas de aprendizaje y la edad de la plantilla actual.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios de derecha no cubren este tema en los artículos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el ciudadano común, la falta de técnicos puede traducirse en esperas más largas y tarifas más altas al reparar un ascensor. En los próximos días, vigile los anuncios de aumentos salariales o de nuevas iniciativas de formación que intenten equilibrar la oferta y la demanda.</p>"
         }
       ],
       "rawCount": 15
@@ -383,61 +442,32 @@
       "items": [
         {
           "id": "topic-1",
-          "headline": "Wall Street registra su mayor alza semanal en más de un año durante la semana corta de Acción de Gracias",
-          "summary": "Los inversores impulsaron al alza al S&P 500 y al Dow Jones, recuperando pérdidas anteriores y revitalizando las acciones de IA tras una semana de negociación reducida. Este repunte brinda alivio a los mercados y a los ahorradores que temían una caída prolongada.",
-          "tags": [
-            "#WallStreet",
-            "#Mercados",
-            "#IA"
-          ],
-          "source_ids": [
-            0,
-            2,
-            13
-          ],
-          "sources": [
-            {
-              "source": "Right (Fox Business)",
-              "title": "Wall Street stages major comeback during Thanksgiving-shortened trading week",
-              "url": "https://www.foxbusiness.com/markets/wall-street-stages-major-comeback-thanksgiving-shortened-trading-week"
-            },
-            {
-              "source": "Left (NYT Business)",
-              "title": "Stocks Rally at End of a Week of Wild Swings",
-              "url": "https://www.nytimes.com/2026/11/27/business/stocks-tech-stocks-ai.html"
-            },
-            {
-              "source": "Right (Fox Business)",
-              "title": "Dow closes higher after erasing 1,100-point loss as S&P 500, Nasdaq slip",
-              "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026"
-            }
-          ],
-          "deepDive": {
-            "imageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/wall-street-ai-stock-market-crash-2026.jpg?ve=1&tl=1",
-            "imageSearchQuery": "Wall Street Thanksgiving week rally AI stocks",
-            "caption": "El S&P 500 cerró la semana corta de Acción de Gracias con su mayor alza semanal en más de un año, impulsado por una recuperación de las acciones de IA.",
-            "biasLeft": "Los medios progresistas subrayan la volatilidad que marcó la semana, enfatizando que los altibajos siguen exponiendo la fragilidad del mercado para los pequeños inversores. Señalan que, pese al repunte, la incertidumbre persiste y podría afectar a los trabajadores dependientes de la tecnología.",
-            "biasNeutral": "Los reportes neutrales se limitan a reportar los números: un salto del S&P 500 y la recuperación del Dow, sin entrar en interpretaciones ideológicas. Se enfocan en los datos de cierre y en la reducción de pérdidas previas.",
-            "biasRight": "Los conservadores resaltan la fuerza del mercado al revertir una caída de 1.100 puntos del Dow y el regreso de los inversores a las acciones de IA, presentándolo como un signo de resiliencia económica estadounidense. Enfatizan la capacidad del sector privado para recuperarse rápidamente después de la turbulencia.",
-            "reflection": "Para el ciudadano de a pie, este rebote indica que las carteras vinculadas al índice S&P podrían haber mejorado su valor reciente, pero la volatilidad sigue siendo un riesgo. En los próximos días, vigile la evolución de los precios de las acciones de IA y cualquier señal de nuevo impulso o retroceso en el Dow."
-          },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/wall-street-ai-stock-market-crash-2026.jpg?ve=1&amp;tl=1\" alt=\"El S&amp;P 500 cerró la semana corta de Acción de Gracias con su mayor alza semanal en más de un año, impulsado por una recuperación de las acciones de IA.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El S&amp;P 500 cerró la semana corta de Acción de Gracias con su mayor alza semanal en más de un año, impulsado por una recuperación de las acciones de IA.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan la volatilidad que marcó la semana, enfatizando que los altibajos siguen exponiendo la fragilidad del mercado para los pequeños inversores. Señalan que, pese al repunte, la incertidumbre persiste y podría afectar a los trabajadores dependientes de la tecnología.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los reportes neutrales se limitan a reportar los números: un salto del S&amp;P 500 y la recuperación del Dow, sin entrar en interpretaciones ideológicas. Se enfocan en los datos de cierre y en la reducción de pérdidas previas.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los conservadores resaltan la fuerza del mercado al revertir una caída de 1.100 puntos del Dow y el regreso de los inversores a las acciones de IA, presentándolo como un signo de resiliencia económica estadounidense. Enfatizan la capacidad del sector privado para recuperarse rápidamente después de la turbulencia.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el ciudadano de a pie, este rebote indica que las carteras vinculadas al índice S&amp;P podrían haber mejorado su valor reciente, pero la volatilidad sigue siendo un riesgo. En los próximos días, vigile la evolución de los precios de las acciones de IA y cualquier señal de nuevo impulso o retroceso en el Dow.</p>"
-        },
-        {
-          "id": "topic-2",
-          "headline": "Jensen Huang vuelve a la cabeza de Nvidia, lo que calma la incertidumbre en el sector de IA",
-          "summary": "Tras renunciar y regresar en menos de dos semanas, Huang elimina el riesgo de ‘key‑man’ y sus acciones repuntan, mientras los mercados asiáticos experimentan volatilidad. La decisión del consejo es vista como una señal de estabilidad para los inversores en tecnología.",
+          "headline": "Nvidia restaura a Jensen Huang como CEO tras 11 días de ausencia, impulsando la confianza de los inversionistas",
+          "summary": "La reinserción de Huang ha eliminado la incertidumbre sobre la dirección de la empresa, lo que llevó a un repunte inmediato en el precio de las acciones y a una mayor estabilidad en el sector de inteligencia artificial. Los mercados perciben que la continuidad del liderazgo puede ser clave para mantener la ventaja competitiva de Nvidia frente a la competencia.",
           "tags": [
             "#Nvidia",
             "#JensenHuang",
-            "#IA"
+            "#IA",
+            "#Bolsa"
           ],
           "source_ids": [
+            1,
+            2,
             6,
             10,
             14
           ],
           "sources": [
+            {
+              "source": "Left (NYT Business)",
+              "title": "A.I. Companies Race for Space in New York, a City That Doesn’t Have Much of It",
+              "url": "https://www.nytimes.com/2026/11/28/business/ai-offices-nyc-perplexity.html"
+            },
+            {
+              "source": "Right (Fox Business)",
+              "title": "Wall Street stages major comeback during Thanksgiving-shortened trading week",
+              "url": "https://www.foxbusiness.com/markets/wall-street-stages-major-comeback-thanksgiving-shortened-trading-week"
+            },
             {
               "source": "Right (Fox Business)",
               "title": "Are tech founders and CEOs 'too big to fail?' Jensen Huang’s Nvidia return sparks debate",
@@ -455,71 +485,96 @@
             }
           ],
           "deepDive": {
-            "imageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/jensen-huang-stage-open-arms.jpg?ve=1&tl=1",
-            "imageSearchQuery": "Jensen Huang return Nvidia CEO stock surge AI market",
-            "caption": "Jensen Huang retoma el cargo de CEO de Nvidia mientras las acciones se disparan, calmando la incertidumbre del sector de IA.",
-            "biasLeft": "Ninguna de las fuentes proviene de medios progresistas; no se encontró cobertura de izquierda sobre este tema en los artículos suministrados.",
-            "biasNeutral": "BBC se centra en el efecto de la decisión sobre los mercados asiáticos, describiendo la volatilidad de las acciones locales y planteando preguntas sobre el futuro de las inversiones en IA en la región.",
-            "biasRight": "Fox Business destaca el riesgo de depender de una sola figura (“key‑man risk”) y la falta de sucesión en grandes tecnológicas, pero también subraya que la reincorporación de Huang elimina una gran sombra sobre el comercio de IA y favorece a Wall Street.",
-            "reflection": "Para el inversor medio, el regreso de Huang indica que Nvidia sigue siendo el motor principal del auge de la IA, lo que puede traducirse en oportunidades y riesgos en sus carteras. En los próximos días, vigile el movimiento del precio de Nvidia y cualquier señal de nuevas decisiones estratégicas que afecten a los mercados asiáticos."
+            "imageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/jensen-huang-stage-open-arms.jpg",
+            "imageSearchQuery": "Jensen Huang Nvidia CEO return",
+            "caption": "Jensen Huang vuelve a encabezar Nvidia tras 11 días de ausencia, reforzando la confianza de los inversores",
+            "biasLeft": "La cobertura de izquierda no cubre este tema en los artículos presentados. El contenido disponible no presenta una visión progresista sobre la gestión del liderazgo corporativo.",
+            "biasNeutral": "El informe destaca que las acciones asiáticas de Nvidia han oscilado después de la inesperada reanudación del CEO Jensen Huang. El artículo plantea la pregunta sobre los próximos pasos en un mercado dominado por la IA, sin emitir juicios de valor.",
+            "biasRight": "Los reportes conservadores resaltan que el regreso de Huang elimina un riesgo de \"key‑man\", reforzando la posición de Nvidia en la carrera de IA. Además, señalan que la medida reduce la incertidumbre para Wall Street y puede impulsar la confianza en las acciones tecnológicas. Se percibe como un acto que consolida la soberanía corporativa frente a la volatilidad del mercado.",
+            "reflection": "Para los inversores, la reinstauración de Huang significa menor riesgo de liderazgo y una señal de estabilidad en el sector de IA, lo que podría traducirse en mayor apetito por acciones tecnológicas. En los próximos días, los traders deberían vigitar la reacción de la volatilidad en los índices de tecnología y los movimientos de los fondos de renta variable que siguen de cerca a Nvidia."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/jensen-huang-stage-open-arms.jpg?ve=1&amp;tl=1\" alt=\"Jensen Huang retoma el cargo de CEO de Nvidia mientras las acciones se disparan, calmando la incertidumbre del sector de IA.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Jensen Huang retoma el cargo de CEO de Nvidia mientras las acciones se disparan, calmando la incertidumbre del sector de IA.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Ninguna de las fuentes proviene de medios progresistas; no se encontró cobertura de izquierda sobre este tema en los artículos suministrados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">BBC se centra en el efecto de la decisión sobre los mercados asiáticos, describiendo la volatilidad de las acciones locales y planteando preguntas sobre el futuro de las inversiones en IA en la región.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Fox Business destaca el riesgo de depender de una sola figura (“key‑man risk”) y la falta de sucesión en grandes tecnológicas, pero también subraya que la reincorporación de Huang elimina una gran sombra sobre el comercio de IA y favorece a Wall Street.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el inversor medio, el regreso de Huang indica que Nvidia sigue siendo el motor principal del auge de la IA, lo que puede traducirse en oportunidades y riesgos en sus carteras. En los próximos días, vigile el movimiento del precio de Nvidia y cualquier señal de nuevas decisiones estratégicas que afecten a los mercados asiáticos.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/jensen-huang-stage-open-arms.jpg\" alt=\"Jensen Huang vuelve a encabezar Nvidia tras 11 días de ausencia, reforzando la confianza de los inversores\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Jensen Huang vuelve a encabezar Nvidia tras 11 días de ausencia, reforzando la confianza de los inversores</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">La cobertura de izquierda no cubre este tema en los artículos presentados. El contenido disponible no presenta una visión progresista sobre la gestión del liderazgo corporativo.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">El informe destaca que las acciones asiáticas de Nvidia han oscilado después de la inesperada reanudación del CEO Jensen Huang. El artículo plantea la pregunta sobre los próximos pasos en un mercado dominado por la IA, sin emitir juicios de valor.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los reportes conservadores resaltan que el regreso de Huang elimina un riesgo de &quot;key‑man&quot;, reforzando la posición de Nvidia en la carrera de IA. Además, señalan que la medida reduce la incertidumbre para Wall Street y puede impulsar la confianza en las acciones tecnológicas. Se percibe como un acto que consolida la soberanía corporativa frente a la volatilidad del mercado.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para los inversores, la reinstauración de Huang significa menor riesgo de liderazgo y una señal de estabilidad en el sector de IA, lo que podría traducirse en mayor apetito por acciones tecnológicas. En los próximos días, los traders deberían vigitar la reacción de la volatilidad en los índices de tecnología y los movimientos de los fondos de renta variable que siguen de cerca a Nvidia.</p>"
         },
         {
-          "id": "topic-3",
-          "headline": "NBC retira un anuncio que varios calificaron de antisemita tras emitirse en SNL",
-          "summary": "El comercial, que apareció en un especial de sábado por la noche, generó críticas por supuestos mensajes antisemitas y la cadena decidió retirarlo del aire. El episodio reaviva el debate sobre la responsabilidad de los medios en la representación de minorías.",
+          "id": "topic-2",
+          "headline": "Wall Street vuelve a crecer tras una semana de pérdidas, con el S&P 500 recuperando más de 1.100 puntos",
+          "summary": "Los mercados estadounidenses se recuperaron después de una fuerte caída, impulsados por la mejora en las acciones de IA y la confianza de los inversores en el ritmo económico. Esta recuperación es importante para los fondos de pensiones y el valor de mercado de empresas tecnológicas.",
           "tags": [
-            "#NBC",
-            "#Antisemitismo",
-            "#Publicidad"
+            "#WallStreet",
+            "#S&P500",
+            "#IA",
+            "#Mercados"
           ],
           "source_ids": [
-            1
+            2,
+            13
           ],
           "sources": [
             {
-              "source": "Left (NYT Business)",
-              "title": "NBC Pulls an Ad That Some Described as Antisemitic",
-              "url": "https://www.nytimes.com/2026/11/27/business/media/nbc-ad-snl.html"
+              "source": "Right (Fox Business)",
+              "title": "Wall Street stages major comeback during Thanksgiving-shortened trading week",
+              "url": "https://www.foxbusiness.com/markets/wall-street-stages-major-comeback-thanksgiving-shortened-trading-week"
+            },
+            {
+              "source": "Right (Fox Business)",
+              "title": "Dow closes higher after erasing 1,100-point loss as S&P 500, Nasdaq slip",
+              "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://static01.nyt.com/images/2026/11/27/multimedia/27biz-nbc-ad-hwfc/27biz-nbc-ad-hwfc-mediumSquareAt3X.jpg",
-            "imageSearchQuery": "NBC advertisement SNL antisemitic controversy",
-            "caption": "El anuncio de NBC, emitido durante el especial navideño de SNL, fue retirado tras las acusaciones de antisemitismo.",
-            "biasLeft": "Los medios progresistas subrayan la responsabilidad de las corporaciones en combatir el antisemitismo y destacan el daño que la representación estereotipada causa a la comunidad judía. Señalan la rapidez de la reacción de NBC como una victoria de la presión social y de los grupos de defensa de derechos humanos.",
-            "biasNeutral": "No se encontraron fuentes neutrales que cubran este tema en los artículos proporcionados.",
-            "biasRight": "No se encontraron fuentes conservadoras que cubran este tema en los artículos proporcionados.",
-            "reflection": "Este episodio muestra cómo la publicidad puede convertirse en un foco de conflicto cultural, obligando a las marcas a vigilar sus mensajes. En los próximos días, habrá que observar si otras redes o anunciantes revisan su contenido ante críticas similares y cómo evoluciona el debate sobre la censura y la libertad de expresión."
+            "imageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/wall-street-ai-stock-market-crash-2026.jpg?ve=1&tl=1",
+            "imageSearchQuery": "Wall Street S&P 500 rebound Thanksgiving week AI stocks",
+            "caption": "El S&P 500 recupera más de 1.100 puntos en una semana corta de Thanksgiving, impulsado por el retorno a las acciones de IA.",
+            "biasLeft": "Los medios progresistas no cubren este tema en los artículos proporcionados.",
+            "biasNeutral": "Los medios centristas no aparecen en los artículos proporcionados.",
+            "biasRight": "Los medios conservadores resaltan la rapidez del repunte del mercado, subrayando la resiliencia de los inversores y la recuperación de las acciones de IA como señal de que la economía sigue fuerte pese a la caída anterior.",
+            "reflection": "Para el ciudadano de a pie, el rebote del S&P 500 indica que las pérdidas recientes pueden estar retrocediendo, lo que podría traducirse en mayor confianza para inversiones y empleo. En los próximos días, vigile si el índice mantiene su impulso o si vuelve a caer, y preste atención a los datos de ganancias de compañías de IA."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/27/multimedia/27biz-nbc-ad-hwfc/27biz-nbc-ad-hwfc-mediumSquareAt3X.jpg\" alt=\"El anuncio de NBC, emitido durante el especial navideño de SNL, fue retirado tras las acusaciones de antisemitismo.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El anuncio de NBC, emitido durante el especial navideño de SNL, fue retirado tras las acusaciones de antisemitismo.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas subrayan la responsabilidad de las corporaciones en combatir el antisemitismo y destacan el daño que la representación estereotipada causa a la comunidad judía. Señalan la rapidez de la reacción de NBC como una victoria de la presión social y de los grupos de defensa de derechos humanos.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">No se encontraron fuentes neutrales que cubran este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">No se encontraron fuentes conservadoras que cubran este tema en los artículos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Este episodio muestra cómo la publicidad puede convertirse en un foco de conflicto cultural, obligando a las marcas a vigilar sus mensajes. En los próximos días, habrá que observar si otras redes o anunciantes revisan su contenido ante críticas similares y cómo evoluciona el debate sobre la censura y la libertad de expresión.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/wall-street-ai-stock-market-crash-2026.jpg?ve=1&amp;tl=1\" alt=\"El S&amp;P 500 recupera más de 1.100 puntos en una semana corta de Thanksgiving, impulsado por el retorno a las acciones de IA.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">El S&amp;P 500 recupera más de 1.100 puntos en una semana corta de Thanksgiving, impulsado por el retorno a las acciones de IA.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas no cubren este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas no aparecen en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios conservadores resaltan la rapidez del repunte del mercado, subrayando la resiliencia de los inversores y la recuperación de las acciones de IA como señal de que la economía sigue fuerte pese a la caída anterior.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el ciudadano de a pie, el rebote del S&amp;P 500 indica que las pérdidas recientes pueden estar retrocediendo, lo que podría traducirse en mayor confianza para inversiones y empleo. En los próximos días, vigile si el índice mantiene su impulso o si vuelve a caer, y preste atención a los datos de ganancias de compañías de IA.</p>"
         },
         {
-          "id": "topic-4",
-          "headline": "Los consumidores buscan confort en la TV retro, compras de influencers y cenas en solitario",
-          "summary": "Ante la fatiga de la sobrecarga de contenido nuevo, la audiencia prefiere series clásicas, mientras las marcas invierten en influencers para Black Friday y el ‘solo‑dining’ se consolida como tendencia de autocuidado. Estos cambios reflejan una búsqueda de familiaridad y control en el consumo post‑pandemia.",
+          "id": "topic-3",
+          "headline": "Los influencers se convierten en piezas clave de las campañas de Black Friday y Cyber Monday",
+          "summary": "Las marcas pagan precios elevados a celebridades en redes sociales para promocionar descuentos en grandes días de compras, lo que cambia la dinámica de marketing y aumenta la dependencia de la publicidad digital. Los consumidores, a su vez, sienten que los influencers pueden afectar sus decisiones de compra.",
           "tags": [
-            "#Consumo",
-            "#Entretenimiento",
-            "#AutoCuidado"
+            "#BlackFriday",
+            "#Influencers",
+            "#MarketingDigital"
           ],
           "source_ids": [
-            3,
-            4,
-            7
+            4
           ],
           "sources": [
-            {
-              "source": "Left (NYT Business)",
-              "title": "It’s Boom Times for Old TV Shows. New TV, Not So Much.",
-              "url": "https://www.nytimes.com/2026/11/27/business/media/old-tv-shows-mad-men.html"
-            },
             {
               "source": "Left (NYT Business)",
               "title": "Black Friday Deals and Holiday Sales Are Big Money for Influencers",
               "url": "https://www.nytimes.com/2026/11/27/business/influencers-black-friday-deals-holiday-shopping.html"
-            },
+            }
+          ],
+          "deepDive": {
+            "imageUrl": "https://static01.nyt.com/images/2026/11/30/multimedia/27biz-influencer-holiday-shopping-mcvk/27biz-influencer-holiday-shopping-mcvk-mediumSquareAt3X.jpg",
+            "imageSearchQuery": "Black Friday influencer marketing video",
+            "caption": "Influencers promocionan los descuentos de Black Friday en videos que inundan Instagram y TikTok, mientras las marcas les pagan cifras millonarias.",
+            "biasLeft": "Los medios progresistas resaltan que las marcas están pagando sumas elevadas a los influencers, convirtiendo la cultura de consumo en una maquinaria de lucro que explota la credibilidad de jóvenes creadores. Subrayan el riesgo de que esta estrategia refuerce desigualdades y fomente un consumo impulsivo bajo la apariencia de contenido auténtico.",
+            "biasNeutral": "No se encontró cobertura de medios centristas sobre este tema.",
+            "biasRight": "No se encontró cobertura de medios conservadores sobre este tema.",
+            "reflection": "Para el consumidor, la presencia de influencers determina en gran medida qué ofertas buscar y puede inflar el gasto impulsivo durante el fin de semana de descuentos. En los próximos días, vigila cuántos códigos de descuento patrocinados aparecen en los videos y cómo varían los precios mostrados, ya que son señales de la intensidad de la campaña y de su impacto en tu bolsillo."
+          },
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/30/multimedia/27biz-influencer-holiday-shopping-mcvk/27biz-influencer-holiday-shopping-mcvk-mediumSquareAt3X.jpg\" alt=\"Influencers promocionan los descuentos de Black Friday en videos que inundan Instagram y TikTok, mientras las marcas les pagan cifras millonarias.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Influencers promocionan los descuentos de Black Friday en videos que inundan Instagram y TikTok, mientras las marcas les pagan cifras millonarias.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas resaltan que las marcas están pagando sumas elevadas a los influencers, convirtiendo la cultura de consumo en una maquinaria de lucro que explota la credibilidad de jóvenes creadores. Subrayan el riesgo de que esta estrategia refuerce desigualdades y fomente un consumo impulsivo bajo la apariencia de contenido auténtico.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">No se encontró cobertura de medios centristas sobre este tema.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">No se encontró cobertura de medios conservadores sobre este tema.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el consumidor, la presencia de influencers determina en gran medida qué ofertas buscar y puede inflar el gasto impulsivo durante el fin de semana de descuentos. En los próximos días, vigila cuántos códigos de descuento patrocinados aparecen en los videos y cómo varían los precios mostrados, ya que son señales de la intensidad de la campaña y de su impacto en tu bolsillo.</p>"
+        },
+        {
+          "id": "topic-4",
+          "headline": "El comer solo se vuelve ritual de autocuidado y transforma la industria de restaurantes",
+          "summary": "Cada vez más personas disfrutan de cenas en solitario como una forma de relajación y reflexión, lo que impulsa a los restaurantes a adaptar menús y espacios para atraer a este nicho. La tendencia también refleja cambios en la vida social y la búsqueda de bienestar personal.",
+          "tags": [
+            "#Autocuidado",
+            "#Restaurantes",
+            "#ComidaSolo"
+          ],
+          "source_ids": [
+            7
+          ],
+          "sources": [
             {
               "source": "Neutral (BBC Business)",
               "title": "My self-care ritual is a meal at a fancy restaurant - on my own",
@@ -527,69 +582,45 @@
             }
           ],
           "deepDive": {
-            "imageUrl": "https://static01.nyt.com/images/2026/11/27/business/00biz-library-tv/00biz-library-tv-mediumSquareAt3X.jpg",
-            "imageSearchQuery": "retro TV streaming comfort, influencer Black Friday sales, solo dining self-care",
-            "caption": "La nostalgia de series clásicas conforta a la audiencia, los influencers impulsan las ofertas de Black Friday y cada vez más personas eligen una cena solitaria como ritual de autocuidado.",
-            "biasLeft": "Los medios progresistas resaltan el agotamiento de decisiones y la búsqueda de consuelo como síntomas de una sobrecarga mediática, subrayando el papel de la nostalgia en la salud mental. También critican la creciente dependencia de los influencers para impulsar el consumo durante las fiestas, señalando desigualdades en la exposición publicitaria. Finalmente, enmarcan la cena en solitario como una forma de resistencia contra la presión social de consumo constante.",
-            "biasNeutral": "Los medios centristas describen los hechos: la caída de nuevas series, el aumento de campañas con influencers en Black Friday y la tendencia de comer solo como parte del autocuidado. Informan sobre los números de ventas y la respuesta del sector restaurantero sin tomar una posición clara. Además, plantean preguntas sobre si estos hábitos persistirán después de la temporada festiva.",
-            "biasRight": "Los artículos de la derecha no abordaron este tema en los ejemplos proporcionados.",
-            "reflection": "Para el consumidor, entender por qué se inclina hacia la TV retro o una cena a solas ayuda a reconocer sus propias necesidades de descanso frente al bombardeo publicitario. En los próximos días, vigile cómo evolucionan las ofertas de influencers y si los restaurantes anuncian más opciones para comensales solitarios, indicadores de cómo se están adaptando los mercados a estos hábitos."
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4715/live/6ec7a880-ea5e-11f1-99b6-a35a62fa4264.png",
+            "imageSearchQuery": "solo dining self-care restaurant trend",
+            "caption": "Una mujer disfruta sola de un plato gourmet, reflejando el crecimiento del comer en solitario como ritual de autocuidado.",
+            "biasLeft": "Los artículos de izquierda no aparecen en la muestra proporcionada; por lo tanto, no hay énfasis de medios progresistas sobre este tema.",
+            "biasNeutral": "Los medios neutrales describen cómo cenar solo se ha convertido en una práctica de autocuidado y cómo los restaurantes están adaptando sus menús y espacios para atender a comensales individuales. Se citan ejemplos de establecimientos que ofrecen experiencias personalizadas para una sola persona. También se menciona el impacto económico positivo para el sector al atraer a clientes que antes evitaban salir solos.",
+            "biasRight": "Los artículos de derecha no están presentes en los materiales suministrados; en consecuencia, no se observan enfoques conservadores sobre la cuestión.",
+            "reflection": "Para el consumidor, este cambio significa que puede disfrutar de una comida de calidad sin compañía y sin sentir vergüenza, lo que amplía sus opciones de ocio. En los próximos días, conviene observar si más restaurantes lanzan menús exclusivos para una persona y si aumentan las reservas individuales en plataformas de reserva."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/27/business/00biz-library-tv/00biz-library-tv-mediumSquareAt3X.jpg\" alt=\"La nostalgia de series clásicas conforta a la audiencia, los influencers impulsan las ofertas de Black Friday y cada vez más personas eligen una cena solitaria como ritual de autocuidado.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">La nostalgia de series clásicas conforta a la audiencia, los influencers impulsan las ofertas de Black Friday y cada vez más personas eligen una cena solitaria como ritual de autocuidado.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas resaltan el agotamiento de decisiones y la búsqueda de consuelo como síntomas de una sobrecarga mediática, subrayando el papel de la nostalgia en la salud mental. También critican la creciente dependencia de los influencers para impulsar el consumo durante las fiestas, señalando desigualdades en la exposición publicitaria. Finalmente, enmarcan la cena en solitario como una forma de resistencia contra la presión social de consumo constante.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas describen los hechos: la caída de nuevas series, el aumento de campañas con influencers en Black Friday y la tendencia de comer solo como parte del autocuidado. Informan sobre los números de ventas y la respuesta del sector restaurantero sin tomar una posición clara. Además, plantean preguntas sobre si estos hábitos persistirán después de la temporada festiva.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los artículos de la derecha no abordaron este tema en los ejemplos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el consumidor, entender por qué se inclina hacia la TV retro o una cena a solas ayuda a reconocer sus propias necesidades de descanso frente al bombardeo publicitario. En los próximos días, vigile cómo evolucionan las ofertas de influencers y si los restaurantes anuncian más opciones para comensales solitarios, indicadores de cómo se están adaptando los mercados a estos hábitos.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4715/live/6ec7a880-ea5e-11f1-99b6-a35a62fa4264.png\" alt=\"Una mujer disfruta sola de un plato gourmet, reflejando el crecimiento del comer en solitario como ritual de autocuidado.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Una mujer disfruta sola de un plato gourmet, reflejando el crecimiento del comer en solitario como ritual de autocuidado.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los artículos de izquierda no aparecen en la muestra proporcionada; por lo tanto, no hay énfasis de medios progresistas sobre este tema.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios neutrales describen cómo cenar solo se ha convertido en una práctica de autocuidado y cómo los restaurantes están adaptando sus menús y espacios para atender a comensales individuales. Se citan ejemplos de establecimientos que ofrecen experiencias personalizadas para una sola persona. También se menciona el impacto económico positivo para el sector al atraer a clientes que antes evitaban salir solos.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los artículos de derecha no están presentes en los materiales suministrados; en consecuencia, no se observan enfoques conservadores sobre la cuestión.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el consumidor, este cambio significa que puede disfrutar de una comida de calidad sin compañía y sin sentir vergüenza, lo que amplía sus opciones de ocio. En los próximos días, conviene observar si más restaurantes lanzan menús exclusivos para una persona y si aumentan las reservas individuales en plataformas de reserva.</p>"
         },
         {
           "id": "topic-5",
-          "headline": "Investigaciones revelan fraudes, tensiones energéticas y controversias políticas en varios frentes",
-          "summary": "Una red de estafadores de servicios domésticos afecta a miles de hogares, mientras la Agencia Internacional de Energía señala que la transición eléctrica avanza a pesar del colapso de las negociaciones climáticas. Además, el Reino Unido pacta una cuota de participación en la UE, los aranceles de Trump pierden fuerza y Musk y SpaceX donan acciones a cuentas vinculadas al expresidente, mostrando la complejidad de los retos actuales.",
+          "headline": "Redes de fontaneros y electricistas estafaron a clientes con facturas exorbitantes",
+          "summary": "Un esquema organizado infló los costos de servicios domésticos, generando pérdidas de miles de euros para los afectados. Las autoridades están investigando la magnitud del fraude, que expone debilidades en la supervisión de los contratistas.",
           "tags": [
             "#Fraude",
-            "#Clima",
-            "#Política"
+            "#Servicios",
+            "#Estafa"
           ],
           "source_ids": [
-            5,
-            8,
-            9,
-            11,
-            12
+            8
           ],
           "sources": [
-            {
-              "source": "Left (NYT Business)",
-              "title": "Climate Talks Imploded, but the ‘Age of Electricity’ Rolls On, Energy Chief Says",
-              "url": "https://www.nytimes.com/2026/11/27/business/fatih-birol-iea-cop31-electrification.html"
-            },
             {
               "source": "Neutral (BBC Business)",
               "title": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
               "url": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "Neutral (BBC Business)",
-              "title": "UK to pay 'participation' fee to deliver EU deals",
-              "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "Neutral (BBC Business)",
-              "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
-              "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss"
-            },
-            {
-              "source": "Right (Fox Business)",
-              "title": "Elon Musk, SpaceX pledge major stock donations to active Trump Accounts",
-              "url": "https://www.foxbusiness.com/markets/elon-musk-spacex-pledge-major-stock-donations-active-trump-accounts"
             }
           ],
           "deepDive": {
-            "imageUrl": "https://static01.nyt.com/images/2026/11/27/multimedia/27biz-electric-future-kjtf/27biz-electric-future-kjtf-mediumSquareAt3X.jpg",
-            "imageSearchQuery": "energy transition fraud scandal UK EU participation Trump SpaceX donation",
-            "caption": "Mientras el mercado impulsa la nueva era eléctrica, fraudes en servicios domésticos y polémicas políticas sacuden al consumidor británico.",
-            "biasLeft": "Los medios progresistas resaltan que la transición limpia avanza gracias a la presión del mercado y la necesidad de seguridad energética, subrayando la urgencia climática y la oportunidad de crear empleos verdes.",
-            "biasNeutral": "Los medios centristas describen con detalle los fraudes de instaladores que estafan a miles, la cuota que el Reino Unido paga para mantener servicios de la UE y el impacto de los aranceles de Trump, centrados en cifras y documentos oficiales.",
-            "biasRight": "Los conservadores ponen el foco en la donación de acciones de SpaceX a cuentas Trump, presentándola como un gesto empresarial que apoya la libre iniciativa y la soberanía frente a regulaciones internacionales.",
-            "reflection": "Para el ciudadano de a pie, estas noticias significan facturas más altas, riesgo de ser estafado y posibles cambios en los precios de los productos importados. En los próximos días hay que vigilar si se aprueban nuevas medidas contra los fraudes y si los aranceles o la cuota a la UE repercuten en los costos de consumo."
+            "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3451/live/fbe22210-e9cb-11f1-99a1-253766e7ad8b.jpg",
+            "imageSearchQuery": "UK plumber electrician fraud overcharge",
+            "caption": "Una factura de £9,000 por una reparación que debía costar £250 revela la red de estafadores entre fontaneros y electricistas.",
+            "biasLeft": "Los medios de izquierda no cubren este tema en los artículos proporcionados.",
+            "biasNeutral": "La BBC relata que redes de fontaneros y electricistas están inflando facturas, pasando de trabajos modestos a cargos de miles de libras. Señala la carencia de supervisión y advierte a los clientes que soliciten presupuestos claros antes de aceptar trabajos. El informe también menciona que las víctimas a menudo desconocen sus derechos y terminan pagando sumas desproporcionadas.",
+            "biasRight": "Los medios de derecha no cubren este tema en los artículos proporcionados.",
+            "reflection": "Para el ciudadano medio, una factura inesperada de miles de libras puede desequilibrar su presupuesto y generar desconfianza en servicios esenciales. En los próximos días, preste atención a alertas de consumo, denuncias en organismos de protección al cliente y cualquier iniciativa gubernamental para reforzar la regulación del sector."
           },
-          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://static01.nyt.com/images/2026/11/27/multimedia/27biz-electric-future-kjtf/27biz-electric-future-kjtf-mediumSquareAt3X.jpg\" alt=\"Mientras el mercado impulsa la nueva era eléctrica, fraudes en servicios domésticos y polémicas políticas sacuden al consumidor británico.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Mientras el mercado impulsa la nueva era eléctrica, fraudes en servicios domésticos y polémicas políticas sacuden al consumidor británico.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios progresistas resaltan que la transición limpia avanza gracias a la presión del mercado y la necesidad de seguridad energética, subrayando la urgencia climática y la oportunidad de crear empleos verdes.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">Los medios centristas describen con detalle los fraudes de instaladores que estafan a miles, la cuota que el Reino Unido paga para mantener servicios de la UE y el impacto de los aranceles de Trump, centrados en cifras y documentos oficiales.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los conservadores ponen el foco en la donación de acciones de SpaceX a cuentas Trump, presentándola como un gesto empresarial que apoya la libre iniciativa y la soberanía frente a regulaciones internacionales.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el ciudadano de a pie, estas noticias significan facturas más altas, riesgo de ser estafado y posibles cambios en los precios de los productos importados. En los próximos días hay que vigilar si se aprueban nuevas medidas contra los fraudes y si los aranceles o la cuota a la UE repercuten en los costos de consumo.</p>"
+          "deepDiveHtml": "<div class=\"hero-container\">\n  <img src=\"https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3451/live/fbe22210-e9cb-11f1-99a1-253766e7ad8b.jpg\" alt=\"Una factura de £9,000 por una reparación que debía costar £250 revela la red de estafadores entre fontaneros y electricistas.\" class=\"hero-image\" />\n  <div class=\"hero-caption\">Una factura de £9,000 por una reparación que debía costar £250 revela la red de estafadores entre fontaneros y electricistas.</div>\n</div>\n<h2>Cómo lo cuenta cada medio</h2>\n<div class=\"bias-container\">\n  <div class=\"bias-box bias-box-left\">\n    <div class=\"bias-label\">Enfoque Progresista</div>\n    <div class=\"bias-content\">Los medios de izquierda no cubren este tema en los artículos proporcionados.</div>\n  </div>\n  <div class=\"bias-box bias-box-neutral\">\n    <div class=\"bias-label\">Enfoque de Centro</div>\n    <div class=\"bias-content\">La BBC relata que redes de fontaneros y electricistas están inflando facturas, pasando de trabajos modestos a cargos de miles de libras. Señala la carencia de supervisión y advierte a los clientes que soliciten presupuestos claros antes de aceptar trabajos. El informe también menciona que las víctimas a menudo desconocen sus derechos y terminan pagando sumas desproporcionadas.</div>\n  </div>\n  <div class=\"bias-box bias-box-right\">\n    <div class=\"bias-label\">Enfoque Conservador</div>\n    <div class=\"bias-content\">Los medios de derecha no cubren este tema en los artículos proporcionados.</div>\n  </div>\n</div>\n<h2>Por qué importa realmente</h2>\n<p>Para el ciudadano medio, una factura inesperada de miles de libras puede desequilibrar su presupuesto y generar desconfianza en servicios esenciales. En los próximos días, preste atención a alertas de consumo, denuncias en organismos de protección al cliente y cualquier iniciativa gubernamental para reforzar la regulación del sector.</p>"
         }
       ],
       "rawCount": 15
